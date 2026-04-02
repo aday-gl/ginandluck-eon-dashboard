@@ -1,0 +1,344 @@
+{
+  "report_date": "April 1, 2026",
+  "iso_date": "2026-04-01",
+  "day_of_week": "Wednesday",
+  "generated_at": "2026-04-02 08:02",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 1799.0,
+      "net_sales": 1739.0,
+      "food_sales": 254.0,
+      "beverage_sales": 1485.0,
+      "event_sales": 0,
+      "comps": 55.2,
+      "comp_pct": 3.17,
+      "guest_count": 52,
+      "guest_check_avg": 30.13,
+      "mod": "KG / MKZ",
+      "weather": "High 83\u00b0, Low 61\u00b0",
+      "notes_summary": "Quiet Wednesday at Close Company Atlanta. Kickball crew did not show. Wine shop next door had an event; guests trickled in for to-go drinks late. BOH iCombi back up and running. Late-night straggler rush after 9pm.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Woodford Rye",
+        "Angel's Envy",
+        "Maker's Mark 46 & Cask Strength",
+        "High Noon (low)"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "Missed target by $60 (-3.3%) \u2014 52 guests, avg check $30.13 on a slow Wednesday"
+        },
+        {
+          "type": "info",
+          "text": "BOH iCombi back up & running \u2014 team encouraged to lean into food suggestions"
+        },
+        {
+          "type": "info",
+          "text": "Wine shop neighbor event drove late to-go traffic after 9pm"
+        },
+        {
+          "type": "info",
+          "text": "86'd: Woodford Rye, Angel's Envy, Maker's Mark 46 & Cask Strength; High Noon low"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 2009.0,
+      "net_sales": 1631.0,
+      "food_sales": 62.0,
+      "beverage_sales": 1569.0,
+      "event_sales": 0,
+      "comps": 97.0,
+      "comp_pct": 5.95,
+      "guest_count": 40,
+      "guest_check_avg": 39.79,
+      "mod": "MD / KEY: JM",
+      "weather": "Beautiful outside",
+      "notes_summary": "Slow to start; nice pop at 10pm; industry crowd from 10:30pm until close. Beautiful weather likely kept guests outside. Straightforward Wednesday night.",
+      "maintenance_flags": [
+        "Well 2 sprayer needs repair"
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target by $378 (-18.8%) \u2014 beautiful weather likely drew guests outdoors"
+        },
+        {
+          "type": "flag",
+          "text": "Well 2 sprayer needs attention (ongoing maintenance item)"
+        },
+        {
+          "type": "info",
+          "text": "40 guests, avg check $39.79; industry pop at 10:30pm sustained through close"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 8500.0,
+      "net_sales": 6055.0,
+      "food_sales": 2715.0,
+      "beverage_sales": 3340.0,
+      "event_sales": 0,
+      "comps": 235.0,
+      "comp_pct": 3.88,
+      "guest_count": 156,
+      "guest_check_avg": 38.82,
+      "mod": "Justin & Shannon (PM) / Gabby & Shannon (AM)",
+      "weather": "Sunny & warm",
+      "notes_summary": "Very slow morning. Concert at Lucas Theatre at 7pm drove pre-show rush at 5:30pm and a post-show pop after 9:40pm. Sun Club light with 5pm peak. Industry guests including Mary Grace (ExploreGavannah) and Madeline (The Malin) in tonight. No 86s or complications.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar (AM)",
+          "sales": 215.0
+        },
+        {
+          "name": "Municipal Bar (PM)",
+          "sales": 5519.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 321.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target by $2,445 (-28.8%) \u2014 slow day overall; concert at Lucas drove episodic rushes"
+        },
+        {
+          "type": "info",
+          "text": "Concert at Lucas Theatre at 7pm; post-show groups came in after 9:40pm with late bar pop after 10"
+        },
+        {
+          "type": "info",
+          "text": "Sun Club: light activity all day, peak at 5pm ($321 total)"
+        },
+        {
+          "type": "info",
+          "text": "156 guests (11 AM, 145 PM); no 86s, no incidents, no complications"
+        }
+      ]
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 4250.0,
+      "net_sales": 3930.0,
+      "food_sales": 869.0,
+      "beverage_sales": 3061.0,
+      "event_sales": 0,
+      "comps": 85.6,
+      "comp_pct": 2.18,
+      "guest_count": 98,
+      "guest_check_avg": 39.22,
+      "mod": "Gigi & Tomo",
+      "weather": "Warm, AC working well",
+      "notes_summary": "Mellow April Fools night with light pops. Newly wed couple (married that morning) stopped in to toast. Great teamwork troubleshooting Toast POS behind the scenes. Zak returned. One event inquiry to follow up on. Floor repairs still pending \u2014 waiting on 2 contractor quotes.",
+      "maintenance_flags": [
+        "Floor repairs \u2014 waiting on 2 quotes"
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target by $320 (-7.5%) on a mellow Wednesday \u2014 98 guests, avg $39.22"
+        },
+        {
+          "type": "flag",
+          "text": "Floor repairs still pending \u2014 waiting on 2 contractor quotes"
+        },
+        {
+          "type": "info",
+          "text": "Zak returned; newly wed couple stopped in to toast their morning wedding"
+        },
+        {
+          "type": "info",
+          "text": "Event inquiry to lock in; Toast POS troubleshooting completed smoothly"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 8421.5,
+      "net_sales": 8635.09,
+      "food_sales": 2117.4,
+      "beverage_sales": 6517.69,
+      "event_sales": 6038.0,
+      "comps": 255.56,
+      "comp_pct": 2.96,
+      "guest_count": 180,
+      "guest_check_avg": 47.97,
+      "mod": "Kira & Lucas (PM) / Maggie & Josh (AM)",
+      "weather": "Cold and rainy",
+      "notes_summary": "Slow regular service due to cold/rain, but two strong events boosted total revenue to $14,673. TurnCommerce group meeting (28 guests, 9am\u20135pm, Vauxhall). Rocky Mountain Sales cocktail event (25+ guests, 3\u20135pm, Suite 6A). D&C bar saw pops at 3pm, 7pm, and 8:30pm.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM (Coffee)",
+          "sales": 902.09
+        },
+        {
+          "name": "D&C Bar (PM)",
+          "sales": 7733.0
+        },
+        {
+          "name": "Events",
+          "sales": 6038.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "Beat base target by $214 (+2.5%); total revenue $14,673 including two events"
+        },
+        {
+          "type": "info",
+          "text": "Event 1: TurnCommerce meeting (28 guests, Vauxhall, 9am\u20135pm); Event 2: Rocky Mountain Sales cocktail event (25+ guests, Suite 6A, 3\u20135pm)"
+        },
+        {
+          "type": "info",
+          "text": "Cold & rainy suppressed walk-in traffic; 180 Tock guests; comp rate 2.96%"
+        },
+        {
+          "type": "info",
+          "text": "Hotel guest Adam: came for one drink, stayed for dinner, went out \u2014 then came back. New D&C fan acquired"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 3433.0,
+      "net_sales": 3786.0,
+      "food_sales": 187.0,
+      "beverage_sales": 3436.0,
+      "event_sales": 0,
+      "comps": 93.94,
+      "comp_pct": 2.48,
+      "guest_count": 110,
+      "guest_check_avg": 34.0,
+      "mod": "Cara & Steves",
+      "weather": "Warm",
+      "notes_summary": "Slow consistent build with 8\u20139:30pm reservation wave creating a brief waitlist. Food sales notably lower than usual ($187) \u2014 attributed to statistical outlier, not a menu issue. Membership program starting to gain NYC traction. D&C LA member Jamal Lacour visited.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Beat target by $353 (+10.3%) \u2014 110 guests, avg check $34 on a warm Wednesday"
+        },
+        {
+          "type": "info",
+          "text": "Food sales lower than usual ($187 vs typical); MOD attributes to statistical outlier \u2014 no mega checks, all solo guests or small tables"
+        },
+        {
+          "type": "info",
+          "text": "D&C LA Member Jamal Lacour visited; regulars Braxton and Fitore in"
+        },
+        {
+          "type": "info",
+          "text": "Membership program starting to percolate to NYC \u2014 6 solos, zero large parties"
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "4/1/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 5115.0,
+      "net_sales": 2117.0,
+      "food_sales": 165.0,
+      "beverage_sales": 1952.0,
+      "event_sales": 0,
+      "comps": 0.0,
+      "comp_pct": 0.0,
+      "guest_count": 57,
+      "guest_check_avg": 34.14,
+      "mod": "Cory / Alex",
+      "weather": "Hot and rainy",
+      "notes_summary": "Slow training night with multiple new staff members. New staff: Sasha (bar back), Savannah (door), new Alex (service rounds). Deep cleaned office and prepped ice machines for AM service. Garden closed. Kitchen called at 10pm; all guests out by 11:30pm.",
+      "maintenance_flags": [
+        "HOT WATER HEATER dumping all hot water down drain \u2014 urgent service needed",
+        "2nd bathroom sink loose, fixtures need realignment",
+        "Server water tower loose to marble, needs recaulking"
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "urgent",
+          "text": "\ud83d\udea8 Hot water heater dumping all hot water down the drain \u2014 urgent repair needed ASAP (ice machines also scheduled for AM service tomorrow)"
+        },
+        {
+          "type": "flag",
+          "text": "Missed target by $2,998 (-58.6%) \u2014 intentional training night with reduced operational capacity"
+        },
+        {
+          "type": "flag",
+          "text": "2nd bathroom sink loose & needs realignment; server water tower needs recaulking"
+        },
+        {
+          "type": "info",
+          "text": "57 guests (32 walk-ins, 25 resos); training night for new staff \u2014 Sasha, Savannah & new Alex onboarded"
+        }
+      ]
+    }
+  ]
+}

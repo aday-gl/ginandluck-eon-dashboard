@@ -1,0 +1,220 @@
+{
+  "report_date": "February 07, 2026",
+  "iso_date": "2026-02-07",
+  "day_of_week": "Saturday",
+  "generated_at": "2026-04-01 18:08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2/7/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 7754.0,
+      "net_sales": 8146.0,
+      "food_sales": 440.0,
+      "beverage_sales": 7706.0,
+      "event_sales": 0.0,
+      "comps": 71.5,
+      "comp_pct": 0.88,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "KG // JK Key",
+      "weather": "Sunny with highs in the 50s and lows around 30.",
+      "notes_summary": "Steady as she goes at Close Company ATL on this particular night.  Guest flow stayed steady throughout the early portions of the evening and remained that way through the late night as well. We got se",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $8,146 vs $7,754 (+5.1%)"
+        },
+        {
+          "type": "info",
+          "text": "Steady as she goes at Close Company ATL on this particular night."
+        },
+        {
+          "type": "info",
+          "text": "Guest flow stayed steady throughout the early portions of the evening and remained that way through the late night\u2026"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "02/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 10808.0,
+      "net_sales": 19558.0,
+      "food_sales": 576.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 78.4,
+      "comp_pct": 0.4,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Chilly, windy",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 High Life"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $19,558 vs $10,808 target (+81.0%)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 High Life"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "02/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 16663.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 268.0,
+      "comp_pct": 1.61,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Cool &amp; Sunny",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "02/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 12500.0,
+      "net_sales": 12971.0,
+      "food_sales": 2041.0,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 252.0,
+      "comp_pct": 1.94,
+      "guest_count": 408,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "hot! beautiful day",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "$12,971 net sales (+3.8% vs $12,500 target)"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "02/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 16154.6,
+      "net_sales": 13704.22,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 841.94,
+      "comp_pct": 6.14,
+      "guest_count": 395,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Really beautiful day followed by a beautiful night; got a little chilly as the night progressed",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $13,704 vs $16,155 (-15.2%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "02/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 12750.0,
+      "net_sales": 9167.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 160.0,
+      "comp_pct": 1.7,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Josh / Cory",
+      "weather": "Freezing",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $9,167 vs $12,750 (-28.1%)"
+        }
+      ]
+    }
+  ]
+}

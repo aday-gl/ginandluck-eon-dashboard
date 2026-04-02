@@ -1,0 +1,223 @@
+{
+  "report_date": "January 18, 2026",
+  "iso_date": "2026-01-18",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-01 17:16",
+  "venues": [
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "2026-01-18",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 12009.0,
+      "food_sales": 4230.0,
+      "beverage_sales": 7779.0,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Very rainy and cold",
+      "notes_summary": "Another decently busy happy hour with the restaurant filling up again at 4:30. A short lull in service between 5 and 6, and then the restaurant was busy from 6 until 8. Milana played a huge help in su",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Another decently busy happy hour with the restaurant filling up again at 4:30."
+        },
+        {
+          "type": "win",
+          "text": "A short lull in service between 5 and 6, and then the restaurant was busy from 6 until 8."
+        },
+        {
+          "type": "info",
+          "text": "Milana played a huge help in su"
+        }
+      ]
+    },
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2026-01-18",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "01/18/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 1425.0,
+      "net_sales": 1976.0,
+      "food_sales": 92.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 106.5,
+      "comp_pct": 5.3,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Windy, Cold",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 Banana Cream Pie",
+        "it's getting re-made"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $1,976 vs $1,425 target (+38.7%)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 Banana Cream Pie, it's getting re-made"
+        }
+      ]
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "01/18/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 6931.0,
+      "net_sales": 7085.0,
+      "food_sales": 1254.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 125.0,
+      "comp_pct": 1.76,
+      "guest_count": 195,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "warm!!",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 trout roe",
+        "mint"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "86'd: 86 trout roe, mint"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "01/18/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 9008.0,
+      "net_sales": 10726.49,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 385.49,
+      "comp_pct": 3.59,
+      "guest_count": 287,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "cold with late night snow!",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $10,726 vs $9,008 (+19.1%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village / NY",
+      "color": "#E87A7A",
+      "date_reported": "2026-01-18",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "01/18/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 1833.1,
+      "net_sales": 4442.7,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 14.7,
+      "comp_pct": 0.3,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Josh",
+      "weather": "Cold/ Light Snow",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $4,443 vs $1,833 target (+142.4%)"
+        }
+      ]
+    }
+  ]
+}

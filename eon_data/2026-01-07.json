@@ -1,0 +1,222 @@
+{
+  "report_date": "January 07, 2026",
+  "iso_date": "2026-01-07",
+  "day_of_week": "Wednesday",
+  "generated_at": "2026-04-01 18:08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "1/7/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 3605.0,
+      "net_sales": 821.0,
+      "food_sales": 85.0,
+      "beverage_sales": 736.0,
+      "event_sales": 0.0,
+      "comps": 17.2,
+      "comp_pct": 2.1,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Mkz",
+      "weather": "High 69 Low 52",
+      "notes_summary": "Another Wednesday at Close Company in the books! It was busier than yesterday as expected with this great weather. Bar team spent the start of the shift taking advantage of the down time by familiariz",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $821 vs $3,605 (-77.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Another Wednesday at Close Company in the books!"
+        },
+        {
+          "type": "info",
+          "text": "It was busier than yesterday as expected with this great weather."
+        },
+        {
+          "type": "urgent",
+          "text": "Bar team spent the start of the shift taking advantage of the down time by familiariz"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "01/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 3079.0,
+      "net_sales": 1499.0,
+      "food_sales": 117.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 42.05,
+      "comp_pct": 2.8,
+      "guest_count": 46,
+      "guest_check_avg": 32.6,
+      "mod": null,
+      "weather": "Warm, partly cloudy.",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86: French Onion"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $1,499 vs $3,079 (-51.3%)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86: French Onion"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "01/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 6902.0,
+      "net_sales": 4301.0,
+      "food_sales": 892.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 0.0,
+      "comp_pct": null,
+      "guest_count": 124,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "chilly, no rain",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $4,301 vs $6,902 (-37.7%)"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "01/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 4548.01,
+      "net_sales": 6070.83,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 401.5,
+      "comp_pct": 7.44,
+      "guest_count": 143,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $6,071 vs $4,548 target (+33.5%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "01/07/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 2311.0,
+      "net_sales": 2418.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 0.0,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Cory",
+      "weather": "Warm",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "$2,418 net sales (+4.6% vs $2,311 target)"
+        }
+      ]
+    }
+  ]
+}

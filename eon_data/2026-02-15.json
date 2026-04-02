@@ -1,0 +1,213 @@
+{
+  "report_date": "February 15, 2026",
+  "iso_date": "2026-02-15",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-01T18:43:07.986851",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2026-02-14",
+      "date_note": "",
+      "missing": false,
+      "target": 6739.0,
+      "net_sales": 9114.0,
+      "food_sales": 369.0,
+      "beverage_sales": 8745.0,
+      "event_sales": 0.0,
+      "comps": 109.9,
+      "comp_pct": 1.21,
+      "guest_count": 281,
+      "guest_check_avg": null,
+      "mod": "KG // JK Key",
+      "weather": "Cloudy and mild with highs in the low 60s and lows in the 40s.",
+      "notes_summary": "Our first Valentine's Day at Close Company ATL started fast and furious at open. High volume right from the get-go and our space was full within 30 mins.",
+      "maintenance_flags": [
+        "Water station spout by well 200 is a bit loose"
+      ],
+      "eightysixed": [
+        "86 First Crush Cooler",
+        "High Noon",
+        "Mellow Corn",
+        "Low Tito's",
+        "White Wine"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Water station spout by well 200 is a bit loose"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $9,114 vs $6,739 target (+35.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Our first Valentine's Day at Close Company ATL started fast and furious at open."
+        },
+        {
+          "type": "info",
+          "text": "High volume right from the get-go and our space was full within 30 mins."
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 First Crush Cooler, High Noon, Mellow Corn, Low Tito's +1 more"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "2026-02-14",
+      "date_note": "",
+      "missing": false,
+      "target": 18457.07,
+      "net_sales": 16695.96,
+      "food_sales": 3877.85,
+      "beverage_sales": 12818.109999999999,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Nice, crisp, clear night",
+      "notes_summary": "",
+      "maintenance_flags": [
+        "Various freezers seem to be at not ideal temperature"
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Various freezers seem to be at not ideal temperature"
+        },
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $16,696 vs $18,457 (-9.5%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C EV",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "report_date": "March 31, 2026",
+  "iso_date": "2026-03-31",
+  "day_of_week": "Tuesday",
+  "generated_at": "2026-04-01T18:43:08.034299",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2026-03-30",
+      "date_note": "",
+      "missing": false,
+      "target": 985.0,
+      "net_sales": 4968.0,
+      "food_sales": 43.0,
+      "beverage_sales": 4925.0,
+      "event_sales": 0.0,
+      "comps": 56.3,
+      "comp_pct": 1.13,
+      "guest_count": 108,
+      "guest_check_avg": null,
+      "mod": "MKZ",
+      "weather": "Sunny and 75",
+      "notes_summary": "MKZ and empirical crew crushed bartenders day off event. We had a pop at the start a lull in the middle and ended on a high note.",
+      "maintenance_flags": [
+        "Combi oven!"
+      ],
+      "eightysixed": [
+        "Aperol"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Combi oven!"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $4,968 vs $985 target (+404.4%)"
+        },
+        {
+          "type": "win",
+          "text": "MKZ and empirical crew crushed bartenders day off event."
+        },
+        {
+          "type": "info",
+          "text": "We had a pop at the start a lull in the middle and ended on a high note."
+        },
+        {
+          "type": "info",
+          "text": "86'd: Aperol"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "2026-03-30",
+      "date_note": "",
+      "missing": false,
+      "target": 6027.0,
+      "net_sales": 5307.25,
+      "food_sales": 1542.8,
+      "beverage_sales": 3764.45,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "",
+      "maintenance_flags": [
+        "Dishwasher issues- put into Intelity this morning."
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Dishwasher issues- put into Intelity this morning."
+        },
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $5,307 vs $6,027 (-11.9%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C EV",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    }
+  ]
+}

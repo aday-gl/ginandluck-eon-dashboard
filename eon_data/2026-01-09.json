@@ -1,0 +1,211 @@
+{
+  "report_date": "January 09, 2026",
+  "iso_date": "2026-01-09",
+  "day_of_week": "Friday",
+  "generated_at": "2026-04-01 18:08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "1/9/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 8136.0,
+      "net_sales": 4194.0,
+      "food_sales": 320.0,
+      "beverage_sales": 3874.0,
+      "event_sales": 0.0,
+      "comps": 194.6,
+      "comp_pct": 4.64,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "MKZ/ KG",
+      "weather": "High 69 / Low 60",
+      "notes_summary": "An awesome FriYAY at Close Company today! Some rainy weather but we still had a good amount of guest push through. We had a slow flow of guest coming in when we opened the doors. Let\u2019s take advantage ",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $4,194 vs $8,136 (-48.5%)"
+        },
+        {
+          "type": "info",
+          "text": "An awesome FriYAY at Close Company today!"
+        },
+        {
+          "type": "info",
+          "text": "Some rainy weather but we still had a good amount of guest push through."
+        },
+        {
+          "type": "info",
+          "text": "Let\u2019s take advantage"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "01/09/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 10532.0,
+      "net_sales": 13242.0,
+      "food_sales": 177.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 84.88,
+      "comp_pct": 0.64,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "warm day to start, slightly chilly",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $13,242 vs $10,532 target (+25.7%)"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "01/09/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 11334.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 162.0,
+      "comp_pct": 1.43,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Warm &amp; Sunny",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "01/09/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 11442.0,
+      "net_sales": 10325.0,
+      "food_sales": 1684.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 162.32,
+      "comp_pct": 1.57,
+      "guest_count": 289,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "so so cold for the Angelenos in the 40s",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 skewers",
+        "trout roe"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $10,325 vs $11,442 (-9.8%)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 skewers, trout roe"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    }
+  ]
+}

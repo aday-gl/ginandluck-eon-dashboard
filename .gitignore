@@ -1,0 +1,4 @@
+setup_github.sh
+.DS_Store
+__pycache__/
+*.pyc

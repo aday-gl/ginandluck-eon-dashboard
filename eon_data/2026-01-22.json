@@ -1,0 +1,225 @@
+{
+  "report_date": "January 22, 2026",
+  "iso_date": "2026-01-22",
+  "day_of_week": "Thursday",
+  "generated_at": "2026-04-01 18:08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "1/22/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 4347.0,
+      "net_sales": 1819.0,
+      "food_sales": 152.0,
+      "beverage_sales": 1667.0,
+      "event_sales": 0.0,
+      "comps": 50.8,
+      "comp_pct": 2.79,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "MKZ // KG // JK Key",
+      "weather": "Light rain with a high of 50  and low 40s overnight.",
+      "notes_summary": "Very mellow start to a Thursday at Close Company ATL but business picked up later in the evening! Opening bartender was cut shortly after the closer arrived.  Mid bartender was cut around 8pm.  Key an",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $1,819 vs $4,347 (-58.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Very mellow start to a Thursday at Close Company ATL but business picked up later in the evening!"
+        },
+        {
+          "type": "info",
+          "text": "Opening bartender was cut shortly after the closer arrived."
+        },
+        {
+          "type": "info",
+          "text": "Mid bartender was cut around 8pm."
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "01/22/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 3401.0,
+      "net_sales": 2610.0,
+      "food_sales": 96.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 16.59,
+      "comp_pct": 0.63,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "COOOLD",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "low Mr. Black",
+        "majority of product is in batch."
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $2,610 vs $3,401 (-23.3%)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: low Mr. Black, majority of product is in batch."
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "01/22/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 5147.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 110.0,
+      "comp_pct": 2.14,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Sunny and warm",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "01/22/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 5355.0,
+      "net_sales": 14770.0,
+      "food_sales": 4073.0,
+      "beverage_sales": null,
+      "event_sales": 12560.0,
+      "comps": 74.0,
+      "comp_pct": 0.5,
+      "guest_count": 75,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "light drizzle",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $14,770 vs $5,355 target (+175.8%)"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "01/22/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 7116.95,
+      "net_sales": 10780.12,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 221.19,
+      "comp_pct": 2.05,
+      "guest_count": 300,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Finally some January weather that feels like January. Pretty chilly out tonight! But a clear, beautiful evening, nonetheless.",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $10,780 vs $7,117 target (+51.5%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "01/22/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 3080.0,
+      "net_sales": 4829.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 40.0,
+      "comp_pct": 0.8,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Jamal / Cory",
+      "weather": "Warm",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $4,829 vs $3,080 target (+56.8%)"
+        }
+      ]
+    }
+  ]
+}

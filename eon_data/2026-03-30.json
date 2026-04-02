@@ -1,0 +1,314 @@
+{
+  "report_date": "March 30, 2026",
+  "iso_date": "2026-03-30",
+  "day_of_week": "Monday",
+  "generated_at": "2026-04-01 19:03",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "3/30/2026",
+      "missing": false,
+      "target": 985,
+      "net_sales": 4968,
+      "food_sales": 43,
+      "beverage_sales": 4925,
+      "event_sales": 0,
+      "comps": 56.3,
+      "comp_pct": 1.1,
+      "guest_count": 108,
+      "guest_check_avg": 46.0,
+      "mod": "MKZ",
+      "weather": "Sunny, 75\u00b0",
+      "notes_summary": "Bartenders Day Off with Empirical crew \u2014 strong event, great team energy and incremental revenue.",
+      "maintenance_flags": [
+        "Combi oven down \u2014 Rational helpdesk tech reset required"
+      ],
+      "eightysixed": [
+        "Aperol"
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Bartenders Day Off event drove strong incremental revenue and team morale"
+        },
+        {
+          "type": "urgent",
+          "text": "Combi oven down \u2014 requires Rational tech manual reset; local company contacted"
+        },
+        {
+          "type": "info",
+          "text": "Aperol 86'd"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "3/30/2026",
+      "missing": false,
+      "target": 979,
+      "net_sales": 934,
+      "food_sales": 53,
+      "beverage_sales": 881,
+      "event_sales": 0,
+      "comps": 145,
+      "comp_pct": 15.5,
+      "guest_count": 30,
+      "guest_check_avg": 31.0,
+      "mod": "KE / Tay",
+      "weather": "Mild, nice",
+      "notes_summary": "Slower Monday. ~1/3 of sales in final 2.5 hrs. Industry-heavy comp night with a memorable hospitality moment.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Cucumbers",
+        "Totchos"
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Comps at 15.5% \u2014 higher than typical Monday (industry guests + food gift)"
+        },
+        {
+          "type": "win",
+          "text": "First-ever martini experience for a 68-year-old guest \u2014 memorable moment"
+        },
+        {
+          "type": "info",
+          "text": "86'd: Cucumbers, Totchos"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "3/30/2026",
+      "missing": false,
+      "target": 6000,
+      "net_sales": 5929,
+      "food_sales": 2265,
+      "beverage_sales": 3664,
+      "event_sales": 62,
+      "comps": 132,
+      "comp_pct": 2.2,
+      "guest_count": 120,
+      "guest_check_avg": null,
+      "mod": "James & Karim (eve)",
+      "weather": "Beautiful, great weather",
+      "notes_summary": "6pm hour completely full. Sun Club generating evening activity. Team executing as a dialed-in machine.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 843
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4626
+        },
+        {
+          "name": "Sun Club",
+          "sales": 460
+        },
+        {
+          "name": "Hot Eye (closed)",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Restaurant completely full at 6pm \u2014 walk-in demand strong"
+        },
+        {
+          "type": "win",
+          "text": "Team executing seamlessly; minimal corrections needed across the board"
+        },
+        {
+          "type": "info",
+          "text": "Sun Club evening activity growing \u2014 summer ramp-up beginning"
+        }
+      ]
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "3/30/2026",
+      "missing": false,
+      "target": 2701,
+      "net_sales": 4166,
+      "food_sales": 842,
+      "beverage_sales": 3324,
+      "event_sales": 0,
+      "comps": 137,
+      "comp_pct": 3.3,
+      "guest_count": 107,
+      "guest_check_avg": 38.94,
+      "mod": "Mikey P / Vic",
+      "weather": "Cool (no A/C in basement)",
+      "notes_summary": "First night on new POS \u2014 chaotic behind the scenes but guests unaware. A/C and pebble ice machine down. $1,435 in POS void test transactions does not reflect true comps.",
+      "maintenance_flags": [
+        "A/C not working in basement \u2014 tech scheduled by Matt",
+        "Pebble ice machine down \u2014 borrowing crushed ice from Manuela"
+      ],
+      "eightysixed": [
+        "Aval cider draft",
+        "Lamb burger"
+      ],
+      "highlights": [
+        {
+          "type": "urgent",
+          "text": "A/C down in basement \u2014 Matt has tech follow-up scheduled"
+        },
+        {
+          "type": "urgent",
+          "text": "Pebble ice machine down \u2014 operating on borrowed ice; icesurance notified"
+        },
+        {
+          "type": "flag",
+          "text": "New POS night 1 \u2014 $1,435 void tests inflate comp line; not actual guest comps"
+        },
+        {
+          "type": "win",
+          "text": "Guests unaware of POS chaos \u2014 excellent composure from team"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "3/30/2026",
+      "missing": false,
+      "target": 6027,
+      "net_sales": 5307,
+      "food_sales": 1543,
+      "beverage_sales": 3764,
+      "event_sales": 0,
+      "comps": 162.55,
+      "comp_pct": 3.06,
+      "guest_count": 120,
+      "guest_check_avg": 44.2,
+      "mod": "Kira (PM) / Carey (AM)",
+      "weather": "N/A",
+      "notes_summary": "Ran out of oysters early on Oyster Monday. Down one server. FKA Twigs concert at Mission drove several pops.",
+      "maintenance_flags": [
+        "Dishwasher issues \u2014 submitted to Intelity"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "D&C AM (Coffee)",
+          "sales": 719.14
+        },
+        {
+          "name": "D&C PM (Bar)",
+          "sales": 4588.11
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Ran out of oysters early on Oyster Monday \u2014 consider increasing par"
+        },
+        {
+          "type": "flag",
+          "text": "Down one server \u2014 staffing gap to address"
+        },
+        {
+          "type": "info",
+          "text": "Concert foot traffic (FKA Twigs @ Mission) drove pops at 4:15, 6:45, 7, 8:45pm"
+        },
+        {
+          "type": "info",
+          "text": "Dishwasher issues submitted to Intelity"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "date_reported": "3/30/2026",
+      "missing": false,
+      "target": 2775,
+      "net_sales": 3814,
+      "food_sales": 505,
+      "beverage_sales": 3206,
+      "event_sales": 0,
+      "comps": 87.66,
+      "comp_pct": 2.3,
+      "guest_count": 98,
+      "guest_check_avg": 39.0,
+      "mod": "Courtney & Arriel",
+      "weather": "Warm",
+      "notes_summary": "Slow open, healthy by 8pm. Sold out 69 oysters by 10pm. Top sellers: Buckhorn Exchange, Revenant, Root & Rye. Late-night thin after 11:30.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Sold out 69 oysters by 10pm \u2014 Monday oyster program building momentum"
+        },
+        {
+          "type": "win",
+          "text": "Guest Taylor in to celebrate engagement \u2014 memorable hospitality moment"
+        },
+        {
+          "type": "info",
+          "text": "Late-night traffic drops off after 11:30pm \u2014 opportunity to develop midnight+ audience"
+        }
+      ]
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "3/29/2026",
+      "date_note": "Most recent report is Sunday 3/29 \u2014 DC may not operate Mondays",
+      "missing": false,
+      "target": 4135.53,
+      "net_sales": 4145.14,
+      "food_sales": 698.5,
+      "beverage_sales": 3446.64,
+      "event_sales": 0,
+      "comps": 92.6,
+      "comp_pct": 2.2,
+      "guest_count": 73,
+      "guest_check_avg": 56.78,
+      "mod": "Khaleel",
+      "weather": "Sunny but chilly",
+      "notes_summary": "Two Garden events: Women's History Month pop-up + private event that grew from 40 to 74 guests. Short-staffed but strong execution.",
+      "maintenance_flags": [
+        "Hot water heaters \u2014 parts ordered, awaiting status from John and Gregory"
+      ],
+      "eightysixed": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Private event overflowed to 74 guests (from 40) \u2014 group intends to rebook next year"
+        },
+        {
+          "type": "flag",
+          "text": "Staffing gap \u2014 down a barback for event nights"
+        },
+        {
+          "type": "urgent",
+          "text": "Hot water heater parts still pending \u2014 follow up with John and Gregory"
+        }
+      ]
+    }
+  ]
+}

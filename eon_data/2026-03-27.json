@@ -1,0 +1,238 @@
+{
+  "report_date": "March 27, 2026",
+  "iso_date": "2026-03-27",
+  "day_of_week": "Friday",
+  "generated_at": "2026-04-01T18:43:08.029045",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2026-03-26",
+      "date_note": "",
+      "missing": false,
+      "target": 2488.0,
+      "net_sales": 1113.0,
+      "food_sales": 172.0,
+      "beverage_sales": 941.0,
+      "event_sales": 0.0,
+      "comps": 66.9,
+      "comp_pct": 6.01,
+      "guest_count": 39,
+      "guest_check_avg": null,
+      "mod": "MKZ // KG // JK Key",
+      "weather": "Partly cloudy with highs in the high 70s and lows in the high 50s.",
+      "notes_summary": "Great weather day in ATL. Mellow start to the evening but we had some folks come in for Meal Deals and sold 8 tonight.",
+      "maintenance_flags": [
+        "Dump sink by Well 100 needs a new sink drain strainer."
+      ],
+      "eightysixed": [
+        "86 - Lairds",
+        "Laphoiag",
+        "Seasonal Beer",
+        "Low - Aperol"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Dump sink by Well 100 needs a new sink drain strainer."
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $1,113 vs $2,488 (-55.3%)"
+        },
+        {
+          "type": "info",
+          "text": "Great weather day in ATL."
+        },
+        {
+          "type": "info",
+          "text": "Mellow start to the evening but we had some folks come in for Meal Deals and sold 8 tonight."
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 - Lairds, Laphoiag, Seasonal Beer, Low - Aperol"
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "3/27/2026",
+      "date_note": "Date field was entered as 4/27 in Typeform \u2014 corrected to 3/27 based on submission timestamp (Fri 3/28 05:55am) and Day of the Week field (Friday).",
+      "missing": false,
+      "target": 7302.0,
+      "net_sales": 10047.09,
+      "food_sales": 1016.84,
+      "beverage_sales": 9030.25,
+      "event_sales": 0.0,
+      "comps": 118.94,
+      "comp_pct": 1.18,
+      "guest_count": 211,
+      "guest_check_avg": 39.56,
+      "mod": "Kevin / Josh",
+      "weather": "Chilly / rain",
+      "notes_summary": "Slow start with two-top reservations, long lull until ~10:30pm then rush hit. New hire Ben C. first shift learning round building and POS. Built a waitlist around 10:15pm, last call 1:30am.",
+      "maintenance_flags": [
+        "Hot water heaters \u2014 follow-up needed",
+        "Second bathroom 86'd",
+        "CO2 tank leaking"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "D&C Marquee Bar",
+          "sales": 8564.2
+        },
+        {
+          "name": "Garden",
+          "sales": 2624.25
+        }
+      ],
+      "highlights": [
+        {
+          "type": "urgent",
+          "text": "Hot water heaters \u2014 follow-up needed"
+        },
+        {
+          "type": "urgent",
+          "text": "Second bathroom 86'd"
+        },
+        {
+          "type": "urgent",
+          "text": "CO2 tank leaking"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $10,047 vs $7,302 target (+37.6%)"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "2026-03-26",
+      "date_note": "",
+      "missing": false,
+      "target": 9004.0,
+      "net_sales": 10738.32,
+      "food_sales": 2322.4,
+      "beverage_sales": 8415.92,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "90 in March - cold at night?",
+      "notes_summary": "",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $10,738 vs $9,004 (+19.3%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C EV",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    }
+  ]
+}

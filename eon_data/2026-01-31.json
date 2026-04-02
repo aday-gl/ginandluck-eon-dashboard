@@ -1,0 +1,226 @@
+{
+  "report_date": "January 31, 2026",
+  "iso_date": "2026-01-31",
+  "day_of_week": "Saturday",
+  "generated_at": "2026-04-01 18:08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "1/31/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 7920.0,
+      "net_sales": 6524.0,
+      "food_sales": 285.0,
+      "beverage_sales": 6239.0,
+      "event_sales": 0.0,
+      "comps": 46.1,
+      "comp_pct": 0.71,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "KG // JK Key",
+      "weather": "Winter storm rolled through parts of Metro ATL and North Georgia for most of the day.  Highs in the 20s and lows in the teens with wind.",
+      "notes_summary": "Very cold, windy and snowy day to start for Close Company ATL.  As noted in pre shift notes, we were down a couple of staff members due to the weather. The evening started out on the mellow side.  Ope",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $6,524 vs $7,920 (-17.6%)"
+        },
+        {
+          "type": "info",
+          "text": "Very cold, windy and snowy day to start for Close Company ATL."
+        },
+        {
+          "type": "urgent",
+          "text": "As noted in pre shift notes, we were down a couple of staff members due to the weather."
+        },
+        {
+          "type": "info",
+          "text": "The evening started out on the mellow side."
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "01/31/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 10255.0,
+      "net_sales": 16487.0,
+      "food_sales": 464.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 36.5,
+      "comp_pct": 0.2,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "snowy",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 Drunken Banana"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $16,487 vs $10,255 target (+60.8%)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 Drunken Banana"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "01/31/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 10823.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 94.4,
+      "comp_pct": 0.87,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Cold and overcast, snow in the evening and into the night",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "01/31/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 12171.0,
+      "net_sales": 11924.0,
+      "food_sales": 2218.0,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 512.0,
+      "comp_pct": 4.29,
+      "guest_count": 384,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "hot! in the 80s",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 cheese plate"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "86'd: 86 cheese plate"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "01/31/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 17816.9,
+      "net_sales": 16550.68,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 4012.0,
+      "comps": 408.0,
+      "comp_pct": 2.47,
+      "guest_count": 411,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Crisp, clear evening.",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $16,551 vs $17,817 (-7.1%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "01/31/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 13392.0,
+      "net_sales": 9543.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 159.0,
+      "comp_pct": 1.6,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Josh / Cory",
+      "weather": "FREEZING",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $9,543 vs $13,392 (-28.7%)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "report_date": "January 15, 2026",
+  "iso_date": "2026-01-15",
+  "day_of_week": "Thursday",
+  "generated_at": "2026-04-01 18:08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "1/15/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 4008.0,
+      "net_sales": 2516.0,
+      "food_sales": 199.0,
+      "beverage_sales": 2317.0,
+      "event_sales": 0.0,
+      "comps": 44.92,
+      "comp_pct": 1.79,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "MKZ // KG // JK Key",
+      "weather": "Highs in the low 50s with lows in the 20s overnight.",
+      "notes_summary": "Chilly evening at Close Company ATL. We had a few work groups join us for Meal Deals to start off the night.  They lingered till just after 7pm or so.  We had a bit of a lull till 8:30/9pm when folks ",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $2,516 vs $4,008 (-37.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Chilly evening at Close Company ATL."
+        },
+        {
+          "type": "info",
+          "text": "We had a few work groups join us for Meal Deals to start off the night."
+        },
+        {
+          "type": "info",
+          "text": "They lingered till just after 7pm or so."
+        }
+      ]
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "01/15/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 2864.0,
+      "net_sales": 3152.0,
+      "food_sales": 190.0,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 15.4,
+      "comp_pct": 0.4,
+      "guest_count": 100,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Cold and bad!",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $3,152 vs $2,864 (+10.1%)"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "01/15/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 4678.0,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": 0.0,
+      "comps": 197.0,
+      "comp_pct": 4.21,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Sunny and cold!",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "01/15/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 4932.0,
+      "net_sales": 5787.0,
+      "food_sales": 1314.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 533.0,
+      "comp_pct": 9.21,
+      "guest_count": 167,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "warm 80 degree weather!",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [
+        "86 skewers"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $5,787 vs $4,932 (+17.3%)"
+        },
+        {
+          "type": "info",
+          "text": "Comps at 9.2% ($533)"
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 skewers"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "01/15/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 8380.2,
+      "net_sales": 10198.3,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 937.0,
+      "comp_pct": 9.19,
+      "guest_count": 290,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Another crisp, cool evening. A little chilly as the sun went down, but overall a beautiful night considering its Mid January.",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $10,198 vs $8,380 target (+21.7%)"
+        },
+        {
+          "type": "info",
+          "text": "Comps at 9.2% ($937)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    }
+  ]
+}

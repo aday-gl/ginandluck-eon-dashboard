@@ -1,0 +1,216 @@
+{
+  "report_date": "February 08, 2026",
+  "iso_date": "2026-02-08",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-01 17:16",
+  "venues": [
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "2026-02-08",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 4760.0,
+      "food_sales": 2319.0,
+      "beverage_sales": 2441.0,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Cool and sunny!",
+      "notes_summary": "Dinner shift was pretty sleepy due to the Super Bowl. We consistently had a few tables sat and a few guests at the bar for the entire shift until close. Not many diners, just folks having drinks.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "Dinner shift was pretty sleepy due to the Super Bowl."
+        },
+        {
+          "type": "info",
+          "text": "We consistently had a few tables sat and a few guests at the bar for the entire shift until close."
+        },
+        {
+          "type": "info",
+          "text": "Not many diners, just folks having drinks."
+        }
+      ]
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "2026-02-08",
+      "missing": false,
+      "target": 3811.0,
+      "net_sales": 3474.0,
+      "food_sales": 456.0,
+      "beverage_sales": 3018.0,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Gigi & Tomo",
+      "weather": "muy caliente with a side of Benito Bowl!!",
+      "notes_summary": "A lovely Sunday evening- kicked off our family meal with the best halftime show ever, viewed as a team on Edwin\\u2019s phone (LFG) then rang in the evening with Pete Rodriguez to keep up the vibes. Lo",
+      "maintenance_flags": [
+        "Jorge fixed all the gold pieces for SR wall and one of the gold reading lamps!! Plus a bunch of other projects &lt;3"
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Jorge fixed all the gold pieces for SR wall and one of the gold reading lamps!! Plus a bunch of other projects &lt;3"
+        },
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $3,474 vs $3,811 (-8.8%)"
+        },
+        {
+          "type": "info",
+          "text": "A lovely Sunday evening- kicked off our family meal with the best halftime show ever, viewed as a team on\u2026"
+        }
+      ]
+    },
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2026-02-08",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "2026-02-08",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "02/08/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 3490.0,
+      "net_sales": 3202.85,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 179.73,
+      "comp_pct": 5.61,
+      "guest_count": 66,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "NA (SUPERBOWL SUNDAY)",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $3,203 vs $3,490 (-8.2%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village / NY",
+      "color": "#E87A7A",
+      "date_reported": "2026-02-08",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "02/08/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 1109.55,
+      "net_sales": 1905.91,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 3.6,
+      "comp_pct": 0.19,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Alex/Jamal",
+      "weather": "Very cold and windy out, not much going on in the area",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $1,906 vs $1,110 target (+71.8%)"
+        }
+      ]
+    }
+  ]
+}

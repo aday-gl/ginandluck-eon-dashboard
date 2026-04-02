@@ -1,0 +1,223 @@
+{
+  "report_date": "February 01, 2026",
+  "iso_date": "2026-02-01",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-01 17:16",
+  "venues": [
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "2026-02-01",
+      "missing": false,
+      "target": 1402.0,
+      "net_sales": 564.0,
+      "food_sales": 67.0,
+      "beverage_sales": 497.0,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "KE, TY",
+      "weather": "Chilly!",
+      "notes_summary": "Very slow night. Charmers closed about 2 hrs early.\nThe guests were so awesome tonight. We had a handful of regulars in that we love to see. I love that Sunday is pretty much a guaranteed day for regu",
+      "maintenance_flags": [
+        "Kitchen Door Lock"
+      ],
+      "eightysixed": [
+        "86 red wine"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Kitchen Door Lock"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $564 vs $1,402 (-59.8%)"
+        },
+        {
+          "type": "info",
+          "text": "Charmers closed about 2 hrs early."
+        },
+        {
+          "type": "info",
+          "text": "The guests were so awesome tonight."
+        },
+        {
+          "type": "info",
+          "text": "86'd: 86 red wine"
+        }
+      ]
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "2026-02-01",
+      "missing": false,
+      "target": 0.0,
+      "net_sales": 5800.0,
+      "food_sales": 2154.0,
+      "beverage_sales": 3646.0,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Snow! But it melted throughout the day. It was cold and sunny.",
+      "notes_summary": "Two servers and a bartender did the job for most of the night. We started service with 6 covers, picked up a few walk-ins early on and a few couples for drinks toward the end of the night. Those who s",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "Two servers and a bartender did the job for most of the night."
+        },
+        {
+          "type": "info",
+          "text": "We started service with 6 covers, picked up a few walk-ins early on and a few couples for drinks toward the end of\u2026"
+        }
+      ]
+    },
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": "2026-02-01",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "02/01/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 3531.0,
+      "net_sales": 4100.0,
+      "food_sales": 994.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 104.64,
+      "comp_pct": 2.55,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "Warm weather had lots of people walking around",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $4,100 vs $3,531 (+16.1%)"
+        }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "02/01/2026",
+      "date_note": "",
+      "missing": false,
+      "target": 6319.08,
+      "net_sales": 8855.67,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 239.95,
+      "comp_pct": 2.71,
+      "guest_count": 171,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $8,856 vs $6,319 target (+40.1%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village / NY",
+      "color": "#E87A7A",
+      "date_reported": "2026-02-01",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": "02/01/2026",
+      "date_note": "",
+      "missing": false,
+      "target": null,
+      "net_sales": 2385.56,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": 18.0,
+      "comp_pct": 0.7,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Alex G",
+      "weather": "Cold",
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": []
+    }
+  ]
+}
