@@ -100,6 +100,25 @@ def build_mtd_series(history: dict):
 
     return dates, consolidated_actual, consolidated_target, venue_series
 
+def compute_monthly_budgets(history: dict) -> dict:
+    """
+    Scan all history entries and collect monthly_budget per venue per month.
+    Returns {YYYY-MM: {venue_id: budget_value}}
+    Only uses the first non-None monthly_budget found for each venue/month.
+    """
+    budgets = {}
+    for iso, day in sorted(history.items()):
+        ym = iso[:7]
+        for v in day.get("venues", []):
+            vid = v.get("id")
+            mb  = v.get("monthly_budget")
+            if vid and mb is not None:
+                if ym not in budgets:
+                    budgets[ym] = {}
+                if vid not in budgets[ym]:
+                    budgets[ym][vid] = mb
+    return budgets
+
 def label_date(iso: str) -> str:
     """'2026-03-30' → 'Mon 3/30'"""
     try:
@@ -143,6 +162,10 @@ def generate_html(today_data: dict, history: dict) -> str:
 
     # build JavaScript HISTORY object (full day data per date key)
     history_js = json.dumps(history, ensure_ascii=False)
+
+    # monthly budgets per venue: {YYYY-MM: {venue_id: value}}
+    monthly_budgets = compute_monthly_budgets(history)
+    monthly_budgets_js = json.dumps(monthly_budgets)
 
     # chart series JS
     chart_data_js = json.dumps({
@@ -237,7 +260,7 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 .sales-row{{display:grid;grid-template-columns:2fr 1.1fr 1.1fr;gap:8px}}
 .sbox{{background:#1C1F2A;border-radius:8px;padding:9px 11px}}
 .sbox-label{{font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#555;margin-bottom:3px}}
-.sbox-val{{font-size:20px;font-weight:700;color:#fff;line-height:1}}
+.sbox-val{{font-size:30px;font-weight:800;color:#fff;line-height:1;letter-spacing:-.5px}}
 .sbox-sm{{font-size:14px;font-weight:600;color:#C0C0C0;line-height:1}}
 .sbox-pct{{font-size:16px;font-weight:700;line-height:1;text-align:center}}
 .sbox-abs{{font-size:11px;color:#666;margin-top:2px;text-align:center}}
@@ -259,6 +282,18 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 .hls{{display:flex;flex-direction:column;gap:6px}}
 .hl{{display:flex;align-items:flex-start;gap:7px;padding:7px 9px;background:#1C1F2A;border-radius:6px;font-size:12px;color:#B0B0B0;line-height:1.4}}
 .hl-icon{{flex-shrink:0;font-size:12px}}
+
+/* PACE BAR */
+.pace-section{{background:#1C1F2A;border-radius:8px;padding:10px 12px}}
+.pace-meta{{display:flex;justify-content:space-between;align-items:flex-end;margin-bottom:8px;gap:8px}}
+.pace-stat{{min-width:0}}
+.pace-stat-label{{font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#555;margin-bottom:2px}}
+.pace-stat-val{{font-size:14px;font-weight:700;color:#fff;white-space:nowrap}}
+.pace-stat-val.budget{{color:#C8CAFF}}
+.pace-bar-track{{height:7px;background:#2A2D3A;border-radius:4px;overflow:hidden;margin-bottom:5px}}
+.pace-bar-fill{{height:100%;border-radius:4px;transition:width .3s ease}}
+.pace-footer{{display:flex;justify-content:space-between;font-size:10px;color:#555}}
+.pace-footer .pace-pct{{font-weight:700}}
 
 /* SPARKLINE */
 .spark-wrap{{height:60px;position:relative}}
@@ -403,11 +438,12 @@ body{{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;
 <!-- ════════════════════════════════════════════════════════ -->
 <script>
 // ── DATA ─────────────────────────────────────────────────────
-const HISTORY    = {history_js};
-const CHART_DATA = {chart_data_js};
-const AVAIL      = {avail_dates_js};  // sorted ISO dates
-const TODAY_ISO  = "{today_iso}";
-const VENUE_META = {json.dumps(VENUE_META)};
+const HISTORY         = {history_js};
+const CHART_DATA      = {chart_data_js};
+const AVAIL           = {avail_dates_js};  // sorted ISO dates
+const TODAY_ISO       = "{today_iso}";
+const VENUE_META      = {json.dumps(VENUE_META)};
+const MONTHLY_BUDGETS = {monthly_budgets_js};  // {{YYYY-MM: {{venue_id: budget}}}}
 
 // ── STATE ─────────────────────────────────────────────────────
 let currentISO  = AVAIL.length ? AVAIL[AVAIL.length - 1] : TODAY_ISO;
@@ -544,10 +580,34 @@ function renderDaily(day) {{
       </div>`;
       return;
     }}
-    const ns = v.net_sales, tg = v.target;
+    const ns = v.net_sales;
+    // Use r365_forecast if available, fall back to legacy target field
+    const tg = v.r365_forecast != null ? v.r365_forecast : (v.target || null);
     const vPct = fmtPct(ns, tg);
     const vCol = pctColor(ns, tg);
     const varAbs = (ns && tg) ? (ns - tg) : null;
+
+    // ── MTD Pace computation ──────────────────────────────────
+    const curYM      = currentISO.slice(0, 7);
+    const mtdDates   = AVAIL.filter(d => d.startsWith(curYM) && d <= currentISO);
+    let mtdActual = 0;
+    mtdDates.forEach(iso => {{
+      const dd = HISTORY[iso];
+      if (!dd) return;
+      const vv = (dd.venues || []).find(x => x.id === v.id);
+      if (vv && !vv.missing) mtdActual += (vv.net_sales || 0);
+    }});
+    const daysElapsed  = mtdDates.length || 1;
+    const ymParts      = curYM.split('-');
+    const daysInMonth  = new Date(parseInt(ymParts[0]), parseInt(ymParts[1]), 0).getDate();
+    const paceProj     = Math.round((mtdActual / daysElapsed) * daysInMonth);
+    const mb           = (MONTHLY_BUDGETS[curYM] || {{}})[v.id] || null;
+    const paceVsBudget = mb ? Math.round(paceProj / mb * 100) : null;
+    const paceBarWidth = mb ? Math.min(Math.round(paceProj / mb * 100), 100) : 0;
+    const paceColor    = paceVsBudget === null ? '#555'
+                         : paceVsBudget >= 100  ? '#5BC88A'
+                         : paceVsBudget >= 90   ? '#E8C45A'
+                         : '#E87A7A';
 
     // sparkline data for this venue (last 14 days)
     const vm = VENUE_META.find(x => x.id === v.id);
@@ -588,22 +648,46 @@ function renderDaily(day) {{
           <div class="sbox-val">${{fmtC(ns)}}</div>
         </div>
         <div class="sbox">
-          <div class="sbox-label">Target</div>
+          <div class="sbox-label">${{v.data_source === 'r365' ? 'R365 Forecast' : 'Daily Target'}}</div>
           <div class="sbox-sm">${{fmtC(tg)}}</div>
         </div>
         <div class="sbox" style="background:${{vCol}}18;border:1px solid ${{vCol}}33;text-align:center">
-          <div class="sbox-label">Variance</div>
+          <div class="sbox-label">vs Forecast</div>
           <div class="sbox-pct" style="color:${{vCol}}">${{vPct !== null ? (vPct > 0 ? '+' : '') + vPct + '%' : '—'}}</div>
           <div class="sbox-abs">${{varAbs !== null ? (varAbs >= 0 ? '+' : '') + fmtC(varAbs) : '—'}}</div>
         </div>
       </div>
+      ${{mb !== null ? `
+      <div class="pace-section">
+        <div class="pace-meta">
+          <div class="pace-stat">
+            <div class="pace-stat-label">MTD Actual</div>
+            <div class="pace-stat-val">${{Math.round(mtdActual).toLocaleString()}}</div>
+          </div>
+          <div class="pace-stat" style="text-align:center">
+            <div class="pace-stat-label">Projected Pace</div>
+            <div class="pace-stat-val" style="color:${{paceColor}}">${{paceProj.toLocaleString()}}</div>
+          </div>
+          <div class="pace-stat" style="text-align:right">
+            <div class="pace-stat-label">Monthly Budget</div>
+            <div class="pace-stat-val budget">${{Math.round(mb).toLocaleString()}}</div>
+          </div>
+        </div>
+        <div class="pace-bar-track">
+          <div class="pace-bar-fill" style="width:${{paceBarWidth}}%;background:${{paceColor}}"></div>
+        </div>
+        <div class="pace-footer">
+          <span>${{daysElapsed}} of ${{daysInMonth}} days elapsed</span>
+          <span class="pace-pct" style="color:${{paceColor}}">${{paceVsBudget !== null ? paceVsBudget + '% of budget pace' : 'no budget'}}</span>
+        </div>
+      </div>` : ''}}
       <div class="fin-grid">
         <div class="fin"><div class="fin-label">Food</div><div class="fin-val">${{fmtC(v.food_sales)}}</div></div>
         <div class="fin"><div class="fin-label">Beverage</div><div class="fin-val">${{fmtC(v.beverage_sales)}}</div></div>
         <div class="fin"><div class="fin-label">Events</div><div class="fin-val">${{fmtC(v.event_sales)}}</div></div>
         <div class="fin"><div class="fin-label">Comps</div><div class="fin-val">${{fmtC(v.comps)}}${{v.comp_pct ? ' (' + v.comp_pct + '%)' : ''}}</div></div>
-        <div class="fin"><div class="fin-label">Guests</div><div class="fin-val">${{v.guest_count||'—'}}</div></div>
-        <div class="fin"><div class="fin-label">Check Avg</div><div class="fin-val">${{fmtC(v.guest_check_avg)}}</div></div>
+        <div class="fin"><div class="fin-label">Guests</div><div class="fin-val">${{v.guests != null ? v.guests : (v.guest_count || '—')}}</div></div>
+        <div class="fin"><div class="fin-label">Check Avg</div><div class="fin-val">${{fmtC(v.check_avg != null ? v.check_avg : v.guest_check_avg)}}</div></div>
       </div>
       ${{subHtml}}
       <div class="ops-row">

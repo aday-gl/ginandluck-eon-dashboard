@@ -14,11 +14,11 @@
       "missing": false,
       "missing_reason": null,
       "target": 1799.0,
-      "net_sales": 1739.0,
+      "net_sales": 1615.0,
       "food_sales": 254.0,
       "beverage_sales": 1485.0,
       "event_sales": 0,
-      "comps": 55.2,
+      "comps": 17.0,
       "comp_pct": 3.17,
       "guest_count": 52,
       "guest_check_avg": 30.13,
@@ -50,7 +50,13 @@
           "type": "info",
           "text": "86'd: Woodford Rye, Angel's Envy, Maker's Mark 46 & Cask Strength; High Noon low"
         }
-      ]
+      ],
+      "r365_forecast": 1799.0,
+      "check_avg": 31.05,
+      "guests": 52,
+      "data_source": "r365",
+      "monthly_budget": 164865.15,
+      "full": "Close Company Atlanta"
     },
     {
       "id": "ccnsh",
@@ -62,7 +68,7 @@
       "missing": false,
       "missing_reason": null,
       "target": 2009.0,
-      "net_sales": 1631.0,
+      "net_sales": 1614.0,
       "food_sales": 62.0,
       "beverage_sales": 1569.0,
       "event_sales": 0,
@@ -91,7 +97,13 @@
           "type": "info",
           "text": "40 guests, avg check $39.79; industry pop at 10:30pm sustained through close"
         }
-      ]
+      ],
+      "r365_forecast": 2009.0,
+      "check_avg": 39.37,
+      "guests": 41,
+      "data_source": "r365",
+      "monthly_budget": 183221.89,
+      "full": "Close Company Nashville"
     },
     {
       "id": "mg",
@@ -151,7 +163,7 @@
     },
     {
       "id": "la",
-      "name": "D&C Los Angeles",
+      "name": "D&C LA",
       "full_name": "Death & Co Los Angeles",
       "color": "#C47DC0",
       "date_reported": "4/1/2026",
@@ -159,11 +171,11 @@
       "missing": false,
       "missing_reason": null,
       "target": 4250.0,
-      "net_sales": 3930.0,
+      "net_sales": -48.0,
       "food_sales": 869.0,
       "beverage_sales": 3061.0,
       "event_sales": 0,
-      "comps": 85.6,
+      "comps": 0.0,
       "comp_pct": 2.18,
       "guest_count": 98,
       "guest_check_avg": 39.22,
@@ -192,7 +204,13 @@
           "type": "info",
           "text": "Event inquiry to lock in; Toast POS troubleshooting completed smoothly"
         }
-      ]
+      ],
+      "r365_forecast": 4252.0,
+      "check_avg": -0.48,
+      "guests": 100,
+      "data_source": "r365",
+      "monthly_budget": 237908.8,
+      "full": "Death & Co LA"
     },
     {
       "id": "dvr",
@@ -204,11 +222,11 @@
       "missing": false,
       "missing_reason": null,
       "target": 8421.5,
-      "net_sales": 8635.09,
+      "net_sales": 8733.0,
       "food_sales": 2117.4,
       "beverage_sales": 6517.69,
       "event_sales": 6038.0,
-      "comps": 255.56,
+      "comps": 326.0,
       "comp_pct": 2.96,
       "guest_count": 180,
       "guest_check_avg": 47.97,
@@ -248,7 +266,13 @@
           "type": "info",
           "text": "Hotel guest Adam: came for one drink, stayed for dinner, went out \u2014 then came back. New D&C fan acquired"
         }
-      ]
+      ],
+      "r365_forecast": 8422.0,
+      "check_avg": 31.75,
+      "guests": 275,
+      "data_source": "r365",
+      "monthly_budget": 370650.65,
+      "full": "Death & Co Denver"
     },
     {
       "id": "ev",
@@ -260,11 +284,11 @@
       "missing": false,
       "missing_reason": null,
       "target": 3433.0,
-      "net_sales": 3786.0,
+      "net_sales": 3835.0,
       "food_sales": 187.0,
       "beverage_sales": 3436.0,
       "event_sales": 0,
-      "comps": 93.94,
+      "comps": 6.0,
       "comp_pct": 2.48,
       "guest_count": 110,
       "guest_check_avg": 34.0,
@@ -291,11 +315,17 @@
           "type": "info",
           "text": "Membership program starting to percolate to NYC \u2014 6 solos, zero large parties"
         }
-      ]
+      ],
+      "r365_forecast": 5642.0,
+      "check_avg": 33.64,
+      "guests": 114,
+      "data_source": "r365",
+      "monthly_budget": 192236.0,
+      "full": "Death & Co East Village"
     },
     {
       "id": "dc",
-      "name": "D&C Washington DC",
+      "name": "D&C DC",
       "full_name": "Death & Co Washington DC",
       "color": "#5AA8C4",
       "date_reported": "4/1/2026",
@@ -338,7 +368,13 @@
           "type": "info",
           "text": "57 guests (32 walk-ins, 25 resos); training night for new staff \u2014 Sasha, Savannah & new Alex onboarded"
         }
-      ]
+      ],
+      "r365_forecast": 5116.0,
+      "check_avg": 33.07,
+      "guests": 64,
+      "data_source": "r365",
+      "monthly_budget": 205864.6,
+      "full": "Death & Co DC"
     }
   ]
 }
