@@ -190,23 +190,27 @@
       "name": "Municipal Grand",
       "full_name": "Municipal Grand F&B",
       "color": "#7CB87A",
-      "missing": true,
-      "target": null,
-      "net_sales": null,
+      "missing": false,
+      "target": 17000,
+      "net_sales": 13830,
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "comps": null,
+      "comps": 415,
       "comp_pct": null,
       "guest_count": null,
       "guest_check_avg": null,
       "mod": null,
-      "weather": null,
+      "weather": "Cold (started in 30s, warmed to low 50s) but sunny",
       "notes_summary": null,
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": []
+      "highlights": [],
+      "guests": 326,
+      "check_avg": 42.42,
+      "data_source": "slack",
+      "narrative": "St. Patrick's Day. After the parade finished around 2:30, the bar was suddenly an ocean of people! The crowd stayed for about an hour and a half. Good amount of diners in the evening, many camped out for a long time."
     }
   ]
 }
