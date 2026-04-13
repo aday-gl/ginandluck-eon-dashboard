@@ -21,14 +21,275 @@
       "guest_check_avg": 31.34,
       "mod": "KG",
       "weather": "High 85 low 51",
-      "notes_summary": "Nice Saturday at CC ATL.",
+      "notes_summary": "Nice Saturday at CC ATL. Nice pop at open. Investors and regulars stopped by. Scholarship gala guests around 10pm. Smooth EON.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Tito's",
+        "Kettle"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $7,647 vs $6,447 target (+18.6%)"
+        },
+        {
+          "type": "info",
+          "text": "Scholarship gala guests trickled in around 10pm"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 11740,
+      "net_sales": 11127,
+      "food_sales": 231,
+      "beverage_sales": 10896,
+      "event_sales": 0,
+      "comps": 109.6,
+      "comp_pct": 0.99,
+      "guest_count": 419,
+      "guest_check_avg": 27,
+      "mod": "KE, Tay",
+      "weather": "Moderate and nice",
+      "notes_summary": "Not super busy but solid. Plastic cups for outside gaining traction. Great neighbor energy with Fishmonger & Charmers.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Pickles",
+        "Green goddess",
+        "Banana pudding"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Slightly below target — $11,127 vs $11,740 target (-5.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Plastic cups for outdoor sipping gaining traction"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 19000,
+      "net_sales": 17927,
+      "food_sales": 6386,
+      "beverage_sales": 11541,
+      "event_sales": 0,
+      "comps": 333,
+      "comp_pct": 1.86,
+      "guest_count": 364,
+      "guest_check_avg": 49.25,
+      "mod": "Gabby & Lex (AM) / Justin & Sukru (PM)",
+      "weather": "Warm & Sunny",
+      "notes_summary": "Strong Saturday morning from 8am. PM reservations after 6pm, kitchen crushed 7pm push. Sun Club 100% pool occupancy. Hot Eye shoulder-to-shoulder at 11:30pm with wedding parties and Billy Strings fans.",
+      "maintenance_flags": [
+        "Housekeeping to Hot Eye"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 3564
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 9842
+        },
+        {
+          "name": "Sun Club",
+          "sales": 1349
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 3172
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $17,927 vs $19,000 target (-5.6%)"
+        },
+        {
+          "type": "win",
+          "text": "Sun Club 100% pool occupancy; Hot Eye packed with wedding parties & Billy Strings fans"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 7390,
+      "net_sales": 13202,
+      "food_sales": 2277,
+      "beverage_sales": 10925,
+      "event_sales": 0,
+      "comps": 426,
+      "comp_pct": 3.23,
+      "guest_count": 335,
+      "guest_check_avg": 39.41,
+      "mod": "Gigi/Joe & Chef Selenia/Josh",
+      "weather": "Rain around midnight",
+      "notes_summary": "Very steady Saturday despite Coachella weekend. Busy first hours with walk-ins. Short a server but team adapted. Decent waitlist most of the night. Rain around midnight slowed walk-ins for smooth ending.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 3218
+        },
+        {
+          "name": "Marquee",
+          "sales": 9984
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $13,202 vs $7,390 target (+78.6%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong performance despite Coachella weekend"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 16094.09,
+      "net_sales": 18111.62,
+      "food_sales": 3890.7,
+      "beverage_sales": 14220.92,
+      "event_sales": 0,
+      "comps": 693.63,
+      "comp_pct": 3.53,
+      "guest_count": 408,
+      "guest_check_avg": 44.39,
+      "mod": "Maggie (AM) / Carey & Lucas (PM)",
+      "weather": "N/A",
+      "notes_summary": "Slower than last Saturday but groups stayed long. Garden had tight turns. 621 high top chairs unstable per guests. Recognized as city's best sober bar two years running. Nik's last day approaching.",
+      "maintenance_flags": [
+        "621 high top chairs feel unstable per multiple guest mentions"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 1519.76
+        },
+        {
+          "name": "D&C PM",
+          "sales": 16591.86
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 2689.67
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $18,112 vs $16,094 target (+12.5%)"
+        },
+        {
+          "type": "flag",
+          "text": "621 high top chairs unstable — multiple guest complaints"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 7391,
+      "net_sales": 7455,
+      "food_sales": 925,
+      "beverage_sales": 6279,
+      "event_sales": 0,
+      "comps": 341.56,
+      "comp_pct": 4.58,
+      "guest_count": 200,
+      "guest_check_avg": 37.28,
+      "mod": "Cara",
+      "weather": "Chilly but normal early April",
+      "notes_summary": "Flip-flopping between half-full and overfull. Second turn mighty busy. 5 large parties, 13 solos, 10 investor cocktails. Wait grew after 10pm. Welcomed Nicole Pla from Denver, Kenneth Young from Joyface. Top sellers: Masari, Spaaaace, City Point, Buckhorn Exchange.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
       "highlights": [
         {
           "type": "win",
-          "text": "Above target"
+          "text": "Above target — $7,455 vs $7,391 target (+0.9%)"
+        },
+        {
+          "type": "info",
+          "text": "Big Saturday energy — 5 large parties, crowds past 1am"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 8412,
+      "net_sales": 10445,
+      "food_sales": 1738,
+      "beverage_sales": 8707,
+      "event_sales": 0,
+      "comps": 105,
+      "comp_pct": 1.01,
+      "guest_count": 241,
+      "guest_check_avg": 42.29,
+      "mod": "Josh / Cory",
+      "weather": "Warm",
+      "notes_summary": "Solid night. Garden benefited from warm weather. Jordan continued training. Big night for B-side cocktails, especially Cafe Del Tigre. Late wave at 11pm filled marquee.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 8667
+        },
+        {
+          "name": "Garden",
+          "sales": 2943
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $10,445 vs $8,412 target (+24.2%)"
+        },
+        {
+          "type": "win",
+          "text": "Garden popping — finally looking like Spring in DC!"
         }
       ],
       "data_source": "slack"
