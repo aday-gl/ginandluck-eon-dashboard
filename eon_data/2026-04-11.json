@@ -10,11 +10,11 @@
       "full_name": "Close Company Atlanta",
       "color": "#E07B54",
       "missing": false,
-      "target": 6447.0,
-      "net_sales": 7647.0,
-      "food_sales": 428.0,
-      "beverage_sales": 7219.0,
-      "event_sales": 0.0,
+      "target": 6447,
+      "net_sales": 7647,
+      "food_sales": 428,
+      "beverage_sales": 7219,
+      "event_sales": 0,
       "comps": 38.3,
       "comp_pct": 0.5,
       "guest_count": 244,
@@ -25,7 +25,13 @@
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": [{"type": "win", "text": "Above target"}],
-      "data_source": "slack"}
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target"
+        }
+      ],
+      "data_source": "slack"
+    }
   ]
 }
