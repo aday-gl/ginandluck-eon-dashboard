@@ -1,0 +1,31 @@
+{
+  "report_date": "April 11, 2026",
+  "iso_date": "2026-04-11",
+  "day_of_week": "Saturday",
+  "generated_at": "2026-04-12 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 6447.0,
+      "net_sales": 7647.0,
+      "food_sales": 428.0,
+      "beverage_sales": 7219.0,
+      "event_sales": 0.0,
+      "comps": 38.3,
+      "comp_pct": 0.5,
+      "guest_count": 244,
+      "guest_check_avg": 31.34,
+      "mod": "KG",
+      "weather": "High 85 low 51",
+      "notes_summary": "Nice Saturday at CC ATL.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [{"type": "win", "text": "Above target"}],
+      "data_source": "slack"}
+  ]
+}
