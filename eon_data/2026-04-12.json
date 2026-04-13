@@ -1,0 +1,37 @@
+{
+  "report_date": "April 12, 2026",
+  "iso_date": "2026-04-12",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-13 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "EON report not yet submitted as of dashboard generation time.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missing — EON report not yet submitted for Sunday April 12"
+        }
+      ],
+      "data_source": "slack"
+    }
+  }
+}
