@@ -5,130 +5,41 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>G&L EON Reports</title>
 <style>
-  *{box-sizing:border-box;margin:0;padding:0}
-  body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0F1117;color:#E0E0E0;min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:40px 20px}
-  .container{width:100%;max-width:560px}
-  .header{text-align:center;margin-bottom:32px}
-  .header h1{font-size:22px;font-weight:700;color:#fff;letter-spacing:-.3px}
-  .header p{font-size:13px;color:#555;margin-top:6px}
-  .hero{background:linear-gradient(135deg,#1C2030,#1A1D27);border:1px solid #2A2D3A;border-radius:14px;padding:28px;margin-bottom:20px;text-align:center}
-  .hero-label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#555;margin-bottom:8px}
-  .hero-date{font-size:16px;font-weight:600;color:#C8CAFF;margin-bottom:18px}
-  .hero-sales{font-size:42px;font-weight:800;color:#fff;color:#fff;line-height:1;margin-bottom:6px}
-  .hero-var{font-size:15px;margin-bottom:22px}
-  
-  �tac{display:inline-block;background:#5BC88A;color:#0F1117;font-weight:700;font-size:15px;padding:13px 32px;border-radius:9px;text-decoration:none;transition:opacity .15s}
-  .cta:hover{opacity:.88}
-  .digest{background:#16181F;border:1px solid #2A2D3A;border-radius:12px;overflow:hidden;margin-bottom:20px}
-  .digest-title{padding:13px 16px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:#555;border-bottom:1px solid #1E2030}
-  .footer{font-size:11px;color:#333;text-align:center;margin-top:8px}
+ *{box-sizing:border-box;margin:0;padding:0}
+ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;background:#0F1117;color:#E0E0E0;min-height:100vh;display:flex;flex-direction:column;align-items:center;padding:40px 20px}
+ .container{width:100%;max-width:560px}
+ .header{text-align:center;margin-bottom:32px}
+ .header h1{font-size:22px;font-weight:700;color:#fff;letter-spacing:-.3px}
+ .header p{font-size:13px;color:#555;margin-top:6px}
+ .hero{background:linear-gradient(135deg,#1C2030,#1A1D27);border:1px solid #2A2D3A;border-radius:14px;padding:28px;margin-bottom:20px;text-align:center}
+ .hero-label{font-size:11px;text-transform:uppercase;letter-spacing:1px;color:#555;margin-bottom:8px}
+ .hero-date{font-size:16px;font-weight:600;color:#C8CAFF;margin-bottom:18px}
+ .hero-sales{font-size:42px;font-weight:800;color:#fff;line-height:1;margin-bottom:6px}
+ .hero-var{font-size:15px;margin-bottom:22px}
+ .cta{display:inline-block;background:#5BC88A;color:#0F1117;font-weight:700;font-size:15px;padding:13px 32px;border-radius:9px;text-decoration:none;transition:opacity .15s}
+ .cta:hover{opacity:.88}
+ .digest{background:#16181F;border:1px solid #2A2D3A;border-radius:12px;overflow:hidden;margin-bottom:20px}
+ .digest-title{padding:13px 16px;font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:#555;border-bottom:1px solid #1E2030}
+ .footer{font-size:11px;color:#333;text-align:center;margin-top:8px}
 </style>
 </head>
 <body>
 <div class="container">
-  <div class="header">
-    <h1>Gin &amp; Luck</h1>
-    <p>End of Night Reports</p>
-  </div>
-
-  <div class="hero">
-    <div class="hero-label">Latest Report</div>
-    <div class="hero-date">Sunday, April 12, 2026</div>
-    <div class="hero-sales">$33,310</div>
-    <div class="hero-var" style="color:#5BC88A">+$5,931 (+21.7%) vs target</div>
-    <a class="cta" href="EON_Dashboard.html">Open Full Dashboard →</a>
-  </div>
-
-  <div class="digest">
-    <div class="digest-title">Recent Reports</div>
-    
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Sun 4/12 <span style="color:#555;font-weight:400;font-size:12px">Sunday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$33,310</div>
-            <div style="font-size:11px;color:#555">tgt $27,380 &nbsp;<span style="color:#5BC88A;font-weight:700">+21.7%</span></div>
-          </div>
-        </div>
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Sat 4/11 <span style="color:#555;font-weight:400;font-size:12px">Saturday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$85,915</div>
-            <div style="font-size:11px;color:#555">tgt $76,474 &nbsp;<span style="color:#5BC88A;font-weight:700">+12.3%</span></div>
-          </div>
-        </div>
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Fri 4/10 <span style="color:#555;font-weight:400;font-size:12px">Friday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$86,913</div>
-            <div style="font-size:11px;color:#555">tgt $78,806 &nbsp;<span style="color:#5BC88A;font-weight:700">+10.3%</span></div>
-          </div>
-        </div>
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Thu 4/9 <span style="color:#555;font-weight:400;font-size:12px">Thursday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$39,277</div>
-            <div style="font-size:11px;color:#555">tgt $45,400 &nbsp;<span style="color:#E87A7A;font-weight:700">-13.5%</span></div>
-          </div>
-        </div>
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Wed 4/8 <span style="color:#555;font-weight:400;font-size:12px">Wednesday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$27,720</div>
-            <div style="font-size:11px;color:#555">tgt $28,194 &nbsp;<span style="color:#E87A7A;font-weight:700">-1.7%</span></div>
-          </div>
-        </div>
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Tue 4/7 <span style="color:#555;font-weight:400;font-size:12px">Tuesday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$26,615</div>
-            <div style="font-size:11px;color:#555">tgt $30,255 &nbsp;<span style="color:#E87A7A;font-weight:700">-12.0%</span></div>
-          </div>
-        </div>
-        <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030">
-          <div style="display:flex;align-items:center;gap:12px">
-            <div>
-              <div style="font-size:13px;font-weight:600;color:#E0E0E0">Mon 4/6 <span style="color:#555;font-weight:400;font-size:12px">Monday</span></div>
-              
-            </div>
-          </div>
-          <div style="text-align:right">
-            <div style="font-size:14px;font-weight:700;color:#fff">$17,887</div>
-            <div style="font-size:11px;color:#555">tgt $19,761 &nbsp;<span style="color:#E87A7A;font-weight:700">-9.5%</span></div>
-          </div>
-        </div>
-  </div>
-
-  <div class="footer">Updated April 13, 2026 at 10:42 AM &nbsp;·&nbsp; Open EON_Dashboard.html for full navigation, charts &amp; venue breakdown</div>
+ <div class="header"><h1>Gin &amp; Luck</h1><p>End of Night Reports</p></div>
+ <div class="hero">
+  <div class="hero-label">Latest Report</div>
+  <div class="hero-date">Sunday, April 12, 2026</div>
+  <div class="hero-sales">$33,310</div>
+  <div class="hero-var" style="color:#5BC88A">+$5,931 (+21.7%) vs target</div>
+  <a class="cta" href="EON_Dashboard.html">Open Full Dashboard &#8594;</a>
+ </div>
+ <div class="digest">
+  <div class="digest-title">Recent Reports</div>
+  <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030"><div><div style="font-size:13px;font-weight:600;color:#E0E0E0">Sun 4/12 <span style="color:#555;font-weight:400;font-size:12px">Sunday</span></div></div><div style="text-align:right"><div style="font-size:14px;font-weight:700;color:#fff">$33,310</div><div style="font-size:11px;color:#555">tgt $27,380 &nbsp;<span style="color:#5BC88A;font-weight:700">+21.7%</span></div></div></div>
+  <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030"><div><div style="font-size:13px;font-weight:600;color:#E0E0E0">Sat 4/11 <span style="color:#555;font-weight:400;font-size:12px">Saturday</span></div></div><div style="text-align:right"><div style="font-size:14px;font-weight:700;color:#fff">$85,915</div><div style="font-size:11px;color:#555">tgt $76,474 &nbsp;<span style="color:#5BC88A;font-weight:700">+12.3%</span></div></div></div>
+  <div style="display:flex;align-items:center;justify-content:space-between;padding:11px 16px;border-bottom:1px solid #1E2030"><div><div style="font-size:13px;font-weight:600;color:#E0E0E0">Fri 4/10 <span style="color:#555;font-weight:400;font-size:12px">Friday</span></div></div><div style="text-align:right"><div style="font-size:14px;font-weight:700;color:#fff">$86,913</div><div style="font-size:11px;color:#555">tgt $78,806 &nbsp;<span style="color:#5BC88A;font-weight:700">+10.3%</span></div></div></div>
+ </div>
+ <div class="footer">Updated April 13, 2026 at 10:42 AM &nbsp;&middot;&nbsp; Open EON_Dashboard.html for full navigation, charts &amp; venue breakdown</div>
 </div>
 </body>
 </html>
