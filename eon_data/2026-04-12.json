@@ -32,6 +32,269 @@
         }
       ],
       "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 2011,
+      "net_sales": 1612,
+      "food_sales": 136,
+      "beverage_sales": 1476,
+      "event_sales": 0,
+      "comps": 115,
+      "comp_pct": 7,
+      "guest_count": 71,
+      "guest_check_avg": 22.7,
+      "mod": "KE, Tay",
+      "weather": "Warm. Clear.",
+      "notes_summary": "Not super busy but a good night. Started with an early pop, followed by a slow middle, finished with a late pop through close. Met a lovely young couple, Cindy and Vladimir, who were into the cocktails.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Banana pudding",
+        "Green goddess"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $1,612 vs $2,011 target (-19.8%)"
+        },
+        {
+          "type": "info",
+          "text": "Typical Sunday pacing — early pop, slow middle, late pop through close"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 8100,
+      "net_sales": 9663,
+      "food_sales": 3585,
+      "beverage_sales": 6078,
+      "event_sales": 0,
+      "comps": 154,
+      "comp_pct": 1.59,
+      "guest_count": 173,
+      "guest_check_avg": 55.86,
+      "mod": "Sam & Lex (AM) / Justin & Sukru (PM)",
+      "weather": "Warm and sunny",
+      "notes_summary": "Good morning start with 30 of 88 guests seated before 10am. PM was chill; dining room near 70% through dinner. Sun Club had Brigid's first training day. Guest Kierra Lynch returned and left a 5-star review.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 2342
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4489
+        },
+        {
+          "name": "Sun Club",
+          "sales": 1022
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 1810
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $9,663 vs $8,100 target (+19.3%)"
+        },
+        {
+          "type": "win",
+          "text": "Guest recovery win — previously unhappy guest returned and left 5-star review"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 3760,
+      "net_sales": 4284,
+      "food_sales": 870,
+      "beverage_sales": 3414,
+      "event_sales": 0,
+      "comps": 134,
+      "comp_pct": 3.13,
+      "guest_count": 113,
+      "guest_check_avg": 37.91,
+      "mod": "Joe / Chef Selenia & Josh",
+      "weather": "N/A",
+      "notes_summary": "Mellow Sunday with familiar faces. Nice push around 9pm. Sewage smell continued and was mentioned by a few tables.",
+      "maintenance_flags": [
+        "Sewage smell persisting — mentioned by guests"
+      ],
+      "eightysixed": [
+        "Crudo"
+      ],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 0
+        },
+        {
+          "name": "Marquee",
+          "sales": 4284
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $4,284 vs $3,760 target (+13.9%)"
+        },
+        {
+          "type": "flag",
+          "text": "Sewage smell continuing — guests noticing"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 6235.5,
+      "net_sales": 9782.1,
+      "food_sales": 2806.9,
+      "beverage_sales": 6975.2,
+      "event_sales": 0,
+      "comps": 892.3,
+      "comp_pct": 9.12,
+      "guest_count": 237,
+      "guest_check_avg": 41.27,
+      "mod": "Carey (AM & PM)",
+      "weather": "N/A",
+      "notes_summary": "Very solid Sunday. Sakura Bar reservations filled floor. Nik's last night — amazing turnout. High comps due to staff farewell. Women's restroom first stall clogged.",
+      "maintenance_flags": [
+        "Women's restroom first stall clogged — entered into Intellity by TRH"
+      ],
+      "eightysixed": [
+        "Sakura sugar (until more dried blossoms)"
+      ],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 1525.21
+        },
+        {
+          "name": "D&C PM",
+          "sales": 8256.89
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 2553.58
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $9,782 vs $6,236 target (+56.9%)"
+        },
+        {
+          "type": "info",
+          "text": "Nik's last night — big staff turnout drove high comps (9.12%)"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 4933,
+      "net_sales": 5113,
+      "food_sales": 699,
+      "beverage_sales": 4299,
+      "event_sales": 0,
+      "comps": 176.82,
+      "comp_pct": 3.46,
+      "guest_count": 135,
+      "guest_check_avg": 37.87,
+      "mod": "Cara & Alejandro",
+      "weather": "Oddly cold yet sunny",
+      "notes_summary": "First turn chill, then 1k/hour flow 7-10pm. Large parties created waitlist. Night slowed after 11pm. Top sellers: Revenant, Masari, Deviltown.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $5,113 vs $4,933 target (+3.6%)"
+        },
+        {
+          "type": "info",
+          "text": "Lots of large parties created brief waitlist; strong 7-10pm flow"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 2340,
+      "net_sales": 2856.34,
+      "food_sales": 805.1,
+      "beverage_sales": 2051.24,
+      "event_sales": 0,
+      "comps": 17.85,
+      "comp_pct": 0.62,
+      "guest_count": 65,
+      "guest_check_avg": 43.94,
+      "mod": "Jamal / Alex",
+      "weather": "Pretty nice, got chilly early",
+      "notes_summary": "Solid Sunday at 124. 25% food sales. Room never half full but beat target. Kitchen AC still out.",
+      "maintenance_flags": [
+        "No AC in kitchen — becoming unbearable"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 1057.43
+        },
+        {
+          "name": "Garden",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $2,856 vs $2,340 target (+22.1%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong food sales at 25% of total"
+        },
+        {
+          "type": "flag",
+          "text": "Kitchen AC still out — urgent maintenance needed"
+        }
+      ],
+      "data_source": "slack"
     }
-  }
+  ]
 }
