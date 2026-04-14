@@ -15,13 +15,302 @@
       "food_sales": 183,
       "beverage_sales": 1205,
       "event_sales": 0,
-      "comps": 126.20,
+      "comps": 126.2,
       "comp_pct": 9.09,
       "guest_count": 34,
       "guest_check_avg": 40.82,
       "mod": "KG / JK Key",
       "weather": "Sunny with highs in the mid 80s and lows dropping near 60",
-      "notes_summary": "Nice start with folks from upstairs joining for Meal Deals and after-work cocktails. Guest flow picked up again at 9pm. Industry push at 10:30-11pm. Served to midnight.",
+      "notes_summary": "Nice start with folks from upstairs joining for Meal Deals and after-work cocktails. Lull around 6pm, then familiar faces returned. Guest flow picked up again at 9pm. Industry push at 10:30-11pm. Served to midnight. Great upselling night with Murrell's Row Martinis and Mezcal drinks.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Titos",
+        "Ketel One",
+        "Grey Goose",
+        "Ocho Blanco",
+        "Alma Jaguar",
+        "Worthy Park Overproof",
+        "Chinola",
+        "Prince of Pilsner"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $1,388 vs $885 target (+56.8%)"
+        },
+        {
+          "type": "info",
+          "text": "Strong industry connections — bartenders from Delbar and Sozou returning regularly"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 1012,
+      "net_sales": 920,
+      "food_sales": 75,
+      "beverage_sales": 845,
+      "event_sales": 0,
+      "comps": 93,
+      "comp_pct": 10,
+      "guest_count": 29,
+      "guest_check_avg": 32,
+      "mod": "MD Tay",
+      "weather": "Muggy",
+      "notes_summary": "Slow start with no guests until 6:30. Two guests from Rolf & Daughters said it was their best bar experience in Nashville. Nearly half of sales ($450) came in last 1.5 hours from industry crowd.",
+      "maintenance_flags": [
+        "Kitchen ticket printer stopped sending — had to handwrite checks"
+      ],
+      "eightysixed": [
+        "High Noons"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $920 vs $1,012 target (-9.1%)"
+        },
+        {
+          "type": "win",
+          "text": "Great guest feedback — Rolf & Daughters bartenders called it best bar experience in Nashville"
+        },
+        {
+          "type": "flag",
+          "text": "POS ticket issue — tickets stopped printing to kitchen"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 6000,
+      "net_sales": 5409,
+      "food_sales": 2418,
+      "beverage_sales": 2991,
+      "event_sales": 0,
+      "comps": 401,
+      "comp_pct": 7.41,
+      "guest_count": 113,
+      "guest_check_avg": 47.87,
+      "mod": "Gabby (AM) / James & Lex (PM)",
+      "weather": "Warm and sunny",
+      "notes_summary": "Steady Monday. AM had training for Skylar, Stephanie (server training), and Brigid (pool attendant day 2). Team did spring cleaning across vault, dry storage, BOH, mezz closet. PM was slow until 6pm then filled up until 9pm. Bar was steady with Amelia staying until 10pm to help. Excellent teamwork.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 893
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 3505
+        },
+        {
+          "name": "Sun Club",
+          "sales": 476
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $5,409 vs $6,000 target (-9.9%)"
+        },
+        {
+          "type": "info",
+          "text": "Productive training day — three new staff members progressing well"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 3835,
+      "net_sales": 3602,
+      "food_sales": 690,
+      "beverage_sales": 2912,
+      "event_sales": 0,
+      "comps": 116.75,
+      "comp_pct": 3.24,
+      "guest_count": 89,
+      "guest_check_avg": 40.47,
+      "mod": "Mikey, Vic",
+      "weather": "Not rainy but pretty chilly for LA",
+      "notes_summary": "Started busy with TOTC HH event that ran longer than expected. Joe helped with closedown and reopen. Business trickled in slowly. VIP Lauren had a wonderful time. Slowed drastically around 10pm. Sewage smell still present — guests requested seat changes. Sold about 80 oysters.",
+      "maintenance_flags": [
+        "Sewage smell persisting — guests still requesting to move away from restroom area"
+      ],
+      "eightysixed": [
+        "Aval draught cider"
+      ],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 0
+        },
+        {
+          "name": "Marquee",
+          "sales": 3602
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $3,602 vs $3,835 target (-6.1%)"
+        },
+        {
+          "type": "win",
+          "text": "Successful TOTC happy hour event"
+        },
+        {
+          "type": "flag",
+          "text": "Sewage smell continuing — guests actively moving seats"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 3491.26,
+      "net_sales": 5734.71,
+      "food_sales": 1854.1,
+      "beverage_sales": 3880.61,
+      "event_sales": 0,
+      "comps": 252.2,
+      "comp_pct": 4.41,
+      "guest_count": 150,
+      "guest_check_avg": 38.23,
+      "mod": "Maggie (AM) / Carey (PM)",
+      "weather": "N/A",
+      "notes_summary": "Mellow Monday AM — light pops with one bird. PM had slower start but nice food pop mid-day with amazing food sales. Great guest interactions. Tin rinser on bar 300 randomly squirts water at guests.",
+      "maintenance_flags": [
+        "Tin rinser on bar 300 randomly squirts water — entered into Intelity by TRH"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 609.65
+        },
+        {
+          "name": "D&C PM",
+          "sales": 5125.06
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $5,735 vs $3,491 target (+64.3%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong food sales — $1,854 with great guest feedback"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "EON report not yet submitted as of dashboard generation time.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missing — EON report not yet submitted for Monday April 13"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": null,
+      "net_sales": 3428.87,
+      "food_sales": 807.4,
+      "beverage_sales": 2621.47,
+      "event_sales": 0,
+      "comps": 97,
+      "comp_pct": 2.83,
+      "guest_count": 70,
+      "guest_check_avg": 48.98,
+      "mod": "Alex G",
+      "weather": "Warm weather with a cool evening",
+      "notes_summary": "Quiet start gave time for connection points. Picked up at sundown with manageable flow. Patio had guests from open to last call. 90s music fit millennial birthday vibe. Kitchen started without oysters but Jamal got them in by 6:15pm. Strong food night at $807 for a Monday.",
+      "maintenance_flags": [
+        "Hot water heater tripping",
+        "No AC in kitchen — still ongoing"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 3428.87
+        },
+        {
+          "name": "Garden",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong Monday — $3,429 net sales (target not provided)"
+        },
+        {
+          "type": "win",
+          "text": "Excellent food sales at $807 — 23.5% of total"
+        },
+        {
+          "type": "flag",
+          "text": "Kitchen AC still out + hot water heater tripping"
+        }
+      ],
       "data_source": "slack"
     }
   ]
