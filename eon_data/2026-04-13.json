@@ -1,0 +1,28 @@
+{
+  "report_date": "April 13, 2026",
+  "iso_date": "2026-04-13",
+  "day_of_week": "Monday",
+  "generated_at": "2026-04-14 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 885,
+      "net_sales": 1388,
+      "food_sales": 183,
+      "beverage_sales": 1205,
+      "event_sales": 0,
+      "comps": 126.20,
+      "comp_pct": 9.09,
+      "guest_count": 34,
+      "guest_check_avg": 40.82,
+      "mod": "KG / JK Key",
+      "weather": "Sunny with highs in the mid 80s and lows dropping near 60",
+      "notes_summary": "Nice start with folks from upstairs joining for Meal Deals and after-work cocktails. Guest flow picked up again at 9pm. Industry push at 10:30-11pm. Served to midnight.",
+      "data_source": "slack"
+    }
+  ]
+}
