@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-30",
+  "day_of_week": "Thursday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 2118.0,
+      "target": 2547.0,
+      "comps": 52.20,
+      "guests": 67,
+      "check_avg": 31.61,
+      "weather": "High 73 / Low 60",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Quiet start to Thursday at Close Company Atlanta. Beltline walkers were out — quite a few peaked their heads in to see the space (reminder to lead with To-Go drinks and activations in those moments). Closer came in at 6pm; open deck went up at 7pm. Place filled completely around 9pm — JK helped closing bartender handle the late-night flow. Guests left around 12:30am. Open deck brought a nice crowd and encouraged guests to stay and enjoy the space. Missed target by −16.8% ($2,118 vs $2,547). Food $180. Comps $52.20. 67 guests / $31.61 GCA. Kitchen prepping for menu flip. MOD: Mkz/JK. Entered by Mya. Highlight: getting to see all the industry folk in the space."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2700.0,
+      "target": 3834.0,
+      "comps": 0.0,
+      "guests": 78,
+      "check_avg": 34.61,
+      "weather": "Cloudy and fair",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Fun night! Brandon had a nice pop at the start of the shift, then it remained steady until another pop around 9:30pm with a hefty climb in sales. Eli was a great help for extra hands during service. Per Morgan Droke: highest sales on a weekday without an event going on in a while; really great check average for the day. Missed target by −29.6% ($2,700 vs $3,834). Food $0 (continued food-sales softness — 7th consecutive day under $130). Comps $0. ~78 guests / $34.61 GCA. MOD: MD. Entered by JO. Highlight: a new regular Sam came in around 7pm and again at last call with friends — bragged about the space and acted as a salesperson for the cocktails."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6467.48,
+      "target": 8334.41,
+      "comps": 370.84,
+      "guests": 167,
+      "check_avg": 38.73,
+      "weather": "Chilly, overcast evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Pretty chill Thursday night. Small pops here and there but never a full restaurant — gave Joshua a good environment to train and get the feel for everything. Net (excl events) $6,467.48 vs target $8,334.41 (−22.4%). Including events $8,553.48 (+2.6%). Segments: DC/AM $671.14, D&C PM $5,796.34, 6A NA. Food $1,866.40 / Food incl events $3,705.40. Comps $370.84 / 5.73%. 167 guests. **Event**: Day 3 (final day) of Omada Health — 19 guests 8am–12pm in Vauxhall ($1,839 event food / $2,086 net event sales). Josh whipped up a lovely spread; group jumped right into Zoom calls to close out their stay and catch flights. Everything flowed smoothly, Justice & Kelly had a great time hosting; many gave thanks upon the event's conclusion. AM MOD: Maggie. PM MOD: Big Ev & Lil' Lukey (Evan & Chef Lucas). DC/AM: awesome day with @reggie_lane, got the coffee and tea order in (Felix). Kitchen: steady night with some pops, no worries (Nathan). Highlight: Joshua doing his server follow — super engaged, asking the right questions; Dom in with a friend on a night off; a few birthday celebrations in house."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 6491.0,
+      "target": 6500.0,
+      "comps": 231.18,
+      "guests": 178,
+      "check_avg": 36.0,
+      "weather": "Pretty chilly night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid night! The room was full most of the night and the vibes were very high. A lot of first-timers and super fans in this evening. Main event: hosting the Kaplan family with Nora and friends — wonderful to welcome David Kaplan and Nora in tonight. Also welcomed Rob Salkin's industry friends and D&C members Malcom Hardy and Kenan Anderson. Died out around 12:30am — very strong finish. Essentially on target — just −0.1% ($6,491 vs $6,500). Food $600, Bev $5,811, Retail $80. Comps $231.18 (3.5%). 178 guests / $36 GCA. Door: humid and unexpectedly warm evening; by 7:30pm full and picked up pace, started a waitlist; great mix of party sizes; ~11pm finished the waitlist; officially slowed at midnight. Welcomed many birthdays and first-time guests. **No-shows**: Ric Way (2) at 8pm; Melissa Nemati (2) at 8pm — both charged. **System note**: a member used the online \"join waitlist\" feature but the SevenRooms message thread didn't connect — they popped up auto-assigned to a table as an imported reservation rather than the arrived waitlist section; arrival time was unpredicted but seats were available. Glassware: 2 SOFS, 1 mixing glass, 1 sidecar bottom. Kitchen: 86 cheese plate. Menu count 16/16. MOD: Cara & Steeves. Door: HP. Entered by Kyler."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 14945.0,
+      "target": 5845.0,
+      "comps": 4.30,
+      "guests": 238,
+      "check_avg": 40.06,
+      "weather": "Warm beautiful day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Quite the night. Filled the entire Marquee first couple hours and did a last call for the entire room at 9:15pm — miraculously cleared everyone out at 9:55pm right before the event started. Guests trickled in ~10:30pm and filled the space. Landis kept count of guests and asked a few underage guests to leave (lots of pushback, host helpful in resolving). Mitchell was in to train tonight and came to the rescue by staying all evening and helping bartend the whole event with Crystal in SR — major kudos! Mikey, Edwin & Zak held down Marquee. Host brought an additional 70 guests on top of the booked 90. Ran through all citrus, well spirits, and garnishes. DJ super lively, young college crowd — quite rowdy, lots of broken glass which we charged them for. Beat target by +155.7% ($14,945 vs $5,845) — driven by event. Service: 78 guests / $40.06 GCA / $3,125 Marquee sales / $665 Marquee food. Event: 160 guests / $11,820 event sales / room booked for ~$2,880 in food (eaten at the event). Total food $3,545. Comps $4.30 (1 member). Final payment processed. **Note**: per follow-up in #gl_ops_venues — the typeform under-reported event sales by ~$3k because it excluded the room fee; **actual** event sales $14,820, **actual** total day $17,945. **Maintenance**: part of the ledge of the wall near T3 came off (likely loose since floor redo, kicked off tonight). 86s: 1 bottle Fords, Wodka, Tanqueray (other than 10), 1 bottle Probitas, Cointreau. Very low: Tromba Blanco, Mr Black. MOD: Gigi & Chef/Josh. Entered by Gigi. Highlight: a guest upstairs telling Gigi how much he loved his first visit back in November and that he tells everyone to come."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3826.0,
+      "target": 5312.0,
+      "comps": 51.0,
+      "guests": 106,
+      "check_avg": 37.51,
+      "weather": "Windy and cool",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady night — started off well enough but slowed significantly around 7pm. Began cuts around 9pm waiting on the last handful of reservations. By 10pm nearly full again — just as Devan and Mariah finished side work they were tagged in again to assist Jordan and the kitchen before being cut before 11. The rest of the night was a cake walk. Broke down a well right after kitchen close; during the lull Jesse helped with bar inventory ahead of Josh's arrival tomorrow; Sasha continued ABK; Ian held down the bar; Jordan and Savannah ran the floor. Missed target by −28.0% ($3,826 vs $5,312). Food $475 (12% — kitchen pushed hard to capture food when the late-night room filled up). Voids $18, Comps $51. 106 guests (86 walk-ins, 20 resos) / $37.51 GCA. **Maintenance/Urgent (continuing)**: 1st bathroom sink sprung a leak mid-service — fixed the floor leak but the sink continues to drip steadily into the bowl (water turned off, needs to be on for tomorrow); 2nd bathroom still OOO; power outlet under the dish pit was tripped and not resetting. MOD: Kevin / Cory. Entered by Cory. Highlight: Sasha — ABK king, always moving, always finding things to clean and organize."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 9030.0,
+      "target": 9500.0,
+      "comps": 155.0,
+      "guests": 180,
+      "check_avg": 50.17,
+      "weather": "Rainy/overcast morning, became warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady chill day, just −4.9% off target ($9,030 vs $9,500). MB Morning $1,018 / 25g (slow, steady morning with low volume due to overcast/rainy weather — gave team time to get ahead on side work and allowed early cuts; picked up slightly once the sun came out). MB Evening $5,553 / 155g (decent end to happy hour, picking up into dinner; started with 20+ reservation covers; manageable steady business 5–8pm with good walk-in volume electing to sit outside in the nice weather; **a crazy push for large-party walk-ins between 8:15–8:45pm** had the FOH hustling through drink orders, calmed by 9pm; not much new business after 9:30pm). Sun Club $561 — breezy day as the weather turned around, steady flow of locals and hotel guests. Hot Eye $1,859 — busy from the get-go: large parties for a few rounds, big lull 8:30–10pm, then almost completely full with locals and a few bachelorettes; first-time visit from Savannah Distributing's David & Chris from Edmund's Oast; busy until the very end. Kitchen: smooth service, no notes. Comps $155 / 1.7%. Food $3,245. AM MOD: Gabby. PM MOD: Justin & Sukru. Entered by Alexis. Highlight: Sam B's back from Europe and did a great job on the floor like he had never left; team crushed inventory together seamlessly during service; Elizabeth & Seba crushing it behind the bar in Hot Eye per usual."
+    }
+  ]
+}
