@@ -70,15 +70,15 @@
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "missing": true,
+      "net_sales": 1268.56,
+      "target": 3095.18,
+      "comps": 9.4,
+      "guests": 35,
+      "check_avg": 36.24,
+      "weather": "Pretty nice out with a cool breeze, didn\u2019t amount to much foot traffic",
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No EON report submitted for 5/3 (Sunday). DC is typically closed Sundays \u2014 same pattern as 4/26 and prior."
+      "narrative": "Late-arriving Typeform (filed 5/4 8:47 AM EDT). Quiet Sunday at 124 \u2014 missed target by \u221259.0% ($1,268.56 vs $3,095.18). Started low on covers despite great weather; not as many walk-ins as a typical Sunday and no late-night pop before close. Floor was empty by ~10:15. Marquee Bar $680.85, Garden n/a. Food $121 (8.6% of sales, mostly one table). 35 guests (7 booked / 21 walk-in [Note: form lists 28 \u2014 7 booked + 21 walk-in \u2014 vs total guest count 35; minor reporting discrepancy]) / $36.24 GCA. Comps $9.40 / 0.74%. Kitchen used the slow night for deep cleaning behind batch/dry shelves and the freezer. Highlight: visit from regular Eric. Family meal: remaking grazie grazies vodka sauce pizza. MOD: Jamal. Entered by Jamal. **Note**: this report was missing during the 11:50 UTC nightly run \u2014 backfilled at 14:40 UTC."
     },
     {
       "id": "mg",
