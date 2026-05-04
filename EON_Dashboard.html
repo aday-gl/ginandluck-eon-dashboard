@@ -398,10 +398,14 @@ function renderDaily(day) {
     var narr = v.narrative || v.notes_summary;
     if (narr) notes.push('<li><strong>' + (v.full_name||v.name) + ':</strong> ' + narr + '</li>');
   });
+  var notesHtml = notes.length
+    ? '<div><div class="exec-group-title" style="color:#8899BB">Nightly Notes</div>'
+      + '<ul class="exec-list">' + notes.join('') + '</ul></div>'
+    : '';
   var execHtml = grp(urgent, '\u1F6A8 Needs Attention', '#E87A7A') +
     grp(flags,  '\u26A0\uFE0F Watch Items',     '#E8C45A') +
     grp(wins,   '\u2705 Wins & Highlights','#5BC88A')
-    + grp(notes, 'Nightly Notes', '#8899BB');
+    + notesHtml;
   document.getElementById('exec-cols').innerHTML =
     execHtml || '<div style="color:#555;padding:12px 0">No notes for this date.</div>';
 
