@@ -392,10 +392,18 @@ function renderDaily(day) {
       <ul class="exec-list">${items.join('')}</ul>
     </div>`;
   }
-  document.getElementById('exec-cols').innerHTML =
-    grp(urgent, '\u1F6A8 Needs Attention', '#E87A7A') +
+  var notes = [];
+  (day.venues || []).forEach(function(v) {
+    if (v.missing) return;
+    var narr = v.narrative || v.notes_summary;
+    if (narr) notes.push('<li><strong>' + (v.full_name||v.name) + ':</strong> ' + narr + '</li>');
+  });
+  var execHtml = grp(urgent, '\u1F6A8 Needs Attention', '#E87A7A') +
     grp(flags,  '\u26A0\uFE0F Watch Items',     '#E8C45A') +
     grp(wins,   '\u2705 Wins & Highlights','#5BC88A');
+    + grp(notes, 'Nightly Notes', '#8899BB');
+  document.getElementById('exec-cols').innerHTML =
+    execHtml || '<div style="color:#555;padding:12px 0">No notes for this date.</div>';
 
   // Venue grid
   let html = '';
@@ -470,15 +478,15 @@ function renderDaily(day) {
         <div class="fin"><div class="fin-label">Beverage</div><div class="fin-val">${fmtC(v.beverage_sales)}</div></div>
         <div class="fin"><div class="fin-label">Events</div><div class="fin-val">${fmtC(v.event_sales)}</div></div>
         <div class="fin"><div class="fin-label">Comps</div><div class="fin-val">${fmtC(v.comps)}${v.comp_pct ? ' (' + v.comp_pct + '%)' : ''}</div></div>
-        <div class="fin"><div class="fin-label">Guests</div><div class="fin-val">${v.guest_count||'\u2014'}</div></div>
-        <div class="fin"><div class="fin-label">Check Avg</div><div class="fin-val">${fmtC(v.guest_check_avg)}</div></div>
+        <div class="fin"><div class="fin-label">Guests</div><div class="fin-val">${(v.guests||v.guest_count)||'\u2014'}</div></div>
+        <div class="fin"><div class="fin-label">Check Avg</div><div class="fin-val">${fmtC(v.check_avg||v.guest_check_avg)}</div></div>
       </div>
       ${subHtml}
       <div class="ops-row">
         <span class="ops-item"><b>MOD:</b> ${v.mod||'\u2014'}</span>
         <span class="ops-item"><b>Weather:</b> ${v.weather||'\u2014'}</span>
       </div>
-      ${v.notes_summary ? `<div class="vnotes">${v.notes_summary}</div>` : ''}
+      ${(v.narrative||v.notes_summary) ? `<div class="vnotes">${v.narrative||v.notes_summary}</div>` : ''}
       ${tagsHtml}
       ${hlHtml ? `<div class="hls">${hlHtml}</div>` : ''}
       <!-- Sparkline: last 14 days for this venue -->
