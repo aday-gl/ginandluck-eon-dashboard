@@ -706,6 +706,125 @@ function renderWeekly() {
   document.getElementById('weekly-venue-table').innerHTML = tHtml;
 }
 
+
+// \u2500\u2500 STANDUP VIEW \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+var standupWeekOffset = 0; // 0 = most recent week
+
+function getStandupWeek(offset) {
+  // Get the most recent Monday on or before the most recent date
+  var isos = AVAIL;
+  if (!isos.length) return [];
+  // Find the most recent date in AVAIL
+  var latest = new Date(isos[isos.length - 1] + 'T12:00:00');
+  // Go back offset weeks
+  latest.setDate(latest.getDate() + offset * 7);
+  // Find the Monday of that week
+  var day = latest.getDay(); // 0=Sun, 1=Mon...
+  var monday = new Date(latest);
+  monday.setDate(latest.getDate() - (day === 0 ? 6 : day - 1));
+  var sunday = new Date(monday);
+  sunday.setDate(monday.getDate() + 6);
+  // Get all AVAIL isos in [monday, sunday]
+  var monISO = monday.toISOString().slice(0,10);
+  var sunISO = sunday.toISOString().slice(0,10);
+  var week = isos.filter(iso => iso >= monISO && iso <= sunISO);
+  return { isos: week, monISO, sunISO };
+}
+
+function fmtWeekLabel(monISO, sunISO) {
+  var m = new Date(monISO + 'T12:00:00');
+  var s = new Date(sunISO + 'T12:00:00');
+  var mo = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  if (m.getMonth() === s.getMonth()) {
+    return mo[m.getMonth()] + ' ' + m.getDate() + '\u2013' + s.getDate() + ', ' + s.getFullYear();
+  }
+  return mo[m.getMonth()] + ' ' + m.getDate() + ' \u2013 ' + mo[s.getMonth()] + ' ' + s.getDate() + ', ' + s.getFullYear();
+}
+
+function standupNavWeek(dir) {
+  standupWeekOffset += dir;
+  renderStandup();
+}
+
+function renderStandup() {
+  var weekInfo = getStandupWeek(standupWeekOffset);
+  var week = weekInfo.isos || [];
+  document.getElementById('standup-week-label').textContent =
+    week.length ? fmtWeekLabel(weekInfo.monISO, weekInfo.sunISO) + ' (' + week.length + ' days reporting)' : 'No data';
+
+  // Aggregate totals
+  var totalActual = 0, totalTarget = 0, totalGuests = 0;
+  week.forEach(function(iso) {
+    var day = HISTORY[iso]; if (!day) return;
+    day.venues.forEach(function(v) {
+      if (!v.missing) {
+        totalActual  += v.net_sales || 0;
+        totalTarget  += v.target    || 0;
+        totalGuests  += v.guests    || 0;
+      }
+    });
+  });
+  var pct = totalTarget > 0 ? ((totalActual / totalTarget - 1) * 100) : null;
+  var pctStr = pct !== null ? (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%' : '\u2014';
+  var pctColor = pct !== null ? (pct >= 0 ? '#5BC88A' : '#C85B70') : '#555';
+
+  document.getElementById('standup-summary-row').innerHTML =
+    '<div class="standup-stat"><div class="standup-stat-label">Week Actual</div>' +
+    '<div class="standup-stat-value">$' + Math.round(totalActual).toLocaleString() + '</div>' +
+    '<div class="standup-stat-sub">vs $' + Math.round(totalTarget).toLocaleString() + ' target</div></div>' +
+    '<div class="standup-stat"><div class="standup-stat-label">vs Target</div>' +
+    '<div class="standup-stat-value" style="color:' + pctColor + '">' + pctStr + '</div>' +
+    '<div class="standup-stat-sub">$' + (totalActual - totalTarget >= 0 ? '+' : '') + Math.round(totalActual - totalTarget).toLocaleString() + ' variance</div></div>' +
+    '<div class="standup-stat"><div class="standup-stat-label">Total Guests</div>' +
+    '<div class="standup-stat-value">' + Math.round(totalGuests).toLocaleString() + '</div>' +
+    '<div class="standup-stat-sub">across ' + week.length + ' reporting day' + (week.length !== 1 ? 's' : '') + '</div></div>';
+
+  // Per-venue blocks
+  var html = '';
+  VENUE_META.forEach(function(vm) {
+    var vActual = 0, vTarget = 0, vGuests = 0, hasData = false;
+    var dayPips = '', narratives = [];
+    week.forEach(function(iso) {
+      var day = HISTORY[iso]; if (!day) return;
+      var v = day.venues.find(function(x) { return x.id === vm.id; });
+      var dow = (day.day_of_week || iso).slice(0,3);
+      if (!v || v.missing) {
+        dayPips += '<span class="standup-day-pip missing">' + dow + '</span>';
+        return;
+      }
+      hasData = true;
+      var s = v.net_sales || 0, t = v.target || 0;
+      vActual  += s; vTarget += t; vGuests += v.guests || 0;
+      var p = t > 0 ? ((s/t-1)*100).toFixed(1) : null;
+      var cls = p !== null ? (parseFloat(p) >= 0 ? 'good' : 'bad') : '';
+      var label = dow + (p !== null ? ' ' + (parseFloat(p)>=0?'+':'') + p + '%' : '');
+      dayPips += '<span class="standup-day-pip ' + cls + '">' + label + '</span>';
+      if (v.narrative) narratives.push({ dow: dow, iso: iso, text: v.narrative });
+    });
+    if (!hasData && week.length > 0) return; // skip entirely if no data all week
+    var vPct = vTarget > 0 ? ((vActual/vTarget-1)*100) : null;
+    var vPctStr = vPct !== null ? (vPct>=0?'+':'') + vPct.toFixed(1)+'%' : '\u2014';
+    var vColor = vPct !== null ? (vPct >= 0 ? '#5BC88A' : '#C85B70') : '#888';
+    html += '<div class="standup-venue-block">';
+    html += '<div class="standup-venue-header">';
+    html += '<div class="standup-venue-dot" style="background:' + vm.color + '"></div>';
+    html += '<div class="standup-venue-name">' + vm.full + '</div>';
+    html += '<div class="standup-venue-total" style="color:' + vColor + '">';
+    html += '$' + Math.round(vActual).toLocaleString() + ' <span style="font-size:12px;font-weight:400">(' + vPctStr + ')</span>';
+    html += '</div></div>';
+    html += '<div class="standup-venue-days">' + dayPips + '</div>';
+    if (narratives.length) {
+      html += '<div class="standup-narrative">';
+      narratives.forEach(function(n) {
+        html += '<b style="color:#666">' + n.dow + ':</b> ' + n.text + '<br>';
+      });
+      html += '</div>';
+    }
+    html += '</div>';
+  });
+  document.getElementById('standup-venue-blocks').innerHTML = html || '<p style="color:#555;text-align:center;padding:40px 0">No data for this week</p>';
+}
+
 // \u2500\u2500 MTD VIEW \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
 function renderMTD() {
   destroyChart('mtdChart');
