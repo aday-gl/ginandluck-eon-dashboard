@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-01",
+  "day_of_week": "Friday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 6771.0,
+      "target": 5347.0,
+      "comps": 47.45,
+      "guests": 205,
+      "check_avg": 33.03,
+      "weather": "High 68 / Low 56",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Wacky Friday at Close Company Atlanta \u2014 beat target by +26.6% ($6,771 vs $5,347). Strong start with opener and mid prepping us for shift and event. Closers came in at 8pm and the opener headed out. DJ at 9pm got the tunes going \u2014 another weekend of compliments to the DJ. Wacky social event came in waves; founder Eric had so many positive things to say about the night. FOH handled the flow gracefully \u2014 reminder to lead with heads-up bartending. Some bathroom volume issues to watch. Mid out around 1am, smooth close. Food $368, Comps $47.45. 205 guests / $33.03 GCA. 86: Hendricks, pils. MOD: Mkz/JK. Entered by Mya. Highlight: hearing all the guest compliments to the DJ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 9728.0,
+      "target": 11672.0,
+      "comps": 76.7,
+      "guests": 348,
+      "check_avg": 27.96,
+      "weather": "Cool and partly cloudy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Relatively breezy start into a steady night. Slightly slower than expected, peak traffic 9\u201311pm. Saw a few friendly, industry faces toward the end of the night. Cut off a regular, Kristen Tait (Neuhoff resident) \u2014 see Kala for details (per #ccnsh_management thread, possibly snuck in outside red wine). Missed target by \u221216.7% ($9,728 vs $11,672). Food $0 (continued food-sales softness). Comps $76.70 / 0.79% \u2014 manager comp + Neuhoff residents. 348 guests / $27.96 GCA. 86: candied ginger & papaya. MOD: KE & MD. Entered by BC. Highlight: a few guests inexperienced with cocktails were inquisitive and enthusiastic \u2014 fun to share in their first."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 15215.93,
+      "target": 15763.6,
+      "comps": 816.14,
+      "guests": 389,
+      "check_avg": 39.12,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Friday with the added benefit of a large event group who absolutely wanted to enjoy our offerings after their event. Net (excl events) $15,215.93 vs target $15,763.60 (\u22123.5%). Including events $26,525.93 (+68.3%). Segments: DC/AM $1,494.87, D&C PM $13,721.06. Food $3,498.50 / Food incl events $11,298.50. Comps $816.14 / 5.36%. 389 guests. **Event**: Welcome party for Contractors Coalition \u2014 60 guests 6pm\u201310pm in the Garden. Lucas T did a reception station/taco bar; Justice, Micah & Kayla crushed service. Event food $7,800, net event sales $11,310. AM MOD: Maggie. PM MOD: Carey & Lucas. **Maintenance**: Lightspeed POS issues \u2014 every POS reset and tips on print-out don't match declared tips on POS. Injury: yes (Carey was off the floor longer than planned; team stepped up). Highlight: team recognizing Carey needed to step off and supporting each other."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7626.0,
+      "target": 8000.0,
+      "comps": 376.89,
+      "guests": 214,
+      "check_avg": 36.0,
+      "weather": "Crisp hints of summer",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Promising and swift first seating followed by a lull before the heavy 8pm turn. Foot traffic slowed after 11. Guests in up until last call but never reached capacity after midnight. Several members/investors, enthusiasts, birthdays, and friends \u2014 Lexi (friend of Haleigh), Destiny (friend of Cara), and two ladies from out of town visiting third time this week. Slow night but great vibes overall. Missed target by \u22124.7% ($7,626 vs $8,000). Food $940, Bev $6,586, Retail $100. Comps $376.89 (investors/members, friends, service recovery). 214 guests / $36 GCA. Door: delightful spring weather, 7 birthday celebrations; trendy 3-tops walk-in at open, full by 6:30pm; brief 8pm pause then walk-ins enjoying the weather kept us pretty much full until 1am. Welcomed Angie Casper (partner hotel in Seattle, industry friend of Willie), Gerry Rivera (EVP Diageo) with wife and son, Destiny from Saga/Super Bueno; new members Diego Garces and James Lipton; Lexi Winship with London friends. **No-shows**: Micah Rosen (2) at 8pm, Yeah S (2) at 10pm \u2014 charged. Top sellers: Masari, Material Control, Year of the Trees. MOD: Cara/Steves. Door: HP. Entered by Sean."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 12027.0,
+      "target": 13351.0,
+      "comps": 165.0,
+      "guests": 354,
+      "check_avg": 33.97,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "A relaxed Friday to offer some respite from yesterday's fast-paced event. Lots of police activity near Little Tokyo Galleria \u2014 several helicopters and nearby street closures. First couple hours sleepy. Picked up around 9pm with disco vibes. Small waitlist that never grew long; able to seat just about every group. Trying new techniques tomorrow to get tables down quicker. Passing watering off to server team at start of service was super helpful. Smooth speedy close. Missed target by \u22129.9% ($12,027 vs $13,351). Marquee $8,688 / Marquee food $1,198. Standing Room $3,339 / SR food $558. Total food $1,756. Comps $165 (birthdays, celebrations, DNLs, broken glasses). 354 guests / $33.97 GCA. **Maintenance**: smell much worse than past couple days. MOD: Joe/Gigi & Josh/Chef. Entered by Gigi. Highlight: a table telling Alissa \"our Grey Goose shots do not taste like Grey Goose \u2014 I know Grey Goose.\""
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 8094.01,
+      "target": 7859.0,
+      "comps": 72.35,
+      "guests": 176,
+      "check_avg": 36.79,
+      "weather": "Beautiful",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Beat target by +3.0% ($8,094 vs $7,859). Garden: consistent traffic with a steady pace from start to finish \u2014 cool comfortable weather kept the room active. D&C: quieter Friday with the bar steadily occupied but never at full capacity; mostly smaller parties; brief late push toward close, one final 2-top staying until lights up. Marquee bar $6,807.49, Garden $2,181.63. Food $908.19 (10.12% \u2014 big night for cheese plate, bread & butter; donuts 86'd second night, looking to bring back asap). Comps $72.35 / 0.8%. 176 guests / $36.79 GCA. Strong coordination between bartenders and bar backs. **Maintenance (continuing)**: same \u2014 bathroom and dish-pit issues. MOD: Cory/Josh. Entered by Josh. Highlight: \"H & Chicken! Thanks Jesse!\""
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 11231.0,
+      "target": 16000.0,
+      "comps": 245.0,
+      "guests": 251,
+      "check_avg": 44.74,
+      "weather": "Overcast and rainy on and off all day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Missed target by \u221229.8% ($11,231 vs $16,000) \u2014 soggy Friday capped volume across all rooms. MB Morning $1,421 / 50g (slow but steady, strong initial 8am push from hotel guests, lull until afternoon; team stayed on top of ABK and restocking). MB Evening $7,556 / 201g (small happy hour pop, room half full and died off around 4:30, then steady night staying near 80% capacity through the whole night; lots of birthday groups; chill well-paced night, early cuts; Sierra's first live shift went swimmingly; late campers had place occupied until midnight). Sun Club closed. Hot Eye $2,186 (sleepy start due to rain, picked up by 9:30 with big parties and out-of-towners; full house by 10pm \u2014 campers, 40th bday, reunions, bachelorettes; service industry pop toward midnight, most stayed till lights came on). Comps $245. Food $4,043. Notable visits: organizers of a local food tour group \u2014 interested in adding MG to their tours; 7-lady 45th high school reunion group having an absolute blast (gifted bottles of wine by surrounding tables). AM MOD: Gabby. PM MOD: Justin & Sukru. Entered by Alexis."
+    }
+  ]
+}

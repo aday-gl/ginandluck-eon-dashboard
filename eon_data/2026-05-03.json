@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-03",
+  "day_of_week": "Sunday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": null,
+      "target": null,
+      "comps": null,
+      "guests": null,
+      "check_avg": null,
+      "weather": null,
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No EON report submitted for 5/3 (Sunday). CCATL is typically closed Sundays \u2014 same pattern as 4/26 and prior."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1597.0,
+      "target": 2035.0,
+      "comps": 39.7,
+      "guests": 58,
+      "check_avg": 27.26,
+      "weather": "Nice. Cool.",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Pretty steady Sunday, not too busy. Saw familiar faces and new ones; one birthday party. Shared with all guests about tomorrow. Missed target by \u221221.5% ($1,597 vs $2,035). Food $0. **Reporting flag**: comp total is less than the number of comps that were issued \u2014 refresh and check-by-check review didn't resolve. Kala aware; she'll re-run numbers later today (voids also higher than expected). 58 guests / $27.26 GCA. Comps reported $39.7 / 2.5%. MOD: KE. Entered by BT. Highlight: \"The owl says 'beep beep'. IYKYK.\""
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 9470.3,
+      "target": 5848.5,
+      "comps": 296.79,
+      "guests": 224,
+      "check_avg": 38.93,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Super busy night that did not slow down after 5pm until last call. Lots of large parties \u2014 one group with close to 30 guests (leaving and joining). Net (excl events) $9,470.30 vs target $5,848.50 (+61.9%). Including events $19,190.30 (+228.1%). Segments: DC/AM $749.53 (great event vibes; only one IRD and 0 cocktails; Maggie huge help; ice teas looking good \u2014 thanks Felix), D&C PM $8,720.77. Food $2,276.80 / Food incl events $11,216.80. Comps $296.79 / 3.13%. 224 guests. **Event**: Day 2 of Contractors Coalition \u2014 60 guests 7am\u20135pm in all spaces. Josh did a big breakfast & lunch spread. Group filmed in the Garden and ran presentations in Vauxhall. Event food $8,940, net event sales $9,720. Looking forward to Day 3. AM MOD: Maggie & Lucas. PM MOD: Carey. **Maintenance**: printer cheat-code request. Highlight: Frank & family in for a chunk of the evening; Becky Rose celebrating her trip to World Class; Annie by for an oyster surprise."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4813.0,
+      "target": 4968.0,
+      "comps": 324.04,
+      "guests": 131,
+      "check_avg": 37.0,
+      "weather": "Final cold day of the year",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Essentially on plan \u2014 missed target by just \u22123.1% ($4,813 vs $4,968). Built to a chill flow in first turn \u2014 beautiful contrast between point (patrons ripping drinks faster than physically possible) and tables (most >2 groups composed of one enthusiast surrounded by reluctant pedestrian friends). Salon Sundays brings out the midtops. Beautiful finisher: duo sat at 12:30, two rounds, Dante coursed it out beautifully. Best conversation: served several concertgoers of H\u00fcsker D\u00fc alumnus Sugar \u2014 Gen X music chat. 5 investor cocktails, 9 solos, 4 large parties. Top sellers: Revenant, Material Control, Buckhorn Exchange/Year of the Trees (tie). Food $629, Bev $4,185. Comps $324.04 (majority a press thing for some influencers, then member discounts; ~$90 of DNL/gift items, low actually). 131 guests / $37 GCA. Door: room stayed steadily full right off the bat; smooth turns 7\u20138:30 hours kept energy up; never accumulated waitlist; able to plug-and-play walk-ins, reservations, joiners; full bar at last call (walk-in 5 for the win). 0 no-shows. Glassware: 1 martini, 1 Pilsner, 1 DOF, 1 N&N, 4 SOFs. Menu count 18. MOD: Seth & Alejandro. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4747.0,
+      "target": 4143.0,
+      "comps": 117.14,
+      "guests": 152,
+      "check_avg": 31.23,
+      "weather": "Chilly and cozy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Sunday Fun Day \u2014 beat target by +14.6% ($4,747 vs $4,143). Smooth evening with lots of lovely people. Met a couple interested in a cocktail class with Raven-Pokemon theme requested. Mitchell and his girlfriend came in (Julian got to meet her too). Room filled quickly during the first hour, then ups and downs with pacing \u2014 never overwhelming or too slow. Quite a few large parties. Never had to form a waitlist. Plenty of time to catch up on admin and small side projects. Mexican bolero, bossa nova and afro beats. Marquee $4,747 / Marquee food $591. Total food $591. Comps $117.14 (Jeffrey, Mitchell + Anna, Concha, double birthdays, Dennis). 152 guests / $31.23 GCA. **Kitchen**: Gigi got the tuna crudo down (per Chef). **Maintenance**: women's faucet is loose. MOD: Gigi & Chef Sel. Entered by Gigi. Highlight: watching the whole room at the peak of service under candlelight, laughing, enjoying drinks and good company."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": null,
+      "target": null,
+      "comps": null,
+      "guests": null,
+      "check_avg": null,
+      "weather": null,
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No EON report submitted for 5/3 (Sunday). DC is typically closed Sundays \u2014 same pattern as 4/26 and prior."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 6896.0,
+      "target": 8000.0,
+      "comps": 250.0,
+      "guests": 148,
+      "check_avg": 46.59,
+      "weather": "Sunny and cool",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Missed target by \u221213.8% ($6,896 vs $8,000). MB Morning $1,715 / 63g (slow but steady, strong street traffic and guests enjoying sunny weather after rainy weekend; pickup around 11am for a couple hours then tapered until happy hour; cuts made accordingly, downtime used for ABK/restocking). MB Evening $3,353 / 85g (pretty quiet Sunday \u2014 bar half full all shift, never more than 6 tables at a single time; all guests gone by 11:15; Tanner's first day of SA training). Sun Club $1,047 (busy throughout \u2014 strong walk-in traffic, many guests up to the rooftop; great weather; Brigid did a thorough clean of leaves/debris before opening; 5pm pop had her hustling 20 min, then chill close). Hot Eye $767 (very mellow night \u2014 normal bar crawl then empty until ~10; mostly filled with regulars and hotel guests; one guest said Elizabeth made the best pisco sour outside of Peru). Food $2,350. Comps $250. AM MOD: Gabby & Lex. PM MOD: Justin & Shannon. Entered by Sam B. Highlight: a local ghost tour guide (friend of Catie's family) in for a dinner date; Justin's brother visiting from out of town."
+    }
+  ]
+}
