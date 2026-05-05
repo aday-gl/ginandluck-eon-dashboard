@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-04",
+  "day_of_week": "Monday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1045.0,
+      "target": 1100.0,
+      "comps": 84.9,
+      "guests": 30,
+      "check_avg": 41.68,
+      "weather": "Sunny and 75",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Smooth Monday — missed target by just −5.0% ($1,045 vs $1,100). Openers tackled cleaning projects promptly. Full bar for the last two hours, with a nice pop at the end. Some inappropriate guests had to be asked to leave near close; MOD mediated well and last call ran smoothly. Food $28. Comps total $84.90 (mgr comp $41 + spill $15 + industry love $18.40 + O4W $10.50). 30 guests / $41.68 GCA. Liquor order coming tomorrow. MOD: MKZ. Highlight: Tré did a great job hosting the bar at end of night — multiple guests called out his hospitality on the way out."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2832.0,
+      "target": 3003.0,
+      "comps": 6.1,
+      "guests": 74,
+      "check_avg": 38.0,
+      "weather": "Nice. Warm.",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "May the 4th delivered fun — missed target by just −5.7% ($2,832 vs $3,003). Guests showed up in costumes and with light sabers. Trivia drew a crowd; the host had a hell of a time pronouncing some Star Wars names (favorite: Dantooine). Night died precipitously after trivia with just a handful of late guests. Food $24 (the persistent low-food pattern continues). Comps unusually low at $6.10 / 0.2% — Bacardi bought stuff for industry peeps. 74 guests / $38 GCA. **Reporting flag**: team honored one cash payment — \"see Kala.\" 86'd Sasaphrilla & Pilsner. MOD: KE. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6372.28,
+      "target": 5954.5,
+      "comps": 255.25,
+      "guests": 151,
+      "check_avg": 42.2,
+      "weather": "Rainy, drastic temperature drop",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Monday — beat target by +7.0% excl. events ($6,372.28 vs $5,954.50). Including events $11,472.28 (+92.7%). Segments: DC/AM $616.04 (no notes), D&C PM $5,756.24. Total food $1,457; food incl events $5,777. Comps $255.25 / 3.95%. 151 guests (Tock). **Kitchen flag**: 30-minute ticket times in the kitchen we really need to get a handle of — no guest complaints on wait times yet, but worth tracking. **Event**: Day 3 of Contractors Coalition wrapped — 60 guests 7am–2pm in Vauxhall. Most guests had checked out the prior day; group caught flights around noon. Nik & Nathan crushed the breakfast rush. Hosts thanked the team on the way out. Event food $4,320, net event sales $5,100. AM MOD: Maggie. PM MOD: Carey. **Maintenance**: \"Whoever out there is the printer whisperer, I extend my greatest gratitude\" — printer working like a charm tonight. Highlight: oyster Monday do be kinda poppin (thanks Rachel); Frank & Family back for round 2."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4210.0,
+      "target": 3219.0,
+      "comps": 22.2,
+      "guests": 113,
+      "check_avg": 37.0,
+      "weather": "First true day of late spring",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Best beat of the slate — +30.8% over target ($4,210 vs $3,219). Chill open; only 25 covers around 7:15PM. Glorious window from 9–10PM with a kaleidoscope of crowds: Anime YouTubers, Long Island Fernet coin hoarders, ladies pairing filthy martinis with oyster dozens, and YCombinator advertisement filmers. Dropped from 7 tables to 0 in under 15 minutes after that — \"Mondays fall off a cliff in such dramatic fashion.\" 100 oysters sold (\"till they sell out\" verbiage activated the floor). Food $687 / Bev $3,523. Comps very low at $22.20. 113 guests / $37 GCA. Top sellers: Oysters, First Time Listener, Masari, Cielo Asilo. Menu count 18. MOD: Cara & Alejandro. Door (HP): bar and room kept half full, larger parties hung till 12:15AM, no no-shows. Highlight: \"my king Aviv\" played several rounds of backgammon and offered prescient life advice. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4481.0,
+      "target": 4147.0,
+      "comps": 162.5,
+      "guests": 98,
+      "check_avg": 45.72,
+      "weather": "Good, slightly chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Monday — beat target by +8.1% ($4,481 vs $4,147). Started steady, picked up after 9pm with bigger parties; party of 8 quickly grew to 12 (accommodated in the 20s area, very appreciative). **SOLD OUT OF OYSTERS** — 86'd until next delivery (possibly tomorrow). Vic stepped up shucking duty (\"Shuck Norris\"); Mikey learned to shuck on the fly. Ran without a host — Natalie under the weather — but Ryan was an all-star, covering Host and Dish positions. Marquee $4,481 / Marquee food $1,186. Total food $1,186. Comps $162.50 (F&F, Industry, 2 birthdays, Yiban, Frank from Wolf & Crane, Griffin, employee discounts, DNL, misrings). 98 guests / $45.72 GCA (form value $95.34 was inconsistent with net/guests math — calculated value used for historical consistency). Sold 9 of 11 Tuna Crudo (low: 2 left); party of 12 ordered 6 Cheese Plates. Edwin & Raven on the bar. Hidden smell-good methods continuing to work — no guest complaints about smell. MOD: Mikey, Vic & Josh. Highlight: shucking oysters for Vic."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 1698.69,
+      "target": 1977.0,
+      "comps": 40.65,
+      "guests": 46,
+      "check_avg": 36.93,
+      "weather": "Perfect weather",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Smooth Monday at the 124 — missed target by −14.1% ($1,698.69 vs $1,977). Foot traffic light despite great weather, but walk-ins matched booked covers (23 / 23 = 46 guests). Team used the slower pace to really connect with guests; 3 of 4 employees on shift are in their first 90 days and absolutely crushed service. Food $320.85 / 18.9% — strong food mix, well above the venue's typical share. Marquee Bar $1,698.69; Garden closed. Comps $40.65 / 2.4% (Investor/F&F). 46 guests / $36.93 GCA. **Maintenance**: \"The Usual\" — Kevin's shorthand suggests sustained issues persist (1st bathroom sink, 2nd bathroom 86'd, host iPad battery, etc. — see prior runs). Kevin's note: \"Tonight was great…would love some more revenue lol.\" MOD: Kevin. Highlight: 3 of 4 first-90-day employees absolutely crushing service."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 3278.0,
+      "target": 6500.0,
+      "comps": 288.0,
+      "guests": 88,
+      "check_avg": 37.25,
+      "weather": "Summer vibes — warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Hardest miss of the night — −49.6% vs target ($3,278 vs $6,500). MB Morning $619 / 17g (pretty quiet, never more than three tables until a slight 1pm pop). MB Evening $1,736 / 71g (very quiet — anticipated crowd before the Star Wars showing across the street never materialized; a few people trickled in around 9:30 after the movie, plus a few industry pop-ins). Sun Club $455 (super nice day; Brigid had several hotel guests enjoying F&B but limited walk-in crowd). Hot Eye $0 (closed). Food $1,400. Comps $288. AM MOD: Justin & Shannon. PM MOD: James & Shannon. Kitchen note: not busy or steady; food orders bunched at the same times; guests particularly fussy with very specific orders, and a couple of comps/corrections \"for one silly reason or another.\" Highlight: ceviche r&d for tomorrow's Sun Club special is very good and fun; almost the entirety of Justin's immediate family came in for a drink before dinner. Entered by James."
+    }
+  ]
+}
