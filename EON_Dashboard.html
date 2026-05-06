@@ -116,32 +116,12 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 ::-webkit-scrollbar-track{background:#0F1117}
 ::-webkit-scrollbar-thumb{background:#2A2D3A;border-radius:3px}
 
-/* STANDUP VIEW */
-.standup-week-nav{display:flex;align-items:center;gap:12px;margin-bottom:20px}
-.standup-week-nav button{background:#1E2030;border:1px solid #2A2D3A;color:#AAA;padding:8px 18px;border-radius:6px;cursor:pointer;font-size:13px;font-weight:600}
-.standup-week-nav button:hover{border-color:#5BC88A;color:#5BC88A}
-.standup-week-label{flex:1;text-align:center;color:#E0E0E0;font-size:16px;font-weight:700}
-.standup-summary-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:14px;margin-bottom:28px}
-.standup-stat{background:#141620;border:1px solid #1E2030;border-radius:10px;padding:18px 22px}
-.standup-stat-label{font-size:11px;text-transform:uppercase;letter-spacing:.9px;color:#666;margin-bottom:6px}
-.standup-stat-value{font-size:24px;font-weight:700;color:#E0E0E0}
-.standup-stat-sub{font-size:13px;color:#888;margin-top:5px}
-.standup-venue-block{background:#141620;border:1px solid #1E2030;border-radius:10px;padding:20px 24px;margin-bottom:14px}
-.standup-venue-header{display:flex;align-items:center;gap:10px;margin-bottom:16px}
-.standup-venue-dot{width:11px;height:11px;border-radius:50%;flex-shrink:0}
-.standup-venue-name{font-size:15px;font-weight:700;color:#E0E0E0;flex:1}
-.standup-venue-total{font-size:15px;font-weight:700}
-.standup-section-label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:#555;margin-bottom:10px}
-.standup-venue-days{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px}
+/* SHARED DAY PIPS (used in daily notes week-context and weekly brief) */
 .standup-day-pip{font-size:12px;padding:5px 11px;border-radius:5px;background:#1E2030;color:#999;font-weight:600}
 .standup-day-pip.good{background:#1E3025;color:#5BC88A}
 .standup-day-pip.bad{background:#2A1820;color:#C85B70}
 .standup-day-pip.missing{background:#111;color:#444}
-.standup-notes-section{border-top:1px solid #1E2030;padding-top:14px}
-.standup-notes-label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;color:#555;margin-bottom:12px}
-.standup-note-item{display:flex;gap:12px;margin-bottom:10px;align-items:flex-start}
-.standup-note-dow{font-size:12px;font-weight:700;color:#888;min-width:34px;padding-top:2px;flex-shrink:0}
-.standup-note-text{font-size:14px;color:#C0C8CC;line-height:1.6;flex:1}
+.wbrief-pips{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:12px}
 /* EXPANDABLE VENUE NOTES */
 .vnotes-toggle{display:flex;align-items:center;justify-content:space-between;cursor:pointer;padding:8px 0 0;margin-top:10px;border-top:1px solid #1E2030;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#556;user-select:none;transition:color .15s}
 .vnotes-toggle:hover{color:#AAA}
@@ -149,13 +129,17 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .vnotes-toggle.open .vnotes-chevron{transform:rotate(180deg)}
 .vnotes-body{display:none;padding-top:12px}
 .vnotes-body.open{display:block}
-.vnotes-section{margin-bottom:12px}
+.vnotes-section{margin-bottom:14px}
 .vnotes-section-label{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:1px;color:#556;margin-bottom:6px}
 .vnotes-bullet{font-size:13px;color:#A8B0B8;line-height:1.55;padding-left:14px;position:relative;margin-bottom:5px}
 .vnotes-bullet::before{content:'\2022 ';position:absolute;left:0;color:#445}
 .vnotes-general{font-size:13px;color:#909898;line-height:1.6}
 .vnotes-meta{font-size:11px;color:#445;margin-top:10px;padding-top:8px;border-top:1px solid #1A1C28}
-/* EXEC SUMMARY PANELS \2014  override grid to stacked layout */
+/* WEEK CONTEXT in daily notes */
+.vnotes-week-note{display:flex;gap:10px;margin-bottom:7px;align-items:flex-start}
+.vnotes-week-dow{font-size:11px;font-weight:700;color:#455;min-width:30px;padding-top:2px;flex-shrink:0}
+.vnotes-week-text{font-size:12px;color:#6A7480;line-height:1.5;flex:1}
+/* EXEC SUMMARY PANELS */
 .exec-cols{display:flex!important;flex-direction:column!important;gap:14px!important}
 .exec-panel{background:#141620;border:1px solid #1A3028;border-radius:10px;padding:18px 22px}
 .exec-panel-title{font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:1.2px;margin-bottom:16px}
@@ -165,6 +149,22 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .exec-venue-name{font-size:14px;font-weight:600;color:#D0D0D0;flex:1}
 .exec-venue-pct{font-size:13px;font-weight:700}
 .exec-venue-sales{font-size:12px;color:#888}
+/* WEEKLY BRIEF section */
+.weekly-brief-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:14px;margin-top:4px}
+@media(max-width:860px){.weekly-brief-grid{grid-template-columns:1fr}}
+.wbrief-block{background:#141620;border:1px solid #1E2030;border-radius:10px;padding:18px 20px}
+.wbrief-header{display:flex;align-items:center;gap:10px;margin-bottom:14px}
+.wbrief-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
+.wbrief-name{font-size:14px;font-weight:700;color:#D8D8D8;flex:1}
+.wbrief-total{font-size:14px;font-weight:700;white-space:nowrap}
+.wbrief-pct{font-size:12px;font-weight:500}
+.wbrief-items{border-top:1px solid #1E2030;padding-top:10px}
+.wbrief-item{font-size:12px;color:#9098A0;line-height:1.6;margin-bottom:5px;display:flex;gap:7px;align-items:flex-start}
+.wbrief-item-icon{flex-shrink:0;min-width:14px}
+.wbrief-win .wbrief-item-icon{color:#5BC88A}
+.wbrief-challenge .wbrief-item-icon{color:#C85B70}
+.wbrief-highlight .wbrief-item-icon{color:#E8C45A}
+.wbrief-flag .wbrief-item-icon{color:#E8945A}
 
 </style>
 </head>
@@ -177,7 +177,6 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     <div class="view-tabs">
       <button class="view-tab active" onclick="switchView('daily')" id="tab-daily">Daily</button>
       <button class="view-tab" onclick="switchView('weekly')" id="tab-weekly">Weekly</button>
-      <button class="view-tab" onclick="switchView('standup')" id="tab-standup">Stand-Up</button>
       <button class="view-tab" onclick="switchView('mtd')" id="tab-mtd">MTD</button>
       <button class="view-tab" onclick="switchView('ytd')" id="tab-ytd">YTD</button>
     </div>
@@ -244,15 +243,10 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
   </div>
 
   
-  <!-- STANDUP VIEW -->
-  <div id="view-standup" style="display:none">
-    <div class="standup-week-nav">
-      <button onclick="standupNavWeek(-1)">&#8592; Prev</button>
-      <div class="standup-week-label" id="standup-week-label">&#8212;</div>
-      <button onclick="standupNavWeek(1)">Next &#8594;</button>
-    </div>
-    <div class="standup-summary-row" id="standup-summary-row"></div>
-    <div id="standup-venue-blocks"></div>
+  <!-- WEEKLY BRIEF (section inside Weekly tab) -->
+  <div class="card">
+    <div class="section-label">Weekly Brief &#8212; Venue Summaries</div>
+    <div class="weekly-brief-grid" id="weekly-brief-blocks"><!-- filled by JS --></div>
   </div>
 
   <!-- MTD VIEW -->
@@ -351,7 +345,7 @@ function stepDate(delta) {
 
 function switchView(v) {
   currentView = v;
-  ['daily','weekly','standup','mtd','ytd'].forEach(x => {
+  ['daily','weekly','mtd','ytd'].forEach(x => {
     document.getElementById('view-' + x).style.display = (x === v) ? '' : 'none';
     document.getElementById('tab-' + x).classList.toggle('active', x === v);
   });
@@ -365,8 +359,7 @@ function renderCurrentView() {
     day ? ' \u2014 ' + (day.day_of_week || '') + ', ' + (day.report_date || '') : '';
 
   if (currentView === 'daily')  renderDaily(day);
-  if (currentView === 'weekly') renderWeekly();
-  if (currentView === 'standup') renderStandup();
+  if (currentView === 'weekly') { renderWeekly(); renderWeeklyBrief(); }
   if (currentView === 'mtd')    renderMTD();
   if (currentView === 'ytd')    renderYTD();
 }
@@ -519,7 +512,7 @@ function renderDaily(day) {
         <span class="ops-item"><b>MOD:</b> ${v.mod||'\u2014'}</span>
         <span class="ops-item"><b>Weather:</b> ${v.weather||'\u2014'}</span>
       </div>
-      ${(v.narrative||v.notes_summary) ? '<div class="vnotes-toggle" onclick="toggleNotes(this)">Notes <span class="vnotes-chevron">&#9660;</span></div>' + '<div class="vnotes-body">' + parseNarrative(v.narrative||v.notes_summary) + '</div>' : ''}
+      ${(v.narrative||v.notes_summary||true) ? '<div class="vnotes-toggle" onclick="toggleNotes(this)">Notes <span class="vnotes-chevron">&#9660;</span></div>' + '<div class="vnotes-body">' + buildNotesBody(v, currentISO) + '</div>' : ''}
       ${tagsHtml}
       ${hlHtml ? `<div class="hls">${hlHtml}</div>` : ''}
       <!-- Sparkline: last 14 days for this venue -->
@@ -748,146 +741,153 @@ function renderWeekly() {
 }
 
 
-// \u2500\u2500 STANDUP VIEW \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
-var standupWeekOffset = 0; // 0 = most recent week
-
-function getStandupWeek(offset) {
-  var isos = AVAIL;
-  if (!isos.length) return { isos: [], monISO: '', sunISO: '' };
-  var latest = new Date(isos[isos.length - 1] + 'T12:00:00');
-  latest.setDate(latest.getDate() + offset * 7);
-  var day = latest.getDay(); // 0=Sun, 1=Mon...
-  var monday = new Date(latest);
-  monday.setDate(latest.getDate() - (day === 0 ? 6 : day - 1));
-  var sunday = new Date(monday);
-  sunday.setDate(monday.getDate() + 6);
-  var monISO = monday.toISOString().slice(0,10);
-  var sunISO = sunday.toISOString().slice(0,10);
-  var week = isos.filter(function(iso) { return iso >= monISO && iso <= sunISO; });
-  return { isos: week, monISO: monISO, sunISO: sunISO };
+// \u2500\u2500 SHARED WEEK HELPERS \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+var DOW_SHORT = ['Mon','Tue','Wed','Thu','Fri','Sat','Sun'];
+function isoDow(isoDate) {
+  var d = new Date(isoDate + 'T12:00:00Z');
+  var wd = d.getUTCDay();
+  return DOW_SHORT[wd === 0 ? 6 : wd - 1];
 }
-
-function fmtWeekLabel(monISO, sunISO) {
-  var m = new Date(monISO + 'T12:00:00');
-  var s = new Date(sunISO + 'T12:00:00');
-  var mo = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-  if (m.getMonth() === s.getMonth()) {
-    return mo[m.getMonth()] + ' ' + m.getDate() + '\u2013' + s.getDate() + ', ' + s.getFullYear();
+function getWeekDates(iso) {
+  var d = new Date(iso + 'T12:00:00Z');
+  var dow = d.getUTCDay();
+  var daysFromMon = (dow === 0) ? 6 : dow - 1;
+  var days = [];
+  for (var i = -daysFromMon; i <= 6 - daysFromMon; i++) {
+    var dd = new Date(d);
+    dd.setUTCDate(dd.getUTCDate() + i);
+    days.push(dd.toISOString().slice(0, 10));
   }
-  return mo[m.getMonth()] + ' ' + m.getDate() + ' \u2013 ' + mo[s.getMonth()] + ' ' + s.getDate() + ', ' + s.getFullYear();
+  return days;
 }
 
-function standupNavWeek(dir) {
-  standupWeekOffset += dir;
-  renderStandup();
-}
-
-function renderStandup() {
-  var weekInfo = getStandupWeek(standupWeekOffset);
-  var week = weekInfo.isos || [];
-  document.getElementById('standup-week-label').textContent =
-    week.length ? fmtWeekLabel(weekInfo.monISO, weekInfo.sunISO) + '  \u00B7  ' + week.length + ' days' : 'No data';
-
-  // \u2500\u2500 Aggregate week totals \u2500\u2500
-  var totalActual = 0, totalTarget = 0, totalGuests = 0;
-  week.forEach(function(iso) {
-    var day = HISTORY[iso]; if (!day) return;
-    day.venues.forEach(function(v) {
-      if (!v.missing) {
-        totalActual += v.net_sales || 0;
-        totalTarget += v.target    || 0;
-        totalGuests += v.guests    || 0;
-      }
-    });
-  });
-  var pct = totalTarget > 0 ? ((totalActual / totalTarget - 1) * 100) : null;
-  var pctStr   = pct !== null ? (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%' : '\u2014';
-  var pctColor = pct !== null ? (pct >= 0 ? '#5BC88A' : '#C85B70') : '#555';
-  var varDollars = Math.round(totalActual - totalTarget);
-  var varSign = varDollars >= 0 ? '+' : '';
-
-  document.getElementById('standup-summary-row').innerHTML =
-    '<div class="standup-stat">' +
-      '<div class="standup-stat-label">Week Actual</div>' +
-      '<div class="standup-stat-value">$' + Math.round(totalActual).toLocaleString() + '</div>' +
-      '<div class="standup-stat-sub">vs $' + Math.round(totalTarget).toLocaleString() + ' target</div>' +
-    '</div>' +
-    '<div class="standup-stat">' +
-      '<div class="standup-stat-label">vs Target</div>' +
-      '<div class="standup-stat-value" style="color:' + pctColor + '">' + pctStr + '</div>' +
-      '<div class="standup-stat-sub">' + varSign + '$' + Math.abs(varDollars).toLocaleString() + ' variance</div>' +
-    '</div>' +
-    '<div class="standup-stat">' +
-      '<div class="standup-stat-label">Total Guests</div>' +
-      '<div class="standup-stat-value">' + Math.round(totalGuests).toLocaleString() + '</div>' +
-      '<div class="standup-stat-sub">across ' + week.length + ' day' + (week.length !== 1 ? 's' : '') + '</div>' +
-    '</div>';
-
-  // \u2500\u2500 Per-venue blocks \u2500\u2500
+// \u2500\u2500 WEEKLY BRIEF (rendered inside Weekly tab) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+function renderWeeklyBrief() {
+  var weekDates = getWeekDates(currentISO);
   var html = '';
   VENUE_META.forEach(function(vm) {
-    var vActual = 0, vTarget = 0, vGuests = 0, hasData = false;
-    var dayPips = '';
-    var narratives = [];
+    var days = [];
+    weekDates.forEach(function(dayISO) {
+      var dayH = HISTORY[dayISO];
+      if (!dayH) return;
+      var v = dayH.venues.find(function(x) { return x.id === vm.id; });
+      if (v && !v.missing && v.net_sales != null) days.push({ iso: dayISO, v: v });
+    });
+    if (!days.length) return;
 
-    week.forEach(function(iso) {
-      var day = HISTORY[iso]; if (!day) return;
-      var v = day.venues.find(function(x) { return x.id === vm.id; });
-      var dow = (day.day_of_week || iso).slice(0, 3);
-      if (!v || v.missing) {
-        dayPips += '<span class="standup-day-pip missing">' + dow + '</span>';
+    var totalActual = days.reduce(function(s, d) { return s + (d.v.net_sales || 0); }, 0);
+    var totalTarget = days.reduce(function(s, d) { return s + (d.v.target || 0); }, 0);
+    var weekPct = totalTarget > 0 ? ((totalActual / totalTarget - 1) * 100) : null;
+    var weekPctStr = weekPct !== null ? (weekPct >= 0 ? '+' : '') + weekPct.toFixed(1) + '%' : '\u2014';
+    var weekColor  = weekPct !== null ? (weekPct >= 0 ? '#5BC88A' : '#C85B70') : '#888';
+
+    // Day pips
+    var pips = '';
+    weekDates.forEach(function(dayISO) {
+      var dayH = HISTORY[dayISO];
+      var v = dayH && dayH.venues.find(function(x) { return x.id === vm.id; });
+      if (!v || v.missing || v.net_sales == null) {
+        if (dayH) pips += '<span class="standup-day-pip missing">' + isoDow(dayISO) + '</span>';
         return;
       }
-      hasData = true;
       var s = v.net_sales || 0, t = v.target || 0;
-      vActual += s; vTarget += t; vGuests += v.guests || 0;
       var p = t > 0 ? ((s / t - 1) * 100) : null;
       var cls = p !== null ? (p >= 0 ? 'good' : 'bad') : '';
-      var pLabel = p !== null ? ' ' + (p >= 0 ? '+' : '') + p.toFixed(1) + '%' : '';
-      dayPips += '<span class="standup-day-pip ' + cls + '">' + dow + pLabel + '</span>';
-      var narr = v.narrative || v.notes_summary || '';
-      if (narr) narratives.push({ dow: dow, text: narr });
+      var lbl = p !== null ? ' ' + (p >= 0 ? '+' : '') + p.toFixed(0) + '%' : '';
+      pips += '<span class="standup-day-pip ' + cls + '">' + isoDow(dayISO) + lbl + '</span>';
     });
 
-    if (!hasData && week.length > 0) return;
+    // Best / worst nights
+    var sorted = days.filter(function(d) { return (d.v.target || 0) > 0; })
+      .map(function(d) { return { iso: d.iso, pct: (d.v.net_sales / d.v.target - 1) * 100 }; })
+      .sort(function(a, b) { return b.pct - a.pct; });
+    var best  = sorted.length ? sorted[0] : null;
+    var worst = sorted.length > 1 ? sorted[sorted.length - 1] : null;
 
-    var vPct   = vTarget > 0 ? ((vActual / vTarget - 1) * 100) : null;
-    var vPctStr = vPct !== null ? (vPct >= 0 ? '+' : '') + vPct.toFixed(1) + '%' : '\u2014';
-    var vColor  = vPct !== null ? (vPct >= 0 ? '#5BC88A' : '#C85B70') : '#888';
-
-    html += '<div class="standup-venue-block">';
-
-    // Header row: dot + name + weekly total
-    html += '<div class="standup-venue-header">';
-    html += '<div class="standup-venue-dot" style="background:' + vm.color + '"></div>';
-    html += '<div class="standup-venue-name">' + vm.full + '</div>';
-    html += '<div class="standup-venue-total" style="color:' + vColor + '">';
-    html += '$' + Math.round(vActual).toLocaleString();
-    html += ' <span style="font-size:13px;font-weight:500;color:' + vColor + '">(' + vPctStr + ')</span>';
-    html += '</div></div>';
-
-    // Daily Performance section
-    html += '<div class="standup-section-label">Daily Performance</div>';
-    html += '<div class="standup-venue-days">' + dayPips + '</div>';
-
-    // Notes This Week section
-    if (narratives.length) {
-      html += '<div class="standup-notes-section">';
-      html += '<div class="standup-notes-label">Notes This Week</div>';
-      narratives.forEach(function(n) {
-        html += '<div class="standup-note-item">';
-        html += '<div class="standup-note-dow">' + n.dow + '</div>';
-        html += '<div class="standup-note-text">' + n.text + '</div>';
-        html += '</div>';
+    // Highlights & flags from narratives
+    var highlights = [], flags = [];
+    days.forEach(function(d) {
+      var narr = d.v.narrative || d.v.notes_summary || '';
+      if (!narr) return;
+      var hm = narr.match(/[Hh]ighlight:\s*(.+?)(?:\n|\.|$)/);
+      if (hm) highlights.push(isoDow(d.iso) + ': ' + hm[1].trim());
+      var fm = narr.match(/\*\*([^*]+)\*\*:\s*([^\n]+)/g);
+      if (fm) fm.slice(0, 1).forEach(function(f) {
+        var m = f.match(/\*\*([^*]+)\*\*:\s*(.+)/);
+        if (m) flags.push(isoDow(d.iso) + ': ' + m[2].trim().substring(0, 90));
       });
-      html += '</div>';
-    }
+    });
 
-    html += '</div>'; // .standup-venue-block
+    html += '<div class="wbrief-block">';
+    html += '<div class="wbrief-header">'
+      + '<div class="wbrief-dot" style="background:' + vm.color + '"></div>'
+      + '<div class="wbrief-name">' + vm.full + '</div>'
+      + '<div class="wbrief-total" style="color:' + weekColor + '">'
+      + '$' + Math.round(totalActual).toLocaleString()
+      + ' <span class="wbrief-pct">(' + weekPctStr + ')</span></div>'
+      + '</div>';
+    html += '<div class="wbrief-pips">' + pips + '</div>';
+    html += '<div class="wbrief-items">';
+    if (best && best.pct > 5)
+      html += '<div class="wbrief-item wbrief-win"><span class="wbrief-item-icon">&#x2713;</span><span>Best: ' + isoDow(best.iso) + ' (' + (best.pct >= 0 ? '+' : '') + best.pct.toFixed(1) + '%)</span></div>';
+    if (worst && worst.pct < -5)
+      html += '<div class="wbrief-item wbrief-challenge"><span class="wbrief-item-icon">&#x2193;</span><span>Challenge: ' + isoDow(worst.iso) + ' (' + worst.pct.toFixed(1) + '%)</span></div>';
+    highlights.slice(0, 2).forEach(function(h) {
+      html += '<div class="wbrief-item wbrief-highlight"><span class="wbrief-item-icon">&#x2605;</span><span>' + h + '</span></div>';
+    });
+    flags.slice(0, 1).forEach(function(f) {
+      html += '<div class="wbrief-item wbrief-flag"><span class="wbrief-item-icon">&#x26A0;</span><span>' + f + '</span></div>';
+    });
+    if (!highlights.length && !flags.length && (!best || best.pct <= 5) && (!worst || worst.pct >= -5))
+      html += '<div class="wbrief-item"><span class="wbrief-item-icon" style="color:#334">&#x2014;</span><span style="color:#445">Steady week, no major variances</span></div>';
+    html += '</div></div>';
   });
+  var el = document.getElementById('weekly-brief-blocks');
+  if (el) el.innerHTML = html || '<p style="color:#555;padding:20px 0">No data this week.</p>';
+}
 
-  document.getElementById('standup-venue-blocks').innerHTML =
-    html || '<p style="color:#555;text-align:center;padding:40px 0">No data for this week</p>';
+// \u2500\u2500 WEEK CONTEXT (injected into Daily venue notes) \u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500
+function buildWeekContext(venueId, iso) {
+  var weekDates = getWeekDates(iso);
+  var pips = '', notes = '', hasPips = false;
+  weekDates.forEach(function(dayISO) {
+    var dayH = HISTORY[dayISO];
+    var v = dayH && dayH.venues.find(function(x) { return x.id === venueId; });
+    if (!v || v.missing || v.net_sales == null) {
+      if (dayH) pips += '<span class="standup-day-pip missing">' + isoDow(dayISO) + '</span>';
+      return;
+    }
+    hasPips = true;
+    var s = v.net_sales || 0, t = v.target || 0;
+    var p = t > 0 ? ((s / t - 1) * 100) : null;
+    var cls = p !== null ? (p >= 0 ? 'good' : 'bad') : '';
+    var lbl = p !== null ? ' ' + (p >= 0 ? '+' : '') + p.toFixed(0) + '%' : '';
+    pips += '<span class="standup-day-pip ' + cls + '">' + isoDow(dayISO) + lbl + '</span>';
+    if (dayISO !== iso) {
+      var narr = v.narrative || v.notes_summary || '';
+      if (narr) {
+        var brief = narr.replace(/\*\*[^*]+\*\*:/g,'').replace(/\n/g,' ').trim();
+        if (brief.length > 130) brief = brief.substring(0,130) + '\u2026';
+        notes += '<div class="vnotes-week-note">'
+          + '<div class="vnotes-week-dow">' + isoDow(dayISO) + '</div>'
+          + '<div class="vnotes-week-text">' + brief + '</div>'
+          + '</div>';
+      }
+    }
+  });
+  if (!hasPips) return '';
+  return '<div class="vnotes-section">'
+    + '<div class="vnotes-section-label">This Week</div>'
+    + '<div class="wbrief-pips">' + pips + '</div>'
+    + (notes ? '<div>' + notes + '</div>' : '')
+    + '</div>';
+}
+
+function buildNotesBody(v, iso) {
+  var html = '';
+  if (v.narrative || v.notes_summary) html += parseNarrative(v.narrative || v.notes_summary);
+  html += buildWeekContext(v.id, iso);
+  return html;
 }
 
 
