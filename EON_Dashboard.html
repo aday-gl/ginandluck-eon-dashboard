@@ -884,10 +884,7 @@ function buildWeekContext(venueId, iso) {
 }
 
 function buildNotesBody(v, iso) {
-  var html = '';
-  if (v.narrative || v.notes_summary) html += parseNarrative(v.narrative || v.notes_summary);
-  html += buildWeekContext(v.id, iso);
-  return html;
+  return parseNarrative(v.narrative || v.notes_summary);
 }
 
 
