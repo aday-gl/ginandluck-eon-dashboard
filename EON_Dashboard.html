@@ -512,7 +512,7 @@ function renderDaily(day) {
         <span class="ops-item"><b>MOD:</b> ${v.mod||'\u2014'}</span>
         <span class="ops-item"><b>Weather:</b> ${v.weather||'\u2014'}</span>
       </div>
-      ${(v.narrative||v.notes_summary||true) ? '<div class="vnotes-toggle" onclick="toggleNotes(this)">Notes <span class="vnotes-chevron">&#9660;</span></div>' + '<div class="vnotes-body">' + buildNotesBody(v, currentISO) + '</div>' : ''}
+      ${(v.narrative||v.notes_summary||true) ? '<div class="vnotes-toggle open" onclick="toggleNotes(this)">Notes <span class="vnotes-chevron">&#9660;</span></div>' + '<div class="vnotes-body open">' + buildNotesBody(v, currentISO) + '</div>' : ''}
       ${tagsHtml}
       ${hlHtml ? `<div class="hls">${hlHtml}</div>` : ''}
       <!-- Sparkline: last 14 days for this venue -->
