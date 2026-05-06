@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-05",
+  "day_of_week": "Tuesday",
+  "iso_date": "2026-05-05",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 2220.0,
+      "target": 2145.0,
+      "comps": 90.15,
+      "guests": 84,
+      "check_avg": 26.43,
+      "weather": "High 80, low 53",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Lovely Cinco de Mayo Tuesday — beat target by +3.5% ($2,220 vs $2,145). Started this week's new 1pm opening shift; opener focused on prepping garnishes/juices through the chill afternoon (note: keep par communication tight as we adjust). Small pop 6:30–7pm, opener cut just before 8:30pm. BOH ticket times smooth. Big push at end of night, as expected. Food $267. Comps $90.15. 84 guests / $26.43 GCA. 86: Coke, Diet, Fernet Branca. MOD: MKZ / JK. Kitchen: prep for menu shift — make sure we communicate out-of-stock items to guests during transition. Highlight: closing out Cinco de Mayo with neighbors. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2132.0,
+      "target": 1886.0,
+      "comps": 15.15,
+      "guests": 55,
+      "check_avg": 38.77,
+      "weather": "Mild, partly cloudy/overcast, rain later in the evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Tuesday — beat target by +13.0% ($2,132 vs $1,886). Larger-than-average bingo crowd stayed through the end; cleared thoroughly after, then a modest, steady late crowd with industry friends (old and new) joining toward the end. Eli completed his first prep shift. Food only $4 — the multi-week sub-$130 food pattern continues (now 10 of last 11 reported days). Comps $15.15 / 0.7% (industry). 55 guests / $38.77 GCA. 86: KC Sarsaparilla; thread add: 86 Pathfinder Negroni. MOD & Chef: KE & MD. Highlight: a bingo regular returning after months away brought her dog — \"the most well-behaved guest I have ever served.\" Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8925.84,
+      "target": 8825.0,
+      "comps": 120.84,
+      "guests": 183,
+      "check_avg": 48.78,
+      "weather": "Cinco de Blizzard",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Tuesday — beat target by +1.1% ($8,925.84 vs $8,825). Segments: DC/AM $1,100.04, D&C PM $7,825.80. Total food $2,290.40 (~25.7% — strong food share). Gloomy weather kept hotel guests in the lobby with mellow vibes (few IRDs); evening saw a few large parties and a notable late-night Sports Fans crowd. **Kitchen highlight**: BOH made one last push right at closing time and chose to make hungry guests feel appreciated. Comps $120.84 / 1.47%. 183 guests (Tock). **Incident reported** (yes flag — no detail in narrative; follow up to confirm). AM MOD: Lucas. PM MOD: Carey. **Maintenance**: NA. Highlight: \"amazing showing of camaraderie\" — Dom helped, Kayla stayed past her cut to assist on the floor, Micah & Jordan gracefully accommodated the late-night Sports Fans. Shoutouts: Reggie (DC/AM), Archer (kitchen). Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4749.0,
+      "target": 4866.0,
+      "comps": 71.0,
+      "guests": 136,
+      "check_avg": 34.92,
+      "weather": "Glorious",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "A near miss — −2.4% vs target ($4,749 vs $4,866) on a gorgeous Cinco de Mayo summer night. Slow, ominous start, then ROCKED 7:30PM–midnight with a wide guest mix — first dates, longtime friends, fellow travelers. **Lonesome Dove was the star** — sold 18 (top seller, second only to almost any cocktail on the menu in recent memory); Material Control 14 (#2); First Time Listener 12 (#3). Tequila/Mezcal cocktails dominated thanks to the holiday. Seth made a friend-of-Emma's birthday extra special with welcome drinks and a cake. Vestibule came down today (\"first true day with no vestibule\") — full room 8–11pm including DC fans, Chartreuse's Marisela, members. Steady decay after 11:30. Food $539 / Bev $3,741. Comps $71 (F&F + 1 investor). 136 guests / form-stated $36 GCA (calc $34.92 used for consistency). Menu count 18. No glassware breakage. MOD & Chef: Cara + Steeves. **Membership flag**: a member who opted into texts via the waitlist did NOT receive any texts even when re-added manually — same guest as last time. Cara gave him her cell in the meantime; flagging for product/membership team. Service reminder from Mari: don't forget to plug in the 2 table lamps at end of night. Entered by Marielle."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4763.0,
+      "target": 4044.0,
+      "comps": 119.0,
+      "guests": 111,
+      "check_avg": 42.91,
+      "weather": "Mild (chilly note in narrative)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Tuesday — beat target by +17.8% ($4,763 vs $4,044). Nice rush soon after open filling the bar top and half the room. Mitchell trained behind the bar tonight and crushed it. Brief lull around 8:30pm, then a refill around 9:30pm with a small waitlist that cleared quickly. Room stayed full the rest of the night. **National Lamb Burger night** — sold a lot of them; busy night for the kitchen but Vic handled with ease. Total food $1,239. Comps $119 (industry from London, birthday, DNL). 111 guests / form-stated $93.40 (calc $42.91 used for historical consistency). MOD & Chef: Joe + Vic. No incidents. Highlight: \"All the burgers!!\" Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2877.10,
+      "target": 3475.0,
+      "comps": 3.70,
+      "guests": 80,
+      "check_avg": 35.96,
+      "weather": "Perfect weather",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Tuesday at the 124 — missed target by −17.2% ($2,877.10 vs $3,475). Slower-paced evening — most reservations before 8pm; decent walk-ins after, with the bar top as the primary seat (80 covers / 21 booked / 59 walk-ins). BOH smooth: ticket times kept low, all dishes to spec; food $387 / 13.5%. Comps very low at $3.70 / 1.2% (Investor). 80 guests / $35.96 GCA. **Maintenance — NEW**: Hot Water Heater issue — tech on site today and was UNABLE TO FIX; awaiting quote for repair and/or replacement. Bathroom faucet — still searching for product information. **Training note**: Mariah did a good job at the host stand and provided extra hands on the floor. MOD: Cory / Kevin. Garden closed (a party asked to sit out to enjoy the weather). Highlight: a guest in town for a work conference came in last night, came back tonight, and said he'd be back tomorrow. Entered by Kevin."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 3483.0,
+      "target": 6500.0,
+      "comps": 49.0,
+      "guests": 79,
+      "check_avg": 44.09,
+      "weather": "Sunny/warm during day, cool and windy in the evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Hardest miss again — −46.4% vs target ($3,483 vs $6,500). MB Morning $490 / 20g (strong 8am push from departing hotel guests, then lull and a few tables). MB Evening $2,592 / 59g — sleepy crowd of folks grabbing a drink or two; locals \"taking it easy.\" Cuts came early (Tia before 7, Eva/Emma ~8:30, Eryn shortly after). 10pm hour brought the night's biggest pop — bar went from empty to overflow with guests at booths around the bar. Sun Club $400 (cool windy evening killed walk-in; one guest, Sofia closed by 9pm). Hot Eye $0 (closed). Food $1,346. Comps $49. 79 guests (MB only) / $44.09 GCA. AM MOD: Gabby / Franck. PM MOD: James and Sukru. Kitchen: slow but smooth — \"comped no food, nothing sent back.\" **Reputational highlight**: Nicole Moore from Cobblestone Tours came by to confirm she could keep bringing tour groups — said MG stands out in the area for its kind/patient staff, clean restrooms, and the beautiful space. James is rightfully proud of how the team is showing up. **Pattern flag**: MG has now missed target on 5 of the last 6 reported days (the only beat in the recent stretch was 4/30). Entered by James."
+    }
+  ]
+}
