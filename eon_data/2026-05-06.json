@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-06",
+  "day_of_week": "Wednesday",
+  "iso_date": "2026-05-06",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 870.0,
+      "target": 1617.0,
+      "comps": 24.60,
+      "guests": 30,
+      "check_avg": 29.02,
+      "weather": "Cloudy with scattered thunderstorms; mid 70s daytime / mid 60s low",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Quiet Wednesday — missed target by -46.2% ($870 vs $1,617). Weather was not on our side (cloudy afternoon, on/off rain through the evening). Small pop around 6-7pm with most Mezz tables sat and a few guests at the bar. With the rain through the night, foot traffic was light in the later hours. Several industry folks joined late — always a pleasure. Opener cut around 9pm; no barback. Food $87. Comps $24.60. 30 guests / $29.02 GCA. 86: Super Martini, Fernet Branca, Coke, Cheeseball, Sea Salt Chips, Spicy Pimento Chips, Lemon Pepper, Spicy Pep, all GF Pockets. MOD: MKZ // JK. Kitchen: keep tight FOH/BOH count communication as we approach the weekend; new menu next week. Highlight: an Executive Chef from the Thompson Hotel (Patty's former colleague) came in. Entered by JK."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2237.0,
+      "target": 1649.0,
+      "comps": 4.0,
+      "guests": 79,
+      "check_avg": 28.32,
+      "weather": "Rainy and chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Big Wednesday driven by an event — beat estimated target by +35.7% ($2,237 vs ~$1,649 last-Wed baseline; submitter reported $0 target — \"didn't have it handy\"). Event sales $2,200 — went great by all accounts. Regular service was busy too; whole bar surrounded shortly after 7pm. Team navigated the pop while learning the new handhelds. Food only $5 — sub-$130 food pattern continues. Comps $4 / 0.18%. ~79 guests / $28.32 GCA. **Maintenance**: Kitchen door is broken. MOD & Chef: KK / MD. Highlight: meeting Kira (NJ folks bonding over Taylor Ham). Entered by JO. **Note**: target backfilled from 4/29 Wednesday ($1,649); confirm true 5/6 target with Kala for an accurate vs-target."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 10112.43,
+      "target": 8097.50,
+      "comps": 467.85,
+      "guests": 237,
+      "check_avg": 42.67,
+      "weather": "Surprised with sun and light wind (forecast was 'winter wasteland')",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Wednesday — beat target by +24.9% ($10,112.43 vs $8,097.50) on regular service alone, **plus $4,829 in event net sales** for a true total of $14,941.43. Segments: DC/AM $1,096.75, D&C PM $9,015.68. Total food $2,156.70 (regular) + $4,048 event = $6,204.70. Comps $467.85 / 4.65%. 237 guests (Tock). Weather forecast called for a 'record snow storm' — instead got sun and light wind, which juiced walk-in volume. **Events (3)**: Handel's Ice Cream AM meeting + lunch (10/20 guests, $4,010 F&B); YPO Manhattan small meeting in Suite 6A (7 guests, $819 F&B; returning for Day 2 Thursday). DC/AM: Reggie ruled the day; black tea making, super clean start to finish, fun cocktail day; low: 12oz hot cups, miel, smoked bourbon, oat, proprietors; 86: miso sesame, kombucha. Kitchen: nice early pop, chill thereafter, excellent pre-close (Antonio + Marv); 911 list: salmon portions (need fix), sunchoke chips, shaved fennel, burger portions, corn puree, champagne mignonette, tarragon aioli; 86: shaved fennel, parsley chopped. AM MOD: Evan. PM MOD: Eli & Archer. Highlight: **Elio's last FOH Lead shift before leaving** — felt 'beyond supported' all day; Sam crushed her host return; Kayla expertly cut a daydrinking table and got them safely to their rooms; Frank ran next door to Fin N Tonic for oranges. No incidents. Maintenance: NA. Entered by ELIO."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 5075.0,
+      "target": 5200.0,
+      "comps": 110.24,
+      "guests": 103,
+      "check_avg": 38.0,
+      "weather": "Rainy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Near miss — -2.4% vs target ($5,075 vs $5,200) on a rainy Wednesday. Slow trickle of mostly pairs and date nights — rare to see tables larger than 2; Thomas got creative seating couples to minimize a waitlist. **Top sellers**: First Time Listener, Material Control, Year of the Trees. Food $395 / Bev $4,680. Comps $110.24. 103 guests / $38 GCA (form-stated). Menu count 18/18. Glassware breakage: 1 SOF, ramekin, sidecar votive. **Door notes (Stefania)**: balmy double-rainbow opening turn drew west coast guests at the bar; brief 8pm reservation cluster filled the room without a waitlist; rain escalated ~9pm and slowed foot traffic. Hospitality moments: walked umbrellas to a guest stranded at Yuca Bar; sheltered a neighborhood resident with an umbrella who had never been before and now plans to come in. Read a bit of *The Power Broker* during slower stretches — sparked conversations with a bond broker and an affordable-housing administrator. Made the night of an injured tourist (climbing accident) by seating him at T1. Curated table assignments to maximize harmonies (e.g. seating one couple at service so they could vibe with the service bartender). MOD & Chef: Cara + Steeves. No-shows charged. Entered by Stef. **Note**: form's date field said 'Wednesday 5/7' (typo) — this is the 5/6 service report based on submission timing and crew."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5174.0,
+      "target": 4501.0,
+      "comps": 169.17,
+      "guests": 120,
+      "check_avg": 43.12,
+      "weather": "Warm and beautiful",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Wednesday — beat target by +14.9% ($5,174 vs $4,501). Ryan led a strong pre-shift with team quizzes — got everyone in good spirits. Mitchell held service until 11pm and did a stellar job; Meech crushed barback. **Single server Jaz handled the entire room solo** — slower than the team's usual crazy Wednesday rush but absolutely smooth. Waitlist formed with ~5 parties at peak; everyone seated within ~10 min (correct call to skip the 20s). Lots of 2- and 3-tops, a few larger groups. Food $947 (close to $1k on a Wednesday — Vic also got a lot of cleaning done). Comps $169.17 (Camphor Exec Chef Luis, Jeffrey from Loreto, Jordan/F&F). 120 guests / $43.12 GCA. **86**: Aval Cider, Fortaleza Repo + Still Strength, Probitas. **SEVERELY LOW Campari** — purchasing flag. No incidents. No-shows charged. MOD & Chef: Gigi & Vic. Highlight: a guest super stoked over Police and Thieves; also met an EV-frequent guest who knows Thomas. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2734.0,
+      "target": 4272.0,
+      "comps": 27.0,
+      "guests": 81,
+      "check_avg": 36.45,
+      "weather": "Cool",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Wednesday at the 124 — missed target by -36.0% ($2,734 vs $4,272) on regular service; **$1,200 in event sales** brings total to $3,934 (-7.9% vs target). Strong start: a couple of large tables including cocktail-party guests staying for another round. Quieted by 7pm; team took advantage with ABK — back hall, kitchen pass, **Sasha deep-cleaned the garden bar** (shoutout). Final reservation sat 10:30; closed with bar walk-ins; held last call until ~12 to capture extra revenue. Food $343 / 12.5%. Voids $0. Comps $27. 81 guests (50 walk-ins / 31 reservations) / $36.45 GCA. Garden closed. Kitchen: slow night but decent food share for the low cover count; guests less inclined to order food as the night wore on; closed kitchen after last reso sat. **Maintenance — CARRYOVER**: 2nd bathroom / water heaters (Hot Water Heater issue from 5/5 unresolved; awaiting quote). What went well: Cocktail Class / ABK. Improvements: avoiding waste (event food could have been portioned smaller); confirming Dealer's Choice ingredients before sending tickets. MOD: Cory. No incidents. No-shows charged. Highlight: ABK ABK ABK — Sasha shoutout. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 5473.0,
+      "target": 7500.0,
+      "comps": 251.70,
+      "guests": 127,
+      "check_avg": 43.09,
+      "weather": "Sunny, beautiful, almost hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Continued miss — -27.0% vs target ($5,473 vs $7,500). MB Morning $734 / 22 guests (strong 8am push from hotel guests, then slow/steady — guests outside enjoying the weather). MB Evening $4,739 / 105 guests (started quiet with 25 covers booked; **solid 7:30pm pop with all tables full and table flipping for walk-ins for half an hour**; chill again by 8:30; good after-10 drinks crowd, but lighter than recent; bar stayed half-full most of the night; one camping table held the team past midnight). Sun Club $462 (Kelwin saw a decent ~3pm pop, no new business in the last hour). Hot Eye $0 (closed — **3rd straight day Hot Eye dark**). Total food $2,161. Event sales $0. Comps $251.70. 127 MB guests / $43.09 GCA. AM MOD: Gabby / Lex. PM MOD: Justin / Sukru. Operated PM with 3 servers and Aimee training to close barback with Elizabeth, no host. Kitchen: smoooooth sailing through the 7:30 pop. No incidents. Highlight: Chase + Korie birthday celebration; Justin's old regular came with her new husband for a fabulous dinner; **Aimee really taking hold of the BB role**. **Pattern flag**: MG has now missed target 6 of the last 7 reported days; Hot Eye Mon/Tue/Wed dark trend is solidifying — confirm if this is the new schedule. Entered by Justin. **Note**: form's date field said 5/7 (typo) — this is the 5/6 service date report based on midnight submission."
+    }
+  ]
+}
