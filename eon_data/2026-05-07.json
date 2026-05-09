@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-07",
+  "day_of_week": "Thursday",
+  "iso_date": "2026-05-07",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1699.0,
+      "target": 2113.0,
+      "comps": 39.9,
+      "guests": 65,
+      "check_avg": 26.13,
+      "weather": "Partly cloudy; highs low 70s / lows around 60",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Thursday — missed target by -19.6% ($1,699 vs $2,113). A few Meal Deal guests (6) joined at the start; slight dip in flow around 6pm when the closer arrived, picked up modestly 8-10pm with the MOD stepping in, then quiet again with a smooth last call. No big late-night pop. Bar team got out from behind the rail to take care of folks at tables — keep that up during slower hours and stay curious with guests (live in the area? first time? spirit prefs?). Push reviews when good Connection moments happen. Opener cut around 8:45pm; cheater bottles set up for Well 200 ahead of weekend. No barback. Food $157. Comps $39.90. 65 guests / $26.13 GCA. **86s**: super martini, fernet, lemon pepper, all GF pockets, cheese ball, spicy pimento + sea salt chips. MOD: MKZ // JK. Highlight: Kya from Il Premio came in three different times with three different friends — part of their management team, Espolon fan, frequent guest. Entered by JK."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2436.0,
+      "target": 3682.0,
+      "comps": 94.15,
+      "guests": 79,
+      "check_avg": 30.84,
+      "weather": "Cool but nice",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Quiet Thursday — missed target by -33.8% ($2,436 vs $3,682). Started with a group happy hour that boosted early sales; rest of the evening was chill until a pop around 9:30pm that held steady to 11pm. Kitchen tested some new menu items — said to be hits coming into the weekend; new BOH staff and Wes held it down. Food only $22 — the sub-$130 food streak continues. Comps $94.15 / 3.9% (majority Tasting Comp). 79 guests / $30.84 GCA. **86**: Jalapeño Poppers. **Maintenance carryover**: Kitchen door still broken (flagged 5/6). MOD/Chef: KK / KE / MD. Highlight: getting to see the G&L crew and rolling out the new food menu. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 9513.16,
+      "target": 9883.9,
+      "comps": 509.63,
+      "guests": 260,
+      "check_avg": 36.59,
+      "weather": "Mildly chilly and overcast at points; overall a nice evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Near-miss Thursday — -3.7% on regular service ($9,513.16 vs $9,883.90), **plus $1,316 in event net sales** for a true total of $10,829.16. Segments: DC/AM $916.74, D&C PM $8,596.42. Total food $2,079.11 (regular) + $1,225 event = $3,304.11. Comps $509.63 / 5.36% (with one cut-off and one late table-cut). 260 guests (Tock). Pace 'busy but never on a wait.' DC/AM with Jordyn + Reggie was smooth — miso seasoned made; tea inventory looking good; 1 IRD + a few cocktails. Kitchen quiet for Nathan + Antonio but lots of prep done. **Event**: YPO Manhattan Day 2 in suite 6A (7 guests, 9am-1pm; left ~1pm to catch flights, thanked Kelly on exit). **Maintenance**: Bar 500 card reader on the fritz (NEW). MOD/Chef: Maggie (AM), Ev + Chef Lu (PM). Incident: 'Yes' marked but no detail provided in form — follow-up needed. Highlight: meeting Jordan C, a stoked community member; watching Joshua learn the floor flow; running into MS for a hang. Entered by Evan."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0.0,
+      "target": 0.0,
+      "comps": 0.0,
+      "guests": 0,
+      "check_avg": 0.0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "EON form not submitted for 5/7 service as of 2026-05-09 morning. No Typeform response in #ev_eon_reports between 5/7 01:27 EDT (5/6 service) and 5/9 10:27 EDT (5/8 service). Follow up with Cara/Thomas to confirm 5/7 numbers and have the report submitted. **Note**: Stefania posted a thread reply on 5/7 at 23:03 EDT correcting the 5/6 EV report (\"net sales were 4241 making bev sales 3654\") — unrelated to 5/7 service."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 6655.0,
+      "target": 6130.0,
+      "comps": 137.0,
+      "guests": 175,
+      "check_avg": 38.03,
+      "weather": "Pleasant",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Thursday — beat target by +8.6% ($6,655 vs $6,130). Started with 67 covers and got a nice push right after opening; room gradually filled to capacity around 8:30pm. Small waitlist formed — team burned and turned to clear it fast. **Big save**: a 10-top cancelled last minute, but large-party walk-ins filled the tables. Room stayed full to last call with a smooth ending. Lots of first-timers, several recommended by friends who frequent. Vic handled another busy kitchen night with ease. Food $1,285 (~19% food mix). Comps $137 (Mikey's brother, investors, a couple birthdays, DNL). 175 guests / $38.03 GCA (computed from net/guests — form-stated $86.43 is a typo). MOD/Chef: Joe + Vic. Highlight: Jorge making sandwiches at EON. Entered by Joe. **Form note**: Standing Room and Marquee splits left blank; recorded total only."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 5835.2,
+      "target": 4907.1,
+      "comps": 104.75,
+      "guests": 143,
+      "check_avg": 40.81,
+      "weather": "Perfect weather",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Thursday — beat target by +18.9% ($5,835.20 vs $4,907.10). Busy from open, stayed steady to 10pm with both floor and bar largely full; slowdown began as the alley died out. Lots of food going out tonight (~14.1% food mix; $821). Garden closed. Comps $104.75 / 1.8% (Mgr / Employee / Community Member / F&F / DNL). 143 guests (66 booked / 77 walk-in) / $40.81 GCA. James handled a busy kitchen flawlessly per Kevin. Newer staff getting more comfortable on the floor; several guests volunteered praise. **Coaching**: continue garnish-to-standard, pass etiquette, water service. **Maintenance**: 'Usual' (water heaters carryover). MOD: Kevin. Highlights: bartering with The Dabney for a decaf cappuccino for a community-member's guest; Julian back for the 4th day in a row, excited about Seattle opening; newer team gaining floor confidence. Entered by Kevin."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 6334.0,
+      "target": 9000.0,
+      "comps": 257.0,
+      "guests": 166,
+      "check_avg": 38.16,
+      "weather": "Rainy, windy and overcast on and off",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Thursday — missed target by -29.6% ($6,334 vs $9,000). Morning started with a 9am push then slowed; gloomy weather quieted downtown overall — made early cuts (one server + one SA on the floor at a time). Evening started with 30 covers (most on the late side); ran with three servers; Tanner shadowed Skylar at host then Kaylee for SA. Bar half-full most of the night until ~8:30 when the bar and dining room got a good pop, though mostly drinkers; not much past 10pm. Sun Club **closed for service due to weather** (a photoshoot took the deck and drove some MB beverage sales). **Hot Eye sleepy start — then service-industry HEAVY by 8:30, mostly full by 10**; one walkout tab; Sam P., Kevin, and a good majority of MG staff off-duty came by. Marcus (new Exec Sous) had his first day getting prep + expo exposure. Flatbread oil now on the side; some frozen confections will be different until the machine is fixed. Segments: MB AM $368 (16 guests), MB PM $4,781 (150 guests), Sun Club $0, Hot Eye $1,133. Total food $1,575. Comps $257. 166 guests / $38.16 GCA. MOD/Chef: Gabby & Lex (AM), Justin & Shannon (PM). Highlight: photoshoot group came back later for their own dinner + a birthday celebration. Entered by Alexis."
+    }
+  ]
+}
