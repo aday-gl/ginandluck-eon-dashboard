@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-09",
+  "day_of_week": "Saturday",
+  "iso_date": "2026-05-09",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 7621.0,
+      "target": 7745.0,
+      "comps": 93.85,
+      "guests": 254,
+      "check_avg": 30.01,
+      "weather": "High 72 / low 58",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Near-miss Saturday — -1.6% vs target ($7,621 vs $7,745). Lively start with first pop ~5pm and another ~7pm. Opener cut at 8pm when closers came in; FOH used the lull to stock restrooms, napkins, water stations, etc. Floor continued pushing draft espresso martinis to prepare for next week's menu change. BOH communicated counts cleanly and got tickets out smoothly. Wes came in around 10pm to a warm welcome from the team. A wedding party from the Forth Hotel arrived ~11pm and enjoyed themselves; MOD comped a round of shots to celebrate; team had a decent push at that time. Night ended smoothly. Food $384 / 5.0% mix. Comps $93.85. 254 guests / $30.01 GCA. **86s**: Jameson, Cointreau, Rittenhouse. **Menu prep**: study spec / cheat / tasting guide for new menu rollout. MOD: Jk. Highlight: finally seeing Wes again. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 7905.0,
+      "target": 10543.0,
+      "comps": 119.0,
+      "guests": 271,
+      "check_avg": 29.0,
+      "weather": "Nice",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Saturday — -25.0% vs target ($7,905 vs $10,543). Slower night likely driven by nice weather + Mother's Day weekend pulling guests elsewhere; still hosted a mix of new and familiar groups. Food $94 (~1.2% mix) — sub-$130 food day extends streak. Kitchen new crew 'killing it' and stepped out to help collect glassware during lulls. Comps $119 / 1.5%. ~271 guests / ~$29 GCA. **No 86s, no maintenance flags**. MOD/Chef: KE. Highlight: cocktail talk with Lawson and his new crew from Four Walls. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 13893.88,
+      "target": 14771.0,
+      "comps": 584.0,
+      "guests": 363,
+      "check_avg": 38.27,
+      "weather": "Warm/sunny afternoon, then strong winds and plummeting temps overnight",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Near-miss on regular service (-5.9%, $13,893.88 vs $14,771) but **strong overall thanks to a $9,087 net wedding event in the Garden + Vauxhall — true total $22,980 vs $14,771 target (+55.6%)**. Segments: DC/AM $1,225 (Felix smooth — IRDs + scratch soda pop), D&C PM $12,668.68. Total food $3,367.40 regular + $4,630 event = $7,997 total. Comps $584. 363 guests (Tock). Bigger rushes mid-evening when weather was nice; once wind kicked up guest count trickled down, but team kept the lobby full with walk-in big tops; rail shut + opening cuts at 10pm; easy close. Kitchen busy and down a dishwasher on a wedding-busy weekend — BOH crushed it (s/o Lucas). **Event**: Ashley & Luke wedding, 44 guests 5pm-10pm in Garden + Vauxhall — perfect ceremony weather, Lucas W + Rachael nailed plated dinner, Lucas T/Dom/Justice/Minsu crushed service; groom personally thanked the team at end of night. MOD/Chef AM: Evan; PM: Maggie + Lucas + Evan. Break make-up: not yet complete. Highlight: 'watching Sam + Sophie hold down the door like a couple of pros.' Entered by Maggie. **Note**: net_sales captures regular service only; event sales tracked in narrative per established pattern."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0.0,
+      "target": 0.0,
+      "comps": 0.0,
+      "guests": 0,
+      "check_avg": 0.0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "EON Typeform not yet submitted for 5/9 service as of 2026-05-10 14:50 UTC. Last response in #ev_eon_reports was 5/9 10:27 EDT for 5/8 service. EV's 5/7 service report is also still missing (carryover from prior run). **Backfill on next run** if data appears. Recommend follow-up with Cara/Sean to retrieve both reports."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 12117.0,
+      "target": 7566.0,
+      "comps": 383.0,
+      "guests": 308,
+      "check_avg": 39.34,
+      "weather": "No weather note — late drizzle in final hour",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Big beat Saturday — +60.2% vs target ($12,117 vs $7,566). Started with 120 covers and a mellow first couple of hours; Marquee didn't fill until ~8pm, with Standing Room filling shortly after. Lots of first dates and Mother's-Day-weekend family visits. From 9pm onward both rooms full with a small but well-managed waitlist; team cleared the entire list and moved everyone over from SR to Marquee by 12:30. Slight drizzle in the final hour made for a quiet finish. Segments: Standing Room $2,909, Marquee $9,208. Total food $2,213 (~18.3% mix). Comps $383 (Brent Picha, multiple birthdays/anniversaries, Mother's Day, DNL). 308 guests / $39.34 GCA (form-stated $96.94 is a typo — recorded computed value). **86s**: pistachio orgeat. MOD/Chef: Gigi + Joe + Josh + Selenia. Highlight: 'seeing all the moms.' Entered by Joe. **Context**: Rolling Loud festival + Mother's Day weekend created some Arts District softness elsewhere — LA still ran hot."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 9091.0,
+      "target": 7109.0,
+      "comps": 140.0,
+      "guests": 187,
+      "check_avg": 38.2,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Saturday — beat target by +27.9% ($9,091 vs $7,109). Segments: Marquee gross $8,328, Garden gross $1,820. Food $1,372 (~15.1% mix — kitchen hit 15% goal). 187 guests (108 walk-ins, 79 reservations). Garden steady but manageable — Josh + Tyler ran it solo; nicer weather kept guests outdoors most of the night, business steady enough to prioritize filling Marquee later. Garden closed shortly after 11pm. Marquee busy from 9pm turn / 3rd seating onward; some pacing wonkiness with tables held ~20 minutes for next reservations created a few full-then-dead-then-full swings. By 11pm all but one reservation in; by midnight Marquee fully sat again though largely 1-and-done; cleared by 1:30am. Comps $140 (DNL/Investor). Voids $23. **Coaching**: ticket pacing to bar + kitchen. **Highlight**: VIP postcards now come with fun drawings. **Maintenance**: 'Usual' — Kevin still flagging the recurring 2nd bathroom / water heater items. MOD: Josh / Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 14409.0,
+      "target": 14500.0,
+      "comps": 178.0,
+      "guests": 355,
+      "check_avg": 40.59,
+      "weather": "Mix of sun and showers on and off all day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**Near-hit Saturday — -0.6% vs target ($14,409 vs $14,500) — first effective on-target day in over a week (had missed 7 of last 8).** Slower morning likely due to gloomy weather; significant pickup ~2pm with steady flow up to mezzanine for the floral pop-up activation in advance of Mother's Day. Brunch died ~3:30pm; Happy Hour steady; dinner started with 60 on the books, mostly second-half (later sunset trend). Restaurant + bar jumping by 8pm — waitlist run until end of resys at 9:15. Five servers + no SA/barback was a workable staffing level; some no-shows past 8pm left a few empty tables briefly. Floor died down after 9:30 but bar got another good wave past 10pm. Busier than recent Saturdays but no crazy rush. Segments: MB AM $3,033 (105 guests), MB PM $9,137 (250 guests), Sun Club $0 (closed for weather; Sofia bartended on the Mezz to support the flower pop-up — minimal business), Hot Eye $2,235. Total food $2,919 (~20.3% mix). Comps $178. 355 guests / $40.59 GCA. **Maintenance**: Crysalis system in The Hot Eye (NEW). MOD/Chef AM: Gabby & Lex; PM: Justin & Marcus. Highlight: tour group friend's late return for to-go drinks; 30th-anniversary couple in The Hot Eye opting for tequila over bubbles. Entered by Alexis."
+    }
+  ]
+}
