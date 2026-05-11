@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-10",
+  "day_of_week": "Sunday",
+  "iso_date": "2026-05-10",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 0.0,
+      "target": 0.0,
+      "comps": 0.0,
+      "guests": 0,
+      "check_avg": 0.0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "CCATL is closed Sundays per Gin & Luck's published 2026 closure calendar (in addition to NYE, Juneteenth, July 4, Labor Day, Thanksgiving, Christmas). No service to report; flagged missing for charting consistency. Recommendation (carried from prior runs): formalize 'closed Sundays' label so CCATL Sundays display 'CLOSED' rather than 'MISSING' on the dashboard."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 688.0,
+      "target": 1936.0,
+      "comps": 69.0,
+      "guests": 28,
+      "check_avg": 24.0,
+      "weather": "Mostly nice, rainy late",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Very soft Mother's Day Sunday — -64.5% vs target ($688 vs $1,936). 28 guests / $24 GCA. Food $83 (~12.1% mix — highest food mix ratio in weeks, but on a tiny sales base). Comps $69 / 10% (high for a slow night; MOD MD gifted a handful of Greedo shots to Star Wars-fan guests visiting from Pelatos). Korey + John Michael did some old-product clearing in the kitchen; positive guest feedback on the new food items (dogs called out as a favorite). MOD/Chef: MD. No 86s, no maintenance flags. Highlight: geeking out about Star Wars and making shifties for new kitchen guys. Entered by BT. **Context**: weekend graduation festivities (per Kala in #ccnsh_eon_report thread) pulled crowds Saturday but emptied Sunday before church. Continues the structural weakness pattern — sub-$130 food day now hit on 13 of last 15 reported days."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 7186.64,
+      "target": 8690.0,
+      "comps": 183.0,
+      "guests": 147,
+      "check_avg": 48.89,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Mother's Day Sunday — -17.3% vs target ($7,186.64 vs $8,690). Segments: DC/AM $1,268 (Felix smooth on the line; got great help from Ramble Hotel folks), D&C PM $5,760.30. Total food $3,367.40 — wait, total food $2,143.40 — ~29.8% mix (strong food mix). 147 guests (Tock) / $48.89 GCA. Comps $183. PM was 'super slow' which the team turned into training and leisurely pacing time. No events, no incidents. **Break make-up**: still not complete (carryover flag from 5/9). Kitchen extremely slow with one pop at the end; Nate got ahead on prep and did deep cleans. MOD/Chef AM/PM: Maggie. Highlight: Josh killing his last training day. Entered by Maggie. **Heads up for tomorrow (5/11)**: per Willie's 5/9 message in #gl_death_co_dvr, DC/AM will be CLOSED 11a-3p Monday for Ramble Hotel hood cleaning + ansul system check (last call food/drinks 10:30am, dinner menu may push to 4-5pm depending on completion)."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4266.0,
+      "target": 3800.0,
+      "comps": 85.91,
+      "guests": 115,
+      "check_avg": 37.0,
+      "weather": "Early rain crimped sales",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Mother's Day Sunday — +12.3% vs target ($4,266 vs $3,800). Food $385, Bev $3,841, Retail $40. 115 guests (SevenRooms) / $37 GCA. Comps $85.91. Bumpy night with deep fallows (room went from 80% to 15% in twenty minutes around 7:30 due to dinner reservation tail), but room got nearly full again by 10:30pm with a vivid late mix: a Columbus bar director seeking program-development counsel, German 'fuzzy mouthfeel' fruity drinkers, and bachelor partiers from the PNW. 3 large parties, 6 solos, 3 investor cocktails. Top sellers: First Time Listener, Material Control, Buckhorn Exchange. **Door notes (Thomas)**: Mother's Day eclipsed by early brunches — chill start, decent 6pm reservation push, low foot traffic until late; 10:30pm wave brought near-capacity. Welcomed Nick Stropko (Eavesdrop owner/GM) and Robert Burns (Len Len bar mgr); David Cross (comedian/actor) joined a friend's birthday. Celebrity serve: Tobias Fünke (per MOD) ordered 'an effete and sagacious drink. Tequila' and stayed for seconds. **No-shows**: Wade Laycook (2 at 8:30pm) — charged. **Maintenance/repairs**: investor portal apparently malfunctioning on reservation acceptance — worth investigating (red investor had text confirmation but reservation didn't show on EV side). MOD/Chef: Seth & Alejandro. Entered by Thomas. **Backfill note**: EV 5/9 report (which was outstanding at last run) was submitted by Sean Pop on 2026-05-10 13:55 EDT — backfilled in this run."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 3824.0,
+      "target": 3624.0,
+      "comps": 66.0,
+      "guests": 106,
+      "check_avg": 36.08,
+      "weather": "No weather note",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Mother's Day Sunday — +5.5% vs target ($3,824 vs $3,624). Standing Room $0 (not opened), all sales through Marquee. Total food $543 (~14.2% mix). 106 guests / $36.08 GCA (form-stated $69.54 is a typo — would imply $7,371 on 106 covers; recorded computed value matching pattern from 5/9). Comps $66 (Jeffrey, Bird, Martin + Dinora, Jeff Kang, investor). Started with 25 covers; decent walk-in flow right after opening filled the bar top quickly, then steady fill through the night. Small waitlist around 9pm cleared fast. Last few hours brought regulars + industry; security David's last night before moving to Reno — Jorge surprised the team with pizza to send him off. Kitchen smooth. MOD/Chef: Joe + Selenia + Josh. Highlight: 'seeing lots of familiar faces.' Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 0.0,
+      "target": 0.0,
+      "comps": 0.0,
+      "guests": 0,
+      "check_avg": 0.0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "DC is closed Sundays per prior runs (consistent pattern through April — 4/26 and 5/3 also marked missing for the same reason). No EON typeform expected. Recommendation (carried from prior runs): confirm closure schedule with Cory/Kevin so the dashboard can label DC Sundays 'CLOSED' rather than 'MISSING'."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 12285.0,
+      "target": 12000.0,
+      "comps": 270.0,
+      "guests": 235,
+      "check_avg": 52.28,
+      "weather": "Mix of sun and showers on and off all day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Mother's Day on-target — +2.4% vs target ($12,285 vs $12,000) — second effective on-target day in a row after a long stretch of misses. Segments: MB Morning $6,533 (105 guests), MB Evening reported $0 (likely form data-entry error — evening notes describe full bar + steady dinner service; implied MB PM is ~$4,147 to reconcile with stated total), Sun Club $653 (Brigid had a good wave of hotel guests once weather cleared ~2pm — one rooftop oyster service), Hot Eye $952 (very quiet until ~9pm; bar crawl + service-industry pop including Jason from Common doing a send-off on his last shift). Total food $6,124 (~49.8% mix — strong food day reflecting brunch volume). 235 OpenTable covers (105 AM + 130 PM) / $52.28 GCA on stated total. Comps $270. **Brunch service**: slower-than-expected for Mother's Day with very few walk-ins; mostly reservation-based. Strongest push 1-3pm when bar top filled; James, Chandler, Aimee kept drinks moving; full ticket rail at the kitchen, nothing over 20 minutes; sold out of lobster rolls and even sold caviar on them. **Dinner**: spillover from brunch into HH; weather cleared ~2pm bringing walk-ins; started PM with ~20 covers on the books, walk-ins slowed after 6pm; bar full 5-7pm then largely died by 9; no new guests past 9:30. **Kitchen**: nothing notable from the slower dinner; 86 pomegranate for the mousse. MOD AM: Gabby/Sam & Lex; PM: Justin & Sukru. Highlights: mothers celebrating with families; Shannon (Husk) stopped in with an old friend from Athens; Victoria + partner Chris enjoyed a round downstairs. Entered by Alexis. **Data quality flag**: MB Evening Total Sales = $0 in the form is implausible given the narrative — likely typo or skip; total net sales $12,285 used as authoritative."
+    }
+  ]
+}
