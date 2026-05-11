@@ -45,15 +45,15 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": 0.0,
-      "target": 0.0,
-      "comps": 0.0,
-      "guests": 0,
-      "check_avg": 0.0,
-      "weather": "",
-      "missing": true,
+      "net_sales": 7800.0,
+      "target": 7400.0,
+      "comps": 112.38,
+      "guests": 217,
+      "check_avg": 36.0,
+      "weather": "Rain certainly crimped sales",
+      "missing": false,
       "data_source": "slack",
-      "narrative": "EON Typeform not yet submitted for 5/9 service as of 2026-05-10 14:50 UTC. Last response in #ev_eon_reports was 5/9 10:27 EDT for 5/8 service. EV's 5/7 service report is also still missing (carryover from prior run). **Backfill on next run** if data appears. Recommend follow-up with Cara/Sean to retrieve both reports."
+      "narrative": "Solid Saturday — +5.4% vs target ($7,800 vs $7,400). Food $830, Bev $6,917. 217 guests (SevenRooms) / $36 GCA. Comps $112.38 (mostly DNLs — weekend crowd skews more 'do-not-likes,' per MOD intuition tied to basic palates). 7 large groups (basically all fives), high mid-tops share, 10 solos, 14 investor/member cocktails. Top sellers: Masari, Material Control, Thunderball. **Service notes (Thomas)**: first turn crimped by 7-7:45pm reservation pile-up keeping room at 75%; small break around 8pm with no-shows (incl. a 5-top); smooth sailing 9-12; then fell off a cliff after midnight with weak last call (most tables had been out too long to drink more — several openly worried about being hungover on Mother's Day). Welcomed a new member (Barrett Keep?) and guided through four rounds. Back-catalog banger: Hazelnuss Bijou for a guest wanting a stirred 'La Chingona' style — well-received. **Door notes (HP)**: opened with an hour of downpour rain; room near-full but creative seating needed (threes at the bar) due to unique reservation times + 8pm open bookings; rain may have kept folks inside, foot traffic varied; finished waitlist at 12:45am with larger parties staying late. Many birthdays celebrated. **No-shows (charged)**: Vinoud Bakthavachalam (5 at 8pm), Gabriel Casalduc (2 at 10pm), Bryan White (2 at 11:45pm). **Maintenance**: downstairs door to staff area struggling; front door not staying flush; kitchen area not getting AC well — should fix before summer. Glassware: 2 SOF, wine glass, 2 tulip (one guest broke the stem mid-gesture), 2 ugly Sazerac glasses. Menu count: 17. MOD/Chef: Seth & Steves. Entered by Thomas. **Backfill**: this record was filed 2026-05-10 13:55 EDT — backfilled into 5/9 history on 5/11 run."
     },
     {
       "id": "la",
