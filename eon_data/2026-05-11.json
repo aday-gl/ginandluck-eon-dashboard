@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-11",
+  "day_of_week": "Monday",
+  "iso_date": "2026-05-11",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1143.0,
+      "target": 1510.0,
+      "comps": 28.5,
+      "guests": 24,
+      "check_avg": 47.61,
+      "weather": "High 80 / low 61, sunny and breezy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Menu flip day at CCATL — -24.3% vs target ($1,143 vs $1,510). 24 guests / $47.61 GCA. Food $230 (~20.1% mix — strong food mix for CCATL). Comps $28.50 (Emp discount $13.50 / F&F $12.60 / Industry $2.40). MOD MKZ. **Menu launch went smoothly**: everything prepped, batched, printed, menu boards in place by 4pm. Only miss: Yuzu G&T (still waiting on yuzu juice to arrive). Smooth quiet Monday with food a hit — lots of wings, jojos, banana pudding, meal deals. Full bar 8-10pm; opening bartender cut ~7:30-8pm; closer touched tables to discuss new menu items. Food orders ran through 11pm; ticket times quick. **Inventory carryover**: still running through OG espresso martini and daisy batches; Daisy de Manzana will be a verbal until batched stock is gone. **Maintenance**: Astilla returning to tie up AV loose ends; **back door lock system** flagged as big priority. Highlight: Wes visiting and excited about spring/summer offerings. Entered by MKZ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1264.0,
+      "target": 1162.0,
+      "comps": 67.6,
+      "guests": 43,
+      "check_avg": 29.39,
+      "weather": "Sunny, warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**First positive day in over a week — +8.8% vs target ($1,264 vs $1,162)**. 43 guests / $29.39 GCA. Food $95 — still tiny in absolute terms, but the GCA and cover counts are encouraging vs the structural-weakness pattern. Comps $67.60 / 5.3% (continuing food-menu tasting comps). MOD KE, JMS, KC. Even-keel shift training new teammates and seeing **regulars bringing in new friends** — Korey + John-Michael strong kitchen team. No 86s, no maintenance flags, no incidents. **Context**: end of training stretch coincides with the first +target day since 5/2; worth watching whether the trend continues this week. Highlight: KE re-meeting old O-Ku opening teammates from FL 2023. Entered by KE."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6522.24,
+      "target": 7529.9,
+      "comps": 207.4,
+      "guests": 154,
+      "check_avg": 42.35,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Planned-partial day — -13.4% vs target ($6,522.24 vs $7,529.90), all D&C PM since DC/AM was closed 11a-3p for Ramble Hotel hood cleaning + ansul system check (per Willie's 5/9 advance flag). **Steady Oyster Monday** with 'whole bunches of oysters being consumed'; no opportunity for early cuts due to random large-party walk-ins. 154 covers (Tock) / $42.35 GCA. Food $1,481.50 (~22.7% mix — healthy). Comps $207.40 / 3.18%. **Break make-up complete** (resolves the 2-day carryover flag from 5/9 + 5/10). Kitchen: nice pop even with delayed service — shout out to Rachel. No incidents, no maintenance flags, no no-show charges. MOD AM: Maggie / PM: Carey. Highlight (Carey): 'so many amazing tableside conversations — human connections were the favorite part.' Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4085.0,
+      "target": 3807.0,
+      "comps": 73.0,
+      "guests": 0,
+      "check_avg": 0.0,
+      "weather": "Humid, chilly spring evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid +7.3% Monday at EV ($4,085 vs $3,807). Food $569, Bev $3,516. Comps $73. MOD/Chef: Cara & Alejandro. **Data note**: form did not capture Total Guest Count or GCA fields this entry (covers/GCA absent from typeform). 4 large parties, 5 solos, 0 investor cocktails. Top sellers: Material Control, Year of the Trees, Grand Entrance. **Service**: post-open swell, then 'bleak' until ~11pm when room livened up; tough edge-case with a walk-in six — managed with creative geometry. Post-MOMA couples and NYU grads in the mix; generally low-conversation night. Big 10:30pm wave (mostly larger party sizes / friend groups) made things briefly feel popping; most lingered to midnight. Last duo arrived with a boom from Paradise Lost. Celebrated two birthdays + a few graduations. **Kitchen**: 110 oysters sold out at 10:45pm. **No-show**: Matt Lewis (2 at 7:45pm) — charged. Menu count: 18 (Thomas built one). Glass breakage: 1 coupe, 1 DOF. **Maintenance**: portal between bar and floor is peeling. Door by Thomas. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 3772.0,
+      "target": 4209.0,
+      "comps": 205.88,
+      "guests": 96,
+      "check_avg": 39.29,
+      "weather": "Warm day, chilly night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft Monday at LA — -10.4% vs target ($3,772 vs $4,209). Standing Room $0 (not opened), all sales through Marquee. Food $948 (~25.1% mix — strong food day). 96 guests / **$39.29 computed GCA** (form-stated $80.25 is impossible; recorded computed value matching the pattern flagged on 5/9 and 5/10 — recurring data-quality flag for Joe/team on how form calculates GCA). Comps $205.88 (VIPs: Jon Feuersanger, Jake Powell, Yiban + date, investors, Meech's friend Richard birthday, **Landis birthday — bought him a burger**, employee food discounts). Slower night overall with friendly regulars + the magician 'like clockwork'. **Sold out of oysters at 9pm** — started with less than usual but still sold ~120; Josh left early but Mikey got more shucking practice. Never started a waitlist but room hit capacity ~10:30pm; younger crowd. **Birthday surprise**: team tricked Landis into coming down to standing room ('drunk people trying to steal our menus') to sing happy birthday. 3-top walk-out 'because of the smell' (carrying the LA smell flag forward — none of the staff could detect it; nose-blind concern). 86s: oysters, Aval Cider, Pepita orgeat, Pistachio orgeat, Neverender. MOD/Chef: Mikey, Vic. Entered by Mikey."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2624.42,
+      "target": 2772.4,
+      "comps": 68.22,
+      "guests": 70,
+      "check_avg": 35.95,
+      "weather": "Nice",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow-but-steady Monday at DC — -5.3% vs target ($2,624.42 vs $2,772.40). Marquee gross $2,955.10; net $2,624.42 after voids/comps. Garden closed. 70 guests / $35.95 GCA. Food $540.57 (~20.6% mix). Comps $68.22 / 2.5%; voids $43 / 1.6%. MOD: Josh. Minimal foot traffic in the neighborhood; mostly two-tops on dates with a few larger parties for birthdays and old friends catching up. Service well-paced — team used downtime for ABK and **menu-flip prep tasks** (new spring/summer menu drops 5/29 with all-staff tasting 5/17). Kitchen: strong oyster + fingerling potato volume; Jamal got time to reset and organize the kitchen. **Kitchen close not checked** (flag). No maintenance issues, no incidents. **Teaser**: 'Big news coming in the AM — congrats team!' (likely related to ongoing internal updates; worth watching for follow-up). Entered by Josh."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 4526.0,
+      "target": 6500.0,
+      "comps": 78.0,
+      "guests": 54,
+      "check_avg": 83.81,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Soft start to the work-week at MG — **-30.4% vs target ($4,526 vs $6,500)** after back-to-back on-target weekend days. Segments: MB Morning $1,016 / 0 AM OpenTable covers (likely all walk-in / hotel), MB Evening $3,511 / 54 PM OpenTable covers, Sun Club $137 (Brigid had a very slow day), Hot Eye $0 (closed). Sum of segments $4,664 vs stated total $4,526 — minor $138 reconciliation gap; form-stated $4,526 used as authoritative. Food $1,768 (~39.1% mix — strong food mix). Comps $78. **GCA**: $83.81 on stated total / 54 PM covers (artificially high because AM covers are recorded as 0 despite $1,016 morning sales). MOD AM: Sam & Lex / PM: James & Sukru. **MB AM**: very slow morning, nothing out of ordinary — 'a bit of a slower week as people grind hard before summer time.' **MB PM**: slower than hoped but decent Monday; thin dinner crowd, mild bar crowd; tour group of 12 came through late but Chandler handled it solo. **Sun Club**: very slow for Brigid. **Hot Eye**: closed. Kitchen smooth, no problems. **Maintenance**: Crysalli system downstairs **weakly carbonating** (carryover from 5/9 'Crysalis system in Hot Eye' flag — now confirmed as a fluid issue); also a **small but consistent leak in the bar prep room** from a pipe along the back wall (new). Highlight: Isaac came in for a quick drink before meeting friends. Entered by James."
+    }
+  ]
+}
