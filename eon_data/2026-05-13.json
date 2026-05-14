@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-13",
+  "day_of_week": "Wednesday",
+  "iso_date": "2026-05-13",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1316.0,
+      "target": 1464.0,
+      "comps": 138.10,
+      "guests": 40,
+      "check_avg": 32.90,
+      "weather": "Partly sunny, upper 70s / low 70s",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Quiet Wednesday at CCATL — -10.1% vs target ($1,316 vs $1,464) on day 3 of the new menu. 40 guests / $32.90 GCA. Food $197. Comps $138.10. **3 Parks Wine 'Pourdown' event nearby drew the foot traffic** — curated wine + music + DJ + validated parking event packed their space; some attendees walked over for quick drinks (to-go cups utilized). **Late-night pop ~10:45pm** — industry friends + neighborhood regulars who saw a live band at Forth Club (singer who opened for Beyonce + sax-playing husband — several neighborhood regulars have referenced this band in recent months). Forth Hotel returning guests came in tonight — likely to repeat tomorrow. Opener cut 8:30pm. Super Martini batch completed. **Food menu feedback continues positive** — Trevor (regular) complimented new Super Martini recipe (scaled-back super brine) and Michelada (note: extra cocktail onions for his Super Martini next time). All guests out by 12:30am. **86**: Shake n Bake Wings. No incidents, no no-show charges. MOD: MKZ // JK. Entered by JK. Kitchen: keep ABK'ing the space; focus on presentation and ticket times; excited to see how new food does over the weekend."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1065.0,
+      "target": 1514.0,
+      "comps": 1.0,
+      "guests": 35,
+      "check_avg": 30.43,
+      "weather": "Warm, clear, breezy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Sleepy Wednesday at CCNSH — -29.7% vs target ($1,065 vs $1,514) following two consecutive +target days (Mon +8.8% / Tue +31.4%). Beautiful day outside may have suppressed indoor traffic. 35 guests / $30.43 GCA. **Food $0** (atypical — no food orders all night). Comps $1 / 0.09% (Industry). ABK all day; bar and floor in 'lovely shape.' BC and Eli (in his second shift) emphasized guest connection. Kitchen: Kevin and Korey held it down. Highlight: a couple of first-time guests new to the neighborhood enthused by the space and menu — BC chatted history of the building, cocktails, and the neighborhood with them for the duration. **Tevin back in house!** **Maintenance**: kitchen door lock (carryover from 5/12). **86**: Jalapeno Poppers (carryover). **Low**: Daisy de Manzana (carryover). No incidents, no no-show charges. MOD & Chef: KK & MD / KM & KC. Entered by BC. **Note**: the 5/11 and 5/12 +target run was driven partly by event-style group business (post-shift industry, Diageo group); tonight's drop back to baseline pattern suggests the recovery story still needs a midweek non-event proof point."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6859.92,
+      "target": 8862.35,
+      "comps": 378.74,
+      "guests": 156,
+      "check_avg": 43.97,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Mellow Wednesday at DVR — -22.6% vs target ($6,859.92 vs $8,862.35). Segments: DC/AM $953.35, D&C PM $5,906.57, Garden NA. Food $1,875 (~27.3% mix — strong food share again). Comps $378.74 / 5.53%. 156 guests (Tock) / $43.97 GCA. **DC/AM (Maggie + Reggie Lane)**: super solid day; cold brew strained and in container; 1 IRD; little breakfast pop then super quiet rest of day. **Apple Pie Day** — thanks Jordyn for the pies. **PM (Carey + Lucas)**: nice mellow Wednesday with one pop, never went on a wait; no host tonight, but team came in clutch with walk-ins and seat-yourself with grace. **Kitchen (Archer)**: pretty steady but chill day; great night with team. **Highlight**: vibes around really good all night — Reagan, Madi, & Sud a 'powerhouse trio,' mood never dropped on the floor. Break make-up complete. No incidents. **Maintenance**: NA. Entered by Carey. **Note**: yesterday's flagged 'Yes' to injury/incident with no detail is unresolved — tonight's form is clean (No)."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4838.0,
+      "target": 4266.0,
+      "comps": 112.0,
+      "guests": 136,
+      "check_avg": 35.57,
+      "weather": "Cloudy + chilly (light rain late)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +13.4% ($4,838 vs $4,266)** on Chartreuse week day 3 — strong midweek showing. **Note: form-stated 'Total EOD Net Sales' of $4,189 excluded the $649 food sales — corrected total $4,838 = food $649 + bev $4,189 + retail $0** (recorded computed value; follow precedent of LA GCA correction). 136 guests (Sevenrooms) / $35.57 GCA (form-stated $38). Comps $112 (investor + gifts + a few picky guests with DNLs). **Chartreuse week update**: Space Oddity edged Turtle Power tonight — both 15 sold; **First Time Listener was the star at 16**; Year of the Trees also 15. Specials selling far better tonight than yesterday. **Service shape**: small early pop (better than Tuesday) sustained until ~11pm; midnight pickup steady to last call. **Door (Marielle)**: gradual fill from 6pm res; decent 8pm turn; small waitlist for 2-tops cleared by 10pm; two large parties at 9:30pm kept room full; rain at 11pm slowed foot traffic. **Welcomed**: Haleigh's roommate + grad celebrations including Alexis (past EV host) graduating from her classes; many grad friends. **James exceptionally speedy in service**, Jane queen at point. **No-show**: Tom Mora 3 at 6pm — NOT charged. **Menu count**: 19. **Glassware**: 1 DOF, 1 SOF, 1 Tulip. **Maintenance carryover**: bar stools wobbling (from 5/12) + portal/door/AC backlog. Kitchen excited for new menu items. MOD & Chef: Cara + Steeves. Entered by Marielle. **OPERATIONAL FLAG**: typeform Total field missed food sales — second different EV form-data integrity issue in two weeks. Worth a Marielle/Cara check on the form."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5270.0,
+      "target": 4385.0,
+      "comps": 105.0,
+      "guests": 144,
+      "check_avg": 36.60,
+      "weather": "Warm with a side of Dodger win",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +20.2% ($5,270 vs $4,385)** on a rollercoaster Wednesday. Marquee $5,270, SR $0, Event $0. Food $897 (~17.0% mix). Comps $105 (DNL, birthday, industry that brought us pastries + cold brew). 144 guests / **$36.60 GCA** — **LA GCA form bug appears RESOLVED tonight** (form-stated $36.60 matches computed $36.60 after 4-day streak of broken values; check whether the typeform was actually fixed or this submitter happened to enter the correct value). **Service shape**: mellow until ~9:30pm, then a huge wave 10–11:30pm — 20-top filled tables 1–3, many 2-tops easy to seat. **4-top from Ireland** — super sweet, last night with us in LA. **Angel and Julian crushed the floor**; **Ryan ran around supporting** — wrote birthday cards, helped organize the SR, brought good vibes. **Kitchen (Zak + Mike under Vic)**: tickets in waves; early-shift time for projects; lots of desserts and french fries; handed out a few snacks for ticket times — everyone left happy. **Maintenance WIN**: Mr. Jorge cleaned the graffiti in the men's restroom. **86**: cookies. No incidents. No-shows charged. **Favorite moment**: a bottle of CeraVe chillin behind someone's head at Table 1 the whole time. MOD & Chef: Gigi & Vic. Entered by Gigi. **LA SMELL ISSUE** — no mention tonight, status unknown (carryover from 5/11)."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 10960.0,
+      "target": 4661.0,
+      "comps": 3401.0,
+      "guests": 75,
+      "check_avg": 146.13,
+      "weather": "Rain and Thunderstorms",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC private event night — +135.1% vs target ($10,960 vs $4,661)** — venue closed to regular service for an event buyout. Total Net Sales (event only): $10,960. **D&C Marquee bar / Garden / regular Food sales all N/A** (closed for event). **Voids: $3,401 (event)** — stored in comps field per form convention, narrative note: this is event-side gratuity/SC adjustment, not in-house comps. 70–80 guests at the event (recorded midpoint 75). GCA: $146.13 (form-stated $156.57 using low-end guest count). **DC typeform IS submitted tonight after yesterday's miss** — good. MOD: Cory. **What went well**: food pacing, keeping busy. **What we can do better**: transitioning between cocktail class and reception; extra juice and prep during events. **Highlight**: with some downtime, team found time to clean and ABK. ('What is a manly glass, really?'). **Maintenance**: second bathroom; need to update classics menu and beer/wine menu. No injury/incident. No-shows charged. Entered by Cory. **Note**: 5/12 DC typeform remains unsubmitted; only Mariah's floor EON exists for 5/12 (recorded as missing in that day's record). Tonight's full submission is a return to normal cadence."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 4863.0,
+      "target": 6500.0,
+      "comps": 279.0,
+      "guests": 91,
+      "check_avg": 53.44,
+      "weather": "Overcast and cool, not miserable",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "MG -25.2% vs target ($4,863 vs $6,500) — third consecutive day soft of target, but **better than 5/12 (-32.2%)** and **food share strong at 41.5% ($2,018)**. Segments: MB Morning $736, MB Evening $4,127, Sun Club $0 (closed), Hot Eye $0 (closed), Events $0. Comps $279. 91 guests (5 AM + 86 PM via OpenTable) / $53.44 GCA. **Morning MOD: Sam & Lex** — slow and average morning. **Evening MOD: James & Shannon** — large group of tour guides drove practically all early-afternoon business; then very slow until 8:30–9pm dinner pop filled most of the restaurant; a few familiar faces eating + visiting but mostly unfamiliar guests; **trend of groups coming in late to hang out for drinks continues**. **Kitchen (Shannon)**: performed well on mostly boring night; the late pop was frustrating and the rail got completely filled at one point, but without it we'd have been 'scarily dead'; all food looked and came out great. **Highlight**: tour guide group very excited about the hotel and hospitality — left lots of goodies to try. **Sun Club** closed; **Hot Eye** closed. No event. No incidents. **Maintenance**: none flagged tonight (Crysalli weak-carbonation from 5/11 not mentioned — status unknown). Entered by James. **Note**: form's 'Today's Date' was typed as 2026-05-14 (off-by-one — submitter likely entered after midnight) but Day of Week is 'Wednesday' and content is service date 5/13. Recorded under 5/13."
+    }
+  ]
+}
