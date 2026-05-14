@@ -45,15 +45,15 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": 5075.0,
+      "net_sales": 4241.0,
       "target": 5200.0,
       "comps": 110.24,
       "guests": 103,
-      "check_avg": 38.0,
+      "check_avg": 41.17,
       "weather": "Rainy",
       "missing": false,
       "data_source": "slack",
-      "narrative": "Near miss — -2.4% vs target ($5,075 vs $5,200) on a rainy Wednesday. Slow trickle of mostly pairs and date nights — rare to see tables larger than 2; Thomas got creative seating couples to minimize a waitlist. **Top sellers**: First Time Listener, Material Control, Year of the Trees. Food $395 / Bev $4,680. Comps $110.24. 103 guests / $38 GCA (form-stated). Menu count 18/18. Glassware breakage: 1 SOF, ramekin, sidecar votive. **Door notes (Stefania)**: balmy double-rainbow opening turn drew west coast guests at the bar; brief 8pm reservation cluster filled the room without a waitlist; rain escalated ~9pm and slowed foot traffic. Hospitality moments: walked umbrellas to a guest stranded at Yuca Bar; sheltered a neighborhood resident with an umbrella who had never been before and now plans to come in. Read a bit of *The Power Broker* during slower stretches — sparked conversations with a bond broker and an affordable-housing administrator. Made the night of an injured tourist (climbing accident) by seating him at T1. Curated table assignments to maximize harmonies (e.g. seating one couple at service so they could vibe with the service bartender). MOD & Chef: Cara + Steeves. No-shows charged. Entered by Stef. **Note**: form's date field said 'Wednesday 5/7' (typo) — this is the 5/6 service report based on submission timing and crew."
+      "narrative": "**Corrected 2026-05-14 backfill**: net sales corrected from $5,075 → $4,241 per Stefania's same-thread reply ('messed this up, net sales were 4241 making bev sales 3654'). -18.4% vs target ($4,241 vs $5,200) — a clear miss, not the near-miss originally recorded. Rainy Wednesday with slow trickle of mostly pairs and date nights — rare to see tables larger than 2; Thomas got creative seating couples to minimize a waitlist. **Top sellers**: First Time Listener, Material Control, Year of the Trees. Food $395 / Bev $3,654 (corrected). Comps $110.24. 103 guests / $41.17 GCA (recomputed from corrected sales; form-stated $38). Menu count 18/18. Glassware breakage: 1 SOF, ramekin, sidecar votive. **Door notes (Stefania)**: balmy double-rainbow opening turn drew west coast guests at the bar; brief 8pm reservation cluster filled the room without a waitlist; rain escalated ~9pm and slowed foot traffic. Hospitality moments: walked umbrellas to a guest stranded at Yuca Bar; sheltered a neighborhood resident with an umbrella who had never been before and now plans to come in. Read a bit of *The Power Broker* during slower stretches — sparked conversations with a bond broker and an affordable-housing administrator. Made the night of an injured tourist (climbing accident) by seating him at T1. Curated table assignments to maximize harmonies. MOD & Chef: Cara + Steeves. No-shows charged. Entered by Stef. **Form date field said 'Wednesday 5/7' (typo)** — this is the 5/6 service report based on door notes ('Wednesday 5/6') and submission timing. **Note**: corrected food $395 + bev $3,654 = $4,049 leaves a $192 reconciliation gap vs Stefania's stated total $4,241; using her stated net sales as authoritative."
     },
     {
       "id": "la",
