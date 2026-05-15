@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-14",
+  "day_of_week": "Thursday",
+  "iso_date": "2026-05-14",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 2462.0,
+      "target": 1972.0,
+      "comps": 78.15,
+      "guests": 65,
+      "check_avg": 37.88,
+      "weather": "High 74 / low 58",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +24.8% ($2,462 vs $1,972)** on a beautiful Thursday. 65 guests / $37.88 GCA. Food $211 (8.6% mix). Comps $78.15. **Strong open** — doors opened to a good push of guests, mostly people who work upstairs ('let's continue to build connections with our new neighbors'). **Beltline signage continues to draw attention** — staff reminded to inform guests about to-go cups and the outside area. Closer arrived 6pm; opener cut just before 9pm. **BOH efficient** with food tickets and great presentation. **Buzzers mostly working** but with small issues on the screen message (carryover improvement from 5/12 status unknown). **Big push of guests around 10pm** filled the space until close. **Highlight**: a guest visited tonight who had been at Close Company Nashville the previous night — cross-venue regular. **Maintenance NEW**: middle freezer gasket loose. **86**: Tropicalia. **Low**: Guinness, Highlife. No incidents, no no-show charges. MOD: Mkz / Jk. Entered by Mya. Open enrollment reminder noted."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2800.0,
+      "target": 3086.0,
+      "comps": 106.55,
+      "guests": 88,
+      "check_avg": 31.82,
+      "weather": "Fair and nice after sunset",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "CCNSH -9.3% vs target ($2,800 vs $3,086) — **closest-to-target non-event day this week**, big recovery from Wednesday's -29.7%. 88 guests / $31.82 GCA. Food only $45 (1.6% mix — atypical; food story still weak). Comps $106.55 (3.8%). **Steady night with multiple pops 7pm–close** with various groups. Eli stayed after 10pm to help. **Highlight**: Rockin' service with Eli — second consecutive standout shift; team confirms he's killing it during the staffing-up period. Thomas + Oku peeps hung out post-shift. **OPERATIONAL FLAG — Toast POS payment failure (NEW, 5/14)**: a closed tab reappeared at end of night reading 'payment failed'; MOD could not close out the POS. Kala investigating — Toast Support says leave it open to auto-close but the payment cannot be recovered. Willie engaged in #ccnsh_management thread; trying to determine if it was a Toast connectivity issue or insufficient funds. **Maintenance carryover**: kitchen door broken (now 3+ days). No incidents, no no-show charges. MOD: KK/MD & JMS/KM. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8251.07,
+      "target": 10361.60,
+      "comps": 387.81,
+      "guests": 220,
+      "check_avg": 37.50,
+      "weather": "Clear, pleasant evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "DVR -20.4% vs target ($8,251.07 vs $10,361.60) — soft Thursday vs an elevated target. Segments: DC/AM $880.49, D&C PM $7,370.58, Garden NA. Food $1,982.80 (~24.0% mix — still strong food share). Comps $387.81 (4.7%). 220 guests (Tock) / $37.50 GCA. **DC/AM (Chef Josh, Maggie Sanders & Maggie Haarmann)**: very good day with Reggie Lane, chill, a few IRDs and rounds of cocktails. **R&D play** — got oat milk in. **Onboarding**: Maggie Haarmann's D1 onboarding continues per Michael Buonocore — joined the #gl_death_co_dvr channel today; Toast transition for Denver is now confirmed for August (Willie). **PM (Chef Lucas & Evan)**: slow and steady, then popped right around 9pm and stayed decently busy until shortly before close. **Highlight**: 2 guests Abraham & Kirsten celebrating 5-year anniversary pulled Evan over to share how much D&C Denver means to them — they're getting married soon and 'almost theming after D&C.' Team styled them out. Break make-up complete. No no-shows charged. No injury/incident (yesterday's unresolved 5/12 flag still pending). **Maintenance**: NA. Entered by Evan F."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7622.0,
+      "target": 6809.0,
+      "comps": 344.0,
+      "guests": 194,
+      "check_avg": 39.29,
+      "weather": "Perfect",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +11.9% ($7,622 vs $6,809)** on a gorgeous Thursday — second consecutive +target day this week (after Wed +13.4%). Food $1,052 + Bev $6,370 = $7,622. 194 guests (Sevenrooms) / $39.29 computed GCA (form-stated $39). Comps $344 (investors + members + more gifts & service recovery than normal). **Strong from 6pm open through close to 1am** — surpassed target by 11pm by almost a grand. **EV form 'Total EOD' field was correctly entered this time** ($7,622 = food + bev) — improvement after yesterday's data-integrity flag. **Two large parties** were both very understanding of service level and had an amazing time. **Service shape**: kicked off strong at 6pm and stayed strong; controlled chaos; team flipped tables and seats swiftly to maximize revenue. **Door (Marielle Thoma)**: first turn was 'obscene Tetris' with 91 covers off resys (more than most weekends) — limited maneuvering. Hit a flowstate after. Robust room from 7:30pm with significant waitlist for almost all of service. Cultivated outside vibe to keep waitlist patient. 'Whimsical, vivacious older people' (70-year-old with 6 family members, engagement + birthday combos) plus 'insane NYU grads.' Seated 4-tops at the bar, jammed standing room — 'evil seating' to keep room full 6 hours straight. **Crew**: Thomas on door + James serving — back-catalog goodness; controlled chaos. **Kitchen**: low ramekins (on order). **Glassware breakage**: 1 DOF, 3 SOF, 2 sidecar tops, 1 sidecar bottom, 3 Fizz, 1 Highball (heavy night). **Menu count**: 19. **Maintenance carryover**: bar stools wobbling + portal/door/AC backlog still pending. No incidents, no no-show charges. MOD & Chef: Cara + Steves. Entered by Marielle."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 7801.0,
+      "target": 5796.0,
+      "comps": 384.0,
+      "guests": 149,
+      "check_avg": 52.35,
+      "weather": "Warm day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +34.6% ($7,801 vs $5,796)** on event night + theatrics. Marquee $5,596 (food $1,143) + Event $2,205 + SR $0. Total Food $1,924 (24.7% mix). Comps $384 (investor discount, DNLs, Josh's bday). 149 guests / **$52.35 GCA**. **Event (member Chris Adams' birthday in SR)**: ~40 guests + a burlesque dancer (Ginger, who works at Jumbo's) — 'a fun night of theatrics and shenanigans.' Member Chris had nothing but amazing things to say about the team — shoutout to Mikey and Mitchell for going above and beyond. Closed out $1K to Chris's House Account, remainder to CC. **Marquee (Julian and Bailey)**: tame and manageable, small pops later; not many large parties (room felt skewed). Down 1 bartender — some longer ticket times, but nothing the team couldn't handle. **Midnight**: rang in Josh's bday — 'fun night of laughs and running around.' **Event prep ahead**: another event tomorrow evening. **Kitchen**: handful of event guests ordered a la carte; sold out of oysters from the get-go (Chris's party pre-ordered all of them); lots of fries, chicken, and seafood. **Maintenance — LA SMELL RETURNED (CARRYOVER)**: 'smell was getting pretty gnarly tonight.' After 3+ days of no mention, the smell issue is back. **Action needed**: surface to whoever owns this — appears unresolved despite earlier quiet period. **Favorite moments**: accidentally hotboxing the SR with a sage stick left lit too long; Zak high-fiving a guest; cueing music for the burlesque performer with Jaz on the headset. No incidents. No-shows charged. MOD & Chef: Gigi & Selenia/Josh. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 5029.0,
+      "target": 3726.0,
+      "comps": 364.0,
+      "guests": 134,
+      "check_avg": 39.60,
+      "weather": "Chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +35.0% ($5,029 vs $3,726)** — busy Thursday driven by DC-area event spillover. 134 guests (94 walk-ins, 40 reservations) / $39.60 form-stated GCA (computed $37.53). Food $532 (10.6% mix). Comps $364 ('big manager comp'). Voids $88. **DC has multiple events happening this week** — saw a lot more foot traffic than expected. By the time Cory got in, a wait list was already building; inside stayed consistently sat until ~11pm. **OPERATIONAL FLAG — INCIDENT AT TABLE 41 (NEW, 5/14)**: 'we had an incident at table 41 and we noted it in the management channel.' **Action**: review #dc management channel for details and follow-up. **Staffing flag**: Sasha was under the weather, tried to tough it out, but was sent home around 9pm; Cory hopped behind the bar to fill in. **Kitchen**: over 10% in food sales; **86 tartare and cheese plate**. Heavy prep list going into tomorrow and Saturday, but with tomorrow's buyout doing bar snacks only, ample time to prep for Saturday. Note: 'kitchen could use a bit more attention while sweeping.' **What can be better**: bathroom checks, tighter turn communication, table/bar transfers. **Highlight**: lots of old and familiar faces tonight. **Maintenance**: bathrooms, water heaters. **Carryover** from 5/13: classics menu + beer/wine menu still need updating. **Note**: DC 5/12 typeform remains unsubmitted (carryover — Mariah's floor EON only). No-shows charged. MOD: Kevin / Josh / Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 8292.0,
+      "target": 6500.0,
+      "comps": 420.0,
+      "guests": 159,
+      "check_avg": 52.15,
+      "weather": "Sunny a tad windy but perfect",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +27.6% ($8,292 vs $6,500) — first +target day of the week**, ending the 3-day soft streak. Segments: MB Morning $1,117, MB Evening $4,983, Sun Club $694, Hot Eye $1,322, Events $0. Food $3,107 (37.5% mix — strong food share continues, slightly down from yesterday's 41.5%). Comps $420. 159 guests (33 AM + 126 PM via OpenTable) / $52.15 computed GCA. **Morning (MOD Justin & Chef Lex)**: business right at open, then quiet and steady; picked up by 11am, both servers had a few tables each by noon; chill rest of brunch after the 1:15pm food tour. **Evening (MOD Justin & Chef Sukru/Marcus)**: started with 30 covers (mostly first half), cut to 3 servers; busy pace with walk-ins; busiest at 6:30pm and 8:00pm; floor died out around 9:30pm but bar was half-full until 8:30 rush filled it through 10pm. **Sun Club (Nicki)**: $694 — mostly hotel guests despite the nice weather warranting walk-ins; busiest 3–4:30pm. **INCIDENT (NEW, MG Sun Club, no-injury)**: one umbrella tipped over from a strong wind gust despite a sandbag — the sandbag failed and split open. No one injured; first time a sandbag has failed. **Action**: review umbrella anchoring protocol / sandbag inventory. **Hot Eye**: $1,322 — quiet start with post-dinner hotel guests; investors Reg and Josh (friends of Ryan) came through twice and were 'a pleasure'; by 11pm filled with rowdy groups that took the volume uncomfortably high for some regulars/locals; ladies in municipal robes came down for drinks; normal service-industry pop at midnight. **VIP context (from #mg_vip)**: investor Reg sat at table 41 with Matthew Douzuk (VP Operations, Sage Hospitality Group — Perry Lane owners). **Kitchen**: Sorbet and Affogato back on menu (sourced product); Gelato still out. Smooth service. **Highlights**: Kaylee in with family for a late Mother's Day dinner; mocktail success (custom ingredients tasted great); regular Sha'Kobe trying new cocktail menu. No injury/incident other than the umbrella note. Entered by Alexis. **Note**: form's 'Day of Week' said 'Thursday' but Today's Date '2026-05-14' — correct. Yesterday's form had off-by-one date issue (resolved tonight)."
+    }
+  ]
+}
