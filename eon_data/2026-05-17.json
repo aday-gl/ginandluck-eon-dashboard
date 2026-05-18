@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-17",
+  "day_of_week": "Sunday",
+  "iso_date": "2026-05-17",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "",
+      "narrative": "CCATL EON typeform for 5/17 (Sunday) not yet submitted as of dashboard run (Monday 5/18 morning). Last submission in #ccatl_eon_report was the 5/16 (Saturday) report at 2026-05-17 02:02 EDT. **Action**: monitor #ccatl_eon_report channel; backfill via R365 Flash Report PDF posted to #gl_brickandmortar_financial_reporting on 2026-05-18 8:32am (file ID F0B5BFUFR0Q) once that PDF is accessible/parsed."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1341.0,
+      "target": 1569.0,
+      "comps": 41.0,
+      "guests": 40,
+      "check_avg": 33.53,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH -14.5% vs target ($1,341 vs $1,569)** on a chill Sunday. ~40 guests / $33.53 GCA (form-stated ~$34). Food $157 (11.7% mix). Comps $41 (3%). **Pretty chill Sunday** — saw some regulars and met some new folks. **No major events**. **Continuing to get good feedback on the food.** **Excited for the new menu tomorrow.** **Kitchen**: smooth sailing. No 86's noted. No incident, no no-show charges, no maintenance flags. **Highlight**: a regular shared some of the artwork he's done around the country — mostly mural work, spanning 35 years. MOD: KE. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 11105.93,
+      "target": 9272.0,
+      "comps": 468.07,
+      "guests": 236,
+      "check_avg": 47.06,
+      "weather": "Not reported",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +19.8% ($11,105.93 vs $9,272.00)** on regular ops — third consecutive +target day extending the strong weekend. Segments: DC/AM $1,029.33, D&C PM $10,076.60. Food $2,770.95 (24.9% mix). Comps $468.07 (4.21%). 236 guests (Tock) / $47.06 GCA. No event activity today (Garden/6A NA, no event sales). **DC/AM (Carey)**: 'Fun Sunday! Busy morning. Smooth afternoon. Nice cocktail pop at 2.' Thanks Felix. **D&C PM (Carey)**: 'Super Busy Large Party Sunday!! Tonight was amazing and everyone was so on top of a bunch of moving parts. Amazing team work tonight.' **Kitchen (Nate)**: 'steady sunday on gang!!!!!!' Thanks Rachel. **Highlight**: 'Sam on host! Nuff Sed!' **Least favorite**: Eli's last shift, but he did not phone anything in. Break make-up complete. No incident, no no-shows charged, no maintenance flags. MOD: Carey. Entered by CAREY."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4909.0,
+      "target": 4300.0,
+      "comps": 182.72,
+      "guests": 139,
+      "check_avg": 35.32,
+      "weather": "High temperature",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +14.2% ($4,909 vs $4,300)** — fifth consecutive +target day; strong Sunday closing out the weekend streak. Food $699 + Bev $3,444 (note: form reports a low retail/floor reconciliation discrepancy; net came in at $4,909). 139 guests (Sevenrooms) / $35.32 computed GCA (form-stated 35). Comps $182.72 — NYTIMES press in-house, plus lots of investor/member combos. **Service shape**: slow open, **strong 9:30-11 push**, otherwise quiet flow-wise. 'Lots of pre and post dinners at the floor, fewer at bar — seems like a pattern.' 11 solos, 1 large party, 8 investor cocktails. Lots of investors & members across the weekend; one advantage: members have tried the investor menu, so Thomas could go deeper in the catalog. **Back catalog banger**: Seven Year Itch, the wardays 75 variation. **Top sellers**: First Time Listener, Material Control, Basilisk. **Service highlights**: managed 3-4 tickets at peak — channel knifed a Brandy Crusta by request, Metrograph subscription recommendation, wrote out a Kyosho cure recipe. **Door**: room filled with full bar + 90% full floor (short one large table), slowly dissipated by 7:45pm, then kept full rest of night. Member Keenan added himself to waitlist and was quickly accommodated; lots of NYers who hadn't visited in years left enthralled. **86's**: none noted. **Menu count**: 18. **Glassware**: 1 water (guest), 1 Collins (bar). **Maintenance**: checking on speaker tomorrow. No incident. No-shows charged. MOD & Chef: Seth & Alejandro. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4501.0,
+      "target": 3967.0,
+      "comps": 167.0,
+      "guests": 127,
+      "check_avg": 35.44,
+      "weather": "Not specified",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +13.5% ($4,501 vs $3,967)** on regular Sunday ops — fourth consecutive event-free day above target. Marquee only (no Standing Room sales reported, $0). Food $853 (19.0% mix). Comps $167 (Investor, Spill, DNL, industry folks). 127 guests / $35.44 computed GCA (form-stated $86.57 appears erroneous — likely cover average rather than GCA). **'Another steady Sunday night in the books!'** Started with 38 covers. First couple hours sleepy, room gradually filled. **Mitchell's first live shift behind the bar — he crushed it!** Room full by 8:30pm and stayed pretty full until 11pm. **Lots of large party walk-ins** with a few on the waitlist at one point. Last hour sleepy; took advantage to tidy up the show. 'A super smooth ending to a very busy week!' **Kitchen**: 'Nice work!' **86**: tuna crudo. **No mention of LA smell tonight** (carryover from Saturday — escalation flagged in prior days — encouraging if smell did not recur). No incident. No-shows charged. **Highlight**: discussing the new Drake album with the staff. MOD & Chef: Joe + Josh. Entered by Joe. *Note*: form's date field reads '2027-05-17' — clearly a typo for 2026-05-17 (Day-of-Week confirmed Sunday and timestamp 2026-05-18 05:33 EDT)."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "",
+      "narrative": "DC EON typeform for 5/17 (Sunday) not yet submitted as of dashboard run (Monday 5/18 morning). Last submission in #dc_eon_report was the 5/16 (Saturday) report at 2026-05-17 02:38 EDT. **Action**: monitor #dc_eon_report channel; backfill via R365 Flash Report PDF posted to #gl_brickandmortar_financial_reporting on 2026-05-18 8:32am (file ID F0B5BFUFR0Q) once that PDF is accessible/parsed."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 11405.0,
+      "target": 8000.0,
+      "comps": 225.0,
+      "guests": 238,
+      "check_avg": 47.92,
+      "weather": "Hot & muggy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +42.6% ($11,405 vs $8,000)** — fourth consecutive +target day; strong Sunday capping the streak. Segments: MB Morning $2,538, MB Evening $7,219, Sun Club $402, Hot Eye $1,132, Events $0. Food $4,582 (40.2% mix — highest food share in recent weeks). Comps $225. 238 guests (93 AM + 145 PM via OpenTable) / $47.92 GCA. **Morning (Sam & Lex)**: one of slower Sundays — very little action before 11am. A few hotel guests for breakfast but did not capture most departures. No large parties, but **~28 covers for food tours** (great extra business). Staffing paced well; **Aimee and Sofia did a great job running sidework**. Not a lot of brunch food sold. **Evening (Justin & Shannon)**: started looking at 30 covers, most in first half. **Trustees Theater Comedy Show for Judd Apatow and friends filming The Comeback King** in town started at 7pm — went from very chill at 5pm to **packed house by 6:15pm**. Kitchen had rail filled in 20 minutes, executed flawlessly without long ticket times. James was solo behind the bar at start, **Chandler arrived at 6 just in time** for the rush. Kelwin stayed past his brunch shift to help take tables (huge!). **Killer hour 6-7pm**, then at 7pm 'biggest exodus of folks out of the space I've seen since opening.' A few more groups came in for dinner over the following hours but stayed calm; **not much post-show crowd in MB at all**. **Sun Club (Nicki / Sam)**: good business at open from hotel guests, very slow evening after that. **Hot Eye**: pretty chill night, very slow start, steady flow after 9pm. Normal bar crawl followed by service industry. 'Slow burn.' **Lots of invites sent out for tomorrow night's event.** **Kitchen**: 911 on Branzino and Mushrooms. 'Great job, BOH!' No DNL/sendbacks noted. No injury/incident, no maintenance flags. **Highlight**: 'seeing a literal line out the door!' Entered by Alexis."
+    }
+  ]
+}
