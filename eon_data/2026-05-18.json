@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-18",
+  "day_of_week": "Monday",
+  "iso_date": "2026-05-18",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1287.0,
+      "target": 1668.0,
+      "comps": 48.7,
+      "guests": 36,
+      "check_avg": 35.77,
+      "weather": "Sunny, highs high 80s, humidity",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL -22.8% vs target ($1,287 vs $1,668)** on a quiet Monday. 36 guests / $35.77 GCA. Food $69 (5.4% mix). Comps $48.70 (gift, industry love, employee discount, O4W, Manager Meal). **Health inspection today — scored 97** (-3 pts for BOH sanitizer bucket on the floor; **bar had zero deductions**; aiming for 100 next time). Quiet start; opener got most cleaning projects done before closer came in. **Early pop at 9pm** with lots of larger groups hanging out — 'because we are one of the few spots open on Mondays, be prepared for pops to happen quick.' A few late-night campers continued between last call and close; **food orders going up until 11pm**. Great timing with tickets and presentation. Overall smooth night. **Kitchen**: good ticket times and presentation; BOH tackled cleaning projects. **86**: jalapeno poppers. **Maintenance**: BOH freezer needs to be looked at. No incident, no no-shows charged. **Highlight**: meeting Rob, who's opening a bar in Ponce City Market — spoke highly of Tre. Excited for more service industry friends in the area. MOD: MKZ. Entered by MKZ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 981.0,
+      "target": 1314.0,
+      "comps": 49.9,
+      "guests": 30,
+      "check_avg": 32.0,
+      "weather": "Muggy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH -25.3% vs target ($981 vs $1,314)** — chill Monday on the low end. ~30 guests / $32 GCA. Food $116 (11.8% mix — solid food share even with low overall volume). Comps $49.90 (5%). **'Definitely a chill Monday.'** Saw a fair number of **out-of-towners** in today. **Several people took advantage of plastic cups to take drinks to the river steps**. Overall lots of good guest interactions with the folks who came in. **Kitchen**: smooth. Good food sales today. No incident, no no-shows charged. **Highlight**: served a young woman her first dirty martini — she hated it and made a silly face; her older friend had a good laugh and drank it instead. Pretty fun and endearing moment. MOD & Chef: KE. Entered by BT. *Note*: typeform Day-of-Week field reads 'Tuesday' but the date 2026-05-18 is Monday — clearly a Day-of-Week typo."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8971.76,
+      "target": 7016.5,
+      "comps": 357.72,
+      "guests": 204,
+      "check_avg": 43.98,
+      "weather": "Rainy cold snap (Day 1)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +27.9% ($8,971.76 vs $7,016.50)** on regular ops — fourth consecutive +target day, extending the streak through a 'rainy cold snap Day 1'. Segments: DC/AM $1,292.95, D&C PM $7,678.81. Food $2,411 (26.9% mix). Comps $357.72 (3.99%). 204 guests (Tock) / $43.98 GCA. **Plus net event sales $4,199** (Air Inc happy hour 3-6pm in Vauxhall, 30+ guests; passed apps + reception station; Justice & Nathan cranked libations; host thanked us en route to Rockies game). **Total Net incl. events: $13,170.76**; Total Food incl. events: $5,131. **D&C PM (Carey)**: 'Another busy weekday for us!! These have been some amazing days! We are getting in a lot of celebrations and a lot of random large party walk-ins.' **DC/AM**: notes missing from morning. **Kitchen (Nate)**: steady night with no issues. Break make-up complete. No no-shows charged. **Incident: YES** (reported, no details captured in EON — recommend follow-up). **Highlight**: awesome birthday celebration for Community Member Alex Movitz — left feeling 'incredibly spoiled. Great work Sud!' MOD: Maggie & Josh AM / Carey PM. Entered by CAREY."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4171.0,
+      "target": 4825.0,
+      "comps": 103.6,
+      "guests": 106,
+      "check_avg": 39.0,
+      "weather": "Hottest day of year, broke 80",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV -13.6% vs target ($4,171 vs $4,825)** — first miss after a five-day +target streak; broke 80F on the hottest day of the year. Food $684 + Bev $3,435 + Retail $52 = $4,171. 106 guests (Sevenrooms) / $39 GCA. Comps $103.60. **Slow opening — 'likely will be this way until we break 90 and folks need AC.'** Smooth in/outflow of guests; **never got close to a waitlist**. **114 oysters — new record!** (did not sell out). 2 large parties (both unexpected joiners), 4 solos, 0 investor cocktails. **Top sellers**: First Time Listener, Night Letters, Cielo Asilo (Cara: 'look at these rarified palates!'). **Door (MK)**: 'First host shift without the vestibule felt very exposed to the elements'; humid drowsy Monday afternoon; AC refuge brought in pleasant tourists & neighborhood friends; got a solid 8-10:15 push. **Sonny (formerly Batemans, currently Bar Bianchi) + friends** in celebrating a birthday. **Sam from Atomix** in around 11 with friend Bailey. Plenty of chats on the sidewalk; tried to bring people in late but 'sometimes people just don't want to get drunk on a Monday.' **3 no shows, 7 cancellations**. **Kitchen**: 'Great work with a quick first turn.' **Highlight**: a 4-top celebrating a Colgate Econ graduate over numerous oysters and bougie cocktails — Cara: 'not my type, but they were easy to chat with, I introduced the graduate to brandy.' **Glassware**: 'Tenzin would never.' MOD & Chef: Cara & Alejandro. Entered by Thomas. *Note*: form's Day-and-Date field shows '5//19' — clear typo (Cara had the same '5//17' typo two days ago); Door notes explicitly state Monday 5/18; message timestamp 2026-05-19 02:17 EDT confirms 5/18 service."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4278.0,
+      "target": 4031.0,
+      "comps": 80.9,
+      "guests": 113,
+      "check_avg": 37.86,
+      "weather": "Warm — brought people out",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +6.1% ($4,278 vs $4,031)** — fifth consecutive event-free day above target. Marquee $4,278 only (Standing Room $0). Food $1,050 (24.5% mix — highest food share in recent days). Comps $80.90 (Employee discounts, Friends & Family, Birthdays, Edwin, Griffin, Yiban, Jacob with the coffee, Landis' Uncle). 113 guests / $37.86 computed GCA. **Slower start, picked up quite a bit soon after.** By 9pm started a small waitlist; everyone seated within ~15 min. **Sold over 100 oysters by 9:30pm!** That rush lasted ~90 min then mellowed. Bar top stayed full a while after; **kept butts in seats rest of the night**. Familiar faces throughout — Edwin, Griffin, a couple of regulars. Easy close except a couple who lingered 40 minutes past close — Mikey: 'makes me wonder how long is too long before we softly usher them out.' **No LA-smell complaint noted today** (second consecutive day without smell flag — encouraging given Saturday's escalation). **Kitchen**: sold at least 100 oysters, then a lull gave Vic time to catch up on prep; still have 6 count on Pot de Creme. No 86s. No incident. No-shows charged. **Highlight**: engaging with funny guests. MOD & Chef: Mikey & Vic Von Doom. Entered by Mikey."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2015.71,
+      "target": 4673.14,
+      "comps": 83.0,
+      "guests": 58,
+      "check_avg": 38.03,
+      "weather": "Extremely hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC missed target by -56.9% ($2,015.71 net vs $4,673.14)** — biggest miss this week; extremely hot weather kept foot traffic very light. Marquee Bar Sales $2,300.32 (gross) → Net Sales Including Events $2,015.71. Garden: closed. Food $351 (15.3% mix). Comps $83 (4.1%). 58 guests / $38.03 GCA. **First seating didn't come in until ~6pm.** Things slowly picked up around 8:30pm with a handful of two-tops and a couple larger parties. **Used downtime for menu flip prep** — cut updated Chartreuse inserts and loaded them into menus. **Kitchen closed at 9pm** (light night) — pivoted with popcorn and N/A bubbles for late guests. **Oyster Monday continues to do well**. MOD didn't check kitchen close. **What went well**: new menu preparation; floor hospitality. **What to improve**: BOH ticket times. **Maintenance carryover**: 'same' (bathrooms, water heaters per prior days — note: Wes flagged DC water heater fix at $6k 'dodge a bullet' in #gl_cashflow today). No incident. No-shows charged. **Highlight**: 'The amount of Chartreuse Swizzles going out.' MOD: Josh. Entered by Josh."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 7104.0,
+      "target": 6500.0,
+      "comps": 519.0,
+      "guests": 110,
+      "check_avg": 64.58,
+      "weather": "Warm and beautiful",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +9.3% ($7,104 vs $6,500)** — fifth consecutive +target day; first Monday beat in recent weeks. Segments: MB Morning $945, MB Evening $3,575, Sun Club $365, Hot Eye $2,219, Events $0. Food $2,234 (31.4% mix). Comps $519 (7.3% — elevated). 110 guests (8 AM + 102 PM via OpenTable) / $64.58 computed GCA. **Morning (Sam & Marcus)**: 'Fairly tame Monday day. Hosted a few tour groups, but nothing ever too much to handle.' **Evening (James & Shannon)**: 'Chill and average Monday night. Seems like the usual Monday night activities. A few people in for dinner. No crazy rushes. No hiccups from the kitchen. A solid run start to the week!' **Sun Club (Nicki / Sam)**: 'Hot and sunny up on Sun Club today, but again, not much to write home about. Standard average Monday daytime shift.' **Hot Eye — GINWORLD EVENT (huge success!)**: 'Tons of support from across the city and lots of industry folks from out of town as well. **Nic Wallace graced us with his presence and hung out to make a few drinks.** Natasha from the Gin Room was lovely. For a first-time event, we had a great time and learned a lot!' **Kitchen (Marcus)**: only note out of ordinary was that **THE computers and the kitchen printers don't communicate** — kitchen demonstrated excellent adaptability and patience, had to Slack orders then run up to get them. 'They rocked and made the event seem very smooth to guests despite it being a pretty clunky system.' **Event notes**: see Hot Eye and Kitchen. No injury/incident, no maintenance flags. **Highlight**: 'The Gin Room event was a tremendous success.' Entered by James."
+    }
+  ]
+}
