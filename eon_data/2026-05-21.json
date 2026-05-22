@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-21",
+  "day_of_week": "Thursday",
+  "iso_date": "2026-05-21",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1468.0,
+      "target": 1765.0,
+      "comps": 65.65,
+      "guests": 42,
+      "check_avg": 34.96,
+      "weather": "High 83 / Low 70, heavy rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL -16.8% vs target ($1,468 vs $1,765)** — another off-and-on rainy day. 42 guests / $34.96 GCA. Food $145 (9.9% mix). Comps $65.65. **Setting the bar up to SOP along with garnishes; label every bottle of wine after opening.** Few faces in for meal deals. **Opener prepared some batches during down time to prepare for weekend.** **Vending machine officially up and running** — guests definitely gonna be curious so let's lean into that. **Last call bell up on the wall** — make sure we follow SOP for last call. **Late push around 9:30pm with lots of new faces**; also a group of fellow bartenders came in toward end of night — 'let's continue to make them feel welcomed.' Not too much action for kitchen today — let's prep for the weekend. **Note on substitution**: 'We are using empirical stone fruit in place of peach schnapps. Green Tea spec with this substitution is .5 oz stone fruit, .5 oz simple, .5 oz lemon, 1 oz Jameson.' **Kitchen**: 'Memorial Day weekend so hoping to see some good business — let's prepare accordingly.' **86**: peach schnapps, yellow chartreuse. **Low**: tray bags, napkins. No incident, no no-shows charged. **Highlight**: 'seeing the vending machine up & running!' MOD: JK/MKZ. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 3756.0,
+      "target": 2795.0,
+      "comps": 80.85,
+      "guests": 141,
+      "check_avg": 26.64,
+      "weather": "On and off rain with lots of humidity",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH beat target +34.4% ($3,756 vs $2,795)** — great Thursday night. 141 guests / $26.64 GCA. Food $140 (3.7% mix). Comps $80.85 (2.1%). **'Slow start to our night and then BAM! Got hit around 9:30pm with multiple groups. Business stayed steady until close. Great Thursday night!'** **Kitchen (John-Michael & Korey)**: 'held it down. Pretty decent food sales.' **Maintenance**: kitchen door. **86**: jalapeno poppers, veggie dog. No incident, no no-shows charged. **Highlight**: 'Rockin' service with Brandon C! Especially on a very busy night. Always a pleasure working with him. We had some really great guests tonight that were interactive with us.' MOD & Chef: KK/KE/MD & JMS/KC. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 10875.34,
+      "target": 12358.0,
+      "comps": 472.0,
+      "guests": 248,
+      "check_avg": 43.85,
+      "weather": "Crispy and fresh — spring vibes",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR -12.0% vs target ($10,875.34 vs $12,358.00)** on regular ops — but **'ALL GAS NO BRAKES'**. Segments: DC/AM $650, D&C PM $10,225.14. Food $2,413.95 (22.2% mix). Comps $472 — 'mostly investors and DNLs'. 248 guests (Tock) / $43.85 GCA. **Plus net event sales $1,603.45** (JobSync HH 20+ in suite 6a 4:30-8:30pm — apps + small plates a la carte). **Total Net incl events: $12,478.45**. Total Food incl events: $2,876.45. **DC/AM (Felix)**: 'Great Thursday with Reggie. Awesome stage today! Cold brew will be ready at 8:30 tomorrow.' **D&C Evening (Maggie)**: 'We were BUSY tonight. Not 1, not 2, but **4 ten-tops in a 1.5hr stretch** got the bar team sweaty. Lots of happy people again! Each night I've closed this week someone has pulled me aside to sing the praises of our server team. The bartenders absolutely bodied the night — Frank cranked, Mel killed, Lucas stayed late to support, Vela was moving non-stop. **Delayed kitchen last call to 10:20pm to accommodate the big parties. We rolled liquid last call at 11pm with only 2 open tables in the lobby.** People were loving what we had to offer tonight!' **Kitchen (Marv & Antonio with Nate)**: 'Pretty steady Thursday night. Great night with Marv and Antonio.' **Event**: 'Justice had great rapport with the group and the host complimented us on the drinks, great service & hospitality! — Kelly.' **Maintenance**: 'all actively addressed.' No incident, no no-shows charged. **Highlight**: 'Getting to meet Archer's whole family and celebrate his brother's 8th grade graduation! Every section having someone that pulled me aside to sing our server team praises! Finishing Sophie & Sud's sentences! Frank's one hair!' MOD: Josh & Evan AM / Maggie PM. Entered by Maggie."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4923.0,
+      "target": 5230.0,
+      "comps": 144.85,
+      "guests": 147,
+      "check_avg": 33.0,
+      "weather": "Slight drizzle then very pleasant",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV -5.9% vs target ($4,923 vs $5,230)** — close miss on a strange creep-by-then-pop Thursday. Food $446 + Bev $4,317 + Retail $120 = $4,923. 147 guests (Sevenrooms) / $33 GCA. Comps $144.85 (2.9%). **'A strange Thursday creeping by so slowly until 10pm when people seemed to realize the night was still young.'** Many back-catalogue asks paired with picky drinkers, but every guest left happy. Many out-of-towners and first-timers. **Top sellers**: Masari, Material Control, First Time Listener. **Door (HP)**: 'Brisk almost chilly weather thanks to yesterday's rain. First half surprisingly slow, more like a Monday — hindered by tonight's Knick's game. Light day on the books but most resys at open, helping launch into the night. **At 10pm however we suddenly got busy, with a mix of groups leaving Broadway shows and coming from Knick's parties converging at once.** Small line at the door for a brief moment, no waitlist — only two groups waiting about 30 min. Two large parties inside ended up knowing each other but came together into one as a few left. At 12:30am cooled back down — streets visibly rowdier too, a bar fight breaking out at Cherry Tavern next door. Welcomed handful of solos and enthusiasts, plus past EV SA and barback Nelson Petino Jr. to the bar tonight.' **No-show**: Henry Dardaris for 2 at 8pm (NOT charged). **Menu count**: 17/17. **Glassware**: 1 Collins, 1 Nick and Nora. **Maintenance**: 'speaker system failed us.' MOD & Chef: Cara & Steves. Entered by stef."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 7660.0,
+      "target": 6636.0,
+      "comps": 212.12,
+      "guests": 189,
+      "check_avg": 40.53,
+      "weather": "Warm day with no Dodger game",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +15.4% ($7,660 vs $6,636)** — eighth consecutive day above target; busy busy with strong players. Marquee $7,660 only (Standing Room $0). Food $1,371 (17.9% mix). Comps $212.12 ('lots of celebrations, DNL'). 189 guests / $40.53 GCA. **'A strong service with strong players. We hustled all evening to keep the room completely full from start to finish.'** Small lull early; after 8pm a race to the finish. **Event next door at the Japanese denim store** brought first dates plus DCEV alumni. Several large groups sat 3+ hours. Shoutout Jorge for rollups and water bottles all night. Only ever had a couple groups on the waitlist; quick table turns kept room alive. Quite a few tables at last call for food and drinks. Cut Bailey and Edwin around midnight. **Kitchen (Josh)**: 'crushed it as per usual! Super busy all night. Lots of burgers, oysters, and bread & butter was definitely a highlight.' **Maintenance**: 'smell is so much better. did not light incense even one time. poured a pitcher of water down the drain in the women's restroom.' **86**: Highland Park IPA. No incident, no-shows charged. **Highlight**: 'serving on the floor for a bit to cover Julian on break — lots of lovely folks tonight.' MOD & Chef: Gigi & Josh. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 5613.0,
+      "target": 3445.0,
+      "comps": 76.0,
+      "guests": 125,
+      "check_avg": 44.9,
+      "weather": "Rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +62.9% ($5,613 vs $3,445)** — pretty good night considering all the rain. Marquee $5,613; Garden closed. Food $799 (**14.2% mix — strong**). Comps $76; Voids $33. 125 covers (71 walk-ins, 54 resos) / $44.90 computed GCA (form recorded $51.50 — likely typo). **'Grant came in with a group of 10 from his day walking job celebrating his leave from the Hill.'** Apart from that group several other larger parties throughout the night; room continued to be sat at fairly steady pace. **'Never ran into an issue having to start a wait or were ever in need of turning seats.'** Bar fully sat until ~11pm; then broke down a well and focused on the floor. **Few later reservations accommodated; natural last call just after 12:30am.** **First bathroom was 86'd when MOD came in but turned out water was mistakenly turned off when faucets were replaced — all bathrooms now in working order.** **Kitchen**: 'Busy night! Around 14% in sales. Tables were ordering tonight! Grant's table was a big help and contributed to much of the sales. But even then the kitchen continued to push out food until 11.' **Did kitchen close check**: Yes. **What went well**: pushing food / menu recommendations. **What to improve**: pre-setting tables with plates, linens, and rolls before dropping food. **Maintenance**: 'Standing water in kitchen by the ice machines — spilling over from drains underneath / not quite aligned. Will have to wait until next cleaning when machines are empty. Water heaters as always.' No incident, no-shows charged. **Highlight**: 'sharing war stories about Grant with his boss, the Congressman.' MOD: Kevin/Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 8394.0,
+      "target": 9500.0,
+      "comps": 228.0,
+      "guests": 212,
+      "check_avg": 39.59,
+      "weather": "Muggy & Hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG -11.6% vs target ($8,394 vs $9,500)** — close miss but a strong Hot Eye finish. Segments: MB Morning $911, MB Evening $5,993, Sun Club $193, Hot Eye $1,383, Events $0. Food $3,151 (37.5% mix — high food share again). Comps $228 (2.7%). 212 guests (46 AM + 166 PM via OpenTable) / $39.59 computed GCA. **Morning (Gabby & Lex)**: 'One of the slower mornings of the week overall. We saw a few hotel guests earlier in the morning followed by a lull, then business picked back up around 1pm with a mix of walk-ins and the food tour arriving. Otherwise, not much else to report.' **Evening (Justin & Shannon)**: 'Slower start to the night, but expecting a nicer turnout from the **Peter Pan Goes Wrong showings at the Lucas starting today** through Sunday. We didn't see a pre-show around 6pm as expected, but we did see a nice pop after the show around 9:15 when the restaurant was nearly fully seated. The team executed service well with little to no hiccups. Morgan Rae (boutique owner and regular) stopped by, and so did **Southern Britt with a memo from marketing to try out some new cocktails**.' **Sun Club (Samantha)**: 'Slow but steady day at SC. A good amount of hotel guests at the pool and a few walk-ins throughout the afternoon.' **Hot Eye**: 'Night started off very quiet with a few business groups and hotel guests joining us for a round. **The room did a 180 by 10pm with almost a full house!** We had a lot of big parties of 8 or more stay till around 11:30, we had quite the power hour but handled the volume with ease. **James and his fam joined us for a late night round as well!**' **Kitchen**: 'No sendbacks or DNLs. Low branzino, 86'd crudo.' No injury/incident. **Highlight**: 'Guests were extremely pleased with the show next door and came in with great energy! Also a guest who forgot to tip last night came back today and tipped extra!' Entered by Alexis."
+    }
+  ]
+}
