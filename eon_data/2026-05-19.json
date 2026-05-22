@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-19",
+  "day_of_week": "Tuesday",
+  "iso_date": "2026-05-19",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 3816.0,
+      "target": 2207.0,
+      "comps": 78.0,
+      "guests": 107,
+      "check_avg": 35.67,
+      "weather": "High 88 / Low 65",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +72.9% ($3,816 vs $2,207)** — Bingo Tuesday strikes again with the largest Tuesday beat in weeks. 107 guests / $35.67 GCA. Food $360 (9.4% mix). Comps $78. Bingo started slow at 6pm but picked up quickly at 7pm — host Jessica drew enthusiastic crowd. Hotdog signage drawing new guests; ppl excited about new food menu. Lauren (in town) experienced another Bingo Tuesday. Slowed at 9pm when bingo ended, picked right back up around 10pm with big groups flowing in from Burlees. Few visits from reps & industry folk early. **Kitchen**: BOH did a great job with flow of tickets; food sales going up — let's stay on top of things. **86**: Coke, large pp shirt, Don Julio Anejo. **Maintenance**: gasket on middle cooler loose. No incident, no no-shows charged. **Highlight**: a daily bringing their daughter in to celebrate her 21st birthday — 'love that we are a forever memory for them.' MOD: MKZ/JK. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1194.0,
+      "target": 1614.0,
+      "comps": 33.9,
+      "guests": 37,
+      "check_avg": 32.29,
+      "weather": "Hot & humid, partly cloudy-clear; projected thunderstorms delayed",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH -26.0% vs target ($1,194 vs $1,614)** — steady, slower paced Tuesday night. 37 guests / $32.29 GCA. Food $198 (16.6% mix — strong food share). Comps $33.90 (2.8%; industry, BINGO credits, Neuhoff residents). **Consistent food sales in first few hours**; feedback on food continues to be excellent. **Fewer bingo guests than usual, only one returning group**. Experienced a lull at bingo's conclusion, **second wind headed by majority industry guests at 10:30pm**. **Kitchen (Kevin & Korey)**: maintained consistency and expediency throughout service. **Maintenance**: kitchen door lock. **86**: jalapeno poppers. No incident, no no-shows charged. **Highlight**: watching a number of late-night guests make friends and stay for a few more rounds than intended. MOD & Chef: KK & MD / KM & KC. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 4659.84,
+      "target": 8723.0,
+      "comps": 118.3,
+      "guests": 123,
+      "check_avg": 37.89,
+      "weather": "Not reported",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR -46.6% vs target ($4,659.84 vs $8,723.00)** — Spring/Summer Tasting Day; truncated evening shift. Segments: DC/AM $548, D&C PM $4,111.84. 123 guests (Tock) / $37.89 GCA. Food $748 (16.0% mix). Comps $118.30 (2.54%). **DC/AM (Carey morning)**: 'Tuesday. Short and sweet with a good pop to start. Let's have a great tasting. — Thank you Reggie.' **D&C Evening**: 'Tasting Day Truncated Evening Shift!! We opened bar side of the floor and allowed Hotel Guests to utilize the Larimer side as their lounge.' **Kitchen (Nate)**: very slow service. **Break make-up complete: Yes**. **Incident: YES** (reported). No no-shows charged. **Highlight**: 'SPRING/SUMMER TASTING DAY!!! & Selling an Old Fashioned flight to our CM Randy Kern and his date Tiffany.' MOD: Maggie & Josh AM / Carey PM. Entered by CAREY. *Context*: target miss expected given tasting closure footprint."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "**No EV EON typeform submitted for Tuesday 2026-05-19.** All other venues reported normally; EV's next entry is Wednesday 2026-05-20. R365 backfill pending; recommend follow-up with the EV MOD team."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4994.0,
+      "target": 4371.0,
+      "comps": 141.0,
+      "guests": 123,
+      "check_avg": 40.6,
+      "weather": "Not specified",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +14.3% ($4,994 vs $4,371)** — steady and lively Tuesday night; sixth consecutive day above target. Marquee $4,994 only (Standing Room $0). Food $810 (16.2% mix). Comps $141 (industry friends, Jeffrey, DNL). 123 guests / $40.60 computed GCA (form recorded $96.05 — likely typo). **Started with a lot of familiar faces at the bar — always a great start.** Bar top filled quickly; rest of room slowly after. **Mitchell did point for the first time tonight and crushed it.** Around 9pm room filled and stayed full until last call. Small waitlist at one point; got everyone down quickly. Did cleaning around the shop plus prep for the upcoming menu next week. **Kitchen (Vic)**: nice work — no notes. No incident, no-shows charged. **Highlight**: discussing the new menu with the staff. MOD & Chef: Joe & Vic. Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3176.86,
+      "target": 4132.7,
+      "comps": 68.48,
+      "guests": 79,
+      "check_avg": 40.21,
+      "weather": "98F — extremely hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC -23.1% vs target ($3,176.86 vs $4,132.70)** — pretty solid Tuesday at the 124 despite 98F heat. Marquee Bar Sales $3,176.86; Garden closed. Food $381.10 (12.0% mix). Comps $68.48 (2.1% — investor/community member/industry/gift). 79 covers (10 booked / 69 walk-ins) / $40.21 GCA. **Started with minimal covers on books, but saw a pretty good amount of early evening foot traffic.** Some really great guest connections; team did a great job running smooth service. **Kitchen (James)**: handled all tickets quickly and served all items to spec. **What went well**: great communication and teamwork; nice to see everyone connecting with guests — several guests asked to speak to MOD to give kudos to team. **What to improve**: 'Slow Down. Slow is smooth and smooth is fast.' Some avoidable mistakes/misrings due to managing too much at once. **Maintenance**: water heaters (estimate in ResQ). No incident, no-shows charged. **Highlight**: seeing the team connect with guests. MOD: Kevin. Entered by Kevin."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 5238.0,
+      "target": 6000.0,
+      "comps": 220.0,
+      "guests": 166,
+      "check_avg": 31.55,
+      "weather": "Muggy and hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG -12.7% vs target ($5,238 vs $6,000)** — solid and steady Tuesday overall. Segments: MB Morning $953, MB Evening $3,713, Sun Club $160, Hot Eye **closed**, Events $0. Food $2,065 (39.4% mix — very high food share). Comps $220 (4.2%). 166 guests (52 AM + 114 PM via OpenTable) / $31.55 computed GCA. **Morning (gabby)**: 'Started slower, welcomed a handful of tables around 10am and continued to see a consistent flow throughout the morning. Brief lull around noon before a 16-person food tour arrived around 1:30pm, followed by another steady scatter through the afternoon. Lots of street traffic plus patio diners thanks to warm and sunny weather.' **Evening (james and marcus)**: 'Our pop this evening came right around sundown and it washed in a bit like a rogue wave. There was nothing until 7pm, a lot of people filled up the restaurant and then that was it. One decent turn. After the guests were done with dinner they left. The bar was similarly busy — at one point (8-9pm) all seats were full but before and after pretty slow.' **Sun Club (Nicole)**: hosted a **photoshoot 7am-3pm**; opened to hotel guests and locals at 3pm. Nice mix of hotel guests at the pool plus a handful of locals at the bar. **Hot Eye**: 'closed' (typo: 'cloed'). **Kitchen**: 'No notes from the kitchen. Food was timely. Nothing was returned because it was improperly made. One order of stuffed peppers was comped because it was not the guests cup of tea.' **Events**: none. No injury/incident, no maintenance flags. **Highlight**: 'Lots of folks showed up with their peach \"I voted\" stickers for a celebratory or congratulatory drink after performing their civic duty.' Entered by james."
+    }
+  ]
+}
