@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-20",
+  "day_of_week": "Wednesday",
+  "iso_date": "2026-05-20",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1574.0,
+      "target": 1401.0,
+      "comps": 44.9,
+      "guests": 45,
+      "check_avg": 35.02,
+      "weather": "High 89 / Low 67, very rainy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +12.3% ($1,574 vs $1,401)** — very rainy Wednesday at Close Company Atlanta. 45 guests / $35.02 GCA. Food $413 (**26.2% mix — killer food sales!** as Lauren put it). Comps $44.90. **Opener didn't have too much action through the door — probably the bad weather.** **New signage for meal deals out!** Also vending machine in the process of being up and running — lots of cool items. **First push came around 9pm with mostly industry folks** — made lots of connections and hope to see those blossom. **No kickball folk today, unfortunately.** Quiet for the kitchen until end of night — can count on seeing some late-night action now. Night ended quietly and smoothly. Looking forward to what the rest of the week has to offer. **Kitchen**: great job adjusting to volume changes. No incident, no no-shows charged. **Highlight**: a guest returning from yesterday with a group of 10 friends! MOD: Jk/MKZ. Entered by Mya. *Slack reaction*: Wes — 'Uh, does that say 26% Food Sales???? DAMN.'"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 886.0,
+      "target": 1548.0,
+      "comps": 81.6,
+      "guests": 34,
+      "check_avg": 26.06,
+      "weather": "Warm, cloudy, scattered thunderstorms",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH -42.8% vs target ($886 vs $1,548)** — sleepy Wednesday night, absent later-night volume. 34 guests / $26.06 GCA. Food $157 (17.7% mix — high interest in food). Comps $81.60 (9.2% — elevated; industry, birthdays). **A lot of industry guests, one industry group of 7 celebrating a birthday.** **Kitchen (John-Michael, solo today)**: held it down. **Maintenance**: kitchen door lock. **86**: jalapeno poppers. No incident, no no-shows charged. **Highlight**: 'The young woman celebrating her birthday with the larger group was intimidated by our menu. It was rewarding talking her through it, and she left ecstatic.' MOD & Chef: KK & MD / JMS. Entered by BC. *Slack reactions*: Kala — 'I'm surprised the rain didn't bring more folks in. Great food sales for a sleepy Wednesday!' Brandon — 'Me too. Brandon mentioned there was a stage on Broadway, and industry guests reported a slow week. Great night for food!'"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8361.98,
+      "target": 7627.0,
+      "comps": 272.47,
+      "guests": 175,
+      "check_avg": 47.78,
+      "weather": "Kinda rainy, kinda cold, kinda weird",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +9.6% ($8,361.98 vs $7,627.00)** on regular ops. Segments: DC/AM $1,186.35, D&C PM $7,175.63. Food $2,124.90 (25.4% mix). Comps $272.47. 175 guests (Tock) / $47.78 GCA. **Plus all-day CDW event $2,784.06 net** (30 guests 7:30am-5pm including boxed breakfast/lunch + 3-5pm happy hour). **Total Net incl events: $11,146.04**. Total Food incl events: $4,104. **DC/AM (Jordyn)**: 'What a wonderful Wednesday as per usual! Thanks Reggie. We had a stage that killed it today, another stage tomorrow around 10am! Dialed in light roast and she purrs. Diluted the cold brew and put away.' **D&C PM**: 'So many happy people today! The big group staying at the hotel was a bit hectic, they don't understand our flow, but they were kind enough. Ran short a server after 7pm, definitely stayed busy, but the whole team killed it. Low comps, lots of hospitality moments, got to train with MH.' **Kitchen (Nate)**: chill night and good vibes. **Event**: CDW had 9 presentations through the day; host thanked us on the way out. **Highlight**: seeing the Material Control recipe card go out to a D&C EV fan who adored it — MH. MOD: Josh & Evan AM / Maggie + Maggie + Lucas PM. Entered by Maggies."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3934.0,
+      "target": 5230.0,
+      "comps": 68.4,
+      "guests": 123,
+      "check_avg": 32.0,
+      "weather": "Hot and stormy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV -24.8% vs target ($3,934 vs $5,230)** — strange weather and rowdier-than-usual Wednesday crowd. Food $369 + Bev $3,565 = $3,934. 123 guests (Sevenrooms) / $32 GCA. Comps $68.40 (1.7%). **Started hot and humid, brief sudden thunderstorm for an hour, then on/off sprinkling**. Slow start but at 7pm folks were looking for cover — filled up; at 8pm grooving. Good balance of reservations and walk-ins keeping ~2/3 full with wiggle room. **3 large parties total**; slowed officially around 11pm; few at bar and tables at close. **Member Ana Ma had reservation for 4 guests, arrived an hour later with a party of 7** — were able to accommodate. **'So many bartender's choice cocktails, the night felt like a true conversation between bar and tables.'** **Top sellers**: Material Control, Year of the Trees, Grand Entrance. Cara and Stef met a new Maltese puppy named Bam Bam with owner Michelle (fellow neighbor on 5th st). **1 no-show** (Wyatt Yarbrough). **Incidents**: 'some frisky patrons at end of night had to be gently escorted out.' **Glassware**: DOF, cheese plate. **Maintenance**: water fountain spout. **Menu count**: 17/17. MOD & Chef: Cara & Steves. Entered by stef."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5506.0,
+      "target": 4734.0,
+      "comps": 57.05,
+      "guests": 143,
+      "check_avg": 37.71,
+      "weather": "Warm; Simi Valley fires linger faintly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +16.3% ($5,506 vs $4,734)** — seventh consecutive day above target. Marquee $5,506 only (Standing Room $0). Food $1,200 (21.8% mix). Comps $57.05 (DNL, F&F, few industry homies). 143 guests / $37.71 GCA. **Kicked off the night with Sam Medley visiting us from Kentucky and blessing us with tasters of a few different expressions of their whiskeys** — 'Been loving these educational opportunities!' **About 17 members showed up for the Parlor Social Club event** — slowly trickled in after 6:30pm, lovely time, Jaz/Julian tag-teamed care, all left shortly after 8pm. 'Didn't order a whole lot but we were able to capture more sales. Looking forward to possibly collaborating again.' Slower next couple hours, picked up again 9:30pm — filled entire room and turned ~half over again. Tiny waitlist 20 min. Cut Jaz around 11:45pm. **Kitchen (Vic)**: 'so many oysters and chips & dip! Felt like a breeze.' **Maintenance**: 'smell was way better today!' (Gigi hotboxed the hallway with dragon's blood sage before service.) No incident, no-shows charged. **Highlight**: 'when Kelso came downstairs singing to the song that was playing with such a fun vibe!' MOD & Chef: Gigi & Vic. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3045.0,
+      "target": 2630.0,
+      "comps": 45.0,
+      "guests": 86,
+      "check_avg": 35.41,
+      "weather": "Hot — late thunderstorms",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +15.8% ($3,045 vs $2,630)** — steady night. Marquee $3,045; Garden closed. Food $310 (10.2% mix). Comps $45 (Voids $0). 86 covers (65 walk-ins, 21 resos) / $35.41 GCA. **All reservations were in by 8pm.** Around that time the room filled with walk-ins and was nearly fully sat until ~10pm. **Thankfully never had to start a wait — seated everyone that walked in.** Around 10pm the rain started and **'almost killed all hopes for any late-night walk-ins'**, but a few bar guests came in right before last call. **Kitchen**: decent night, sales around 10%, better at the beginning compared to late night. Completed bar/kitchen order from Baldor for tomorrow. **Did kitchen close check**: Yes. **What went well**: filling the room. **What to improve**: pre-bussing. **Maintenance**: bathrooms, water heaters, **'rotten egg/sulfur/dead rat smell is always at its worst when it rains! Something about how the rain washes through this building. Several guests complained about the odor.'** No incident, no-shows charged. **Highlight**: 'chatting about the Money Gun popup and the Seattle opening with some visiting bar guests at end of the night.' MOD: Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 6379.0,
+      "target": 6000.0,
+      "comps": 134.62,
+      "guests": 170,
+      "check_avg": 37.52,
+      "weather": "Muggy and hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +6.3% ($6,379 vs $6,000)** — sixth consecutive +target day. Segments: MB Morning $790, MB Evening $5,385, Sun Club $203, Hot Eye **closed**, Events $0. Food $3,070 (48.1% mix — exceptional food share). Comps $134.62 (2.1%). 170 guests (50 AM + 120 PM via OpenTable) / $37.52 computed GCA. **Morning (Gabby)**: 'Slower but steady day overall. Strong 8am hour with several hotel guests joining early. After initial rush, things quieted — team focused on cleaning, organization, and knolling projects during downtime. Around 1:15pm welcomed our food tour group, business began to steadily pick back up.' **Evening (Justin & Marcus)**: 'Restaurant was nearly empty for duration of Happy Hour, minus another food tour at 4pm. Service never really peaked at any point today, very steady and chill from beginning to end. Team worked diligently and effectively all night.' **Sun Club (Samantha)**: 'Not much action up there today, it was hottt — didn't see any walk-in action. Took care of a few hotel guests through the day, only drinks though.' **Hot Eye**: closed. **Kitchen**: 'Some personal preference sendbacks. One for a chewy octopus that smelled a bit too fishy, one for the crudo. Someone cancelled their order for an affogato after it hit 20 minutes. But good pace through the night other than those outliers.' **Maintenance**: 'Thank you to Brent for putting new grips on the BOH stairs! Some of the 40s booths have some pretty significant rips in the cushions again.' No injury/incident. **Highlight**: 'Shaboozey walked in and had a 2 hour dinner with us today! However, contrary to his popular song, he was only drinking NA beer. Perhaps his getting tipsy days are over...' Entered by Justin."
+    }
+  ]
+}
