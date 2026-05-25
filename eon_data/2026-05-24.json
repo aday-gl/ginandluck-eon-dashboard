@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-24",
+  "day_of_week": "Sunday",
+  "iso_date": "2026-05-24",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "**No CCATL EON typeform submitted for Sunday 2026-05-24 as of dashboard build.** Latest CCATL entry in #ccatl_eon_report is Saturday 2026-05-23. R365 backfill pending; recommend follow-up with the CCATL MOD team."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 6495.0,
+      "target": 1413.0,
+      "comps": 248.0,
+      "guests": 218,
+      "check_avg": 29.79,
+      "weather": "Humid, Sun-Showers",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH OBLITERATED target +359.7% ($6,495 vs $1,413)** — Charmers next door closed unexpectedly, pushing a huge audience our way. ~218 guests / $29.79 GCA. Food $240. Comps $248 (3.8%) — marketing comps for influencers Kendall sent our way, Industry Night comps, gifts for a small wedding party. **'Well that was a night! Charmers closed tonight unexpectedly. That pushed a large audience our way throughout the earlier hours of the evening in addition to our anticipated late night volume. From 5pm to close, we stayed very busy. Guests were fun and looking to have a good time tonight.'** **Kitchen**: 'Korey wasn't feeling great and needed to head home early. He got the kitchen started off right though. HUGE shoutout to John-Michael!! His support tonight made everything possible. He was everywhere.' **Maintenance**: kitchen door. **86**: Super Martini & Los Monteros; Low: Hazy IPA, Pickers. No incident, no no-shows charged. **Highlight**: 'Tonight was full of great memories. A couple in from Savannah said our bar was the best BY FAR of their long Nashville bar list—especially great to hear during the biggest push of service. Couple at the beginning around 5pm sitting in front of the main well complimented Kala and JO on their communication and were generally a riot. All the industry folks in tonight made the vibes in the room feel really cool. Even had to laugh at the VERY young guests who were playing games on their phones against each other WHILE we were actively trying to ring them up! That was a first.' MOD & Chef: KE, JMS. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 13652.11,
+      "target": 7283.80,
+      "comps": 316.99,
+      "guests": 217,
+      "check_avg": 62.91,
+      "weather": "Windy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR CRUSHED target +87.4% ($13,652.11 vs $7,283.80)** — Red Rocks crowd in town boosted hotel and Garden traffic. Segments: DC/AM $1,663.77, D&C PM $11,988.34, Garden/6A $3,857.68. Food $3,087.90 (22.6% mix). Comps $316.99 (2.32%). 217 guests (Tock). **DC/AM (Carey with Odessa)**: 'Sickkkkkk and killer day with guest barista Odessa! She absolutely thrashed on the bar and pumped out some bangers. Lots of IRDs went up and a couple cocktail pops. We have cold brew ready at 12pm tomorrow. Tips of our steam wands should easily come off—they are pretty hard stuck on the wands; might be worth having our tech take a look. There's a special tool for it. Insulating stainless steel urns (hot water) and cream container (ice water) overnight will keep coffee hotter and crème cooler—testing with crème container tonight.' **D&C (Carey & Lucas)**: 'Great evening shift tonight with a lot of hotel guests in town for Red Rocks. They gave us love before and after the show. Garden was medium poppin'. Wind may have slowed down outside service but increased standard D&C service just after dinner time.' **Garden/6A (Kim)**: 'It's not workin when you're workin w your bestie. Pretty chill night with great vibes, lots of memories, and a small amount of rain.' **Kitchen (Archer with Antonio and Marv)**: 'Busy Sunday! Lots of garden orders. Good night with Antonio and Marv!' Break makeup complete. No incident, no no-shows charged. **Highlight**: 'Working alongside a super capable team while training our brand new super capable FOH manager. Being able to support across service areas while knowing team members had their individual roles covered was a breath of fresh air and allowed us to put up the numbers we did today.' Entered by Carey. (Note from Willie in thread on Saturday: 'Wow! Big Garden numbers, nice job everyone.')"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7097.0,
+      "target": 7400.0,
+      "comps": 202.0,
+      "guests": 206,
+      "check_avg": 37.0,
+      "weather": "Rainy + humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV -4.1% vs target ($7,097 vs $7,400)** — MDW Sunday running strong start to finish. Food $728 + Bev $7,097 (gross spread); D&C Net Sales $7,097. 206 guests (Sevenrooms) / $37 GCA. Comps $202 — 'lots of friends and family!' **'Tonight was RIPPIN, we started strong and stayed strong through the night. Even considered staying open later to accommodate more people but we did end up dying down right around 12:30. We had lots of 3s which made the seating slightly challenging but of course Seth found a way! We welcome my old regulars/friends from California and they had an AMAZING time. We all felt the pressure of a holiday weekend, and we're ready to power through till tomorrow! Extra special shout out to James for rocking service and staying cool, calm, and collected all the way through.'** **Kitchen**: 'Good job chef!!' **Door (Sunday MDW)**: 'Busy MDW—we started off strong and did not stop. Very few empty seats, lots of larger parties, 3's and 4's. We built an incredibly long wait list that we didn't get completely through but tried to offer transparency and guide guests towards using Resy in the future! The boys were cranking behind the bar, Thomas and Mari ran the floors like pros! Great job go team go.' **Menu count**: 14?! **Glassware**: 2 large candle vases, 5 DOF, 1 shot, 2 SOF, 1 v-martini. No no-shows charged. **Maintenance**: 'Speakers! We need the music back y'all.' No incident. MOD & Chef: Seth + Alejandro. Entered by Marielle."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 7401.0,
+      "target": 5520.0,
+      "comps": 355.50,
+      "guests": 195,
+      "check_avg": 37.95,
+      "weather": "Warm day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +34.1% ($7,401 vs $5,520)** — ramped hard after 8:30; room stayed full to last call. Marquee $7,401 (only). Food $1,124 (15.2% mix). Comps $355.50 — lots of service recovery: broken glass in neat pour, member service recovery (Crystal Wang waitlist incident, see #gl_death_co_la), guest who broke their own glass in their fried chicken, DNLs, gifts. 195 guests / $37.95 GCA. **'Very busy night overall. The first couple hours started off relatively slow, but business ramped up significantly after 8:30pm and the room remained completely full through last call. We had several larger parties on the waitlist throughout the evening and, unfortunately, were unable to accommodate many of them due to multiple large groups lingering for extended periods, though those tables did spend well. The additional server support was incredibly helpful tonight. Julian crushed it on the floor, Jaz did an amazing job, and Edwin, Raven and Angel absolutely killed it behind the bar. The team handled volume, pacing, and guest interactions very well overall. We also welcomed 3 members into the space tonight.'** Several service recovery situations throughout the evening, but the team navigated each one with care. **Tonight was the second-to-last service of the Fall/Winter menu**—team looking forward to the menu flip on Tuesday. **Kitchen**: 'Did an awesome job tonight per usual. We saw a ton of fries, chips, and oysters go out all night long, and the team stayed steady and consistent through the push. Shout out to the kitchen team for continuing to hang in there these past couple months with a smaller crew.' **Maintenance**: smell in women's restroom keeps coming back—pouring water down drains helps for a bit. **86**: revenant. No incident, no-shows charged. **Highlight**: 'Taking a \"shot\" of sudachi redbull with the team.' MOD & Chef: Gigi & Josh. Entered by Gigi. **Incident in #gl_death_co_la (escalated to Matt Belanger & Bridget Aldrich)**: Member Crystal Wang added herself to waitlist but tag was missed during high-volume push—waited 40min, was upset; Gigi comped full bill as recovery gesture. Substitute security guard not familiar with the process. Bridget noted she was texted by Crystal at 1am her time and didn't see message; will double-check Sevenrooms for yellow tag."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "**No DC EON typeform submitted for Sunday 2026-05-24 as of dashboard build.** Latest D.C. entry in #dc_eon_report is Saturday 2026-05-23. R365 backfill pending; recommend follow-up with the DC MOD team."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 15559.0,
+      "target": 12500.0,
+      "comps": 293.0,
+      "guests": 407,
+      "check_avg": 38.23,
+      "weather": "Hot with scattered rain showers throughout the day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +24.5% ($15,559 vs $12,500)** — Sunday that felt like a Saturday, MDW Sunday delivered. Segments: MB Morning $4,049 (147 covers), MB Evening $9,320 (260 covers), Sun Club $0 (closed), Hot Eye $2,146. Food $6,044 (38.8% mix). Comps $293. ~407 MB OpenTable guests / $38.23 GCA. **Morning (Gabby & Shannon)**: 'The morning started off very slow, with the restaurant mostly empty until around 10am when business began to pick up. There were a few no-shows earlier in the morning, but after that volume increased and the floor stayed consistently busy until about 3pm before mellowing out around happy hour. The team stayed productive throughout the shift and did a great job managing the steady flow of business—no major pushes or long lulls, just consistent volume throughout the day!' **Evening (Justin & Marcus)**: 'Memorial Weekend Sunday, tonight was a Sunday that felt like a Saturday. Started with about 50 covers. We were expecting a big post-show rush from the Lucas, it let out at 5 and we really didn't feel any surge of business after that. Business was busy at the bar for the entirety of the shift, a lot of standing room in the bar area throughout the night from larger parties and walk-ups for a single drink. The floor was busy all night after 6:30pm. We did not have a barback or an SA tonight, so we were stretched pretty thin by 8:30 with floor support and silverware (S/O to James for tackling glassware through the night). The kitchen didn't really get hit until after 9:00, the rail was completely full by 9:30—the last ten or so tickets were at 30-45 minutes, but the guests saw the busy room and were having a good time, no one complained about the wait. A couple of food items never made it out of the kitchen, which were voided. Business died quickly after 10pm. It was a doozy, but in a hard work way, not in a guest recovery way.' **Sun Club**: Closed. **Hot Eye**: 'Started off steady and remained steady the entire evening! Things picked up at 9 with our bar crawl packing out the house. We made the exec decision to open the second well mid-shift which was a huge help because the room stayed full! High turnover with a nice mix of tourists and locals. We had to 86 a lot of our cocktails tonight unfortunately but that didn't seem to affect anyone. The only down side tonight was a lot of guests thinking there was table service instead of ordering at the bar—something we might need to get away from in THE.' **Kitchen**: '86'd Croquettes, Chocolate Mousse, Branzino and fries—we swapped to wedges to complete orders at 9:30. One guest DNL'd the steak tartare, personal preference.' No injury/incident. **Highlight**: 'Hotel guests Julian and Aris are absolute gems. They are visiting from Charleston and absolutely love everything about their stay at Municipal. They were vibing at the pool basking in the sunlight all day, and then ate dinner with us tonight. They love the design and how comfortable everything feels. And Aris is expecting! She was sipping on NA Eastsides like a cool cat. They plan on coming back soon, and I sure hope they do!' — Justin. Entered by Alexis."
+    }
+  ]
+}
