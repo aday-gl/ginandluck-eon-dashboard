@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-23",
+  "day_of_week": "Saturday",
+  "iso_date": "2026-05-23",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 6869.0,
+      "target": 8092.0,
+      "comps": 78.30,
+      "guests": 216,
+      "check_avg": 31.81,
+      "weather": "High 79 / Low 68",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL -15.1% vs target ($6,869 vs $8,092)** — less rain than prior days. 216 guests / $31.81 GCA. Food $501. Comps $78.30. **Opener had a long shift—we're down a bartender right now.** 'Saw lots of returning guests from last night which means we left a great impression.' Closers came in at 8pm; bar manager supported opener until then. **Vending machine action**: guest didn't get product; MOD couldn't open it—hoping to address soon. 'Kitchen tickets have been going out flawlessly. Grateful for the way BOH has adjusted to menu change so quickly. We have heard nothing but positive things about the change.' **Flow of guests was all over the place today.** Reminders: please ABK the bar at all times; leave from behind the bar to see what's needed; even if you can't solve it, communicate with MOD. Bathroom volume has been too loud lately—keep an eye on that. **86**: red hot Amaro. **Low**: cast iron (very low). No incident, no no-shows charged. **Highlight**: 'returning guest Raj from yesterday brought all his friends to celebrate his GF birthday—about $700+ of sales from just them.' MOD: JK. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 10705.0,
+      "target": 10750.0,
+      "comps": 194.0,
+      "guests": 390,
+      "check_avg": 27.45,
+      "weather": "Warm and nice, rain broke for the evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH essentially hit target -0.4% ($10,705 vs $10,750)** — slow start, then big rush around 10pm. ~390 guests / $27.45 GCA. Food $221. Comps $194 (1.8%). **'Slow start to the night and then got our rush around 10pm. We snapped right to it when the crowd came and executed great service for all. Majority of sales were again made within a couple hours of getting our pop. Fun Saturday night for sure.'** **Kitchen (Kevin & John-Michael)**: 'Held it down. We're doing our part with boasting about our new food items. All guests that ordered had great remarks about our offerings.' **Maintenance**: kitchen door. **86**: Jalapeño Poppers, Veggie Dog. No incident, no no-shows charged. **Highlight**: 'Great vibes all around tonight. We were able to do over $10k in sales with the help from everyone on staff and it was just a good time rockin' service the way we do.' MOD/Chef: KK/KE/MD & KM/JMS. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 21475.97,
+      "target": 17688.41,
+      "comps": 609.88,
+      "guests": 366,
+      "check_avg": 58.68,
+      "weather": "Sunny / warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR CRUSHED target +21.4% ($21,475.97 vs $17,688.41)** — Garden popping off day and night. Segments: DC/AM $1,228.91, D&C PM $20,247.06, Garden/6A $7,666.30. Food $3,519.40 (16.4% mix). Comps $609.88 (2.84%). 366 guests (Tock). **DC/AM (Evan with Care Leite)**: 'Couple IRDs went up this morning. Juice pop this afternoon along with some cocktails. Made sesame orgeat—extra is living in cafe low boy. Made miso sesame syrup. Made some extra Bloody Mary mix.' **D&C PM (Carey & Lucas)**: 'Garden was poppin off day & night! Minsu and Kim absolutely crushed! D&C service was pretty busy as well. We opened up the rail as soon as breaks were over, & even with the Garden space available Paige was able to grab almost 2k in sales.' **Garden/6A (Minsu)**: 'Busy day! Great weather, working Fro Spro! Good vibes all round.' **Kitchen (Lucas with Arch & Isais)**: 'Saturday! Pretty chill night, nothing popping in the garden and lobby was a chiller pace.' Break makeup complete. No incident, no no-shows charged. **Highlight**: 'Amazing service delivered by our entire team. Mad props to Kim, Kayla, Cosette & Joshua. Our newest team members are putting up major numbers on our busiest days!' Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7062.0,
+      "target": 7400.0,
+      "comps": 198.24,
+      "guests": 198,
+      "check_avg": 36.0,
+      "weather": "Rain all night led to buildups",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV -4.6% vs target ($7,062 vs $7,400)** — rainy Saturday, Knicks hates. Food $670 + Bev $6,391 = $7,062. 198 guests (Sevenrooms) / $36 GCA. Comps $198.24. **'Reasonable open, typified by post-dinners, but a panoply of Knicks haters graced our presence tonight. Our reservations were highly insistent on temporal inconsistencies: early or late simultaneously, likely in tune with the Knicks or the rain. Main headwind: lack of hero parties. Our largest ticket was just over ~$200. Most groups wanted two rounds and then a limo home.'** **3 large parties, 7 solos, 9 investor cocktails.** Top Sellers: First Time Listener, Material Control, Thunderball. **Door (Thomas Van de Pas)**: 'Crisp and rainy Saturday night in the East Village, very slow start and an odd flow. 3 investors and 1 member. 8 o'clock rush didn't hit till around 8:30; all 10 o'clock rezos seemed eager to join early, required a bit of maneuvering. Accommodated an 8-person rezo that turned into 10 and arrived 45min early—appreciative and left happy.' On the other end: **guest blamed staff for a lost jacket that ended in verbal cuss-out** with an employee who wasn't even working tonight—they got a VERY spicy pepper label. 'I felt like it was an honor to have three girlies on the door on a Saturday evening.' **Menu count**: 17. **Glassware**: 3 SOF. **Incident**: Couple on first turn (Vlad, T4) misplaced their Calvin Klein coat on the back coat racks; escalated to MOD+GM; couple was quite unhappy and accused staff of stealing (false), will probably leave a negative review. 'Best guess is another guest accidentally took their jacket.' No no-shows charged. MOD & Chef: Seth & Steves. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 12178.0,
+      "target": 7730.0,
+      "comps": 282.0,
+      "guests": 329,
+      "check_avg": 37.02,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA SMASHED target +57.5% ($12,178 vs $7,730)** — lots of familiar faces, big walk-ins kept Marquee full. Segments: Standing Room $2,555, Marquee $9,623. Food $2,123 (17.4% mix). Comps $282 — Enoch, Bird, Jeffrey, Miles Roy, investors, regulars, industry folks, DNL. 329 guests / $37.02 GCA. **'A very steady Saturday night! Started off the night with 120 covers on the books and had a little slower start than normal. The first couple of hours took a little while to fill up but we eventually filled up Marquee around 7:30pm and slowly started to fill up Standing Room. We had a lot of familiar faces stop by tonight. It gradually got busier as the night went on, with a decent size waitlist at one point with lots of large party walk-ins throughout the night. We hit a little lull around midnight which gave us an opportunity to move folks over from standing room to keep the room in Marquee full all the way until last call. A smooth ending to a very busy week!'** **Kitchen**: 'Busy night!' No incident, no-shows charged. **Highlight**: 'Seeing lots of familiar faces.' MOD & Chef: Gigi + Joe + Josh + Selenia. Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 7272.0,
+      "target": 5778.0,
+      "comps": 82.0,
+      "guests": 179,
+      "check_avg": 38.08,
+      "weather": "Rain!",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +25.9% ($7,272 vs $5,778)** — holiday weekend + rain limited walk-ins. Marquee $7,127 (gross) + Garden $980 (gross) = $8,107 gross; Total Net Sales $7,272. Food $839 (11.5% mix). Comps $82 / Voids $107. 179 covers (71 walk-ins / 108 resos) / $38.08 GCA. **Garden (Cory)**: 'Quiet night with only a handful of guests all evening. We closed the garden at 11 when we knew we could safely avoid a wait list and seat marquee for the rest of the night.' **D&C**: 'Steady night—the holiday weekend and the rain were working against us as we saw fewer and fewer walk-up traffic and many of the reservations no-showed, canceled, or went to EV instead. We did hit a pretty good flow around 9 with the room filling up but even then we made moves to cut a server. At 11 we had our last set of reservations—14 covers across 3 separate reservations were all the same party (had to split them up between 300 and 34). By 1 the floor had completely emptied out and we went into a 1:30 last call with only one two-top at the bar. All in all not a bad night just slow.' **Kitchen**: 'Slower night but managed to do more than 10% in sales.' **Kitchen close**: yes. **Went well**: avoiding a wait. **Improve**: pre-bussing. **Maintenance**: water from ice machines in kitchen, water heaters, **missing Elevator Key!** No incident, no-shows charged. **Highlight**: 'Slow night but good vibes.' MOD: Josh/Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 16831.0,
+      "target": 16500.0,
+      "comps": 605.0,
+      "guests": 378,
+      "check_avg": 44.53,
+      "weather": "Hot & Sunny, then overcast",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +2.0% ($16,831 vs $16,500)** — steady busy Memorial Saturday from open to close. Segments: MB Morning $3,922 (126 covers), MB Evening $10,114 (252 covers), Sun Club $793, Hot Eye $2,414. Food $6,321 (37.6% mix). Comps $605. ~378 MB OpenTable guests / $44.53 GCA. **Morning (Gabby/Shannon)**: 'Pretty steady morning from the start with no major lulls or intense pushes. We had a 25-top walk-in earlier in the day and the team handled it really well. Two new servers also shadowed for a couple of hours following onboarding and both did a great job. Lots of tourists and new faces coming in ahead of Memorial Day weekend.' **Evening (Justin & Marcus)**: 'A steady busy night the whole way through this Memorial Saturday. Saw good business for happy hour, consistently 70% filled through 3-6pm. That's when it started to take off with folks coming in for a pre-show for Lucas at 7. But we didn't really feel much of a lull in business once 7pm hit, walk-ins and reservations were strong from 7 all the way to close! Jack was solo host and crushed it on the floor. 5 servers and one SA felt like a great staffing level for the floor, and 3 bartenders with a barback made sense until about 10. Kitchen getting food tickets all the way to 9:55, but timing and flow of food was great all night. Amanda and Emily (new servers) had their first day on the floor during the brunch/dinner flip—both were helpful with bussing while learning service flow. Great, busy, low-stress day for everyone involved.' **Sun Club**: 'Not a crazy day, as cloud cover hit shortly after noon and stayed through most of the day.' **Hot Eye**: 'Started off the night steady with a decently filled bartop. By 9pm the entire room packed out with crazy turnover—we pretty much did all our sales between 9-11. The heat was pretty bad due to the amount of people so we had some complaints and folks leaving. Completely died out after that and never picked back up. Sam and Elizabeth crushed it behind the bar at peak. Apparently there were police blocking the end of our alley which might have been the reason for the quiet end.' **Kitchen**: 'One send-back on the pickles (could be personal preference). **Today we permanently 86'd the octopus**, but the charred veggies plate will stay as a $9 side plate that people may add protein to. 86'd dumplings—will be a 911 for tomorrow.' No injury/incident. **Highlight**: 'Thomas McNally, brother to Colleen, brought in his family and friends as a walk-in for a late dinner and had a blast—he is always so nice! And we must have seen our in-house bachelorettes in four different outfits throughout the day.' Entered by Alexis."
+    }
+  ]
+}
