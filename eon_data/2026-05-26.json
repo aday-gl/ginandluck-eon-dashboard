@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-26",
+  "day_of_week": "Tuesday",
+  "iso_date": "2026-05-26",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1018.0,
+      "target": 2236.0,
+      "comps": 130.0,
+      "guests": 32,
+      "check_avg": 31.84,
+      "weather": "High 79 / low 69",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL -54.5% vs target ($1,018 vs $2,236) on Bingo Tuesday.** Very chill start unlike yesterday — used downtime to finish cleaning duties not completed Monday ('let's keep our bar ABK'd'). Food $145. Comps $130. 32 guests / $31.84 GCA. **Visit from EatClickRepeat for social media — 'they had great things to say about the batanga and Daisy de Sandia. Grateful to have them in the space to showcase our great new items.'** Opener left ~7pm. **'We had a small but excited group filled with contagious joy in the house for Bingo. Barback used down time to fold towels and batch some syrups. Night went smoothly with a few guest popping in and out and lots of first dates.'** **Kitchen**: 'Continue to prep and communicate as necessary.' **86**: Guinness. No incident, no no-shows charged. **Highlight**: 'Having a guest come back after their first date because they enjoyed the space so much.' MOD: Jk/MKZ. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1005.0,
+      "target": 1987.0,
+      "comps": 110.70,
+      "guests": 32,
+      "check_avg": 31.40,
+      "weather": "Warm, humid, partly cloudy/drizzly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH -49.4% vs target ($1,005 vs $1,987) on Bingo Tuesday** — slower-paced night after the high of Memorial Day. Food $75. Comps $110.70 (11%) — bingo credits. 32 guests / $31.40 GCA. **'It felt like everyone was tuckered from an eventful holiday weekend. We had a decent crowd for bingo that stayed for the duration. Our bingo host tonight was lovely — he was a lot of fun, and when he left multiple guests asked him to return next week. We experienced a predictable lull for about an hour after bingo ended, with a gentle wave of newcomers ~10pm to close.'** Note: regular Braden (from Pelato) won a bingo credit and left it behind — stored in Well 1 drawer for next visit. **Kitchen**: 'Kevin and Korey held it down in the kitchen. They were excellent in attending to the floor.' **Maintenance**: kitchen door lock (ongoing). **86**: Jalapeno poppers, veggie dogs, Montenegro, candied ginger. **Low**: Campari. No incident, no no-shows charged. MOD & Chef: KK / KM & KC. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 7062.25,
+      "target": 6015.19,
+      "comps": 213.30,
+      "guests": 170,
+      "check_avg": 41.54,
+      "weather": "No notable weather",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +17.4% ($7,062.25 vs $6,015.19) on Tuesday.** Segments: DC/AM $645.70, D&C PM $6,416.55, Garden/6A closed. Food $1,669.50 (23.6% mix). Comps $213.30 (2.96%). 170 guests (Tock). **DC/AM (Reggie Lane)**: 'Happy Tuesday fellow bean lovers — nice and mellow Tuesday. Meil and carmel have been made. Supa low on oat milk; coffee order placed.' **D&C (Carey & Maggie H)**: 'Slow Tuesday, y'all! Still made target sales, and we were able to cut pretty quickly. Elexus had her first day of training with Lily and caught on SO QUICKLY at the host stand. Reagan had a really great shout out from a table tonight — they said she made the best recs and was incredibly knowledgable on everything they asked about.' **Kitchen (Archer)**: 'Slow night no issues. Easy prep, out of prep lists.' **911**: burger ground, artichoke dip, burger sauce. **Low**: cookie dough, anglaise, olives, quenelle, confit sunchoke, shaved fennel, brussels, corn nage, corn puree, tarragon aioli, ranch. **86**: salmon, duck. Break makeup complete. No incident, no no-shows charged. **Maintenance**: trash-area keypad starting to fail; service-elevator door magnets not working. **Highlight**: 'Maggie H and Carey were able to flip all the new menus so that's one less thing to deal with in the AM. Marquee labels have been scrapped off, ready for tomorrow as well!' MOD: Maggie S (AM) / Carey & Maggie H (PM). Entered by Maggie H and Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3752.0,
+      "target": 4258.0,
+      "comps": 191.0,
+      "guests": 98,
+      "check_avg": 36.0,
+      "weather": "Just gorgeous (perfect summer weather)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV -11.9% vs target ($3,752 vs $4,258) on Tuesday.** Food $614 + Bev $3,039; D&C Net Sales $3,752. 98 guests (Sevenrooms) / $36 GCA. Comps $191 ('lots of gifts for Anniversary + friends and family'). **'Tonight was absolutely GORGEOUS weather, however it seemed like everyone was enjoying the outside weather which meant we were much slower than we would have liked. Plus side to this is I was really able to engage and chat with every table. We welcomed Jodie Kitchens for a 36 year anniversary and they LOVED everything. We also welcomed Mark Stromberg and his wife Brenda from Denver. Kyler and I wooed them and they will now be visiting our Denver location! We did get a bit of a crowd around 10:30 which was fun. We also welcomed Leo Kaplan and friends and surprised them with some snaquiri's!'** **Kitchen**: N/A. **Door (HP)**: 'Perfect summer weather out, not hot or humid with a small breeze. However a fairly slow Tuesday, with folks filtering in and out instead of stand out waves. We were trendy with 3s and 4s; got two groups to sit at the bar. Stayed pretty slow until 9pm filling up to half cap, and at 10pm had a little pop getting to full except the rail. Foot traffic slowed back down at 11:30 but most parties cozied up around until 12:30. Welcomed Leo nephew of David Kaplan reuniting with friends, plus a handful of birthdays.' **No-shows charged**: Yes — Yuval Plattner (2 @ 6pm). **Menu count**: 15/15. **Glassware**: 1 chipped SOF, 1 DOF. **Maintenance**: Speakers! MOD & Chef: Cara + Steves. Entered by Marielle."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 3958.0,
+      "target": 3119.0,
+      "comps": 255.0,
+      "guests": 98,
+      "check_avg": 40.39,
+      "weather": "Overcast, bit of a colder day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +26.9% ($3,958 vs $3,119) — Spring/Summer Menu Launch Day.** Marquee $3,958 (only; Standing Room closed). Food $720 (18.2% mix). Comps $255 — Jaz+Francisco employee discount, closed-out-wrong-tab, DNLs, industry, investors. 98 guests / $40.39 GCA. **'We had a great menu launch day. It started off on the slower side for the first couple of hours, which gave Mikey and Mitchell plenty of opportunity to practice a few rounds. Joe led the second day of menu tasting in the standing room — it was an all-ladies bar. Super fun. The team asked some really great questions. It really started to pick up around 8:00. We had a full room and a bit of a waitlist. Lots of two tops; we were able to get the majority in. Stayed full until last call. Jon joined us later on in the evening and gifted us a small bottle of a rare cask that we cheered together as a team. Cheers to an amazing start of the new menu!'** **Kitchen**: 'Smaller rushes later in the evening, Vic said it was super smooth! Had time to complete a bit of prep.' **Maintenance**: 'Smell in women's restroom — let's continue to pour water down the drain every single day.' No incident. No-shows charged. **Highlight**: 'Recruiting a 2-top from the streets who were looking for Cha Cha Cha when we opened up the door. They had never been and were the first guests of the night. They walked in and literally gasped — 'omg, it's so beautiful!' Also singing to Hilary Duff with Ruffy while we rushed to build the menus before opening!' MOD & Chef: Gigi & Vic. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3309.18,
+      "target": 2574.0,
+      "comps": 146.0,
+      "guests": 79,
+      "check_avg": 41.88,
+      "weather": "Hot and humid with a bit of rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC beat target +28.6% ($3,309.18 vs $2,574.00) on Tuesday.** D&C Marquee Bar Sales $3,309.18; Garden closed. Food $474 (14.3% mix). Comps $146 (4.4%) — gift/spill/DNL/mgr. 79 guests (63 walk-in / 16 booked) / $41.88 GCA. **'Smooth night at the 124! Started pretty slow with only a handful of guests for the first few hours, but picked up after dinner time. Had a pretty full bar top until about 10:30p and a couple of tables getting sat around that time. Natural last call with the last guests departing shortly after midnight.'** **Kitchen (James)**: 'Smooth night in the BOH land. Tickets were handled with no issues and all items served to spec.' Kitchen close checked. **What went well**: 'Great communication from the team. Getting some additional tasks done in preparation of the menu flip.' **What we can do better**: 'Remember… SLOW is SMOOTH, SMOOTH is FAST!' No incident. No-shows charged. **Maintenance**: Water heater (awaiting parts delivery). **Highlight**: 'Family meal — shoutout to James for the soul food!' MOD: Kevin. Entered by Kevin."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 5007.0,
+      "target": 5200.0,
+      "comps": 519.0,
+      "guests": 117,
+      "check_avg": 42.79,
+      "weather": "Clear and warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG -3.7% vs target ($5,007 vs $5,200) on Tuesday.** Segments: MB Morning $481 (7 covers), MB Evening $4,411 (110 covers), Sun Club $115, Hot Eye closed. Food $2,105 (42.0% mix — strong). Comps $519 — 'big comp for the Perry Lane guys.' 117 MB OpenTable guests / $42.79 GCA. **Morning (Sam & Marcus)**: 'Very slow morning. Low staff. Numbers don't indicate a lot of action at all. Morning staff did a stellar job of setting up the evening staff for success.' **Evening (James & Marcus)**: 'Decent Tuesday but never overwhelming. Shouts out to Sofia for slotting in to host tonight and doing a great job. Emily is doing a great job acclimating to the culture and helping tremendously. Everyone worked hard and efficiently. The executive group from Perry Lane sat at Eva's table and were very gracious and seemed to enjoy themselves. All in all a really solid Tuesday evening.' **Sun Club**: 'Pretty slow at Sun Club today. Finally kicked the Spaceman into gear just in time for graduation weekend.' **Hot Eye**: Closed. **Kitchen**: 'Kitchen got hit around 6 o'clock with a big group of ten or so and a couple of other decent sized groups all dining around the same time but handled it very well. The vibe in the back of the house has been really positive and the place looks exceptionally nice and clean lately.' No incident. **Maintenance**: 'CO2 canister at the bar needs to be changed immediately.' **Highlight**: 'It was nice to be able to show great hospitality to the Perry Lane crew. They were very nice and were extremely complimentary of Eva's service, the food and the beverages.' Entered by James."
+    }
+  ]
+}
