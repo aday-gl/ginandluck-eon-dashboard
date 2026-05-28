@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-27",
+  "day_of_week": "Wednesday",
+  "iso_date": "2026-05-27",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1361.0,
+      "target": 1237.0,
+      "comps": 28.85,
+      "guests": null,
+      "check_avg": null,
+      "weather": "High 82 / low 70",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +10.0% ($1,361 vs $1,237) on Wednesday.** Food $238. Comps $28.85. Guest count not entered on form. **'The sun has finally shined on Close Company Atlanta and we were happy to see it.'** Nice happy hour with a group from Intuit — lots of out-of-towners plus locals; team made connections and informed them about happy hour and other activations. Closer came in at 8pm. Opener used downtime to prep batches and fill batches in the cooler. Consistent flow of guests throughout shift. **Impromptu visit from influencers Trey recognized** — they got plenty of food and received an industry discount. No big push at the end of the night but a few industry folk visited. **Kitchen**: 'Great job keeping tickets going smoothly — let's be attentive during close. Watch out for dish area.' **86**: Guinness. No incident, no no-shows charged. **Highlight**: 'Having a new influencer stop by.' MOD: Mkz/Jk. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 960.0,
+      "target": 4393.0,
+      "comps": 37.40,
+      "guests": 28,
+      "check_avg": 34.30,
+      "weather": "Partly cloudy, warm, humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH -78.1% vs target ($960 vs $4,393) on Wednesday** — target appears high relative to volume; verify Daily Sales Target source. Food $68. Comps $37.40 (3.9%) — DNL, industry. 28 guests / $34.30 GCA. **'Slow and steady Wednesday night. Seems like people may still be recovering from the holiday weekend. Peak volume occurred 10:30pm-close.'** **Kitchen**: 'John Michael & Kevin held it down in the kitchen.' **86**: Jalapeno poppers, veggie dogs. **Maintenance**: kitchen door lock (ongoing). No incident, no no-shows charged. **Highlight**: 'We had a few first dates tonight. They all appeared to go well.' MOD & Chef: KK & MD // JMS & KM. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6803.81,
+      "target": 5915.90,
+      "comps": 200.60,
+      "guests": 174,
+      "check_avg": 39.10,
+      "weather": "Not notable",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +15.0% ($6,803.81 vs $5,915.90) on Wednesday — Menu Flip Day.** Segments: DC/AM $493.67, D&C PM $6,310.14, Garden/6A closed. Food $1,012.20 (14.9% mix). Comps $200.60 (2.95%). 174 guests (Tock). **DC/AM (Reggie)**: 'Easy peasy with 1 IRD. Cold brew ready @ 8am tomorrow. Received oat milk. Reggie made strawberry syrup. Peach black tea and miso sesame needs to be made.' Low: cafiza, miso sesame. **D&C PM (Maggiex2)**: 'Vibes were HIGH today! Good spirits (haha get it?) all around for the menu flip. Thanks, everyone!' **Kitchen (Archer)**: 'Chill night.' Pass on: 'Decent prep tomorrow especially with Garden Prep. Godspeed Avery.' **911**: orange fennel vin, bacon bits, mustard sauce, corn ribs, lemon aioli, chicken thigh, jerk lard, lemon coleslaw, pineapple pico, melon salad, jerk buttermilk brine, calamari dredge, cut calamari, hot pepper mix, mocha sauce. **Low**: brine olives, cola onion dip, chicken breast, bar mix, shaved fennel, garlic paste, cookie dough. **86**: salmon crudo, duck. Break makeup complete. No incident, no no-shows charged. **Highlight**: 'New menu day!' MOD: Evan (AM) / Maggiex2 (PM). Entered by Maggiex2."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 5610.0,
+      "target": 4752.0,
+      "comps": 61.78,
+      "guests": 145,
+      "check_avg": 39.0,
+      "weather": "Warm (hotter, a little humid)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +18.1% ($5,610 vs $4,752) on Wednesday.** Food $592 + Bev $5,018; D&C Net Sales $5,610. 145 guests (Sevenrooms) / $39 GCA. Comps $61.78 (1.1%). **'Steady not quite full Wednesday that had its pops and lulls, but generally felt busier than a typical hump day. Met a first-time-visit member and was able to direct many questions to the current menu rather than back catalogue. Many people interested in featured drink! End of the night kind of had Friday closing energy with romantic and messy vibes, but we handled and people left by closing time.'** Top sellers: First Time Listener, Year of Trees, Revenant. **Kitchen**: '2 mickeys.' **Incident**: Mice — '2 mickeys!!!!' (kitchen). **Door (HP)**: 'A little humid. Good amount on the books early on getting to half capacity at open, and a decent 8pm turn which flipped very early. At 8:45pm streets slowing down. Around 9:30 good amount of foot traffic in, especially 3s and 4s, staying relatively popping. Did a lot of plug-and-play to get everyone in without accruing too much waitlist — only a few groups waiting about 20 minutes. By midnight slowed as most headed home, but still got a handful in search of a nightcap. Welcomed back Cody Heisinger; many members tonight excited to use their perks.' **No no-shows.** **Menu count**: 15/14. **Glassware**: coupe, outside sidecar, DOF, nick & nora. **Maintenance**: none flagged. MOD & Chef: Cara & Alejandro. Entered by Stef."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4869.0,
+      "target": 4648.0,
+      "comps": 234.0,
+      "guests": 107,
+      "check_avg": 45.50,
+      "weather": "Not notable",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +4.8% ($4,869 vs $4,648) on Wednesday — second day of Spring/Summer Menu.** Marquee $4,869; Standing Room closed. Food $986 (20.2% mix). Comps $234 — birthdays, anniversaries, industry, investors, DNL. 107 guests / $45.50 GCA (calculated; form-entered GCA of $95.49 appears to be a typo). **'A very smooth Wednesday night. First couple of hours a little slower than normal which gave us time to catch up on prep and cleaning. Around 9pm the room filled up and we started a small waitlist which we accommodated quickly. Lots of folks celebrating birthdays and anniversaries. Second night of the spring/summer menu and we had great feedback from guests. Room stayed pretty full until 11pm when it slowly started to die out — very smooth ending with just a few tables for last call.'** **Kitchen**: 'Good night for the kitchen.' No incident. No-shows charged. **Highlight**: 'When tables 1 and 2 were both celebrating birthdays — sang Happy Birthday at least 5 times.' MOD & Chef: Joe + Vic. Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3667.0,
+      "target": 2721.0,
+      "comps": 15.0,
+      "guests": 107,
+      "check_avg": 34.27,
+      "weather": "Hot and humid with late showers",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC beat target +34.8% ($3,667 vs $2,721) on Wednesday.** Marquee Bar Sales $3,667; Garden closed. Food $670 (18.3% mix). Comps $15; Voids $66. 107 guests (88 walk-in / 19 booked) / $34.27 GCA. **'Pretty steady night. Saw a decent showing of walk-ins around 7 which kept the room pretty busy for the rest of the night. By 9 we had a full room and the energy continued to pick up right until the rain started. By last call we had a handful of guests at the bar and at the tables. During the evening we finished prepping for tomorrow's menu launch — all menus built, menu live in POS, and Josh, Jesse, and Sophia came in late to finish batches and re-mise marquee, all while Jada, Ian, Elliott, Devan and Mariah broke down around them.'** **Kitchen**: 'Steady good night with 18% in sales. Kitchen came to a later close thanks to some later walk-ins and the promise of some cookies. We 86'd donuts and sesame brittle tonight.' Kitchen close checked. **What went well**: 'Selling out of menu cocktails!' **What we can do better**: 'Anticipating lows and 86s ahead of pre-shift.' No incident. No-shows charged. **Maintenance**: Water heaters / water pressure at the bar; DC humidity creeping in — patio getting toasty; need opening MOD/Kitchen/prep to open windows and turn on fans well before service. **Highlight**: '86 Fall and Winter 2025 menu.' MOD: Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 8470.0,
+      "target": 5200.0,
+      "comps": 270.0,
+      "guests": 168,
+      "check_avg": 50.42,
+      "weather": "Warm and humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +62.9% ($8,470 vs $5,200) on Wednesday — graduation volume picking up.** Segments: MB Morning $769 (21 covers), MB Evening $7,701 (147 covers), Sun Club $232, Hot Eye closed. Food $3,568 (42.1% mix — strong). Comps $270. 168 MB OpenTable guests / $50.42 GCA. **Morning (Franck & Lex)**: 'Slower morning with not much to report. Scheduled food tour and a new server training on the floor. Strongest push around 1pm; otherwise steady and manageable throughout.' **Evening (Gabby & Marcus)**: 'Very busy Wednesday night overall — graduation volume has clearly started to pick up. Strong happy hour beginning right at 3pm, followed by a brief lull before business picked back up into a nearly full restaurant for most of the evening. Around 7:30 we saw a short waitlist, with lots of families and early graduation dinners throughout the night. Bar remained consistently busy with several groups coming through and stayed active all the way through close. Restaurant mostly cleared out between 9:30/10pm aside from a few tables. Service ran very smoothly throughout — steady business, well-paced volume, no major pushes. Great energy in the building as we head into graduation weekend!'** **Sun Club**: 'Very slow day. Mostly industry folks and a couple hotel guests.' **Hot Eye**: Closed. **Kitchen**: 'Kitchen ran smooth tonight with great pacing! Burger mix-up at the bar which was an easy fix. Other than that, a great night from the back of house.' No incident. **Highlight**: 'Seeing all the people get into town for graduation weekend! Lots of new faces and tourists in the space tonight.' Entered by Gabby."
+    }
+  ]
+}
