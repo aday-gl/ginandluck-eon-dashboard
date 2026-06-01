@@ -71,15 +71,15 @@
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": 0,
-      "target": 0,
-      "comps": 0,
-      "guests": 0,
-      "check_avg": 0,
-      "weather": "",
-      "missing": true,
+      "net_sales": 8031.0,
+      "target": 6067.0,
+      "comps": 206.0,
+      "guests": 193,
+      "check_avg": 41.61,
+      "weather": "Cool",
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No Saturday 5/30 EON report posted as of this run (Sun 5/31, ~10:40am ET). DCDC's most recent report in #dc_eon_report is the Friday 5/29 report (posted Sat 5/30 ~4am). The Saturday report would normally post early Sunday morning; it had not appeared at run time. Will backfill on the next run if it lands."
+      "narrative": "**[Backfilled 6/1] DCDC beat target +32.4% ($8,031 vs $6,067) on Saturday.** Marquee bar $7,400 (gross) + Garden $1,659 (gross); food $1,004. Total net incl. events $8,031. Comps $206 (DNL, employee discount, investor) plus $90 voids. 193 guests (115 walk-ins, 78 reservations) / $41.61 GCA on net (form-entered GCA of $35.23 reflects a gross-basis calc). **Garden (Jada/Jordan)**: 'Quieter night — even as Marquee filled, the Garden stayed steady; worked through old batches and connected with guests. Closed at 11pm after the last reservation to prioritize filling Marquee.' **D&C (Cory)**: 'Busy from the jump but dropped off hard late; still working through new-menu jitters — some avoidable mistakes from moving too fast. By 11 we cleared all reservations and the waitlist, cut a server and host, moved Jordan inside and knocked out sidework; room nearly empty by 12:30, natural last call before 1:30.' **Kitchen**: 'Busy — over 12% in sales; 86'd a few items late.' No incident; no-shows charged. **Highlight**: a late group asking for jagerbomb recs stayed for a round when Sophia surprised them with a Cynar and Red Bull set aside for the team. MOD: Josh / Cory. Entered by Cory."
     },
     {
       "id": "mg",
