@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-03",
+  "day_of_week": "Wednesday",
+  "iso_date": "2026-06-03",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1366.0,
+      "target": 1177.0,
+      "comps": 70.70,
+      "guests": 40,
+      "check_avg": 34.15,
+      "weather": "Abundant sunshine, high 70s / low mid-50s",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +16.1% on Wednesday ($1,366 vs $1,177).** Food $445. Comps $70.70. 40 guests / $34.15 GCA. **Dan's first night back after two weeks away.** Steady flow of Meal Deal guests on a beautiful ATL day — 19 Meal Deals sold. It was also Global Running Day, and a Lululemon setup at the top of the Beltline stairs likely helped foot traffic. Guest flow slowed considerably from 6-8pm before picking back up around 9pm; lined bar and most booths sat until last call, with all guests out by 12:15am. Opener completed a batch and was cut around 8pm; smooth night thereafter. **Kitchen**: BOH handled the Meal Deal rush well; red tray baskets ran short toward the end (more on the way). **Maintenance**: torn gasket on the middle bar fridge behind Well 100 needs replacing. No incident, no no-shows charged. **Highlight**: seeing all the Meal Deals sold. MOD: MKZ / JK. Entered by JK."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 682.0,
+      "target": 2956.0,
+      "comps": 34.15,
+      "guests": 31,
+      "check_avg": 22.0,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -76.9% vs target on Wednesday ($682 vs $2,956) — a very quiet night ahead of CMA Fest.** Food $48. Comps $34.15 (5%, manager comp & F&F). 31 guests / $22 GCA. **'Chill night.'** Though CMA Fest officially begins tomorrow, guests reported numerous events and 'secret shows' near downtown tonight pulling traffic away. Small late pop in the last hour of service. **Kitchen (John-Michael & Kevin)**: held it down. **Maintenance**: kitchen door lock, walk-in door (recurring). 86 Lassi. No incident, no no-shows charged. **Highlight**: first-time guests Tiffany and Jessica came in after months of meaning to (drawn by positive reviews) — lovely, and fun to hear about their 'Elder Millennial Dance Bar' concept (4-10pm). MOD/Chef: KK & MD / JMS & KM. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8552.76,
+      "target": 9364.41,
+      "comps": 257.80,
+      "guests": 186,
+      "check_avg": 45.98,
+      "weather": "Sunny and warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -8.7% vs target on Wednesday ($8,552.76 vs $9,364.41, restaurant net excl. events).** Segments: DC/AM $822.40, D&C PM $7,730.36. Food $1,582.10 (restaurant). Plus a large event: $15,795.70 net event sales / $12,000 event food — bringing net incl. events to $23,526.06. Comps $257.80. 186 guests (Tock) / $45.98 GCA. **DC/AM (Maggie S & Reggie)**: 'Solid Wednesday as always — ABK all day; Reggie did a cage run; only a couple of IRDs.' Low: miso sesame, kombucha, cafiza; citrus green tea may need making tomorrow. **D&C PM (Maggie H & Lucas)**: a few good pops, no cuts; the event made things hectic until guests settled into the Garden, Vaux, and 6A and the team regained control. **Kitchen**: slow day, helped out with the event during downtime — good day with the team. 911: EVOO cakes, salmon portions, burger portions/meat, tarragon aioli. **Maintenance**: bathroom clog (Ramble aware). Break make-up complete, no incident, no no-shows charged. **Highlight**: Maggie H closed on their own for the first time — the gang pushed through and worked well all night. Morning MOD: Maggie S & Josh / Evening MOD: Maggie H & Lucas. Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3403.0,
+      "target": 4204.0,
+      "comps": 34.34,
+      "guests": 101,
+      "check_avg": 33.69,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV came in -19.1% vs target on Wednesday ($3,403 vs $4,204).** Food $346 + Bev $3,057; net (incl. events) $3,403. Comps $34.34 (1.0%). 101 guests (Sevenrooms) / ~$34 GCA. **'Slow but chill night, mainly impacted by Game 1 of the Knicks finals.'** No TVs at EV — but a lot of guests came in seeking refuge from the craziness. Barely touched the back catalogue; most guests were pleased with the menu. Top sellers: Year of the Trees, Harney's Breakfast, Material Control (tie), Cafe del Tigre. **Door**: duos filtered in/out for a slower first turn; by 8:30 a few larger booked parties filled the place; foot traffic slowed again by 9pm but the bar stayed full with reservations until 11:30. The street livened with the Knicks win but few post-game celebrators came in — though a late 4-top was thrilled for a spot at the bar. Welcomed regulars Michael Hall and partner Shannon (back tomorrow) and member Kenan Anderson, who used the waitlist feature successfully. **Two no-shows (Sage Bechtold 2 @ 8pm, Sage Edge 2 @ 10pm — same phone number, different last names), not charged.** Menu count 16/16; glassware breakage tulip, 2 Nick & Nora, sidecar top. MOD/Chef: Cara/Kyler and Steves. Entered by Stef."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 0.0,
+      "target": 0.0,
+      "comps": 0.0,
+      "guests": 0,
+      "check_avg": 0.0,
+      "weather": "n/a",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No LA End of Night Report submitted for Wednesday 6/3 as of this run. LA typically files in the early-morning hours; the most recent report on file is for Tuesday 6/2 (posted ~3:46am 6/3). This will be backfilled automatically on a subsequent run once the report posts."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2529.0,
+      "target": 5784.0,
+      "comps": 22.0,
+      "guests": 70,
+      "check_avg": 36.13,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC came in -56.3% vs target on Wednesday ($2,529 vs $5,784) — a slow night against a high target.** Marquee bar $2,529, Garden closed, Food $326; net (incl. events) $2,529. Comps $22 (plus $24 in voids). 70 guests total (10 reservations, 60 walk-in) / ~$36.13 GCA. **'Sloooooow night.'** Light on the books with all reservations in, canceled, or no-showed by 8. The bar thankfully stayed fully sat most of the night, but the floor was a hard sell; a few larger groups came in around 10pm, though most tables were one-and-done. Natural last call, room empty by 11:45. **Kitchen**: slow night but sales were decent for the guest count; called the kitchen early at 10. **What can we do better**: upselling on slower nights. **Maintenance**: water from the kitchen ice machines; warped board above the service well. No incident; no-shows charged. **Highlight**: La Colombe gifting the team all of their leftover pastries. MOD/Entered: Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 3989.0,
+      "target": 5000.0,
+      "comps": 117.0,
+      "guests": 122,
+      "check_avg": 32.70,
+      "weather": "Sunny, breezy and very pleasant",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -20.2% vs target on Wednesday ($3,989 vs $5,000).** Segments: MB Morning $830 (40 covers), MB Evening $3,269 (82 covers), Sun Club $15, Hot Eye $0. Food $1,427. No event sales. Comps $117. 122 MB OpenTable guests / $32.70 GCA. **Morning (Sam & Lex)**: a very slow morning — busiest period was 1-2pm with $369 in sales, then dropped off again. Amanda passed her server certification with flying colors; the team used the downtime to beautify the restaurant (vacuuming behind the banquettes, cleaning the mezzanine glass). **Evening (Sam & Drew)**: very slow start with zero covers on the books; cut down to two servers, a barback, and one bartender by 8pm. A little late push, nothing unmanageable — mostly 6-tops, which Carla handled beautifully; lots of compliments on the food. **Sun Club**: only one guest all day. **Kitchen**: ran smoothly with no send-backs and great timing all night. No incident, no maintenance needs. **Highlight**: Amanda crushing her certification. Morning MOD: Sam & Lex / Evening MOD: Sam & Drew. Entered by Sam B."
+    }
+  ]
+}
