@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-04",
+  "day_of_week": "Thursday",
+  "iso_date": "2026-06-04",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 895.0,
+      "target": 2053.0,
+      "comps": 9.75,
+      "guests": 32,
+      "check_avg": 27.99,
+      "weather": "High 83 / Low 55",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL came in -56.4% vs target on Thursday ($895 vs $2,053).** Food $141. Comps $9.75. 32 guests / $27.99 GCA. **Quiet Thursday.** A slight push at the start of shift; opener left a little before 7pm and it went quiet thereafter. The team used downtime to connect with bar guests, detail the dump sink and tap area, and set up the weekend — with a few temporary changes to the well tequila, rum, and rye. Reminder issued to clock the house number in/out at open and close so tips distribute accurately. **Kitchen**: quiet, used the lull to prep for the weekend. No incident, no no-shows charged. **Highlight**: connecting with Kat, the kitchen manager from Tio Luchos (met during Giving Kitchen), who finally came in. MOD: JK/MKZ. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1656.0,
+      "target": 3714.0,
+      "comps": 44.6,
+      "guests": 61,
+      "check_avg": 27.15,
+      "weather": "Warm & sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -55.4% vs target on Thursday ($1,656 vs $3,714) — first night of CMA Fest.** Food $49. Comps $44.60 (2.7%, industry/manager/BINGO credit). 61 guests / $27.14 GCA. **Down-tempo Thursday**; highest volume 9-10pm with steady service after. Charmers next door reported the same. Several guests asked for 'high-energy' venue recs away from Broadway/CMA Fest, and the number arriving at/after close suggests an opportunity for complementary counter-programming in future. **Kitchen**: John-Michael held it down solo. **Maintenance**: kitchen door lock, walk-in door (recurring). 86 Lassi. No incident, no no-shows charged. **Highlight**: a couple (one a regular) on a date left and returned just before close for a nightcap. MOD/Chef: KK & MD // JMS. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 11184.16,
+      "target": 9594.0,
+      "comps": 582.04,
+      "guests": 158,
+      "check_avg": 70.79,
+      "weather": "Hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +16.6% on Thursday ($11,184.16 vs $9,594, restaurant net = DC/AM + D&C PM).** Segments: DC/AM $1,281.55, D&C PM $9,902.61. Garden/6A added a further $3,161.93 of regular service (tracked separately; not in restaurant net). Food $2,606. Comps $582.04 (5.2%) — driven by a large comp on one table served alcohol when they don't drink, plus Dave Messenger treats. 158 guests (Tock; excludes Garden, so GCA runs high). **DC/AM (Maggie/Heather)**: Heather rushed it on day-one training; deep-cleaned the scupper to fight flies. **D&C PM**: very slow start, big pop from 8:30pm on; Garden stayed busy and full while the lobby never filled; styled out VIPs and had a great time with Curtis on the floor. **Garden/6A**: chill night with a late pop, big fro-spro day. **Kitchen**: steady little night with Antonio and Marv. **An injury/incident was flagged on the report.** Break make-up not complete; no no-shows charged. **Highlight**: VIPs were thrilled and got to sing the team's praises. Entered by MS."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3334.0,
+      "target": 4203.0,
+      "comps": 97.0,
+      "guests": 134,
+      "check_avg": 24.88,
+      "weather": "Gorgeous",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV restaurant came in -20.7% vs target on Thursday ($3,334 vs $4,203, excl. events); with a $12,000 private event, total EOD net was $15,334.** Food $433 + Bev $2,873. Comps $97 (gifts + F&F). 134 restaurant guests (Sevenrooms) / ~$25 GCA. **Dealmaker event 5-8pm** for ~50 guests ran smoothly (low food interest; they enjoyed the 'Dealmaker' aka Truesight). Only incident: a guest tried to drink their own beer brought in — shut down immediately, warning taken well. Flipped to normal service by 8:45; slow start then hit all at once around 10pm, busy until ~12:30. Welcomed Michael Hall back and several first-timers. **Door**: gradual fill rather than the usual reopen line — completely full by 9:45pm except 10pm reso seats. One no-show (Brett Bechtold, 2 @ 10pm), charged. Menu count 16/16; 1 SOF broken. **Maintenance**: two bar stools. MOD/Chef: Cara/Kyler & Steves. Entered by Marielle."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5092.0,
+      "target": 6212.0,
+      "comps": 252.0,
+      "guests": 147,
+      "check_avg": 34.64,
+      "weather": "Warm, beautiful day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA came in -18.0% vs target on Thursday ($5,092 vs $6,212, all Marquee; Standing Room dark).** Food $781. Comps $252 (DNLs, misrings, industry, AD+TB+NK+Kenny, Jeffrey). 147 guests / $34.64 GCA. **Eventful night.** Quiet start (~20 covers, slow first two hours) brightened by VIPs Alex, Nick, Tyson, and Kenny at the bar plus barista friends from Concierge; once Angel arrived the room filled and the 20s stayed closed. The kitchen lowboy failed — Julio returned (second time that day) and fixed a second lowboy on the spot; huge save, with Chef Selenia helping coordinate and cover a security break. A guest toured the Standing Room for a potential buyout. Ben's last night — he called it smooth and easy. No-shows charged. **86 tuna.** **Highlight**: comparing airline credit cards with a table that raved about their experience. MOD/Chef: Gigi & Josh/Selenia. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 5763.42,
+      "target": 6770.0,
+      "comps": 69.45,
+      "guests": 118,
+      "check_avg": 48.84,
+      "weather": "Humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC came in -14.9% vs target on Thursday ($5,763.42 vs $6,770; Marquee only, Garden dark).** Food $837.60. Comps $69.45 (plus $77.27 voids, no waste). 118 guests (46 reservations / 72 walk-in) / $48.84 GCA. **Slow first few hours**, picked up around 7pm with the bulk of reservations before tapering late; the room stayed energetic with a few larger parties and the bar top sat most of the night, into a natural 12:30 last call. **Kitchen**: a big rush around 8pm that James held down like a champ. Went well: new menu, ticket passing, guest connection. To improve: ticket pacing (bar and kitchen), water service, washing lines. No incident; no no-shows charged. **Highlight**: ladies at table 22 calling Tyler 'boy band.' MOD: Corey/Jesse. Entered by Jesse."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 7699.0,
+      "target": 7000.0,
+      "comps": 346.0,
+      "guests": 201,
+      "check_avg": 38.3,
+      "weather": "Sunny, breezy, and very pleasant",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +10.0% on Thursday ($7,699 vs $7,000).** Segments: MB Morning $890 (51 covers), MB Evening $5,471 (150 covers), Sun Club $125, Hot Eye $1,434. Food $2,691. Comps $346. 201 MB OpenTable guests / $38.30 GCA. **Morning (Sam & Lex)**: very slow — first table at 10am; Braden trained with Stephanie, mild lunch, SA cut early. **Evening (Sam/Drew)**: mellow start (~25 on the books) then walk-ins built to 150 covers — a decently busy Thursday with smooth, timely food and drink and lots of happy guests. **Sun Club**: slow first half, good hotel-guest turnout in the warm afternoon. **Hot Eye**: sleepy start, a decent 10pm pop with scad groups and the regular service-industry crew to last call; 86'd 3 menu cocktails. **Kitchen**: smooth, no send-backs — Drew crushing the pass with Isaac and Nate. No incident. **Highlight**: the whole FOH/BOH team getting along and working well. Entered by Alexis."
+    }
+  ]
+}
