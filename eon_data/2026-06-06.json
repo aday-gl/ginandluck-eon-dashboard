@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-06",
+  "day_of_week": "Saturday",
+  "iso_date": "2026-06-06",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 10683.0,
+      "target": 8049.0,
+      "comps": 53.9,
+      "guests": 377,
+      "check_avg": 28.34,
+      "weather": "High 86 / Low 62",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +32.7% on Saturday ($10,683 vs $8,049).** Food $713. Comps $53.90. 377 guests / $28.34 GCA. **Another strong Saturday** with an influx of guests at open during the weekend; FOH pushing the late-night DJ to drive revisits. Closers in at 8 through a slow stretch; FOH used the lull to ABK the bar. DJ Simon Says started at 9pm (his first time in the space) and nailed the vibe. Opener cut just before 10; mid out just before 12:30am. **Kitchen**: keeping up well with growing food sales. **86**: yellow, cast iron, Dusse, notas de agave, St Germain. No incident; no no-shows charged. **Highlight**: meeting some new investors. MOD: JK. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 8660.0,
+      "target": 10171.0,
+      "comps": 53.2,
+      "guests": 301,
+      "check_avg": 28.77,
+      "weather": "Sunny and humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -14.9% vs target on Saturday ($8,660 vs $10,171).** Food $410. Comps $53.20 (0.6%). 301 guests / $28.77 GCA. **Slightly busier than Friday** \u2014 most guests arrived after ~10:30pm and it held steady until ~1:30am. CMA Fest continued to pull traffic away from Germantown; neighboring venues reported similar volume. **Kitchen**: Kevin and John-Michael held it down with strong food sales. **Maintenance**: kitchen door. No 86s. No incident; no no-shows charged. **Highlight**: fun cocktail crowd \u2014 a proper Army Navy, a couple doing a menu tasting (enjoyed the Bitter Melon Negroni experience), and VIPs calling CCNSH their favorite spot in town (tasted on Calabrian Caffo Amaro and the Pathfinder). MOD/Chef: KE, KK, JMS. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 19494.91,
+      "target": 20666.05,
+      "comps": 344.02,
+      "guests": 355,
+      "check_avg": 54.92,
+      "weather": "N/A",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -5.7% vs target on Saturday ($19,494.91 vs $20,666.05, restaurant net = DC/AM + D&C PM); including Garden/6A of $5,982.31, total was $25,477.22, and with the 40th-birthday event ($2,118 net event sales) on top.** Segments: DC/AM $1,482.31, D&C PM $18,012.60, Garden/6A $5,982.31. Food $3,443.65. Comps $344.02. 355 guests (Tock). **DC/AM (Carey)**: great training day with Heather (already pulling cute latte hearts on day two); lots of IRDs and a small cocktail pop. Low: oat milk, conference batch, miso syrup; 86: black & citrus tea. **D&C PM (Maggie H)**: felt slower than other Saturdays. **Garden/6A**: hot during the day for Sam & Lucas, then a lovely cooled-down evening with many happy guests. **Kitchen**: slow start, heavy finish; Garden very slow for a Saturday. **Event**: 40th birthday for Amanda Petri, 13 guests 6-9pm in Suite 6A (Kim built great rapport; Lucas W's taco bar was devoured). No incident; breaks complete; no no-shows charged. **Highlight**: more and more regulars/shareholders becoming frequent. MOD: Carey / Maggie H. Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7878.0,
+      "target": 6403.0,
+      "comps": 147.5,
+      "guests": 220,
+      "check_avg": 35.81,
+      "weather": "Early flash storms",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +23.0% on Saturday ($7,878 vs $6,403, no events).** Food $763 + Bev $7,115. Comps $147.50. 220 guests (Sevenrooms) / $36.00 GCA. **Solid first turn, slow second turn, then a strong reemergence in the final four hours** \u2014 about 90% of the way back to a normal strong weekend night. Great hustle from the team (James making new friends; Haleigh handling random big-party influxes). Faced an unusual run of DNLs from ambitious cocktail adventures. 7 large parties, 13 solos, investor cocktails. Top sellers: Material Control, Masari, First Time Listener. **Door**: a hot humid day turned into a wind/rainstorm around 8pm; downpour walk-ins seeking shelter were grateful to get in; a medium waitlist built after 10pm and the room held full until ~1:15am, with many late-night solos (local members and regulars). **One no-show charged** (Ali Goksun 2@8pm). Menu count 16. MOD/Chef: Kyler & Steves. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 12865.0,
+      "target": 7847.0,
+      "comps": 735.0,
+      "guests": 301,
+      "check_avg": 42.74,
+      "weather": "N/A",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +63.9% on Saturday ($12,865 vs $7,847).** Segments: Marquee $10,297, Standing Room $2,568. Food $2,958. Comps $735 (lots of service recovery, DNLs, F&F, investors). 301 guests / $42.74 GCA. **A tricky but big night** \u2014 a wild number of large parties made the seating chart hard to navigate and many groups lingered; some larger groups were sat at the bar to work the waitlist. A new upstairs security guard made seating challenging early but it smoothed out after a couple hours; Bryson trained as a host (extra hands on the floor); Angel covered a Standing Room server shift. Two service-recovery moments: one table comped entirely and a round comped for a party that waited over an hour. Waitlist was out of control ~9-11pm then calmed. **Kitchen**: a stage on for a few hours; one of the busiest food nights of the year \u2014 major kudos to Chef and Josh. No incident; no-shows charged. **Highlight**: a regular bringing tacos at the end of the night. MOD/Chef: Gigi, Joe, Selenia, Josh. Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 9409.0,
+      "target": 6229.0,
+      "comps": 268.0,
+      "guests": 211,
+      "check_avg": 44.59,
+      "weather": "Hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC beat target +51.0% on Saturday ($9,409 vs $6,229).** Segments: D&C Marquee bar $8,921, Garden $1,713. Food $922. Comps $268 (incl. a large walk-out comp) plus $67 voids. 211 guests (128 walk-ins / 83 reservations) / $44.59 GCA. **Busy night across both rooms.** Nice weather plus heavier reservations kept the Garden busy; a waitlist for inside started by 8pm with lots of larger walk-in parties, and the Garden held strong until closing by 11pm (Jada ran it solo with support from Josh and Tyler; old batches exhausted ahead of next weekend's menu flip). **Marquee**: steady, filled from reservations by 8pm with many parties growing over their reservation count; one early party's first round was missed during a table move (the walk-out comp); room died down by 1am with a few finishing until 2:30. **Kitchen**: ~10% of sales; 86'd a few dishes heading into a two-day kitchen close (big prep list before Tuesday). No incident; no-shows charged. **Maintenance**: kitchen water, water heater, warped board over Marquee, floor board at service well/Table 23. MOD: Josh / Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 11210.0,
+      "target": 13000.0,
+      "comps": 317.0,
+      "guests": 277,
+      "check_avg": 40.47,
+      "weather": "Sunny, breezy and hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -13.8% vs target on Saturday ($11,210 vs $13,000).** Segments: MB Morning $1,728 (75 covers), MB Evening $6,599 (202 covers), Sun Club $619, Hot Eye $1,823. Food $3,806. Comps $317. 277 MB OpenTable guests / $40.47 GCA. **Morning (Sam & Lex)**: a better brunch than recent days, though slow \u2014 only 4 guests before 10am, a few 11am tables, empty through noon, with most business 1-3pm; staffed well but cut aggressively amid Dog Days Fest near Starland and various sports games. **Evening (Sam/James & Marcus)**: another mild evening (nice weather keeping guests out until nightfall; Dog Days Fest pulling locals); smooth service, with Kaylee and Braden training; busiest hour surprisingly 6pm, steady until a 10pm clear-out. **Sun Club**: decent, mostly hotel guests. **Hot Eye**: slow night run by two after Sam got in; a decent mid-shift pop with good spacing, lots of returning and hotel guests. **Kitchen**: nothing sent back or comped. No incident. **Maintenance**: possible leak in the Hot Eye men's room (water on the floor under the sink). **Highlight**: Korie, Sofia and Skylar coming into Hot Eye for a round. Entered by Sam B."
+    }
+  ]
+}
