@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-07",
+  "day_of_week": "Sunday",
+  "iso_date": "2026-06-07",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Sunday 6/7 EON report - confirmed dark Sunday. #ccatl_eon_report jumps from the Saturday 6/6 report straight to the next weekday with no Sunday entry, consistent with every recent Sunday (5/10, 5/17, 5/24, 5/31 all dark). CCATL is closed/non-reporting on Sundays."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1594.0,
+      "target": 2568.0,
+      "comps": 34.5,
+      "guests": 51,
+      "check_avg": 31.25,
+      "weather": "Nice. Hot.",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -37.9% vs target on Sunday ($1,594 vs $2,568).** Food $191. Comps $34.50. 51 guests / $31.26 GCA. **A good steady night from start to finish.** Opened with a ~12-guest birthday party, a regular tattoo artist, and Broadway bartenders who brought their dog Rufus (now the \"Rufus Gang\"); lots of first-time guests plus an investor couple. **Kitchen**: smooth sailing, good sales. **Maintenance**: swapped chillers from wells 3 and 4 so the non-working chiller sits at well 3; kitchen door. No 86s. No incident; no no-shows charged. **Highlight**: an investor couple (Leslie Latham) in town for a family health scare spent time nerding out on spirits/cocktails with Kala and BT, who recommended cachaca brands and planned to follow up with recipes - a privilege to brighten a hard day. MOD/Chef: KE, KM. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8016.03,
+      "target": 9808.63,
+      "comps": 330.4,
+      "guests": 120,
+      "check_avg": 66.8,
+      "weather": "Little gloomy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -18.3% vs target on Sunday ($8,016.03 vs $9,808.63, no events).** Segments: DC/AM $852.93, D&C PM $6,127.51, Garden/6A $2,170.59. Food $1,907.40. Comps $330.40. 120 guests (Tock). **DC/AM (Carey/Felix)**: sweet, sleepy solo Sunday with great conversations, a few cocktails and IRDs; light roast switched to a Carlos Pola El Salvador pacas/honey-process cup (less fruity, clearer, raisin notes). Low: oat milk, miel, caramel; 86: sparkling water, raspberry kombucha. **D&C PM (Maggie H)**: also very sleepy - quick cuts, ran with Paige and Madi; Morgan got side work way ahead (out before 8pm); Hannah trained as host and picked it up fast; Rand shadowed the floor. **Kitchen (Nathan)**: chill night; 86 scallops. **Maintenance**: critters found in the kitchen last night (photo given to Patrick at the desk). Breaks complete; no no-shows charged; no incident. **Highlight**: Hannah meshing with the crew so quickly. MOD: Carey / Maggie H. Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 5448.0,
+      "target": 5250.0,
+      "comps": 53.94,
+      "guests": 138,
+      "check_avg": 39.48,
+      "weather": "Approaching sweltering",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +3.8% on Sunday ($5,448 vs $5,250, no events).** Food $575 + Bev $4,631 + Retail $108. Comps $53.94 (<1%). 138 guests (Sevenrooms) / $39.48 GCA. **An even night with some fallows, brief fullness, and several strong mid-tops** - three separate parties topped $300 (one 2.5-top ripped $350). Dante's Sunday timing was preternatural through multiple tickets; Max anticipated bartender needs; Mari ran door waitlist-free all night. **27 covers after 11pm** propelled the night over the line - a variety of out-of-town hospitality workers (Hawaii, Nashville, LA) plus an early one-and-done BCB crew. 4 large parties, 7 solos, 2 investor cocktails. Top sellers: First Time Listener, Masari, Root & Rye. **Door (Thomas)**: perfect low-80s breezy weather pulled people outside, so a slow start filled by ~7:30 and held steady; one over-intoxicated guest fell into the bushes/street on the way out and was kept safe by his party until his Uber arrived. No no-shows. **Kitchen**: lots of fries and franks, big chip sales in the final hour. **Maintenance**: kitchen printer needs reactivation. MOD/Chef: Seth & Alejandro. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4059.0,
+      "target": 2180.0,
+      "comps": 101.0,
+      "guests": 98,
+      "check_avg": 41.42,
+      "weather": "N/A",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +86.2% on Sunday ($4,059 vs $2,180).** Segments: Marquee $4,059, Standing Room $0. Food $690. Comps $101 (Carlos Martinez, Griffin, Jesus from Wolf & Crane, Vic the master shucker, plus a DNL). 98 guests / $41.42 GCA. **A pretty steady Sunday** - opened with a humble 24 covers, the first hour filled the bar top and slowly the rest of the room; a handful of regulars came early for the new menu. A lull around 8pm gave time for kitchen and walk-in cleaning, then the room filled back up by 9pm with a small, quickly-cleared waitlist. New Sat/Sun security guard Peter did a great job; a light, sleepy last hour made for a smooth last call. **Kitchen**: nice work. No incident; no-shows charged. **Highlight**: a table calling Joe over to praise the music selection. MOD/Chef: Joe + Josh + Selenia. Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 1285.86,
+      "target": 1831.59,
+      "comps": 7.2,
+      "guests": 35,
+      "check_avg": 36.74,
+      "weather": "Hot and humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC came in -29.8% vs target on Sunday ($1,285.86 vs $1,831.59).** Segments: D&C Marquee bar $1,285.86, Garden closed. Food $66. Comps $7.20 (industry discount). 35 guests (11 reservations / 28 walk-ins, 4 no-shows, 2 cancels) / $36.74 GCA. **Quiet, hot-and-humid Sunday with little foot traffic** - the team used the lull to knock out ABK tasks (liquor cubbies, cocktail batch area, beer storage and lockers all cleaned). Great energy and bar-top connections despite the heat. **86'd the snack menu aside from popcorn** (deliveries tomorrow should restore marinated olives); kitchen also 86'd chips/dip, cookies, marinated olives. **Maintenance**: water pooling in kitchen, water heater, warped board over Marquee, floor board at service well, table tops on 24 & 44. No incident; no-shows charged; kitchen close checked. **Better next time**: tighter open/close SOPs, end-of-night comms on lows/86s, thorough mise check at open. MOD: Marcus. Entered by Marcus."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 6904.0,
+      "target": 7000.0,
+      "comps": 454.0,
+      "guests": 180,
+      "check_avg": 38.36,
+      "weather": "Sunny, breezy, and hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -1.4% vs target on Sunday ($6,904 vs $7,000).** Segments: MB Morning $2,678 (96 covers), MB Evening $2,832 (84 covers), Sun Club $597, Hot Eye $796. Food $2,768. Comps $454. 180 MB OpenTable guests / $38.36 GCA. **Morning (Sam & Lex)**: a quiet brunch - only 3 guests before 10am (normal, no alcohol until 11), steady lunch thanks to a 13-top and an 8-top, business well spread out; opening server cut before noon, few bar-top guests. **Evening (James & Marcus)**: the regulars returned after a weird, quiet, transient weekend - a quiet ambling night, servers cut to closers before 8pm and managed fine with big help from Braden (Eva stayed on the bar to close). **Sun Club**: quiet, essentially just hotel pool guests. **Hot Eye**: another extreme slow day - the 9pm bar crawl then a big lull and an early industry pop; free time spent on deep cleaning; men's room closed due to a ceiling leak (minimal impact given the slow night). **Kitchen**: great ticket times, nothing comped or sent back. No incident; no maintenance. **Highlight**: Chartreuse enthusiasts from ATL nerded out in Hot Eye for a couple hours, sampling nearly every Chartreuse cocktail. Entered by Alexis."
+    }
+  ]
+}
