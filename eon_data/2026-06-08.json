@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-08",
+  "day_of_week": "Monday",
+  "iso_date": "2026-06-08",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1049.0,
+      "target": 1000.0,
+      "comps": 55.4,
+      "guests": 22,
+      "check_avg": 47.68,
+      "weather": "Overcast and rainy, ~80F all day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +4.9% on Monday ($1,049 vs $1,000).** Food $238. Comps $55.40 (emp 50% $12, industry $6.30, F&F $2.10, investor $35). 22 guests / $47.68 GCA. **A very quiet rainy Monday**, but friends stopped in for Meal Deals, snacks and cocktails all evening with much of the volume early in the shift. Closer pushed from 6pm to 7:30pm due to on/off rain; opener stayed diligent on cleaning. BOH quick on ticket times; food menu is becoming an integral part of the guest experience and showed in the strong check average. Started Drain Defense enzyme routine in BOH and FOH (now a Monday ritual). 86: cast iron, yellow, notas de agave. No incident; no no-shows. **Highlight**: two nightcap guests requested a D&C classic Floradora, sparking conversation about the Naked & Famous and Silver Monk. MOD/Entered: MKZ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 897.0,
+      "target": 1712.0,
+      "comps": 25.8,
+      "guests": 29,
+      "check_avg": 30.93,
+      "weather": "Heavy rain showers early, muggy by opening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -47.6% vs target on Monday ($897 vs $1,712).** Food $104. Comps $25.80 (2.87%). 29 guests / $30.94 GCA. **A slower day but still good** - a CMA Fest hangover left the district quiet (Optimist neighbors reported being absolutely dead too). Started the night with a birthday; CCNSH continues to be a destination for celebrations and for introducing out-of-town guests to Nashville. **Kitchen**: great food sales, lots of happy hot dog eaters. **Maintenance**: kitchen door; chiller. No 86s. No incident; no no-shows. **Highlight**: James brought in his dog Wesson. MOD/Chef: KE, JMS. Entered by BT. (Note: staff typed the date as 2026-06-09 on the form but tagged it Monday - this is the Monday 6/8 service-night report, posted ~2am 6/9.)"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 7568.92,
+      "target": 6695.46,
+      "comps": 409.65,
+      "guests": 180,
+      "check_avg": 42.05,
+      "weather": "Tornado sirens early evening; slow until ~8pm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR did $7,568.92 all-in on Monday (DC/AM $86.72 + D&C PM $6,862.12 + food/other; food incl. events $1,899.40).** Comps $409.65. 180 guests (Tock) / $42.05 GCA. **Tornado sirens early in the evening kept things slow until about 8pm**, then Food and Bar had a big pop in the 8pm hour and the team crushed it - lots of all-hands teamwork. **DC/AM (Reggie/Kelly)**: mellow Monday, trained Heather Ramsey; received oat milk; cold brew ready 7am; 86 sparkling; low kombucha/miel/caramel. **Kitchen (Rachel)**: super busy Oyster Monday, big ups to chef Lucas and Archie; 86 duck, mussels, caviar, pasta. **Tomorrow (6/9)**: corporate event for Xero Inc. (~40 guests, 2-7pm, Vauxhall, hosted bar package) and a DaVita business dinner (~65 guests, 6-9pm, the Garden, bar on consumption). **Maintenance**: none. Breaks complete; no no-shows; no incident. **Highlight**: Kodi and Justin in for orientation/shadowing; cute kids in Madi's section drew her a picture. MOD: Maggie S (AM) / Maggie H & Lucas (PM). Entered by Maggie H. (Note: official daily sales target was not posted in Slack at time of report; target shown is the prior-Monday 6/1 figure used as a proxy.)"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Monday 6/8 EON report posted to #ev_eon_reports as of the run (10:40am ET 6/9). The most recent EV report covers Sunday 6/7; the Monday 6/8 report had not yet been submitted. EV typically posts overnight, so this report may be delayed - will backfill on the next run if it appears. Note: DCEV launches its Spring/Summer menu Tuesday 6/9."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5409.0,
+      "target": 3687.0,
+      "comps": 341.0,
+      "guests": 115,
+      "check_avg": 47.03,
+      "weather": "Fine weather, no effect on service",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +46.7% on Monday ($5,409 vs $3,687, all Marquee).** Food $1,418. Comps $341 (anniversaries, birthdays, investors, employee discounts, industry - Chef Luis & Sous from Camphor, Sam Hojokban, no-make voids, and a service recovery). 115 guests / $47.03 GCA. **Busy from the get-go** - early 6pm anniversary reservations plus DC host Savannah visiting with family; full house teetering on a waitlist by 7pm, $1k food and $3k net by 8:45. Eased around 9-9:30pm, then a couple more birthday parties late. Everyone out by 12:30 for a quick close. **Kitchen**: sold 186 oysters total (Raven & Griffin demolished 36 - new high score). **Maintenance**: none notable. No incident; 2 no-shows charged (one charge failed to process). **Highlight**: Sam from Hojokban brought donuts for the team. MOD/Chef: Mikey & Vic, Josh. Entered by Mikey P."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 1315.31,
+      "target": 3032.2,
+      "comps": 0,
+      "guests": 31,
+      "check_avg": 42.43,
+      "weather": "Cloudy, cooler; little foot traffic",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC came in -56.6% vs target on Monday ($1,315.31 vs $3,032.20, all Marquee bar).** Food $0. Comps $0. 31 guests (14 booked / 17 walk-in) / $42.43 GCA. **Very light night despite the cooler weather.** Bar top had familiar faces from eebee's, St. Vincents and Amazonia; Matt from Warped Tour marketing stopped in for a Cherry Bomb Gimlet. Reservations all in by 8pm; cut Devon/Tyler at 8:45 and Alex at 9:15. An 11pm VIP reservation (Sophia Shan) popped up so Jesse and Marcus held the door. Baldor order arrived and stored. **Maintenance (ongoing)**: water pooling in kitchen, water heater, warped board over marquee, floorboard at service well, tabletops on 24 & 44. No incident; no no-shows. MOD/Entered: Marcus."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 3653.0,
+      "target": 4500.0,
+      "comps": 311.0,
+      "guests": 102,
+      "check_avg": 35.81,
+      "weather": "Overcast most of the day, very sticky",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -18.8% vs target on Monday ($3,653 vs $4,500).** Segments: Municipal Bar AM $760, PM $2,802, Sun Club $91, Hot Eye $0 (closed). Food $1,287. Event sales $0. Comps $311. 102 guests (12 AM / 90 PM) / $35.81 GCA. **A slow Monday with low occupancy in the morning** - no hotel guests for breakfast, only 2 guests before 10am; biggest hour was 1pm thanks to a food tour. Cut the opening server by 11 and SA by 2pm. **Evening was smooth sailing** with lots of locals, many industry folks who don't usually come this far north - a great crowd, well taken care of, wrapped soon after 11. Braden trained with Eva, taking most tables himself. **Kitchen**: no send-backs, no comps, no complaints. Sun Club very slow; Hot Eye closed. No incident; no maintenance needs. **Highlight**: packed with regulars and locals again. Morning MOD: Sam; Evening MOD: James & Marcus. Entered by James."
+    }
+  ]
+}
