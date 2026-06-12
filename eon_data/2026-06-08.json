@@ -45,15 +45,15 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": 0,
-      "target": 0,
-      "comps": 0,
-      "guests": 0,
-      "check_avg": 0,
-      "weather": "",
-      "missing": true,
+      "net_sales": 4736.0,
+      "target": 4632.0,
+      "comps": 139.5,
+      "guests": 115,
+      "check_avg": 41.18,
+      "weather": "Sweltering, again",
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No Monday 6/8 EON report posted to #ev_eon_reports as of the run (10:40am ET 6/9). The most recent EV report covers Sunday 6/7; the Monday 6/8 report had not yet been submitted. EV typically posts overnight, so this report may be delayed - will backfill on the next run if it appears. Note: DCEV launches its Spring/Summer menu Tuesday 6/9."
+      "narrative": "**EV beat target +2.2% on Monday ($4,736 vs $4,632) - backfilled from the delayed report.** Food $837, bev $3,847, retail $52. Comps $139.50 (virtually all for visiting employees on BCB week). 115 guests (Sevenrooms) / $41.18 GCA. **Constant motion despite only brief peak fullness** - a full bar plus tables ripping entrees made for possibly the highest food-sales share on record (169 oysters, a new record). Game 3 of the Knicks Finals drove a duos-at-open pattern that built to larger parties ~7:30pm and a 9:30pm half-time wave; quiet after the Knicks lost. Industry visitors in for BCB (including a magician who drew a small crowd outside) plus Crystal Mendoza from D&C LA. Top sellers: First Time Listener, Year of the Trees/Masari. One no-show (Henry Perez) not charged. MOD/Chef: Cara & Alejandro. Entered by Thomas."
     },
     {
       "id": "la",
