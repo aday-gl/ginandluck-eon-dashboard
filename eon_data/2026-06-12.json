@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-12",
+  "day_of_week": "Friday",
+  "iso_date": "2026-06-12",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 8443,
+      "target": 5882,
+      "comps": 96.13,
+      "guests": 258,
+      "check_avg": 32.72,
+      "weather": "High 91F / low 74F",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +43.5% on Friday ($8,443 vs $5,882).** Food $669. Comps $96.13. 258 guests / $32.73 GCA. **Hot summer Friday with a chill start** that built into a strong night. Openers ABK'd the bar and ran the Summer Friday Happy Hour. World Cup soccer on the back-bar projector kept guests happy, though a watch-party event in the park pulled some foot traffic. A strong ~10:30pm pop hit hard; down a barback but FOH/BOH stepped up for great teamwork. 86 cast iron. No incident; no no-shows. MOD: JK. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 9572,
+      "target": 10353,
+      "comps": 133.85,
+      "guests": 345,
+      "check_avg": 27.74,
+      "weather": "Humid but rainy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -7.5% vs target on Friday ($9,572 vs $10,353).** Food $377. Comps $133.85 (1.39%). 345 guests / $27.75 GCA. **A fun start to Bonnaroo weekend.** A 40-top on the books plus good walk-in flow drove a consistent run from ~7pm on. The new projector added great energy and guests enjoyed the new draft options. Missing Brandon T and slightly short-handed led to a later close. No 86s/lows. Maintenance: kitchen door. No incident; no no-shows. MOD/Chef: KK, KE, MD, JMS. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 14918.89,
+      "target": 22923.44,
+      "comps": 650.59,
+      "guests": 359,
+      "check_avg": 41.56,
+      "weather": "Warm summer Friday",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR regular net was $14,918.89 on Friday vs a $22,923.44 reported target (-34.9%) - but that target bundled the wedding-rehearsal event forecast, so the headline understates a strong night.** Including the event, all-in net was $27,018.89, beating target by ~+17.9%. (Segments: DC/AM $1,027.55 + D&C PM $13,891.34; food $3,449.35 regular / $11,971.35 all-in. Net event sales $12,100.) Comps $650.59 (4.36%). 359 guests (Tock) / $41.56 GCA. Busy floor even without the Garden; went on a short wait but opened the rail to capture most of the list. **Event:** wedding rehearsal dinner for Sam & Alex, 78 guests, 5:30-9:30pm in Garden & VH - flawless family-style execution and 15 speeches. Rand crushed his first solo kitchen night; lots of old-school regulars in. Breaks complete; no no-shows; no incident. MOD: Maggie & Josh (AM) / Carey & Lucas (PM). Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7887,
+      "target": 7927,
+      "comps": 330.81,
+      "guests": 226,
+      "check_avg": 34.9,
+      "weather": "Humid summer evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV essentially hit target on Friday: $7,887 net vs $7,927 (-0.5%).** Food $596, bev $7,031, retail $260. Comps $330.81 (members, investors, DNLs, industry). 226 guests (Sevenrooms) / $34.90 GCA. **The hottest, most humid day yet.** Biggest push at 6pm; a wild 7pm tropical thunderstorm mellowed the middle, then a truly full room after 8:30. A medium late waitlist of larger parties built ~11:30 and cleared by 12:30, with missed-text guests welcomed back at 1am; last guests ~2:30. Top sellers: Eight Limb Daiquiri, Native Lion, Shinebox/Burner Phone. Notable guests: a Dropout TV cast 7-top (Zac Oyama, Allie Beardsley, Lou Wilson), Al Sotack, Max Rosenberg, Kenneth from Joyface. 17/16 menu. No no-shows. MOD/Chef: Kyler / Steves. Entered by Sean."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 10566,
+      "target": 12202,
+      "comps": 425.7,
+      "guests": 263,
+      "check_avg": 40.17,
+      "weather": "Hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA came in -13.4% vs target on Friday ($10,566 vs $12,202; Marquee $8,576 + Standing Room $1,989).** Food $2,209. Comps $425.70 (Jasper + David, DNLs, investor, member Leah, birthdays). 263 guests / $40.18 GCA. **The World Cup's first LA game turned the Arts District into a ghost town** for the first ~3.5 hours. SR didn't open until ~7:20 and filled slowly; Gigi threw on an apron to cover the SR server shift. A solid waitlist formed ~10pm and the team got many in; closed SR at midnight for a smooth close. Kitchen sold lots of seafood - dozen-oyster orders, trout roe, crudo. Maintenance: staircase light cord, loose barstool screw. No incident; no-shows charged. MOD/Chef: Gigi & Josh. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 7639.37,
+      "target": 9220.0,
+      "comps": 180.14,
+      "guests": 202,
+      "check_avg": 37.82,
+      "weather": "Wicked hot, brief thunderstorm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC came in -17.1% vs target on Friday ($7,639.37 net vs $9,220; Marquee bar $8,174.53 + Garden $426.39 gross).** Food $1,000.66. Comps $180.14 (2.3%); voids $99.38. 202 guests / $37.82 GCA. **A proper Marquee night undercut by extreme heat.** A cocktail class flowed into service; a steady mix of resos and walk-ins eventually filled the bar top and floor, moving plenty of Cherry Bomb Gimlets (Warped Tour groups in). The Garden was painfully slow in the heat - opening delayed to 8pm, last call 11pm, closed 11:30; worth considering later Garden start times. Areas to tighten: ticket pacing/passing during rushes. Maintenance: garden well loose, ants worsening in heat, possible leaks under dishwasher and at ice machine/fridge, front-door paint touch-up. No incident; no-shows charged. MOD: Josh / Cory. Entered by Josh."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 10078,
+      "target": 12000,
+      "comps": 206,
+      "guests": 222,
+      "check_avg": 45.4,
+      "weather": "Sunny and hot, then rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -16.0% vs target on Friday ($10,078 vs $12,000).** Segments: Municipal Bar AM $1,433, PM $6,834, Sun Club $365, Hot Eye $1,421. Food $3,493. Comps $206. 222 Municipal Bar guests (47 AM / 175 PM) / $45.40 GCA (Sun Club & Hot Eye guests aren't in the OpenTable count). **A slow Friday morning that food tours lifted around 1:30pm** - 2-3pm was the busiest brunch hour (~half of brunch sales). Evening started with 40 covers and stayed quiet until the 7pm hour brought walk-ins; steady to kitchen close, bar half-full throughout, lots of birthdays/anniversaries; hard exit by 10:20. Sun Club closed early after 4pm rain. Hot Eye a steady slow burn, finishing strong with industry/MG fam for Braden's birthday. Maintenance: 40s booth rips growing (guest complaint at T44). MOD: Sam & Lex (AM) / Justin & Marcus (PM). Entered by Alexis."
+    }
+  ]
+}
