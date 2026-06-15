@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-14",
+  "day_of_week": "Sunday",
+  "iso_date": "2026-06-14",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Sunday 6/14 EON report - confirmed dark Sunday. #ccatl_eon_report jumps from the Saturday 6/13 report straight to the next entry with no Sunday submission, consistent with every recent Sunday (5/17, 5/24, 5/31, 6/7 all dark). CCATL is closed/non-reporting on Sundays."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1542,
+      "target": 2361,
+      "comps": 111.1,
+      "guests": 51,
+      "check_avg": 30.24,
+      "weather": "Slightly rainy, then breezy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -34.7% vs target on Sunday ($1,542 vs $2,361).** Food $78. Comps $111.10 (7.2% - a few Bingo credits and a manager tasting comp). 51 guests / $30.24 GCA. **A fun, low-key close to Bonnaroo weekend** with good friends and industry guests. A decent start, with the main pop ~7-8pm; no typical late-night pop, but a handful of guests were stoked about the IYKYK menu - the audience is buying in. Maintenance: kitchen door. No incident; no no-shows. MOD/Chef: KE, JMS. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 9328.57,
+      "target": 8825.29,
+      "comps": 415.76,
+      "guests": 157,
+      "check_avg": 59.42,
+      "weather": "A bit rainy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +5.7% on Sunday ($9,328.57 net vs $8,825.29), no events.** (Segments: DC/AM $1,368.50 + D&C PM $7,960.07 + Garden/6A $1,734.92; food $2,376.60.) Comps $415.76 (4.46%). 157 guests (Tock) / $59.42 GCA. **A sweet, steady Sunday.** DC/AM was busy throughout with some IRDs and a small cocktail pop (elderberry tea made). A smooth PM allowed ample time to train new host Justin, who did an outstanding job; a few investors and the AM valet stopped by. A chill, slightly rainy Garden evening with industry peeps and regulars. Slow, clean kitchen night. Breaks complete; no no-shows; no incident. MOD: Carey (AM & PM). Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4484,
+      "target": 3646,
+      "comps": 91.6,
+      "guests": 114,
+      "check_avg": 39.33,
+      "weather": "Late rain crimped the final turn",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +23.0% on Sunday ($4,484 vs $3,646).** Food $556, bev $3,928. Comps $91.60 (2.04%). 114 guests (Sevenrooms) / $39.33 GCA. **A 7-9pm lull then raucous heights around 10pm** (~$1k in an hour) before weekend-weary guests faded; late rain and lightning crimped the final turn - no one seated after 11pm, but completely full by 10:30 with good vibes. Lots of twos celebrating birthdays/anniversaries; a NY-LA reunion duo nearly made the Four Pillars olive gin a top-3 seller; two 30th-birthday guests in from Alberta. Two investors in (Mark Jacobs, Brian Rosen); a cancellation and a 3-top no-show (charged). The UFC fight didn't slow things much. Top sellers: Native Lion, Burner Phone, Rosalie. 17/17 menu. Maintenance: a guest vomited in the downstairs bathroom near last call and stuffed guest towels in the toilet - plunged and cleared, but keep an eye on the pipes. MOD/Chef: Thomas & Alejandro. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5496,
+      "target": 5099,
+      "comps": 195,
+      "guests": 154,
+      "check_avg": 35.69,
+      "weather": "So hot",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +7.8% on Sunday ($5,496 vs $5,099, all Marquee).** Food $1,100 (huge for a Sunday). Comps $195 (member, investors, industry, DNL, birthday). 154 guests / $35.69 GCA. **Tricky but strong** - short-handed, so Gigi served; rocked from the start ($1,600 in the first hour), a small lull, then full from ~9pm to close. One very intoxicated couple was asked to leave (no issue); a prior-night no-show charge was refunded and the guest stayed for rounds. A good 11pm-midnight wave with multiple rounds and food. Natalie trained Bryson; Chef Selenia covered security; Raven & Edwin crushed the bar. Lovely first-timers and a 21st birthday. Kitchen had orders to 11:55pm. 86 tuna crudo, 86 King Mambo. Maintenance: women's restroom smell. No incident; no-shows charged. MOD/Chef: Gigi & Selenia/Josh. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No D&C DC EON report for Sunday 6/14 posted as of this run. The latest entry in #dc_eon_report is the Saturday 6/13 report (posted 6/14 00:56 CDT); no Sunday submission had appeared by the 6/15 build. DC reports inconsistently on Sundays (reported 6/7 but dark 5/17, 5/24, 5/31), so this may either backfill once submitted or be a dark Sunday - recommend follow-up with the DC MOD team / R365 cross-check."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 5893,
+      "target": 6500,
+      "comps": 164,
+      "guests": 152,
+      "check_avg": 38.77,
+      "weather": "Sunny and hot, heavy 4pm rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -9.3% vs target on Sunday ($5,893 vs $6,500).** Segments: Municipal Bar AM $1,900, PM $2,577, Sun Club $24, Hot Eye $667. Food $1,977. Comps $164. 152 Municipal Bar guests (56 AM / 96 PM) / $38.77 GCA (Sun Club & Hot Eye guests not in the OpenTable count). **An easy Sunday crushed by weather** - only 5 guests before 10am and a light lunch; busiest 2-3pm (~$1k) right before happy hour. A ~4pm torrential downpour cleared the roof (Sun Club closed early) and kept everyone inside; evening business was essentially done by 8:30, with only ~6 industry folks trickling in after. Hot Eye was a snooze due to weather, saved by a rain-soaked bar crawl at 9pm and industry friends later, plus some new-menu R&D. No incident. MOD: Sam / Lex & Shannon (AM) / Jame / Marcus (PM). Entered by Alexis."
+    }
+  ]
+}
