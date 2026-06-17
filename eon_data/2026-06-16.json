@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-16",
+  "day_of_week": "Tuesday",
+  "iso_date": "2026-06-16",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 2546.0,
+      "target": 2468.0,
+      "comps": 65.0,
+      "guests": 65,
+      "check_avg": 39.17,
+      "weather": "Cooler day, highs in the 70s, cloudy with on/off rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +3.2% on Tuesday ($2,546 vs $2,468).** Food $535. Comps $65 (coupon, F&F, industry love, manager). 65 guests / $39.17 GCA. **A solid start to the week** with Meal Deals and a couple of company happy hours - 15 Meal Deals and 10 High Five cocktails sold. Steady until ~7pm, then a decent Bingo crowd. Investor Josh Pulinat joined with friends (round of bubbles, greeted by MOD). Opener cut ~8:30pm; small 10:30pm pop lined the bar with a few booths, plus industry folks after their shifts. **Maintenance/urgent: BOH freezer reading 59F at close** - MOD had everything removed; suspected to be more than a dirty vent/coil. Low kettle chips. No incident; no-shows not charged. MOD: MKZ // JK. Entered by JK."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1741.0,
+      "target": 1437.0,
+      "comps": 198.2,
+      "guests": 49,
+      "check_avg": 35.53,
+      "weather": "Warm & mostly sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH beat target +21.2% on Tuesday ($1,741 vs $1,437).** Food $264. Comps $198.20 (11.4% - mostly Bingo credits, plus manager, industry, DNL). 49 guests / $35.53 GCA. **A solid Tuesday.** Gentle first hour, then steady volume growth by ~5:15pm with many guests in for the World Cup match. Healthy Bingo turnout with most staying the full experience (a regular trio left early - already holding two Yazoo tours from prior wins). Cleared out after Bingo until a ~9:30pm pop, building to a larger 10:30pm push including Fishmonger regulars hosting visiting NYC friends. Room wound down ~11:30pm. Note: projector/screen remotes now live in the leftmost server-station drawer. Maintenance: Well 3 chiller. No incident; no-shows not charged. MOD & Chef: KK & KM. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 9228.81,
+      "target": 8995.07,
+      "comps": 797.09,
+      "guests": 242,
+      "check_avg": 38.14,
+      "weather": "Nice clear day into night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR beat target +2.6% on Tuesday ($9,228.81 net vs $8,995.07), no events.** (Segments: DC/AM $978.89 + D&C PM $8,249.92; food $1,865.30.) Comps $797.09 (~8.64% - National team in for a menu tasting plus service recoveries/celebrations). 242 guests (Tock) / $38.14 GCA. **A stellar DC/AM** at a decent pace while training Kodi on day one (new orange bottle, fresh black iced tea and cold brew; regulars growing daily). **A genuinely tough PM** - the team felt hammered from 7pm onward with some difficult guests and circumstances; great work all around but a real beating. Kitchen ran a cleaning cycle on the oven. Breaks complete; no incident; no-shows not charged. Fav: Tyson, his wife, Michael and Matt in for dinner and drinks. MOD/Chef: Chef Josh, Chef Lucas, Maggie H, Evan. Entered by Evan."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3985.0,
+      "target": 4082.0,
+      "comps": 176.5,
+      "guests": 115,
+      "check_avg": 34.65,
+      "weather": "Beautiful",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV came in -2.4% vs target on Tuesday ($3,985 vs $4,082).** Food $404, bev $3,491. Comps $176.50 (friends/family + industry). 115 guests (Sevenrooms) / $34.65 GCA. **A slow, mellow start that filled up around 8:30pm** for a good push of fun, appreciative guests, then a lull near 11pm before a sudden 11:30pm pickup cruised through close. Lots of birthdays, including a 6-top for a 21st at midnight. Welcomed Megan Lazer (AGM at The Modern), Chris Cabrera (Undone NA spirits rep), and Cole Tennant (AGM at Taq Tribeca), who called EV one of the best places to have a first drink. 86 arancini; menu count 18; 2 glass breakages (both by guests). Two no-shows (not charged). MOD/Chef: Kyler + Steves. Entered by Marielle."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4379.0,
+      "target": 4596.0,
+      "comps": 113.15,
+      "guests": 99,
+      "check_avg": 44.23,
+      "weather": "Warm; a hat trick from Messi",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA came in -4.7% vs target on Tuesday ($4,379 vs $4,596, all Marquee).** Food $1,053 (over the $1K mark on a Tuesday). Comps $113.15 (investors, birthday cookie, service recovery). 99 guests / $44.23 GCA. **A steady Tuesday** - the world was watching the Argentina-Algeria game 6-8pm, then a nice consistent pace the rest of the night. Lots of easy 2-tops, a handful of 3-tops, never much of a waitlist. Angel handled the whole floor solo; Meech, Alissa and Mikey ran the bar; Ruffy made great connections at the host stand (incl. Samuel Cabrera of Double Chicken Please). **One incident logged (note in #la_mgmt).** 86 shrimp toast, 86 contrabandista. Maintenance: grate behind bar, frayed staircase-light extension cord, persistent women's-restroom smell at open. No-shows charged. MOD & Chef: Gigi & Vic. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3201.09,
+      "target": 3000.0,
+      "comps": 8.94,
+      "guests": 86,
+      "check_avg": 37.22,
+      "weather": "Beautiful day; slow but steady and calm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +6.7% on Tuesday ($3,201.09 vs $3,000).** Food $558.80. Comps $8.94 (investor and industry). 86 covers (19 reservations / 67 walk-ins; 2 no-shows charged) / $37.22 GCA. **A slow, steady pace with plenty of time to connect** and lots of first-timers enjoying the experience. Devon trialed pre-starting tabs for online-booked community members (ensuring correct spelling/auto-greet); first-time guests were thrilled with accommodated garden seating and a great connection with Jada. Regular Vernon Stoltz stopped by; a birthday party stayed till close. Grant took first cut ~8:15pm; point breakdown began at 10pm. Kitchen smashed through Oyster Tuesday (popcorn praised). Maintenance: pooling in kitchen (likely ice machines), bowing wood board above service well, leaking juice wells need caulking. No incident. MOD: Cory/Josh/Marcus. Entered by Marcus."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 4081.0,
+      "target": 5500.0,
+      "comps": 209.0,
+      "guests": 79,
+      "check_avg": 51.66,
+      "weather": "Overcast, a short spell of rain in the evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -25.8% vs target on Tuesday ($4,081 vs $5,500).** Segments: Municipal Bar AM $652, PM $3,247, Sun Club $45, Hot Eye $0. Food $1,515. Comps $209. 79 Municipal Bar guests (4 AM / 75 PM) / $51.66 GCA (Sun Club & Hot Eye guests not in the OpenTable count). **A very quiet night.** A slow morning with Stephanie holding brunch solo; business was somewhat decent in early happy hour, but by 7pm only a handful of guests remained for the rest of the night. Braden trained on the floor but, given the slow service, focused on front-desk ops and checked in hotel guests. Sun Club had just one couple (regulars Jean & Tom ~3pm); Hot Eye dark. **Peach Week kicked off** - day-one specials verballed; the icebox cake needs another day to set, but the crostini and Thunderbolt landed well. Maintenance: rips in green booths. No incident. MOD: Franck & Lex (AM) / Justin & Marcus/Drew (PM). Entered by Justin."
+    }
+  ]
+}
