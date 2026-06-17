@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-15",
+  "day_of_week": "Monday",
+  "iso_date": "2026-06-15",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1148.0,
+      "target": 1158.0,
+      "comps": 55.2,
+      "guests": 47,
+      "check_avg": 24.43,
+      "weather": "80-85F and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL came in essentially on target on Monday (-0.9%: $1,148 vs $1,158).** Food $159. Comps $55.20 (industry love, F&F, tip-only discount). 47 guests / $24.43 GCA. **A super-chill Industry Night with World Cup games on from 6-11pm.** Lots of industry friends early (6-9pm) let the opener tackle cleaning projects; opener cut ~7:45-8pm, with the closer managing guest flow and touching tables. The projector screen continues to be a hit, the whole room erupting at the games. BOH did a great ABK on the walk-in; Sysco order arriving next day. Maintenance: Arrow coming soon for fruit flies; HVAC tech to install commercial filters (residential filters since opening). No incident; no-shows not charged. MOD: MKZ. Entered by MKZ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1403.0,
+      "target": 1856.0,
+      "comps": 149.0,
+      "guests": 38,
+      "check_avg": 36.92,
+      "weather": "Sunny, moderate",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -24.4% vs target on Monday ($1,403 vs $1,856).** Food $160. Comps $149 (10.62%) - Alex Day came in with family and that tab drove the high comps. 38 guests / $36.92 GCA. **A decent day** - slower early with a pop around 9pm. Alex Day in with family for a good time; Rufus the American bulldog and his human mom in (always a pleasure); a first date, multiple friend dates, and Thomas in with his girlfriend. Smooth kitchen. Maintenance: chiller. No incident; no-shows not charged. Fav: a long, slow-night conversation about martinis and cocktail history with two guests after work - one left genuinely happy and full of praise. MOD & Chef: KE, JMS. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6191.72,
+      "target": 6725.89,
+      "comps": 213.3,
+      "guests": 160,
+      "check_avg": 38.7,
+      "weather": "Nothing notable",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -7.9% vs target on Monday ($6,191.72 net vs $6,725.89), no events.** (Segments: DC/AM $1,211.98 + D&C PM $4,979.74; food $1,596.85.) Comps $213.30. 160 guests (Tock) / $38.70 GCA. **A very steady Monday** with Reggie on DC/AM - good chats with regulars, a couple of IRDs, a great start to the week (86 peach black tea, low on black tea). PM ran short-handed: Maggie H sent Kayla home unwell, so Josh and Sudz held the floor, Dom came in early to cover a sick Jordan, and Evan stayed later so the bar could take breaks - tight all around, with good industry company in. Happy Oyster Monday in the kitchen, plenty of time to clean and prep garden for tomorrow. Breaks complete; no incident; no-shows not charged. MOD/Chef: Carey (AM); Maggie H & Rachel (PM). Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4792.0,
+      "target": 4082.0,
+      "comps": 89.0,
+      "guests": 122,
+      "check_avg": 39.28,
+      "weather": "Chill; beautiful, cool not chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +17.4% on Monday ($4,792 vs $4,082).** Food $633, bev $4,019, retail $140. Comps $89. 122 guests (Sevenrooms) / $39.28 GCA. **Polonsky & Friends anchored an otherwise brutal first turn** with an open-minded 10-top at 6pm (~two tables until 7:30). As is the recent trend, the busiest hour was 10pm (37 new guests in about an hour) as second-turn final rounds merged with a fresh late-night crew. 4 large parties, 7 solos, 122 covers (unusually high guest/party average), 87 oysters (sold out 9:15pm), 0 investor cocktails. A good mix of World Cup travelers and friends catching up; the new 90-minute-before reservation window may have driven later large-party bookings. Top sellers: Rosalie, Golden Cobra, Native Lion/Cloudwalk (tie). Menu count 18. Three no-shows (charged). MOD/Chef: Cara & Alejandro. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4454.0,
+      "target": 3812.0,
+      "comps": 221.1,
+      "guests": 108,
+      "check_avg": 41.24,
+      "weather": "Warm, no effect on service",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +16.8% on Monday ($4,454 vs $3,812, all Marquee).** Food $1,098. Comps $221.10 (DNLs, misring, service recovery, F&F, investors). 108 guests / $41.24 GCA. **A sleepy start with one wildcard guest** - clocked as strange/intoxicated from the start, held to the single cocktail he'd ordered and killed with kindness before he left; smooth sailing after. Steady until ~9:30-10pm, then graced with several big parties at once (6s and 7s filled tables 1-3, two more parties waitlisted; reached out late but they didn't return before last call). Sam from Hojokban brought her knotted doughnuts - becoming an awesome tradition. ~100 oysters sold, mostly early; dinner items led after 10pm. 86 shrimp toast (no prep person Tuesdays - may carry over). Easy close. No incident; no-shows not charged. MOD & Chef: Mikey, Vic, Josh. Entered by Mikey."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2774.92,
+      "target": 2528.0,
+      "comps": 20.9,
+      "guests": 45,
+      "check_avg": 61.66,
+      "weather": "Beautiful day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +9.8% on Monday ($2,774.92 net vs $2,528; Marquee bar sales $3,087.72).** Food $182.60. Comps $20.90 (0.75%). 45 guests / $61.66 GCA. **A slow grind** with light reservations and minimal foot traffic for most of the evening - a handful of two- and three-tops early kept things moving, traffic dipped, then a few larger groups trickled in later. Cut the host and closed a well at 8pm; cut the server and shifted a bartender to the floor at 10:30pm. Service ran smoothly start to finish, with lots of cocktail-build and ingredient geek-outs guests enjoyed. Garden closed. Snacks-only kitchen. Investor Kim B. came in again with a group for chartreuse. No incident; no-shows charged. MOD: Josh. Entered by Josh."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 4374.0,
+      "target": 4000.0,
+      "comps": 104.0,
+      "guests": 68,
+      "check_avg": 64.32,
+      "weather": "Warm and clear, no afternoon deluge",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +9.4% on Monday ($4,374 vs $4,000).** Segments: Municipal Bar AM $718, PM $3,655, Sun Club $220, Hot Eye $0. Food $1,806. Comps $104. 68 Municipal Bar guests (2 AM / 66 PM) / $64.32 GCA (Sun Club & Hot Eye guests not in the OpenTable count). **An extremely slow morning, then a fairly steady evening for an off-season Monday.** The room wound down by ~11pm but a full bar arrived at 10:30 (mostly industry folks); Sam and Aimee showed everyone a good time and still closed and cleaned shortly after midnight. Sun Club was slow for Brigid, with a couple of hotel guests enjoying the pool into the evening; Hot Eye closed. No kitchen comps or complaints. No incident. Fav: Maren and her crew stopping in on her celebratory birthday rounds. MOD: Sam/Braden & Lex (AM); James & Marcus (PM). Entered by James."
+    }
+  ]
+}
