@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-17",
+  "day_of_week": "Wednesday",
+  "iso_date": "2026-06-17",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 842.0,
+      "target": 1177.0,
+      "comps": 10.2,
+      "guests": 27,
+      "check_avg": 31.19,
+      "weather": "Sunny in the early evening 75-80, gusty/hot/humid later toward close",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL missed target -28.5% on Wednesday ($842 vs $1,177).** Food $58. Comps $10.20 (industry, F&F, O4W). 27 guests / $31.19 GCA. **A slow Wednesday made tougher by equipment trouble** - the shift opened with no MOD and the Combi oven down for the day; Keyshawn troubleshot (water filter connection intact) but couldn't restart it, and the emergency tech canceled (not Rational-11 certified). A certified tech is coming Thursday. MOD arrived shortly after 7:30pm; OJ garnish cuts and pre-shift review were missed. With the Combi OOO, the kitchen offered popcorn/cold snacks and closed at 10pm, though some guests stayed for bevs. World Cup games ran 4pm-close. Investors Kevin & Liz stopped in for Liz's birthday. MKZ & Keyshawn did 9-10:30pm bar-prep training (garnish/juice) ahead of BOH taking over weekend prep this Saturday. **Maintenance/urgent: Combi oven.** 86 pickles, cast iron sour; low cucumbers (tossed, spoiled). No incident; no-shows not charged. MOD: MKZ. Entered by MKZ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1338.0,
+      "target": 1467.0,
+      "comps": 31.75,
+      "guests": 44,
+      "check_avg": 30.41,
+      "weather": "Hot & mostly sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -8.8% vs target on Wednesday ($1,338 vs $1,467).** Food $132. Comps $31.75 (2.4% - investor, industry, resident). 44 guests / $30.41 GCA. **A steady, slower-paced Wednesday** - Fishmonger and Charmer's reported the same, with fewer World Cup watchers than earlier in the week. A couple of investors joined early in the evening and enjoyed talking cocktails with Kira; industry regulars and a few late-nighters closed things out just after close. Kitchen reported decent sales for a calmer night and high praise from guests. Maintenance: Well 3 chiller. No incident; no-shows not charged. MOD & Chef: KK & KM. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 9270.07,
+      "target": 9699.58,
+      "comps": 220.75,
+      "guests": 180,
+      "check_avg": 51.5,
+      "weather": "High of 96F, not a cloud in sight",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -4.4% vs target on Wednesday ($9,270.07 net vs $9,699.58).** (Segments: DC/AM $994.23 + D&C PM $8,275.84 + Garden/6A $1,825.68; food $1,218.10.) Comps $220.75. 180 guests (Tock) / $51.50 GCA. **A hot one** - high of 96F, with the Garden hurting the first few hours before picking up and staying steady to 10pm. DC/AM had a fun day training Kodi (peach black made and stored, big oat/macadamia delivery). PM ran short-handed: Jordan out sick, Sam and Lucas held the bar with Rico on the back; Madi sent home unwell (possible broken toe/fever). Big thanks to Kim & Dom for cranking out juice. Member cards arriving by mail with shareholders coming in to show them off (cheat sheets at the bar). **Heads-up: Pride party in the Garden this Friday** (hard out at 10p for Quiet Hour). Card-stock ran out, menus on regular paper for now. Maintenance: flies/gnats back from the windows and curtains; front desk alerted maintenance (Thursday fix). No incident; no-shows not charged; breaks complete. MOD: Maggie H (AM Josh). Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4516.0,
+      "target": 4600.0,
+      "comps": 169.4,
+      "guests": 137,
+      "check_avg": 32.96,
+      "weather": "Cooler but still warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV came in -1.8% vs target on Wednesday ($4,516 vs $4,600).** Food $456, bev $4,060. Comps $169.40 (3.8%). 137 guests (Sevenrooms) / $32.96 GCA. **A mellower but steady Wednesday** with cooler, breezy weather - standard 8pm/10pm/midnight flips. One 5-top at open, then walk-ups filtered in; it felt full and buzzing from 8pm until ~9:30pm, emptied to about half, caught a small 10pm encore, then quieted for the night. Welcomed an increased number of World Cup fans (mostly English travelers celebrating England's win), a good handful of D&C members showing physical cards, several birthdays (mostly midnight celebrations), plus a Rosewood Hotels group and a Koba regular. Lovely to serve folks exploring DK/Gin & Luck's hotel world and first-timers who own all the books. Top sellers: Paperwasp, Shinebox, Bell and Vine / Burner Phone / Eight Limb Daiquiri. Menu count 18/18; 2 glass breakages. No incident; no no-shows. MOD & Chef: Cara, Kyler & Alejandro. Entered by Stef."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5463.0,
+      "target": 5196.0,
+      "comps": 176.0,
+      "guests": 131,
+      "check_avg": 41.7,
+      "weather": "Hot, with a nearby warehouse fire in Boyle Heights",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +5.1% on Wednesday ($5,463 vs $5,196, all Marquee).** Food $1,133. Comps $176 (first-page tasting menu for Xavier, DNLs, birthday, service recovery). 131 guests / $41.70 GCA. **A fun-filled training night** - Jaz and Julian did a fantastic job training Xavier on his first full trail. Consistent flow all evening; a small waitlist formed ~10pm when Landis went on break, and the team got everyone in except a 2-top missing an ID. A handful of industry folks and lots of first-timers. The room slowed around midnight; Xavier reviewed the Steps of Service doc and the first section of the drink menu, took quizzes and passed. Kitchen was busy with lots of fried items. Maintenance: women's bathroom smell; bar team request re starpads in Marquee. 86 oysters, contrabandista, rosato. No incident; no-shows charged. MOD & Chef: Gigi & Vic. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3868.0,
+      "target": 2663.0,
+      "comps": 0.0,
+      "guests": 100,
+      "check_avg": 38.68,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC beat target +45.2% on Wednesday ($3,868 vs $2,663, Garden closed).** Food $521. Comps $0 (voids $31). 100 covers (41 reservations / 59 walk-ins) / $38.68 GCA. **A solid night** - a slow start that picked up quickly around 7-8pm, with two reservations merging into party pods (21 & 22) just as the team was seating a full bar and early-arriving reservations; for a moment they were really moving. Cory supported Devan on the floor, James ran food, and Savannah bussed tables while the bar kept connecting and pumping drinks. Things slowed around 10pm to a natural last call ~11:30pm after a mass exodus. Kitchen had a great night and got ahead on Saturday's event (ordered and prep schedule drafted for the post-holiday Friday return). Lots of visitors to DC ahead of Pride and Juneteenth celebrations. Maintenance: water pooling in the kitchen, worsening in the heat. No incident; no-shows charged. MOD: Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 8500.0,
+      "target": 7000.0,
+      "comps": 165.0,
+      "guests": 230,
+      "check_avg": 36.96,
+      "weather": "Overcast, scattered showers through the evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +21.4% on Wednesday ($8,500 vs $7,000).** Segments: Municipal Bar AM $645, PM $7,885, Sun Club $0, Hot Eye $0. Food $2,871. Comps $165. 230 Municipal Bar guests (20 AM / 210 PM) / $36.96 GCA. **The Allman Show at the Lucas ruled the night** - first pre-show guests arrived at 5pm for a 7:30 sold-out show, so MG ran three bartenders with all wells open, four servers, and host support; the space was PACKED from 6pm to 7:15. Big exodus as expected, but a really decent post-show too: the show let out at 9:15 and the bar and floor nearly filled again within 15 minutes, staying busy to last call. Felt good to be busy again, and Braden got a glimpse of action-packed service while training the floor. Slow morning (real brunch action after 2pm); Amanda held it solo with Kaylee on SA. Sun Club closed early to pull the attendant for the floor; Hot Eye dark. Peach Week: still resting the ice box cake, crostini selling well; one upcook on a burger (guest fine), 86 cucumbers from the start of service. **An injury/incident was reported.** Maintenance: rips in booths. MOD: Franck & Lex (AM) / Justin/Braden & Drew (PM). Entered by Justin."
+    }
+  ]
+}
