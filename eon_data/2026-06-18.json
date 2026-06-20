@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-18",
+  "day_of_week": "Thursday",
+  "iso_date": "2026-06-18",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 2116.0,
+      "target": 1942.0,
+      "comps": 26.75,
+      "guests": 42,
+      "check_avg": 50.38,
+      "weather": "85F / 71F, very rainy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL beat target +9.0% on Thursday ($2,116 vs $1,942).** Food $183. Comps $26.75 (industry, F&F, O4W). 42 guests / $50.38 GCA. **A slow, rainy start used productively** - the team deep-detailed the second well and continued cutting down the gnats while the opener batched cocktails. Steady flow with full table service supported by the MOD. The Giving Kitchen raffle winner came in, loved the space and is planning a holiday party. A tech got the Combi oven back up around 6pm, so it's ready for Saturday; even on a quiet day guests leaned toward snacks. Strong pop for the Mexico vs Korea World Cup game - locals are noticing CCATL is showing the FIFA matches, and the projector screen continues to win the room. Investors Yuvee & Leah tried the Hyde Swizzle (a D&C original) - Leah, not a big drinker, declared it her new favorite. Returning weekend guests and a late industry crowd closed the night. 86 Montenegro, 86 cast iron; low nooner. No incident; no-shows not charged. MOD: Mk / JK. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 8159.7,
+      "target": 2000.0,
+      "comps": 152.0,
+      "guests": 296,
+      "check_avg": 27.57,
+      "weather": "Overcast, intermittent showers",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH posted $8,159.70 on Thursday against a $2,000 baseline target (+308%), driven by an It's Just Lunch dating event** (net and comps reflect a manager-comp correction posted after the initial $8,378 submission; comps $152 / 1.86%). Food $172. 296 guests / $27.57 GCA. **An eventful night** - the first 2.5 hours were quiet until event guests arrived; the team's investor friends returned and enjoyed the contrast with a higher-volume night. There was some clunkiness over use of the 'Boiler Room' vs the bar proper (a couple of guests were told ~8/8:30pm to move, which the team corrected so they could stay). A slow stretch 8:45-10pm gave way to a large push of attendees and public that lasted to ~12:30am, with guests reporting high satisfaction. Sara trained barbacking; big thanks to BT for helping close. Maintenance: Well 3 chiller. 86 Guinness keg. No incident; no-shows not charged. MOD & Chef: KK & KE & MD / JMS. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 12991.1,
+      "target": 13679.66,
+      "comps": 498.65,
+      "guests": 219,
+      "check_avg": 59.32,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -5.0% vs target on Thursday ($12,991.10 net vs $13,679.66).** (Segments: DC/AM $1,033.50 + D&C PM $11,957.60 + Garden/6A $3,164.24; food $2,647.70.) Comps $498.65 (3.84%). 219 guests (Tock) / $59.32 GCA. **A slow start that popped and didn't let up** - even a 14-top walked in right at last call. 'Thirsty Thursday' ran a full array of coffee cocktails and food (fresh double batch of miel syrup, cold brew ready first thing). The Garden popped around 5pm with a 20-top and stayed smooth, weathering a surprise ~25-top walk-in while still solo. Solid floor/bar teamwork (Reagan, Sud & Josh on the floor; Graham, Frank & Cosette on the stick). Kitchen had a slower but good night. Breaks complete; no no-shows; no incident. MOD: Carey (AM Josh) / Carey & Lucas (PM). Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7762.0,
+      "target": 6164.0,
+      "comps": 128.92,
+      "guests": 216,
+      "check_avg": 35.94,
+      "weather": "Warmer summer evening with a nice breeze",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV beat target +25.9% on Thursday ($7,762 vs $6,164).** Food $759, bev $7,003. Comps $128.92 (1.7%). 216 guests (Sevenrooms) / $35.94 GCA. **A 'Friday of a Thursday'** - quick flips and quick rounds caught in a trifecta of the Knicks championship parade (travelers flooding the city), the Juneteenth long weekend, and Mexico's World Cup win. A more normal open built steadily; 8pm felt chill, but at 9:30pm it turned into a Friday with a nonstop line until 12:30am and the last 5-top sat at 1:20am. Lots of first-timers bringing friends, plus regulars and industry (Rictter Thomas; Chris Timmons of Rockey's Liqueur) and members including Ethan Steck and a birthday for Eric Poon. Top sellers: Paper Wasp, Cloudwalk, Native Lion. Menu 18/18; some glassware breakage. No no-shows. MOD & Chef: Kyler & Alejandro. Entered by Stef."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 7568.0,
+      "target": 6370.0,
+      "comps": 124.0,
+      "guests": 184,
+      "check_avg": 41.13,
+      "weather": "Mid-70s, with a Mexico World Cup win",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +18.8% on Thursday ($7,568 vs $6,370, all Marquee).** Food $1,708. Comps $124 (birthdays, DNLs, Julian's fried chicken). 184 guests / $41.13 GCA. **The busiest Thursday in a very long time** - the room filled around 8:30pm and stayed full to close, with a small mid-evening lull before a huge 11:45pm rush refilled the entire bar and room. The World Cup brought in FIFA fans and celebratory crowds in the streets; lots of date-night couples and late walk-ins, with overflow from a slammed Wurstkuche and a reopened Chachacha upstairs. Saleh and Xavier trained in the kitchen and on the floor - extra hands were a big help. Note: the team is being more mindful of intoxicated guests lately. 86 contrabandista, 86 crudo. No incident; no-shows charged. MOD & Chef: Gigi & Josh/Saleh. Entered by Gigi."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 5744.99,
+      "target": 4643.0,
+      "comps": 81.74,
+      "guests": 148,
+      "check_avg": 38.82,
+      "weather": "Breezy and cool, decent foot traffic",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DCDC beat target +23.7% on Thursday ($5,744.99 vs $4,643, Garden closed).** Food $605.60. Comps $81.74 (member $40.44, industry $17.30, DNL $19, gift $5). 148 guests (71 reservations / 77 walk-ins) / $38.82 GCA. **A great start with a line at the door at 5pm** - floor and bar stayed busy throughout, with a few larger groups before last call. The team accommodated a community member whose late-running party needed flexibility, and Kevin's brother John had a blast in the party pod and personally thanked James for the food. A regular's group included a do-not-serve flag; the MOD made it a one-and-done and they left on good terms with a generous tip. Strong communication across all areas. Maintenance: pooling in the kitchen from the ice machines; bowed wood panel above the service well. No incident; no-shows not charged. MOD: Cory / Marvus. Entered by Marcus."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 7478.0,
+      "target": 8200.0,
+      "comps": 93.0,
+      "guests": 176,
+      "check_avg": 42.49,
+      "weather": "Sunny, hot and sticky; heavy rain at 4pm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -8.8% vs target on Thursday ($7,478 vs $8,200).** Segments: Municipal Bar AM $1,491, PM $4,582, Sun Club $166, Hot Eye $1,110. Food $2,591. Comps $93. 176 Municipal Bar guests (56 AM / 120 PM) / $42.49 GCA. **A decent Thursday from a quiet base** - a slow morning (9 guests before 10am, no SA/host, servers handled it) picked up at 2pm. Evening opened with only 13 covers but ran steady through happy hour and dinner on a three-server floor; high hotel occupancy is bringing back returning guests, though little new business after 9pm (James kept a few bar guests to midnight). An old-movie screening next door didn't put the team in the weeds. Sun Club closed early on torrential 4pm rain; Hot Eye started dead (0 in the first hour from rain) before Ryan's Nashville friends took over half the bar ~8:30 and a few big groups rounded it out. Kitchen: peach crostini selling great, ice box cake nearly ready, no sendbacks. James led a well-attended 'Thoughtful Thursday' on cocktail history. No incident. MOD: Sam / Lex & Shannon (AM) / Justin & Shannon (PM). Entered by Sam B."
+    }
+  ]
+}
