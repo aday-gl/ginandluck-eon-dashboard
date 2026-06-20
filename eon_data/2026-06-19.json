@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-19",
+  "day_of_week": "Friday",
+  "iso_date": "2026-06-19",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Friday 6/19 EON report posted to the venue channel at run time (nightly dashboard runs ~10:30am ET). #ccatl_eon_report's latest entry was still the prior business day when this run executed; data will backfill on the next run or can be cross-checked against the R365 Flash Report."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Friday 6/19 EON report posted to the venue channel at run time (nightly dashboard runs ~10:30am ET). #ccnsh_eon_report's latest entry was still the prior business day when this run executed; data will backfill on the next run or can be cross-checked against the R365 Flash Report."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 19352.87,
+      "target": 21646.19,
+      "comps": 476.76,
+      "guests": 353,
+      "check_avg": 54.82,
+      "weather": "(not reported)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -10.6% vs target on Friday ($19,352.87 net vs $21,646.19).** (Segments: DC/AM $1,001.08 + D&C PM $18,351.79 + Garden/6A $6,068.46; food $2,837.10.) Comps $476.76 (2.46%). 353 guests (Tock) / $54.82 GCA. **Everyone was on deck for a big Friday** - the Pride Party in the Garden was once again a hit, and floor service captured all reservations and walk-ins even without use of the rail. AM was smooth with one IRD and a small cocktail pop (cold brew finished; kombucha in - blackberry sage and strawberry basil). A proud night: support staff watched Maggie & Willie work positions they hadn't in a while and crush it. Breaks complete; no no-shows; no incident. MOD: Maggie (AM Josh) / Carey & Lucas (PM). Entered by Carey."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Friday 6/19 EON report posted to the venue channel at run time (nightly dashboard runs ~10:30am ET). #ev_eon_report's latest entry was still the prior business day when this run executed; data will backfill on the next run or can be cross-checked against the R365 Flash Report."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Friday 6/19 EON report posted to the venue channel at run time (nightly dashboard runs ~10:30am ET). #la_eon_report's latest entry was still the prior business day when this run executed; data will backfill on the next run or can be cross-checked against the R365 Flash Report."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Friday 6/19 EON report posted to the venue channel at run time (nightly dashboard runs ~10:30am ET). #dc_eon_report's latest entry was still the prior business day when this run executed; data will backfill on the next run or can be cross-checked against the R365 Flash Report."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 11895.0,
+      "target": 12000.0,
+      "comps": 158.0,
+      "guests": 297,
+      "check_avg": 40.05,
+      "weather": "Very rainy day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG came in -0.9% vs target on Friday ($11,895 vs $12,000) - essentially on target.** Segments: Municipal Bar AM $1,578, PM $7,864, Sun Club $0, Hot Eye $2,330. Food $3,973. Comps $158. 297 Municipal Bar guests (64 AM / 233 PM) / $40.05 GCA. **Rain shaped the day** - an almost dead morning until a noon rainstorm drove people in to hide from the weather (1-2pm was the biggest hour at $600), kept slim on staffing. A quiet happy hour gave way to a surprising volume of walk-ins (possibly a Juneteenth bump as other businesses closed on a Friday); the floor was nearly fully seated 7-9pm and the bar stayed full past closing with a few bigger groups. Sun Club closed all day on scattered storms. Hot Eye had a nice pre-dinner start, a brief lull, then got busy when Brother Vinyl's DJ set started early - great pacing and vibes all night. Kitchen: low on peppers, 86 romanesco, crudo 86'd for an hour before a late delivery; light crostini sales on a busy floor. A birthday group treated to a free Mind Eraser downstairs loved everything. No incident. MOD: Sam / Lex & Shannon (AM) / Justin & Marcus/Drew (PM). Entered by Sam B."
+    }
+  ]
+}
