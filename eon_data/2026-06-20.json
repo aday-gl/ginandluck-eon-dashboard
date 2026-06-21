@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-20",
+  "day_of_week": "Saturday",
+  "iso_date": "2026-06-20",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 6118.0,
+      "target": 8112.0,
+      "comps": 64.3,
+      "guests": 202,
+      "check_avg": 30.29,
+      "weather": "85/70, warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL came in -24.6% vs target on Saturday ($6,118 net vs $8,112).** Food $425. Comps $64.30. 202 guests / $30.29 GCA. **A smooth Saturday after the off day** - the opener got service going cleanly and Keyshawn started his first AM prep shift. Quiet in-house until a nice pop around 6pm, then mostly slow until an 11pm push that the team rode out to EON. Ran on a single A/C system (one thermostat panel out of service) without issue; a door handle fell off at close (flagged for maintenance). Low: nooner; 86: Montenegro, cast iron, trash bags. No incident. MOD: JK. Entered by Mya."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 10204.0,
+      "target": 10546.0,
+      "comps": 70.35,
+      "guests": 357,
+      "check_avg": 28.58,
+      "weather": "Sunny and clear, humid",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH came in -3.2% vs target on Saturday ($10,204 net vs $10,546) - essentially on target.** Food $645 (great food night). Comps $70.35 (0.69%). 357 guests / $28.58 GCA. **Slow start that built into a strong late night** - picked up around 9pm and grew steadily until ~midnight. A 20-top had a great time; Clay trained on opening with Kala. The slower early pace gave servers room to encourage food, which paid off. Night closed out with regulars in from neighboring bars; investor Ryan Reed (listed under D&C East Village) came in excited about the menu. Maintenance: Well 4 froster, kitchen door. No incident. MOD/Chef: KE, KM. Entered by JO."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 14817.02,
+      "target": 21176.51,
+      "comps": 425.34,
+      "guests": 422,
+      "check_avg": 35.11,
+      "weather": "(not reported)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR base sales -30.0% vs target on Saturday ($14,817.02 net vs $21,176.51), but two private events drove total net to $31,581 (+49% vs target).** (Segments: DC/AM $1,129.50 + D&C PM $13,687.52; food $3,096.10.) Net event sales $16,764 / event food $10,838. Comps $425.34. 422 guests (Tock) / $35.11 GCA. **Calm, well-run night despite being short a few FOH.** Maggie S held expo all night with Sam and Kim; bar leaders Graham, Lucas and Frank ran Marquee. Maggie H back and welcomed warmly. Two Garden/6A events: an engagement celebration for Adrienne & Jacob (73 guests, 12-3pm) and Jennifer's 50th birthday (20 guests, 6-9pm) - both groups happy and celebrating to last call. Kitchen smooth; nothing 86'd. Breaks complete; no no-shows; no incident. MOD: Maggie S (AM) / Maggie H (PM). Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Saturday 6/20 EON report posted to #ev_eon_reports at run time. EV's most recent submission was Thursday 6/18; no report was filed for Friday 6/19 (Juneteenth) or Saturday 6/20. Data can be backfilled on a future run if submitted, or cross-checked against the R365 Flash Report."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 11592.0,
+      "target": 13079.0,
+      "comps": 361.0,
+      "guests": 279,
+      "check_avg": 41.55,
+      "weather": "(not reported)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA came in -11.4% vs target on Saturday ($11,592 net vs $13,079).** Segments: Marquee $9,407 + Standing Room $2,185; food $2,706. Comps $361. 279 guests / $41.55 GCA. **A steady Saturday with a slow finish** - opened with 145 covers (all before 10:30pm) and a strong 6pm reservation push. Both rooms packed by 8pm and held for hours; a waitlist formed around 10pm but the team burned and turned to clear it by 11:30pm, moving Standing Room guests into Marquee. Final hour was sleepy. Selenia and Josh trained Saleh and Oscar in the kitchen (full crew, lots of teaching). Joe back in service. No incident; no-shows charged. MOD/Chef: Joe + Selenia + Josh. Entered by Joe."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 7123.0,
+      "target": 8999.0,
+      "comps": 183.0,
+      "guests": 203,
+      "check_avg": 35.09,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC base sales -20.8% vs target on Saturday ($7,123 net vs $8,999); a private Garden event added $6,092 net, bringing total net to $13,215 (+46.9% vs target).** Marquee bar $8,033 gross; food $922. Comps $183 (DNL, investor, community members); event void $2,989. 203 guests (41 event / 82 walk-in / 80 reso) / $35.16 GCA. **A busy, fun night anchored by a Garden buyout** - guests arrived ~6:30-7pm and drank well; food and cake service went off without a hitch and Jada ran the event bar solo (supported by Tyler). Between the Pride parade and the Garden event, Marquee ran slower than normal with a shallow waitlist, then a decent push around 11pm before clearing by 1:30am. Great kitchen night - James handled event + normal service solo. Maintenance: smell, ice machines (ticketed), standing water in kitchen. No incident; no-shows charged. MOD: Josh / Cory. Entered by Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 16298.0,
+      "target": 14500.0,
+      "comps": 908.0,
+      "guests": 280,
+      "check_avg": 58.21,
+      "weather": "Sunny, afternoon shower, intense thunder/lightning early evening",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**MG beat target +12.4% on Saturday ($16,298 net vs $14,500).** Segments: Municipal Bar AM $2,772, PM $10,541, Sun Club $929, Hot Eye $2,056. Food $6,693. Comps $908 (large media/PR comp). 280 Municipal Bar guests (73 AM / 207 PM) / $58.21 GCA. **A fun, busy night they saw coming** - 74 covers on the books grew past 200, with a crazy thunderstorm drawing people in around 8pm. A heavy 7:30pm reservation push pressured the kitchen for ~2 hours, prompting a brief hold/wait before returning to normal by 9:15pm. Five servers and one SA handled the floor (bar team wanted a barback). Sun Club had its best shift since Samantha started, closing ~7pm for a loud thunderstorm. Hot Eye mellow early then full from 10pm to 12:15am - good mix of tourists, locals and industry. Kitchen: no sendbacks/DNLs, a few long-wait comps from the 7:30 push, 86 peppers. Maintenance: Hot Eye men's room ceiling leak again. No incident. MOD: Sam (AM) / Justin & Marcus/Drew (PM). Entered by Sam B."
+    }
+  ]
+}
