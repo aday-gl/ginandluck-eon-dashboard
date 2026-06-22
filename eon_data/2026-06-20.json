@@ -45,15 +45,15 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": 0,
-      "target": 0,
-      "comps": 0,
-      "guests": 0,
-      "check_avg": 0,
-      "weather": "",
-      "missing": true,
+      "net_sales": 6859.0,
+      "target": null,
+      "comps": 370.0,
+      "guests": 223,
+      "check_avg": 30.76,
+      "weather": "Hot when sunny, beautiful mild evening",
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No Saturday 6/20 EON report posted to #ev_eon_reports at run time. EV's most recent submission was Thursday 6/18; no report was filed for Friday 6/19 (Juneteenth) or Saturday 6/20. Data can be backfilled on a future run if submitted, or cross-checked against the R365 Flash Report."
+      "narrative": "**EV reported Saturday 6/20 net sales of $6,859** (food $492, beverage $6,368); the EOD form's Daily Revenue Target was left blank, so no vs-target comparison is available. Comps $370. 223 guests (SevenRooms) / ~$30.76 GCA. **A mellow first Saturday for the MOD** - likely a hangover from Knicks-parade celebrations and weekend travelers leaving the city. The OpenTable iPad wasn't charging properly and was down most of the night, but the slower pace made it manageable with frequent outside visits and no significant waits. 86 arancini all night; Steve left ~11:30pm unwell with no impact on late-night service (popcorn/chips only). Door handled smoothly by Ellis and Stef. No-shows charged. Maintenance: the metal flap between the bar threshold and dining-room floor needs attention. (Backfilled from #ev_eon_reports; the form's 'including events' total of $5,105 was a clear entry error and the $6,859 base net is used.) MOD/Chef: Kyler/Steve. Entered by Nick."
     },
     {
       "id": "la",
