@@ -1,0 +1,98 @@
+{
+  "date": "2026-06-22",
+  "day_of_week": "Monday",
+  "iso_date": "2026-06-22",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 707.0,
+      "target": 1277.0,
+      "comps": 23.99,
+      "guests": 21,
+      "check_avg": 33.68,
+      "weather": "Sunny but breezy, High 89 / Low 75",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCATL came in -44.6% vs target on Monday ($707 net vs $1,277).** Food $55. Comps $23.99 (3.4%, industry love + a marketing comp). 21 guests / $33.68 GCA. **A very quiet Monday to open the week** - a good day to get thorough with FOH/BOH cleaning, with fruit-fly counts dropping significantly thanks to staff diligence. A second AV company gave a quote on the projector install (guests are already engaging with the new screen), and there was growing curiosity around the vending machine (disposable cameras, merch, snacks). Kendal is in town today/tomorrow shooting social content. HVAC scheduled tomorrow for the non-responsive second thermostat; the space stayed well air-conditioned. Low/86: cast iron (Nixta still quoted 6/30 arrival). No incident; no-shows not charged. MOD: MKZ. Entered by MKZ."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1699.0,
+      "target": 1490.0,
+      "comps": 5.9,
+      "guests": 47,
+      "check_avg": 36.0,
+      "weather": "Warm, rainy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**CCNSH beat target +14.0% on Monday ($1,699 net vs $1,490).** Food $196. Comps $5.90 (0.3%). 47 guests / $36 GCA. **A slower but still steady night with perfect flow for training** - Maury did really well, handling rounds of cocktails throughout the night and shadowing closing duties; a handful of regulars and several parties of 4-5. Kitchen smooth with good sales. Maintenance: chiller. No incident; no-shows not charged. MOD/Chef: KE/JM. Entered by BT."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 7499.42,
+      "target": 9570.62,
+      "comps": 341.51,
+      "guests": 204,
+      "check_avg": 36.76,
+      "weather": "No real weather effect",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DVR came in -21.6% vs target on Monday ($7,499.42 net vs $9,570.62).** Segments: DC/AM $1,036.53 + D&C PM $6,462.89; Garden/6A closed. Food $1,836.20. Comps $341.51. 204 guests (Tock) / $36.76 GCA. **A steady Monday with no early cuts and a flood of memorable guest moments.** AM blazed by with decent numbers (finished cold brew, made black iced tea, deep-cleaned drains); PM stayed steady to the end despite a brief fryer scare ~9:30p (relit and back in service for chicken tickets). Kitchen ran a slow 'Oyster Monday.' Standout stories: a widow flew in from New York to accept an organ-donation award for her late husband and photographed our 'Wish You Were Here' neon alongside a leftover Pride butterfly that moved her to tears (her meal was comped); plus a newly engaged couple road-tripping their dating-history landmarks after a Rockies-game proposal. Heads up: Women in Venture Capital networking event tomorrow (25 guests, 11a-5p, Vauxhall). Breaks complete; no incident; no-shows not charged. MOD: Carey (AM) / Maggie H (PM). Entered by Maggie H."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Monday 6/22 EON report posted to #ev_eon_reports at run time. DCEV's most recent submission was Sunday 6/21 (posted 6/22 01:11 ET); the 6/22 report had not yet been filed when this run executed (EV typically posts overnight). Backfill on a future run once submitted."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4328.0,
+      "target": 2986.0,
+      "comps": 128.0,
+      "guests": 109,
+      "check_avg": 86.56,
+      "weather": "No effect on guests",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA beat target +44.9% on Monday ($4,328 net vs $2,986).** All Marquee ($4,328); Standing Room $0; food $1,017 (a strong food push, with lamb burgers actively promoted). Comps $128 (walk-out tab + anniversary bubbles). 109 guests / $86.56 check avg. **A mostly mellow night with good vibes** until an ~11pm verbal altercation escalated to the point of escorting a party out, with the company eating the tab (a formal incident report will follow). Otherwise guests had a great time; an easy-money close wrapped up around 1:15am. ~30-40 unshucked oysters left over. Maintenance: kitchen low-boy gasket fully off; Kitchen 3 middle comp sink very leaky. 86: contrabandista, amburana, tximista. Incident: yes; no-shows charged. MOD/Chef: Mikey/Vic/Josh. Entered by Mikey."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3611.18,
+      "target": 4220.34,
+      "comps": 0,
+      "guests": 71,
+      "check_avg": 51.59,
+      "weather": "Hot, thunderstorms",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC came in -14.4% vs target on Monday ($3,611.18 net vs $4,220.34).** Marquee bar $3,972.30 gross; Garden closed; food $68.20. Voids $37 (1%); comps n/a. 71 guests / $51.59 GCA. **A super-slow, storm-dampened start (only four covers on the books) that turned into a successful Bar Acacia pop-up takeover.** A heavy industry crowd rolled in around 8pm, plus spillover from the conference next door; the takeover ran incredibly smoothly with glowing guest feedback, sold through all offerings by 11pm, then transitioned back to classics, with the building cleared by midnight - a strong learning rep for future takeovers. Wins: comms, run of show, staffing; to improve: cleaning as you go, water service. Maintenance: hot-water heater still acting up; ice-machine condensation + a PVC connection to seal; point-well leak repair scheduled Wed (operating from the mid well until Friday to allow drying). No incident; no-shows charged. MOD: Josh. Entered by Josh."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "net_sales": 0,
+      "target": 0,
+      "comps": 0,
+      "guests": 0,
+      "check_avg": 0,
+      "weather": "",
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No Monday 6/22 Municipal Bar End of Night Report posted to #mg_fb_eon_report at run time. MG's most recent typeform response was Sunday 6/21 (posted 6/22 01:42 ET); the 6/22 report had not yet been submitted when this run executed. Backfill on a future run once available."
+    }
+  ]
+}
