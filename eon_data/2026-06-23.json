@@ -1,0 +1,98 @@
+{
+    "date": "2026-06-23",
+    "day_of_week": "Tuesday",
+    "iso_date": "2026-06-23",
+    "venues": [
+        {
+            "id": "ccatl",
+            "name": "CC Atlanta",
+            "net_sales": 1341.0,
+            "target": 2433.0,
+            "comps": 154.1,
+            "guests": 41,
+            "check_avg": 32.72,
+            "weather": "81/69",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**CCATL came in -44.9% vs target on Tuesday ($1,341 net vs $2,433).** Food $145. Comps $154.10 (11.5% - elevated, in-house/industry). 41 guests / $32.72 GCA. **Happy Bingo Tuesday** - super chill start, with the bartop and booths filling around 8:30p; guests were still excited about bingo. A few familiar faces and former regulars (now moved away) came back to visit; staff highlighted table tents and sold a couple High Fives (little action on the bingo cocktail). The team got to meet Kendall, who runs Close Company & Death & Co's social media - a highlight of the day. Maintenance: the filter was turned off to defrost overnight after it began making a screeching sound; door handle fell off at EON (flagged). 86: cast iron. No incident; no-shows not charged. MOD: Jk/MKZ. Entered by Mya."
+        },
+        {
+            "id": "ccnsh",
+            "name": "CC Nashville",
+            "net_sales": 1033.0,
+            "target": 1509.0,
+            "comps": 26.3,
+            "guests": 25,
+            "check_avg": 41.32,
+            "weather": "Sunny, breezy, and clear",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**CCNSH came in -31.5% vs target on Tuesday ($1,033 net vs $1,509).** Food $135. Comps $26.30 (2.5%, manager/training comp). 25 guests / $41.32 GCA. **A down-tempo Tuesday** - an uncharacteristically slow start (gorgeous weather kept people out); first guest arrived ~7:15p and took their drink outside. The room filled around 7:30p and bingo kicked off; the quiet early hours allowed extra cleaning projects. Steady until ~9:30p but no usual second wind. A couple visiting town - huge D&C fans - stayed past close and raved that the experience 'incredibly' surpassed their already-high expectations. Kitchen got consistent positive food feedback. Maintenance: Well 3 chiller, keg cooler light. 86: Guinness keg. No incident; no-shows not charged. MOD/Chef: MD/JMS. Entered by BC."
+        },
+        {
+            "id": "dvr",
+            "name": "D&C Denver",
+            "net_sales": 8813.07,
+            "target": 10262.25,
+            "comps": 195.64,
+            "guests": 202,
+            "check_avg": 43.63,
+            "weather": "N/A",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DVR came in -14.1% vs base target on Tuesday ($8,813.07 net vs $10,262.25); with the private event, total net was $11,223.07 (+9.4% vs target).** Segments: DC/AM $927.99 + D&C PM $7,885.08; Garden/6A closed. Food $2,374.31 (base). Comps $195.64 (2.22%). 202 guests (Tock). **A straightforward Tuesday daytime (a big @reggie_lane morning pop that mellowed by noon) turned wild around 9pm** - two walk-in large parties plus a foul-mouthed 4-top led to one cut-off and kick-out before things returned to normal; staff and nearby guests were visibly relieved. **Event:** a Women in Venture Capital networking event hosted 25 guests 11a-5p (lunch buffet + panel + low-key happy hour; host thanked the team) - **net event sales $2,410, event food $1,945.** Kitchen was busy juggling service and dishes. Maintenance: the light bar under bar seats 11/12 fell and is held up by the coat hook (logged in Intelity). Breaks complete; no incident; no-shows not charged. MOD: Evan & Josh (AM) / Carey (PM). Entered by Carey."
+        },
+        {
+            "id": "ev",
+            "name": "D&C East Village",
+            "net_sales": 3586.0,
+            "target": 4022.0,
+            "comps": 143.0,
+            "guests": 110,
+            "check_avg": 33.0,
+            "weather": "Temperamental / 'weird' - drizzle at open clearing to a cooler summer day",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DCEV came in -10.8% vs target on Tuesday ($3,586 net vs $4,022).** Food $399 / Beverage $3,168. Comps $143 (significant DNLs). 110 guests / $33 GCA. **A very slow start (temperamental weather kept people hesitant) before a big all-at-once hit around 9:30-10pm that rocked until ~11:30**, then mellowed; a 2-top that became a 9-then-8-top was accommodated. Native Lion topped the sales list again (Rosalie second, fries third). Many guests were excited fans, several in town for work conferences; one had the bar atop his bucket list. Sonny (Bar Bianchi), Seth (Batemans), and member/friend Tom Burke (celebrating his wife's birthday) stopped in; a trend of 21st-birthday celebrations continued (2 tonight). 86: arancini & oysters. 2 no-shows (charged). 1 candle breakage. Maintenance: service well walkway. MOD: Cara + Steves. Entered by Marielle."
+        },
+        {
+            "id": "la",
+            "name": "D&C Los Angeles",
+            "net_sales": 4941.0,
+            "target": 3871.0,
+            "comps": 90.4,
+            "guests": 103,
+            "check_avg": 107.0,
+            "weather": "No effect on guests",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DCLA beat target +27.6% on Tuesday ($4,941 net vs $3,871).** Food $1,083 (all Marquee; standing room $0). Comps $90.40 (birthdays, anniversaries, investor, DNL). 103 guests. **A steady, well-paced Tuesday with good vibes** - the first couple hours were sleepy but the room filled as the night went on, with the bulk of reservations between 8-9:30pm. A small waitlist started around 10pm but everyone was accommodated; the streets quieted after, with a few walk-ins in the last hour. Pre-closing was done early for a smooth finish, letting the team focus on guest service. Favorite moment: meeting the Malort brand ambassador. No incident; no-shows charged. (Report date field read '2026-05-23' - a typo for 6/23, confirmed by day-of-week Tuesday and overnight posting.) MOD/Chef: Joe + Vic. Entered by Joe."
+        },
+        {
+            "id": "dc",
+            "name": "D&C Washington DC",
+            "net_sales": 4512.18,
+            "target": 3502.66,
+            "comps": 46.86,
+            "guests": 100,
+            "check_avg": 38.9,
+            "weather": "Beautiful cooler day for June; lots of foot traffic",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DC beat target +28.8% on Tuesday ($4,512.18 net vs $3,502.66).** Marquee bar $4,512.18; Garden $0. Food $633. Comps $46.86 (investor $5.86 + did-not-like $41). 100 guests (23 reservations / 77 walk-ins). **A nice and busy Tuesday with lots of foot traffic** - Devan paced walk-ins well, the room filled around 7:15p and stayed fairly full most of the night. Grant did an awesome job as solo server (strong ticket pacing); the bar was nicely busy with Jada, Elliot, and Alex handling larger parties. Regular Lenny (an Annapolis bartender) brought a 7-top birthday to the party pod. Room cleared at 11p, last call ~11:30p. Kitchen: James had a great night and helped run food; 86 oysters (went bad, reordered). Maintenance: pooling in kitchen, bowing board above service well, loose flooring at service entrance. No incident; no-shows not charged. MOD: Marcus. Entered by Marcus."
+        },
+        {
+            "id": "mg",
+            "name": "Municipal Grand",
+            "net_sales": 4020.0,
+            "target": 5600.0,
+            "comps": 75.0,
+            "guests": 124,
+            "check_avg": 32.42,
+            "weather": "Sunny, hot, high UV; 90s all day",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**Municipal Bar came in -28.2% vs target on Tuesday ($4,020 net vs $5,600).** Segments: AM bar $1,167 + PM bar $3,617 + Sun Club $594 + Hot Eye $0. Food $1,192. Comps $75. Event $0. 124 guests (24 AM / 100 PM). **A slow-to-start morning lifted by a lunch pop, and an evening that started slow (only 8 on the books) but turned lucrative** - small dinner pops 7-9p and a ~9:30p push, mostly at the bar, with guests staying until midnight; cutting the SA and bartender early (keeping the barback) was the right call. Sun Club was a grueling hot, high-UV shift handled with a positive attitude; one umbrella fell on a guest (calm/understanding, but an ongoing issue to address). Kitchen ran nice ticket times with good-looking plates. Maintenance: glass-rinser pressure, blood stain on bar stool B8, Sun Club umbrellas. Bug killer poured in all drains - AM openers to pour hot water down them first. No injury/incident. MOD: Sam (AM) / Braden (PM); Chef Marcus. Entered by Braden."
+        }
+    ]
+}
