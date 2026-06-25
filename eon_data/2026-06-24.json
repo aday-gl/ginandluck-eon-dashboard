@@ -1,0 +1,98 @@
+{
+    "date": "2026-06-24",
+    "day_of_week": "Wednesday",
+    "iso_date": "2026-06-24",
+    "venues": [
+        {
+            "id": "ccatl",
+            "name": "CC Atlanta",
+            "net_sales": 957.0,
+            "target": 1175.0,
+            "comps": 47.25,
+            "guests": 28,
+            "check_avg": 34.18,
+            "weather": "Mostly sunny, highs mid-80s / lows 60s",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**CCATL came in -18.6% vs target on Wednesday ($957 net vs $1,175).** Food $149. Comps $47.25 (4.9% - Community Member/Investor $1.20, F&F $1.95, Industry Love $26.70, O4W $17.40). 28 guests / $34.18 GCA. **A quiet midweek night with World Cup pulling focus** - very quiet around 6p; the opener made a couple batches before leaving ~7/7:30p, then guest flow returned ~8p with a lined bar before slowing by 9p and going quiet by 10p. Fanfest at Centennial Olympic Park is driving heavy WC attention (the park stopped admitting people before the 9p Mexico match), siphoning foot traffic. A late-night pop of mostly industry folks (the Forth, Buena Vida, Patron reps) closed out the night. Investor Liz came in to watch Switzerland beat Canada. Building security cleared CC to put the cornhole boards outside again. Maintenance: door handle is in the liquor room (needs to be shown how to pop back on); low on menus. 86: wings (prepped tonight, ready tomorrow). No incident; no-shows not charged. MOD: JK. Entered by JK."
+        },
+        {
+            "id": "ccnsh",
+            "name": "CC Nashville",
+            "net_sales": 504.0,
+            "target": 1232.0,
+            "comps": 66.0,
+            "guests": 11,
+            "check_avg": 45.79,
+            "weather": "Warm, partly sunny/clear",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**CCNSH came in -59.1% vs target on Wednesday ($504 net vs $1,232) - driven by a neighborhood power outage.** Food $38. Comps $66 (13%, marketing comp). 11 guests / $45.79 GCA. **A unique, early night cut short by a power outage** - a slight uptick in early traffic vs the prior night but still slow-paced; at ~7:45p power went out for Neuhoff and surrounding blocks (NES projected restoration ~10:45p), so CCNSH joined neighbors in closing ~8:30p while guests finished their drinks. Everyone took it in stride and said they'd return. Kendall King was in house capturing marketing content (big thanks to Kendall). Favorite moment: two D&C superfans (frequent DCLA visitors) came in just after the outage, ordered bartender's-choice cocktails, had a wonderful time chatting with Kira, and said they'd visit DCDVR soon. Kitchen: John Michael held it down. Maintenance: Well 3 chiller, keg cooler light. 86: Guinness keg. No incident; no-shows not charged. MOD: KK & MD / Chef JMS. Entered by BC."
+        },
+        {
+            "id": "dvr",
+            "name": "D&C Denver",
+            "net_sales": 10742.62,
+            "target": 14328.07,
+            "comps": 435.27,
+            "guests": 216,
+            "check_avg": 49.73,
+            "weather": "Severe lightning (Garden closed by 9pm); otherwise warm",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DVR came in -25.0% vs base target on Wednesday ($10,742.62 net vs $14,328.07); with the private event, total net was $12,234.62 (-14.6% vs target).** Segments: DC/AM $737.56 + D&C PM $9,995.86 + Garden/6A $2,044.48. Food $2,020.80 (base). Comps $435.27 (4.05%). 216 guests (Tock). **A chill early night that erupted into a busy-busy 9:30p late-night pop** - bachelor parties packed Marquee despite severe lightning that forced the Garden to close by 9p (Frank closed it down in the rain). The night's main drag was no one on dishes, which held up the entire close (still not started at 1a). Hosting was thin: Maggie S held it down until ~6p, then Maggie H took over but wasn't feeling well. AM was 'totally awesome' with Reggie (cold brew strained/stored, syrups and tea made, barista lowboy cleaned). **Event:** Integrity Solutions Ltd. board-of-directors meeting, 10 guests 8a-5p in Suite 6A (Chef Josh spread, wrapped ~3:30p) - **net event sales $1,492, event food $1,302.** Two more Integrity events tomorrow (7 in 6A, 50 in Vauxhall). Kitchen 911: Chantilly, chicken thighs, red pepper gel. 86: nothing. Maintenance: Lobby furniture looking rough (rugs + chairs), still battling gnats. Breaks complete; no incident; no-shows not charged. MOD: Maggie S/Josh (AM) / Maggie H/Lucas (PM). Entered by Maggie H."
+        },
+        {
+            "id": "ev",
+            "name": "D&C East Village",
+            "net_sales": 3623.0,
+            "target": 3980.0,
+            "comps": 111.99,
+            "guests": 103,
+            "check_avg": 35.0,
+            "weather": "Gorgeous summer weather (clear, pleasant); a relief after prior rainy/stormy days",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DCEV came in -9.0% vs target on Wednesday ($3,623 net vs $3,980).** Food $635 / Beverage $2,988. Comps $111.99 (3.1%). 103 guests / $35 GCA. **A slower start that turned into a fun, eclectic night** - absolutely gorgeous summer weather (and big World Cup games) likely kept some groups outside, making for a fairly mellow Wednesday. Mostly twos at open, medium parties by 8p, then a 9p wave filled the room nicely; it stayed pretty much full (no waitlist) until ~10:30p before slowing early. Many guests came post-World Cup - an international mix of one-and-dones plus first-timers seeking recommendations, and the slower pace let the team find what each person loved. A few birthdays; Natasha and Carlo from Batemans stopped by; member Mathew Pokoik used the online waitlist feature successfully. 2 no-shows (not charged). Glassware breakage: egg coupe, coupe, collins, DOF. Maintenance: bad dishwasher smell in kitchen, service-station floorboards still lifting. MOD: Kyler & Steves. Entered by Stef."
+        },
+        {
+            "id": "la",
+            "name": "D&C Los Angeles",
+            "net_sales": 5703.0,
+            "target": 5433.0,
+            "comps": 213.8,
+            "guests": 162,
+            "check_avg": 95.0,
+            "weather": "Hot; air quality still rough following Boyle Heights fire",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DCLA beat target +5.0% on Wednesday ($5,703 base net vs $5,433); with the private event, total net was $8,133 (+49.7% vs target).** Marquee $5,703 (food $867); Standing Room $0. Comps $213.80 (walkout, birthdays, misring, Natalie+friends). 162 guests / $95 GCA. **A really slow first hour that built into a turn-and-burn night from 9pm on** - lots of jerseys and intoxicated guests (one group had to be asked to leave, a trend lately with FIFA and Dodger games); service ran smooth start to finish with a 5-6 party waitlist held for a couple hours, everyone seated quickly (last large group at 12:28a). Training-heavy floor: Xavier trained (thanks Angel & Julian) and Bryson crushed his first live shift. **Event:** an easy, kind ~25-guest event in Standing Room (no add-on orders; most left ~7:30p, a few until 8:30p) - **event sales $2,430.** Kitchen smooth; lots of last-minute orders and oysters to close. 86: Contrabandista. Maintenance: men's restroom handle (Jorge fixing tomorrow). No incident; no-shows charged. MOD: Gigi / Chef Vic/Oscar. Entered by Gigi."
+        },
+        {
+            "id": "dc",
+            "name": "D&C Washington DC",
+            "net_sales": 3015.0,
+            "target": 6040.0,
+            "comps": 0.0,
+            "guests": 101,
+            "check_avg": 31.73,
+            "weather": "Warm",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**DC came in -50.1% vs target on Wednesday ($3,015 net vs $6,040).** Marquee bar $3,015; Garden $0 (closed). Food $412. Comps $0 (voids $65 = entry error / no waste). 101 guests (22 reservations / 79 walk-ins) / $31.73 GCA. **A pretty slow night, light on the books with minimal walk-in traffic** - the room hit a good stride ~8p with larger parties and most reservations sat between 7-9p, and the bar top filled around then, but nothing sustained: foot traffic ended abruptly ~10p and all interior guests had closed out and left before 11:30p, when the door closed behind the last guest. Kitchen had a solid, food-heavy-early night and closed at 10:30p. Favorite moment: Frank stopped in with the new neighbors opening in the old Never Looked Better space. Maintenance: standing water in the kitchen from the ice machines; point well freshly sealed (drying until Friday); part of the downstairs sign's arrow fell off the wall (pins worn). No incident; no-shows charged. MOD: Cory. Entered by Cory."
+        },
+        {
+            "id": "mg",
+            "name": "Municipal Grand",
+            "net_sales": 6060.0,
+            "target": 5800.0,
+            "comps": 277.0,
+            "guests": 137,
+            "check_avg": 44.23,
+            "weather": "Hot - another scorching 90s day, high UV, brief afternoon shower",
+            "missing": false,
+            "data_source": "slack",
+            "narrative": "**Municipal Bar beat target +4.5% on Wednesday ($6,060 net vs $5,800).** Segments: AM bar $747 + PM bar $5,313 + Sun Club $407 + Hot Eye $0. Food $2,452. Comps $277 (4.6%, DNL + F&F, no mistake comps). Event $0. 137 guests (20 AM / 117 PM). **A slower solo-server morning lifted by juice prep, then a fun evening that started with 24 on the books and broke 100 again** - lots of foot traffic, walk-ins, and hotel guests (friends from the Laundry celebrated a girls' night). Table maintenance improved; the team trialed a non-verbal coaster cue when drinks are ordered (note to remove coasters when clearing bevs with no reorder). Bar business stayed steady to close; the host did great keeping the tablet updated. One coaching note: keep bar noise down (bottles, spills, tin-banging). Sun Club was busy 4:30-6:30p (Sam crushing it) with post-hours activity and hotel guests still using an umbrella at EON. Kitchen ran great ticket times with nice plates (one DNL on a hard-to-please guest). Maintenance: stain on B8 chair, need more Y-peelers. Dumped a bottle of Pinot Noir (dated 6/21). No injury/incident. Favorite moment: a sub-5-min pre-meal meeting at 5:30 got everyone on the same page (a possible nightly habit). MOD: Justin/Lex (AM) / Braden/Drew (PM). Entered by Braden."
+        }
+    ]
+}
