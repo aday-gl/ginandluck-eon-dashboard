@@ -12,13 +12,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 /* NAV */
 .top-nav{background:#16181F;border-bottom:1px solid #2A2D3A;padding:0 28px;display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:0}
 .brand{padding:18px 0;font-size:16px;font-weight:700;color:#fff;letter-spacing:-.3px}
-.brand span{color:#888;font-weight:400;font-size:13px;margin-left:8px}
+.brand span{color:#EDEEF1;font-weight:400;font-size:13px;margin-left:8px}
 .date-nav{display:flex;align-items:center;gap:0;background:#1C1F2A;border-radius:8px;border:1px solid #2A2D3A;overflow:hidden}
-.date-nav button{background:none;border:none;color:#888;padding:9px 14px;cursor:pointer;font-size:13px;transition:background .15s}
+.date-nav button{background:none;border:none;color:#EDEEF1;padding:9px 14px;cursor:pointer;font-size:13px;transition:background .15s}
 .date-nav button:hover{background:#252836;color:#fff}
 .date-display{padding:9px 16px;font-size:13px;font-weight:600;color:#C8CAFF;white-space:nowrap;border-left:1px solid #2A2D3A;border-right:1px solid #2A2D3A}
 .view-tabs{display:flex;gap:4px;padding:12px 0 12px 20px}
-.view-tab{background:none;border:1px solid #2A2D3A;border-radius:6px;color:#666;padding:6px 14px;cursor:pointer;font-size:12px;font-weight:600;transition:all .15s}
+.view-tab{background:none;border:1px solid #2A2D3A;border-radius:6px;color:#E6E8EC;padding:6px 14px;cursor:pointer;font-size:12px;font-weight:600;transition:all .15s}
 .view-tab.active{background:#252836;border-color:#4A4D60;color:#C8CAFF}
 
 /* MAIN */
@@ -28,19 +28,19 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .kpi-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:22px}
 @media(max-width:900px){.kpi-strip{grid-template-columns:repeat(2,1fr)}}
 .kpi{background:#16181F;border:1px solid #2A2D3A;border-radius:10px;padding:16px 18px}
-.kpi-label{font-size:10px;text-transform:uppercase;letter-spacing:.8px;color:#555;margin-bottom:5px}
+.kpi-label{font-size:10px;text-transform:uppercase;letter-spacing:.8px;color:#E6E8EC;margin-bottom:5px}
 .kpi-value{font-size:26px;font-weight:700;color:#fff;line-height:1}
-.kpi-sub{font-size:11px;color:#555;margin-top:3px}
+.kpi-sub{font-size:11px;color:#E6E8EC;margin-top:3px}
 .pos{color:#5BC88A!important}.neg{color:#E87A7A!important}.neu{color:#E8C45A!important}
 
 /* SECTION */
-.section-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:#555;margin-bottom:12px}
+.section-label{font-size:11px;font-weight:600;text-transform:uppercase;letter-spacing:1px;color:#E6E8EC;margin-bottom:12px}
 .card{background:#16181F;border:1px solid #2A2D3A;border-radius:10px;padding:20px 22px;margin-bottom:20px}
 
 /* MTD CHART */
 .mtd-chart-wrap{position:relative;height:260px}
 .chart-legend-custom{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
-.legend-item{display:flex;align-items:center;gap:5px;font-size:11px;color:#888;cursor:pointer;padding:4px 9px;border-radius:5px;border:1px solid #2A2D3A;transition:all .15s}
+.legend-item{display:flex;align-items:center;gap:5px;font-size:11px;color:#EDEEF1;cursor:pointer;padding:4px 9px;border-radius:5px;border:1px solid #2A2D3A;transition:all .15s}
 .legend-item:hover,.legend-item.active{background:#252836;color:#E0E0E0;border-color:#4A4D60}
 .legend-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 .legend-dash{width:14px;height:2px;border-top:2px dashed;flex-shrink:0}
@@ -54,33 +54,53 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .exec-list li strong{color:#E0E0E0}
 
 /* VENUE GRID */
-.venue-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(420px,1fr));gap:18px}
-@media(max-width:600px){.venue-grid{grid-template-columns:1fr}}
+.venue-grid{display:grid;grid-template-columns:1fr;gap:16px}
+.vcard-cols{display:grid;grid-template-columns:minmax(300px,0.82fr) 1.18fr;gap:22px;align-items:start}
+.vcard-fin{display:flex;flex-direction:column;gap:13px;min-width:0}
+.vcard-context{display:flex;flex-direction:column;gap:12px;min-width:0}
+@media(max-width:820px){.vcard-cols{grid-template-columns:1fr;gap:14px}}
+/* per-venue expandable trend (weekly / ytd) */
+.vtrend{background:#16181F;border:1px solid #2A2D3A;border-radius:8px;margin-bottom:8px;overflow:hidden}
+.vtrend>summary{cursor:pointer;list-style:none;padding:12px 14px;display:flex;align-items:center;gap:9px;font-size:13px;font-weight:600;color:#E0E0E0;user-select:none}
+.vtrend>summary::-webkit-details-marker{display:none}
+.vtrend>summary::after{content:'\25B8';color:#5A5D6A;margin-left:4px;font-size:11px}
+.vtrend[open]>summary::after{content:'\25BE'}
+.vt-dot{width:9px;height:9px;border-radius:50%;flex-shrink:0}
+.vt-name{flex:1}
+.vt-total{color:#fff;font-weight:700;font-size:13px}
+.vt-chart{height:200px;position:relative;padding:4px 12px 14px}
+.vrow{cursor:pointer}
+.vrow:hover td{background:#1A1D27}
+.vrow-caret{color:#5A5D6A;font-size:10px;display:inline-block;width:12px}
+.vchart-cell{padding:0 6px 16px!important}
+.vchart-cell .vt-chart{height:210px;padding:6px 4px 0}
 
 /* VENUE CARD */
 .vcard{background:#16181F;border:1px solid #2A2D3A;border-radius:10px;padding:18px;display:flex;flex-direction:column;gap:13px}
 .vcard-head{display:flex;align-items:center;gap:8px}
 .vcard-dot{width:10px;height:10px;border-radius:50%;flex-shrink:0}
 .vcard-name{font-size:14px;font-weight:700;color:#fff;flex:1}
-.vcard-date{font-size:11px;color:#555}
+.vcard-date{font-size:11px;color:#E6E8EC}
+.slack-link{font-size:11px;color:#8A9BD8;text-decoration:none;white-space:nowrap;padding:4px 9px;border:1px solid #2A2D3A;border-radius:5px;transition:all .15s}
+.slack-link:hover{background:#252836;color:#C8CAFF;border-color:#4A4D60}
 .date-warn{font-size:11px;color:#E8C45A;background:#E8C45A11;padding:5px 9px;border-radius:5px;border-left:3px solid #E8C45A}
 .sales-row{display:grid;grid-template-columns:2fr 1.1fr 1.1fr;gap:8px}
 .sbox{background:#1C1F2A;border-radius:8px;padding:9px 11px}
-.sbox-label{font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#555;margin-bottom:3px}
+.sbox-label{font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#E6E8EC;margin-bottom:3px}
 .sbox-val{font-size:20px;font-weight:700;color:#fff;line-height:1}
 .sbox-sm{font-size:14px;font-weight:600;color:#C0C0C0;line-height:1}
 .sbox-pct{font-size:16px;font-weight:700;line-height:1;text-align:center}
-.sbox-abs{font-size:11px;color:#666;margin-top:2px;text-align:center}
+.sbox-abs{font-size:11px;color:#E6E8EC;margin-top:2px;text-align:center}
 .fin-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:5px}
 .fin{background:#1C1F2A;border-radius:6px;padding:6px 9px}
-.fin-label{font-size:9px;color:#555;text-transform:uppercase;letter-spacing:.4px}
+.fin-label{font-size:9px;color:#E6E8EC;text-transform:uppercase;letter-spacing:.4px}
 .fin-val{font-size:12px;font-weight:600;color:#B0B0B0;margin-top:1px}
 .sub-rows{background:#1C1F2A;border-radius:8px;padding:9px 11px;display:flex;flex-direction:column;gap:4px}
-.sub-row{display:flex;justify-content:space-between;font-size:12px;color:#888}
+.sub-row{display:flex;justify-content:space-between;font-size:12px;color:#EDEEF1}
 .sub-row span:last-child{color:#C0C0C0;font-weight:600}
 .ops-row{display:flex;gap:14px;flex-wrap:wrap}
-.ops-item{font-size:11px;color:#777}
-.ops-item b{color:#555;font-weight:400}
+.ops-item{font-size:11px;color:#EDEEF1}
+.ops-item b{color:#E6E8EC;font-weight:400}
 .vnotes{font-size:14px;color:#C2C5CF;line-height:1.6;border-left:2px solid #2A2D3A;padding-left:12px;margin-top:2px}
 .vnotes>summary{cursor:pointer;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.7px;color:#7A7D8A;list-style:none;user-select:none;margin-bottom:8px;outline:none}
 .vnotes>summary::-webkit-details-marker{display:none}
@@ -98,13 +118,13 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .hl-icon{flex-shrink:0;font-size:12px}
 
 /* SPARKLINE */
-.spark-wrap{height:60px;position:relative}
+.spark-wrap{height:120px;position:relative}
 
 /* WEEKLY VIEW */
 .weekly-grid{display:grid;grid-template-columns:repeat(7,1fr);gap:10px;margin-bottom:18px}
 @media(max-width:900px){.weekly-grid{grid-template-columns:repeat(4,1fr)}}
 .wday-card{background:#16181F;border:1px solid #2A2D3A;border-radius:8px;padding:12px 10px;text-align:center}
-.wday-label{font-size:10px;color:#666;text-transform:uppercase;letter-spacing:.6px;margin-bottom:6px}
+.wday-label{font-size:10px;color:#E6E8EC;text-transform:uppercase;letter-spacing:.6px;margin-bottom:6px}
 .wday-val{font-size:16px;font-weight:700;color:#fff}
 .wday-pct{font-size:11px;margin-top:2px}
 .wday-card.today{border-color:#4A4D60;background:#1C1F2A}
@@ -112,11 +132,11 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 
 /* MISSING CARD */
 .vcard-missing{opacity:.55}
-.missing-badge{background:#2A2D3A;color:#666;padding:2px 8px;border-radius:4px;font-size:10px}
-.missing-reason{font-size:12px;color:#555;font-style:italic}
+.missing-badge{background:#2A2D3A;color:#E6E8EC;padding:2px 8px;border-radius:4px;font-size:10px}
+.missing-reason{font-size:12px;color:#E6E8EC;font-style:italic}
 
 /* FOOTER */
-.footer{text-align:center;padding:20px;color:#333;font-size:11px;border-top:1px solid #1A1D27;margin-top:32px}
+.footer{text-align:center;padding:20px;color:#BFC2C8;font-size:11px;border-top:1px solid #1A1D27;margin-top:32px}
 
 /* scrollbar */
 ::-webkit-scrollbar{width:5px}
@@ -226,19 +246,25 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     </div>
     <div class="card">
       <div class="section-label">Venue Performance — Last 7 Days</div>
+      <div style="font-size:11px;color:#E6E8EC;margin-bottom:10px">Tap any venue row to expand its actual-vs-target chart.</div>
       <div id="weekly-venue-table"><!-- filled by JS --></div>
     </div>
   </div>
 
   <!-- MTD VIEW -->
   <div id="view-mtd" style="display:none">
+    <div class="kpi-strip" id="mtd-kpis" style="margin-bottom:20px"><!-- filled by JS --></div>
     <div class="card">
       <div class="section-label">Month-to-Date Revenue — Actual vs. Target</div>
       <div class="mtd-chart-wrap"><canvas id="mtdChart"></canvas></div>
       <div class="chart-legend-custom" id="mtdLegend"><!-- filled by JS --></div>
-      <div style="font-size:10px;color:#444;margin-top:10px">
+      <div style="font-size:10px;color:#BFC2C8;margin-top:10px">
         Consolidated totals across all reporting venues. Chart builds as nightly reports accumulate.
       </div>
+    </div>
+    <div class="card">
+      <div class="section-label">Venue Financials — Month-to-Date</div>
+      <div id="mtd-venue-table" style="overflow-x:auto"><!-- filled by JS --></div>
     </div>
   </div>
 
@@ -261,6 +287,7 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
     <!-- Per-venue monthly table -->
     <div class="card">
       <div class="section-label">Venue Monthly Breakdown</div>
+      <div style="font-size:11px;color:#E6E8EC;margin-bottom:10px">Tap any venue row to expand its monthly actual-vs-target chart.</div>
       <div id="ytd-venue-table" style="overflow-x:auto"><!-- filled by JS --></div>
     </div>
   </div>
@@ -364,10 +391,20 @@ function renderCurrentView() {
 }
 
 // ── DAILY VIEW ────────────────────────────────────────────────
+const SLACK_LINKS = {
+  ccatl: 'https://ginandluck.slack.com/archives/C091CP8RZKK',
+  ccnsh: 'https://ginandluck.slack.com/archives/C08JA41RJKA',
+  dvr:   'https://ginandluck.slack.com/archives/C04AALMQU64',
+  ev:    'https://ginandluck.slack.com/archives/C049PDQJX36',
+  la:    'https://ginandluck.slack.com/archives/C049EC7TL22',
+  dc:    'https://ginandluck.slack.com/archives/C059T4ZLCQ0',
+  mg:    'https://municipalgrand.slack.com/archives/C093QLWLRJS'
+};
+
 function renderDaily(day) {
   if (!day) {
     document.getElementById('venue-grid').innerHTML =
-      '<div style="color:#555;padding:20px">No data for this date.</div>';
+      '<div style="color:#E6E8EC;padding:20px">No data for this date.</div>';
     return;
   }
   const venues  = (day.venues || []).filter(v => !v.missing);
@@ -426,6 +463,7 @@ function renderDaily(day) {
           <span class="vcard-dot" style="background:${v.color||'#555'}"></span>
           <span class="vcard-name">${v.full_name}</span>
           <span class="missing-badge">No Daily Data</span>
+          ${SLACK_LINKS[v.id] ? `<a class="slack-link" href="${SLACK_LINKS[v.id]}" target="_blank" rel="noopener" title="Check this venue's EON report channel in Slack">View in Slack ↗</a>` : ''}
         </div>
         <div class="missing-reason">${v.missing_reason||''}</div>
       </div>`;
@@ -467,8 +505,11 @@ function renderDaily(day) {
         <span class="vcard-dot" style="background:${v.color||'#888'}"></span>
         <span class="vcard-name">${v.full_name}</span>
         <span class="vcard-date">${v.date_reported||''}</span>
+        ${SLACK_LINKS[v.id] ? `<a class="slack-link" href="${SLACK_LINKS[v.id]}" target="_blank" rel="noopener" title="Open this venue's EON report channel in Slack">View in Slack ↗</a>` : ''}
       </div>
       ${dateNote}
+      <div class="vcard-cols">
+        <div class="vcard-fin">
       <div class="sales-row">
         <div class="sbox">
           <div class="sbox-label">Net Sales</div>
@@ -497,13 +538,16 @@ function renderDaily(day) {
         <span class="ops-item"><b>MOD:</b> ${v.mod||'—'}</span>
         <span class="ops-item"><b>Weather:</b> ${v.weather||'—'}</span>
       </div>
+          <div>
+            <div style="font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#BFC2C8;margin-bottom:5px">14-Day Trend</div>
+            <div class="spark-wrap"><canvas id="${sparkId}"></canvas></div>
+          </div>
+        </div>
+        <div class="vcard-context">
       ${v.notes_summary ? `<details class="vnotes" open><summary>Night Summary</summary>${notesToBullets(v.notes_summary)}</details>` : ''}
       ${tagsHtml}
       ${hlHtml ? `<div class="hls">${hlHtml}</div>` : ''}
-      <!-- Sparkline: last 14 days for this venue -->
-      <div>
-        <div style="font-size:9px;text-transform:uppercase;letter-spacing:.6px;color:#444;margin-bottom:5px">14-Day Trend</div>
-        <div class="spark-wrap"><canvas id="${sparkId}"></canvas></div>
+        </div>
       </div>
     </div>`;
   });
@@ -576,7 +620,7 @@ function renderSparkline(venueId, currentDate) {
           borderColor: '#2A2D3A',
           borderWidth: 1,
           titleColor: '#fff',
-          bodyColor: '#aaa',
+          bodyColor: '#F0F1F4',
           callbacks: {
             label: ctx => ctx.dataset.label + ': $' + Math.round(ctx.raw || 0).toLocaleString()
           }
@@ -603,6 +647,8 @@ function renderWeekly() {
   const endIdx   = curIdx >= 0 ? curIdx : AVAIL.length - 1;
   const startIdx = Math.max(0, endIdx - 6);
   const week     = AVAIL.slice(startIdx, endIdx + 1);
+  window.__weekIsos = week;
+  VENUE_META.forEach(vm => destroyChart('wkv_' + vm.id));
 
   // Day cards
   let cardHtml = '';
@@ -667,18 +713,18 @@ function renderWeekly() {
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { labels: { color: '#888', font: { size: 12 } } },
+        legend: { labels: { color: '#EDEEF1', font: { size: 12 } } },
         tooltip: {
           backgroundColor: '#1C1F2A', borderColor: '#2A2D3A', borderWidth: 1,
-          titleColor: '#fff', bodyColor: '#aaa',
+          titleColor: '#fff', bodyColor: '#F0F1F4',
           callbacks: { label: ctx => ctx.dataset.label + ': $' + Math.round(ctx.raw).toLocaleString() }
         }
       },
       scales: {
-        x: { grid: { color: '#1E2030' }, ticks: { color: '#666', font: { size: 11 } } },
+        x: { grid: { color: '#1E2030' }, ticks: { color: '#E6E8EC', font: { size: 11 } } },
         y: {
           grid: { color: '#1E2030' },
-          ticks: { color: '#666', font: { size: 11 }, callback: v => '$' + (v/1000).toFixed(0) + 'k' }
+          ticks: { color: '#E6E8EC', font: { size: 11 }, callback: v => '$' + (v/1000).toFixed(0) + 'k' }
         }
       }
     }
@@ -688,14 +734,16 @@ function renderWeekly() {
   let tHtml = `<table style="width:100%;border-collapse:collapse;font-size:12px">
     <thead>
       <tr style="border-bottom:1px solid #2A2D3A">
-        <th style="text-align:left;padding:8px 6px;color:#555;font-weight:600;text-transform:uppercase;font-size:10px;letter-spacing:.6px">Venue</th>`;
-  week.forEach(iso => { tHtml += `<th style="padding:8px 6px;color:#555;font-weight:600;text-transform:uppercase;font-size:10px;letter-spacing:.6px">${shortIso(iso)}</th>`; });
-  tHtml += `<th style="padding:8px 6px;color:#555;font-weight:600;text-transform:uppercase;font-size:10px;letter-spacing:.6px">7-Day Total</th></tr></thead><tbody>`;
+        <th style="text-align:left;padding:8px 6px;color:#E6E8EC;font-weight:600;text-transform:uppercase;font-size:10px;letter-spacing:.6px">Venue</th>`;
+  week.forEach(iso => { tHtml += `<th style="padding:8px 6px;color:#E6E8EC;font-weight:600;text-transform:uppercase;font-size:10px;letter-spacing:.6px">${shortIso(iso)}</th>`; });
+  tHtml += `<th style="padding:8px 6px;color:#E6E8EC;font-weight:600;text-transform:uppercase;font-size:10px;letter-spacing:.6px">7-Day Total</th></tr></thead><tbody>`;
 
+  const wkCols = week.length + 2;
   VENUE_META.forEach(vm => {
-    tHtml += `<tr style="border-bottom:1px solid #1E2030">
-      <td style="padding:8px 6px;color:#E0E0E0;font-weight:600">
-        <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${vm.color};margin-right:6px"></span>
+    tHtml += `<tr class="vrow" onclick="toggleVenueRow('wk','${vm.id}')" style="border-bottom:1px solid #1E2030">
+      <td style="padding:8px 6px;color:#E0E0E0;font-weight:600;white-space:nowrap">
+        <span class="vrow-caret" id="caret_wk_${vm.id}">▸</span>
+        <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${vm.color};margin:0 6px 0 2px"></span>
         ${vm.name}
       </td>`;
     let total = 0;
@@ -709,6 +757,7 @@ function renderWeekly() {
       tHtml += `<td style="text-align:center;padding:8px 6px;color:${s !== null ? '#C0C0C0' : '#333'}">${s !== null ? fmtC(s) : '—'}</td>`;
     });
     tHtml += `<td style="text-align:center;padding:8px 6px;color:#fff;font-weight:600">${total > 0 ? fmtC(total) : '—'}</td></tr>`;
+    tHtml += `<tr id="wkrow_${vm.id}" style="display:none"><td class="vchart-cell" colspan="${wkCols}"><div class="vt-chart"><canvas id="wkv_${vm.id}"></canvas></div></td></tr>`;
   });
   tHtml += '</tbody></table>';
   document.getElementById('weekly-venue-table').innerHTML = tHtml;
@@ -781,7 +830,7 @@ function renderMTD() {
         legend: { display: false },
         tooltip: {
           backgroundColor: '#1C1F2A', borderColor: '#2A2D3A', borderWidth: 1,
-          titleColor: '#fff', bodyColor: '#aaa',
+          titleColor: '#fff', bodyColor: '#F0F1F4',
           callbacks: {
             label: ctx => ctx.dataset.label + ': ' +
               (ctx.raw != null ? '$' + Math.round(ctx.raw).toLocaleString() : '—')
@@ -789,10 +838,10 @@ function renderMTD() {
         }
       },
       scales: {
-        x: { grid: { color: '#1E2030' }, ticks: { color: '#666', font: { size: 11 } } },
+        x: { grid: { color: '#1E2030' }, ticks: { color: '#E6E8EC', font: { size: 11 } } },
         y: {
           grid: { color: '#1E2030' },
-          ticks: { color: '#666', font: { size: 11 }, callback: v => '$' + (v/1000).toFixed(0) + 'k' }
+          ticks: { color: '#E6E8EC', font: { size: 11 }, callback: v => '$' + (v/1000).toFixed(0) + 'k' }
         }
       }
     }
@@ -813,6 +862,68 @@ function renderMTD() {
     </div>`;
   });
   document.getElementById('mtdLegend').innerHTML = legendHtml;
+
+  // ── MTD financial data points (KPIs + per-venue table) ──────
+  const mtdNet = c_actual.reduce((a, b) => a + (b || 0), 0);
+  const mtdTgt = c_target.reduce((a, b) => a + (b || 0), 0);
+  const mtdVar = mtdNet - mtdTgt;
+  const mtdPct = mtdTgt ? (mtdVar / mtdTgt * 100).toFixed(1) : null;
+  const mtdVC  = mtdVar >= 0 ? '#5BC88A' : '#E87A7A';
+  const mtdSign = mtdVar >= 0 ? '+' : '';
+  let monthName;
+  try { monthName = new Date(currentISO + 'T12:00:00').toLocaleDateString('en-US', {month:'long', year:'numeric'}); }
+  catch (e) { monthName = curYM; }
+
+  document.getElementById('mtd-kpis').innerHTML = `
+    <div class="kpi"><div class="kpi-label">MTD Net Sales</div><div class="kpi-value">${fmtC(mtdNet)}</div><div class="kpi-sub">${monthDates.length} days · ${monthName}</div></div>
+    <div class="kpi"><div class="kpi-label">MTD Target</div><div class="kpi-value" style="color:#C8CAFF">${fmtC(mtdTgt)}</div><div class="kpi-sub">Consolidated across all venues</div></div>
+    <div class="kpi"><div class="kpi-label">MTD Variance</div><div class="kpi-value" style="color:${mtdVC}">${mtdSign}${fmtC(mtdVar)}</div><div class="kpi-sub" style="color:${mtdVC}">${mtdPct !== null ? mtdSign + mtdPct + '%' : '—'} vs target</div></div>
+    <div class="kpi"><div class="kpi-label">Days Reported</div><div class="kpi-value" style="color:#C8CAFF">${monthDates.length}</div><div class="kpi-sub">in ${monthName}</div></div>`;
+
+  const agg = {};
+  VENUE_META.forEach(vm => agg[vm.id] = {net:0, tgt:0, food:0, comps:0, guests:0, days:0});
+  monthDates.forEach(iso => {
+    const d = HISTORY[iso]; if (!d) return;
+    (d.venues || []).forEach(v => {
+      if (v.missing) return;
+      const a = agg[v.id]; if (!a) return;
+      a.net += v.net_sales || 0; a.tgt += v.target || 0; a.food += v.food_sales || 0;
+      a.comps += v.comps || 0; a.guests += v.guest_count || 0; a.days++;
+    });
+  });
+
+  const th = (t) => `<th style="text-align:right;padding:9px 8px;color:#E6E8EC;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600">${t}</th>`;
+  let mt = `<table style="width:100%;border-collapse:collapse;font-size:12px;min-width:600px"><thead><tr style="border-bottom:1px solid #2A2D3A">
+    <th style="text-align:left;padding:9px 8px;color:#E6E8EC;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600">Venue</th>
+    ${th('Net Sales')}${th('Target')}${th('Var %')}${th('Food')}${th('Comps')}${th('Guests')}</tr></thead><tbody>`;
+  VENUE_META.forEach(vm => {
+    const a = agg[vm.id];
+    const pct = a.tgt ? ((a.net / a.tgt - 1) * 100) : null;
+    const vc = pct === null ? '#555' : (pct >= 0 ? '#5BC88A' : (pct > -10 ? '#E8C45A' : '#E87A7A'));
+    mt += `<tr style="border-bottom:1px solid #1E2030">
+      <td style="padding:9px 8px;color:#E0E0E0;font-weight:600;white-space:nowrap"><span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${vm.color};margin-right:7px"></span>${vm.name}</td>
+      <td style="text-align:right;padding:9px 8px;color:#fff;font-weight:600">${a.days ? fmtC(a.net) : '—'}</td>
+      <td style="text-align:right;padding:9px 8px;color:#C0C0C0">${a.days ? fmtC(a.tgt) : '—'}</td>
+      <td style="text-align:right;padding:9px 8px;color:${vc};font-weight:600">${pct === null ? '—' : (pct >= 0 ? '+' : '') + pct.toFixed(1) + '%'}</td>
+      <td style="text-align:right;padding:9px 8px;color:#C0C0C0">${a.days ? fmtC(a.food) : '—'}</td>
+      <td style="text-align:right;padding:9px 8px;color:#C0C0C0">${a.days ? fmtC(a.comps) : '—'}</td>
+      <td style="text-align:right;padding:9px 8px;color:#C0C0C0">${a.days ? a.guests.toLocaleString() : '—'}</td>
+    </tr>`;
+  });
+  const tFood = Object.values(agg).reduce((s, a) => s + a.food, 0);
+  const tComps = Object.values(agg).reduce((s, a) => s + a.comps, 0);
+  const tGuests = Object.values(agg).reduce((s, a) => s + a.guests, 0);
+  const tPct = mtdTgt ? ((mtdNet / mtdTgt - 1) * 100) : null;
+  mt += `<tr style="border-top:2px solid #2A2D3A;background:#1C1F2A">
+    <td style="padding:9px 8px;color:#E0E0E0;font-weight:700">All Venues</td>
+    <td style="text-align:right;padding:9px 8px;color:#5BC88A;font-weight:700">${fmtC(mtdNet)}</td>
+    <td style="text-align:right;padding:9px 8px;color:#C8CAFF;font-weight:700">${fmtC(mtdTgt)}</td>
+    <td style="text-align:right;padding:9px 8px;color:#fff;font-weight:700">${tPct === null ? '—' : (tPct >= 0 ? '+' : '') + tPct.toFixed(1) + '%'}</td>
+    <td style="text-align:right;padding:9px 8px;color:#fff;font-weight:700">${fmtC(tFood)}</td>
+    <td style="text-align:right;padding:9px 8px;color:#fff;font-weight:700">${fmtC(tComps)}</td>
+    <td style="text-align:right;padding:9px 8px;color:#fff;font-weight:700">${tGuests.toLocaleString()}</td>
+  </tr></tbody></table>`;
+  document.getElementById('mtd-venue-table').innerHTML = mt;
 }
 
 function toggleMTDLine(dsIdx, el) {
@@ -849,6 +960,7 @@ function label_date_js(iso) {
 function renderYTD() {
   destroyChart('ytdMonthlyChart');
   destroyChart('ytdCumulativeChart');
+  VENUE_META.forEach(vm => destroyChart('ytv_' + vm.id));
 
   // Current year derived from currentISO
   const curYear = currentISO.slice(0, 4);
@@ -927,7 +1039,7 @@ function renderYTD() {
     </div>
     <div class="kpi">
       <div class="kpi-label">Months Active</div>
-      <div class="kpi-value" style="color:#C8CAFF">${allMonths.length}<span style="font-size:16px;color:#555"> /12</span></div>
+      <div class="kpi-value" style="color:#C8CAFF">${allMonths.length}<span style="font-size:16px;color:#E6E8EC"> /12</span></div>
       <div class="kpi-sub">Building as reports accumulate</div>
     </div>`;
 
@@ -973,18 +1085,18 @@ function renderYTD() {
     options: {
       responsive: true, maintainAspectRatio: false,
       plugins: {
-        legend: { labels: { color: '#888', font: { size: 12 } } },
+        legend: { labels: { color: '#EDEEF1', font: { size: 12 } } },
         tooltip: {
           backgroundColor: '#1C1F2A', borderColor: '#2A2D3A', borderWidth: 1,
-          titleColor: '#fff', bodyColor: '#aaa',
+          titleColor: '#fff', bodyColor: '#F0F1F4',
           callbacks: { label: ctx => ctx.dataset.label + ': ' + (ctx.raw != null ? '$' + Math.round(ctx.raw).toLocaleString() : '—') }
         }
       },
       scales: {
-        x: { grid: { color: '#1E2030' }, ticks: { color: '#666', font: { size: 11 } } },
+        x: { grid: { color: '#1E2030' }, ticks: { color: '#E6E8EC', font: { size: 11 } } },
         y: {
           grid: { color: '#1E2030' }, beginAtZero: true,
-          ticks: { color: '#666', font: { size: 11 }, callback: v => '$' + (v >= 1000000 ? (v/1000000).toFixed(1)+'M' : (v/1000).toFixed(0)+'k') }
+          ticks: { color: '#E6E8EC', font: { size: 11 }, callback: v => '$' + (v >= 1000000 ? (v/1000000).toFixed(1)+'M' : (v/1000).toFixed(0)+'k') }
         }
       }
     }
@@ -1027,18 +1139,18 @@ function renderYTD() {
       responsive: true, maintainAspectRatio: false,
       interaction: { mode: 'index', intersect: false },
       plugins: {
-        legend: { labels: { color: '#888', font: { size: 12 } } },
+        legend: { labels: { color: '#EDEEF1', font: { size: 12 } } },
         tooltip: {
           backgroundColor: '#1C1F2A', borderColor: '#2A2D3A', borderWidth: 1,
-          titleColor: '#fff', bodyColor: '#aaa',
+          titleColor: '#fff', bodyColor: '#F0F1F4',
           callbacks: { label: ctx => ctx.dataset.label + ': ' + (ctx.raw != null ? '$' + Math.round(ctx.raw).toLocaleString() : '—') }
         }
       },
       scales: {
-        x: { grid: { color: '#1E2030' }, ticks: { color: '#666', font: { size: 11 } } },
+        x: { grid: { color: '#1E2030' }, ticks: { color: '#E6E8EC', font: { size: 11 } } },
         y: {
           grid: { color: '#1E2030' },
-          ticks: { color: '#666', font: { size: 11 }, callback: v => '$' + (v >= 1000000 ? (v/1000000).toFixed(1)+'M' : (v/1000).toFixed(0)+'k') }
+          ticks: { color: '#E6E8EC', font: { size: 11 }, callback: v => '$' + (v >= 1000000 ? (v/1000000).toFixed(1)+'M' : (v/1000).toFixed(0)+'k') }
         }
       }
     }
@@ -1047,26 +1159,28 @@ function renderYTD() {
   // ── Per-venue monthly table ───────────────────────────────
   if (!allMonths.length) {
     document.getElementById('ytd-venue-table').innerHTML =
-      '<div style="color:#555;padding:16px;font-size:13px">No data yet for ' + curYear + '. Table will populate as reports accumulate.</div>';
+      '<div style="color:#E6E8EC;padding:16px;font-size:13px">No data yet for ' + curYear + '. Table will populate as reports accumulate.</div>';
     return;
   }
 
   const activeMonths = allYearMonths.filter(ym => monthMap[ym]);
   let tHtml = `<table style="width:100%;border-collapse:collapse;font-size:12px;min-width:600px">
     <thead><tr style="border-bottom:1px solid #2A2D3A">
-      <th style="text-align:left;padding:9px 8px;color:#555;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600">Venue</th>`;
+      <th style="text-align:left;padding:9px 8px;color:#E6E8EC;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600">Venue</th>`;
   activeMonths.forEach(ym => {
     const [, m] = ym.split('-');
-    tHtml += `<th style="padding:9px 8px;color:#555;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600;text-align:right">${MONTHS[parseInt(m)-1]}</th>`;
+    tHtml += `<th style="padding:9px 8px;color:#E6E8EC;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600;text-align:right">${MONTHS[parseInt(m)-1]}</th>`;
   });
-  tHtml += `<th style="padding:9px 8px;color:#555;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600;text-align:right">YTD Total</th>
+  tHtml += `<th style="padding:9px 8px;color:#E6E8EC;font-size:10px;text-transform:uppercase;letter-spacing:.6px;font-weight:600;text-align:right">YTD Total</th>
     </tr></thead><tbody>`;
 
+  const ytCols = activeMonths.length + 2;
   VENUE_META.forEach(vm => {
     const ytdV = activeMonths.reduce((s, ym) => s + (monthMap[ym]?.venues[vm.id]?.actual || 0), 0);
-    tHtml += `<tr style="border-bottom:1px solid #1E2030">
+    tHtml += `<tr class="vrow" onclick="toggleVenueRow('yt','${vm.id}')" style="border-bottom:1px solid #1E2030">
       <td style="padding:9px 8px;color:#E0E0E0;font-weight:600;white-space:nowrap">
-        <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${vm.color};margin-right:7px"></span>${vm.name}
+        <span class="vrow-caret" id="caret_yt_${vm.id}">▸</span>
+        <span style="display:inline-block;width:8px;height:8px;border-radius:50%;background:${vm.color};margin:0 7px 0 2px"></span>${vm.name}
       </td>`;
     activeMonths.forEach(ym => {
       const a = monthMap[ym]?.venues[vm.id]?.actual;
@@ -1076,6 +1190,7 @@ function renderYTD() {
     });
     tHtml += `<td style="text-align:right;padding:9px 8px;color:#fff;font-weight:700">${ytdV > 0 ? '$' + Math.round(ytdV).toLocaleString() : '—'}</td>
     </tr>`;
+    tHtml += `<tr id="ytrow_${vm.id}" style="display:none"><td class="vchart-cell" colspan="${ytCols}"><div class="vt-chart"><canvas id="ytv_${vm.id}"></canvas></div></td></tr>`;
   });
 
   // Totals row
@@ -1088,9 +1203,78 @@ function renderYTD() {
   tHtml += `<td style="text-align:right;padding:9px 8px;color:#5BC88A;font-weight:700">${ytdActual ? '$' + Math.round(ytdActual).toLocaleString() : '—'}</td></tr>`;
   tHtml += '</tbody></table>';
   document.getElementById('ytd-venue-table').innerHTML = tHtml;
+
+  window.__ytdMonthMap = monthMap;
+  window.__ytdActiveMonths = activeMonths;
 }
 
 // ── INIT ──────────────────────────────────────────────────────
+// ── Per-venue expandable trend charts (weekly + YTD) ──────────
+function chartOptsMoney(fontSize) {
+  return {
+    responsive: true, maintainAspectRatio: false,
+    plugins: {
+      legend: { labels: { color: '#EDEEF1', font: { size: 11 } } },
+      tooltip: {
+        backgroundColor: '#1C1F2A', borderColor: '#2A2D3A', borderWidth: 1,
+        titleColor: '#fff', bodyColor: '#F0F1F4',
+        callbacks: { label: ctx => ctx.dataset.label + ': ' + (ctx.raw != null ? '$' + Math.round(ctx.raw).toLocaleString() : '—') }
+      }
+    },
+    scales: {
+      x: { grid: { color: '#1E2030' }, ticks: { color: '#E6E8EC', font: { size: fontSize || 10 } } },
+      y: { grid: { color: '#1E2030' }, ticks: { color: '#E6E8EC', font: { size: fontSize || 10 }, callback: v => '$' + (v >= 1000000 ? (v/1000000).toFixed(1)+'M' : (v/1000).toFixed(0)+'k') } }
+    }
+  };
+}
+
+function venueTrendDatasets(vm, actuals, targets) {
+  return [
+    { label:'Actual', data:actuals, backgroundColor:(vm.color||'#888')+'88', borderColor:vm.color||'#888', borderWidth:1, borderRadius:4 },
+    { label:'Target', data:targets, type:'line', borderColor:'#C8CAFF', borderDash:[6,4], borderWidth:2, pointRadius:3, pointBackgroundColor:'#C8CAFF', fill:false, spanGaps:false }
+  ];
+}
+
+function buildWeeklyVenueChart(vid) {
+  const week = window.__weekIsos || [];
+  const vm = VENUE_META.find(x => x.id === vid) || {color:'#888'};
+  const canvas = document.getElementById('wkv_' + vid);
+  if (!canvas) return;
+  const labels  = week.map(shortIso);
+  const actuals = week.map(iso => { const d = HISTORY[iso]; if (!d) return null; const v = (d.venues||[]).find(x=>x.id===vid); return (v && !v.missing) ? (v.net_sales ?? null) : null; });
+  const targets = week.map(iso => { const d = HISTORY[iso]; if (!d) return null; const v = (d.venues||[]).find(x=>x.id===vid); return (v && !v.missing) ? (v.target ?? null) : null; });
+  destroyChart('wkv_' + vid);
+  chartInstances['wkv_' + vid] = new Chart(canvas.getContext('2d'), { type:'bar', data:{ labels, datasets: venueTrendDatasets(vm, actuals, targets) }, options: chartOptsMoney(10) });
+}
+
+function buildYtdVenueChart(vid) {
+  const monthMap = window.__ytdMonthMap || {};
+  const active   = window.__ytdActiveMonths || [];
+  const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const vm = VENUE_META.find(x => x.id === vid) || {color:'#888'};
+  const canvas = document.getElementById('ytv_' + vid);
+  if (!canvas) return;
+  const labels  = active.map(ym => MONTHS[parseInt(ym.split('-')[1]) - 1]);
+  const actuals = active.map(ym => { const r = monthMap[ym] && monthMap[ym].venues[vid]; return r ? r.actual : null; });
+  const targets = active.map(ym => { const r = monthMap[ym] && monthMap[ym].venues[vid]; return r ? r.target : null; });
+  destroyChart('ytv_' + vid);
+  chartInstances['ytv_' + vid] = new Chart(canvas.getContext('2d'), { type:'bar', data:{ labels, datasets: venueTrendDatasets(vm, actuals, targets) }, options: chartOptsMoney(10) });
+}
+
+function toggleVenueRow(kind, vid) {
+  const row = document.getElementById((kind === 'wk' ? 'wkrow_' : 'ytrow_') + vid);
+  const caret = document.getElementById('caret_' + kind + '_' + vid);
+  if (!row) return;
+  const opening = row.style.display === 'none';
+  row.style.display = opening ? 'table-row' : 'none';
+  if (caret) caret.textContent = opening ? '▾' : '▸';
+  if (opening && !row.dataset.built) {
+    row.dataset.built = '1';
+    if (kind === 'wk') buildWeeklyVenueChart(vid);
+    else buildYtdVenueChart(vid);
+  }
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   if (AVAIL.length) currentISO = AVAIL[AVAIL.length - 1];
   renderCurrentView();
