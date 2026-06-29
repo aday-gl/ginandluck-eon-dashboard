@@ -122,6 +122,38 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 ::-webkit-scrollbar{width:5px}
 ::-webkit-scrollbar-track{background:#0F1117}
 ::-webkit-scrollbar-thumb{background:#2A2D3A;border-radius:3px}
+
+/* MOBILE RESPONSIVE */
+#weekly-venue-table,#ytd-venue-table{overflow-x:auto;-webkit-overflow-scrolling:touch}
+@media(max-width:640px){
+  body{overflow-x:hidden}
+  .top-nav{flex-direction:column;align-items:stretch;padding:10px 14px;gap:10px}
+  .top-nav>div{width:100%}
+  .top-nav>div:last-child{padding:0!important;justify-content:center}
+  .brand{padding:2px 0;font-size:15px}
+  .brand span{display:block;margin-left:0;margin-top:2px}
+  .view-tabs{padding:0;gap:6px;flex-wrap:nowrap;overflow-x:auto;-webkit-overflow-scrolling:touch}
+  .view-tab{padding:9px 15px;font-size:13px;white-space:nowrap;flex:1 0 auto}
+  .date-nav{width:100%;justify-content:space-between}
+  .date-nav button{padding:12px 18px;font-size:16px}
+  .date-display{flex:1;text-align:center}
+  .main{padding:16px 13px}
+  .kpi-strip{gap:10px;margin-bottom:16px}
+  .kpi{padding:13px 14px}
+  .kpi-value{font-size:21px}
+  .card{padding:16px 14px}
+  .exec-cols{gap:13px}
+  .exec-list li{font-size:13px}
+  .venue-grid{grid-template-columns:1fr;gap:14px}
+  .vcard{padding:15px}
+  .sbox-val{font-size:18px}
+  .fin-grid{grid-template-columns:repeat(2,1fr)}
+  .weekly-grid{grid-template-columns:repeat(2,1fr);gap:8px}
+  .mtd-chart-wrap{height:230px}
+  .week-chart-wrap{height:200px}
+  #weekly-venue-table table{min-width:540px}
+  .ops-row{gap:10px}
+}
 </style>
 </head>
 <body>
