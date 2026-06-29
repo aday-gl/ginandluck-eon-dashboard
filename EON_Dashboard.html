@@ -81,7 +81,14 @@ body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;b
 .ops-row{display:flex;gap:14px;flex-wrap:wrap}
 .ops-item{font-size:11px;color:#777}
 .ops-item b{color:#555;font-weight:400}
-.vnotes{font-size:12px;color:#888;line-height:1.5;border-left:2px solid #2A2D3A;padding-left:9px;font-style:italic}
+.vnotes{font-size:14px;color:#C2C5CF;line-height:1.6;border-left:2px solid #2A2D3A;padding-left:12px;margin-top:2px}
+.vnotes>summary{cursor:pointer;font-size:11px;font-weight:700;text-transform:uppercase;letter-spacing:.7px;color:#7A7D8A;list-style:none;user-select:none;margin-bottom:8px;outline:none}
+.vnotes>summary::-webkit-details-marker{display:none}
+.vnotes>summary::before{content:'\25BE';display:inline-block;width:13px;color:#5A5D6A}
+.vnotes:not([open])>summary::before{content:'\25B8'}
+.vnotes-list{margin:0;padding-left:18px;list-style:disc}
+.vnotes-list li{margin:0 0 6px 0;line-height:1.55}
+.vnotes-list li:last-child{margin-bottom:0}
 .tags{display:flex;flex-wrap:wrap;gap:5px}
 .tag{font-size:10px;padding:3px 7px;border-radius:4px;font-weight:500}
 .tag-86{background:#E87A7A22;color:#E87A7A;border:1px solid #E87A7A33}
@@ -249,6 +256,24 @@ let visibleVenues  = new Set(VENUE_META.map(v => v.id)); // all on by default fo
 function fmtC(v) {
   if (v == null) return '—';
   return '$' + Math.round(v).toLocaleString();
+}
+function notesToBullets(t) {
+  if (!t) return '';
+  var s = String(t).replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
+  var parts;
+  try {
+    parts = s.split(/(?<=[.!?])\s+(?=[A-Z0-9$"'(‘“])/);
+  } catch (e) {
+    parts = s.split(/([.!?])\s+/).reduce(function (acc, cur, i) {
+      if (i % 2 === 0) acc.push(cur); else acc[acc.length - 1] += cur;
+      return acc;
+    }, []);
+  }
+  var items = parts.map(function (p) { return p.trim(); })
+                   .filter(function (p) { return p.length; })
+                   .map(function (p) { return '<li>' + p + '</li>'; })
+                   .join('');
+  return '<ul class="vnotes-list">' + items + '</ul>';
 }
 function fmtPct(a, t) {
   if (!a || !t) return null;
@@ -440,7 +465,7 @@ function renderDaily(day) {
         <span class="ops-item"><b>MOD:</b> ${v.mod||'—'}</span>
         <span class="ops-item"><b>Weather:</b> ${v.weather||'—'}</span>
       </div>
-      ${v.notes_summary ? `<div class="vnotes">${v.notes_summary}</div>` : ''}
+      ${v.notes_summary ? `<details class="vnotes" open><summary>Night Summary</summary>${notesToBullets(v.notes_summary)}</details>` : ''}
       ${tagsHtml}
       ${hlHtml ? `<div class="hls">${hlHtml}</div>` : ''}
       <!-- Sparkline: last 14 days for this venue -->
