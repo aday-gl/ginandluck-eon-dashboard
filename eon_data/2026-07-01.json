@@ -10,14 +10,14 @@
       "target": 1259.0,
       "comps": 49.75,
       "guests": 54,
-      "check_avg": 28.90,
+      "check_avg": 28.9,
       "weather": "Hot with highs in the mid to high 90s and humid (heat advisory ongoing)",
       "food_sales": 353.0,
       "beverage_sales": null,
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL — Wednesday 7/1 (MOD MKZ // JK):** Quiet start in the ongoing heat advisory. Guest flow picked up around 5pm for Meal Deals — lots of hot dogs going out with July 4th weekend approaching. Some guests popped in for a quick drink 6–7:30pm before heading elsewhere; a few small groups stayed for the USA match at 8pm and cleared at the end, with new faces coming in afterward. Quiet end, no last-call needed — everyone out by ~11:30. Opener cut around 8pm. Kitchen: strong hot dog sales, hoping the trend continues into the holiday weekend. 86 wings. No incidents; no no-shows. Net $1,560 vs $1,259 target (+23.9%), 54 guests, $28.90 check avg, food $353, comps $49.75 (Industry, O4W, GO Team, F&F, Manager Meal). Favorite moment: DJ Jamie stopping in right before close — he loves playing here on Fridays."
+      "narrative": "**CCATL \u2014 Wednesday 7/1 (MOD MKZ // JK):** Quiet start in the ongoing heat advisory. Guest flow picked up around 5pm for Meal Deals \u2014 lots of hot dogs going out with July 4th weekend approaching. Some guests popped in for a quick drink 6\u20137:30pm before heading elsewhere; a few small groups stayed for the USA match at 8pm and cleared at the end, with new faces coming in afterward. Quiet end, no last-call needed \u2014 everyone out by ~11:30. Opener cut around 8pm. Kitchen: strong hot dog sales, hoping the trend continues into the holiday weekend. 86 wings. No incidents; no no-shows. Net $1,560 vs $1,259 target (+23.9%), 54 guests, $28.90 check avg, food $353, comps $49.75 (Industry, O4W, GO Team, F&F, Manager Meal). Favorite moment: DJ Jamie stopping in right before close \u2014 he loves playing here on Fridays."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH — Wednesday 7/1 (MOD KK, MD / Chef KM):** Smooth, down-tempo Wednesday. A decent pop at the start of service cleared by 7pm, then stayed relatively sleepy until another wave ~9:15–10:30pm. A couple of groups enjoyed watching the USA/BiH match. Kevin held down the kitchen. Maintenance: Well 3 chiller. No incidents; no no-shows. Net $1,311 vs $1,222 target (+7.3%), 43 guests, $30.49 check avg, food $163, comps $16.75 / 1.2% (Neuhoff Resident, F&F, Industry). Favorite moment: a solo guest new to the neighborhood joined around 11pm and said he'd be a regular — a pleasure to welcome him."
+      "narrative": "**CCNSH \u2014 Wednesday 7/1 (MOD KK, MD / Chef KM):** Smooth, down-tempo Wednesday. A decent pop at the start of service cleared by 7pm, then stayed relatively sleepy until another wave ~9:15\u201310:30pm. A couple of groups enjoyed watching the USA/BiH match. Kevin held down the kitchen. Maintenance: Well 3 chiller. No incidents; no no-shows. Net $1,311 vs $1,222 target (+7.3%), 43 guests, $30.49 check avg, food $163, comps $16.75 / 1.2% (Neuhoff Resident, F&F, Industry). Favorite moment: a solo guest new to the neighborhood joined around 11pm and said he'd be a regular \u2014 a pleasure to welcome him."
     },
     {
       "id": "dvr",
@@ -46,7 +46,7 @@
       "weather": "",
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Wednesday 7/1 EON report submitted to #dvr_eon_report as of the 7:00am 7/2 run. The channel's most recent Typeform response is the Tuesday 6/30 report; will retry on the noon catch-up pass and subsequent passes."
+      "narrative": "No Wednesday 7/1 EON report submitted to #dvr_eon_report as of the 12:00pm 7/2 catch-up run. The channel's most recent Typeform response remains the Tuesday 6/30 report (posted 7/1 1:47am); a search for any 7/1 Denver EON returned no results. Report still outstanding; will retry on subsequent passes until it posts or ages out of the 7-day window."
     },
     {
       "id": "ev",
@@ -56,13 +56,13 @@
       "comps": 271.0,
       "guests": 105,
       "check_avg": 36.0,
-      "weather": "Blistering — hot and humid all day, cooling to the 80s around 10pm",
+      "weather": "Blistering \u2014 hot and humid all day, cooling to the 80s around 10pm",
       "food_sales": 323.0,
       "beverage_sales": 3375.0,
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV — Wednesday 7/1 (MOD Kyler + Chef Alejandro):** A scorcher — hot and humid all day. Busier than yesterday but still very mellow, running very duo-heavy with lots of dates persevering the heat; folks cozied up inside in the AC for extra rounds. Good handful at open eager for a cold place, a small wave of twos around 9pm, then slowing after 10:30 before a 6-top and 4-top filled things back up at 11pm. AC units noted dripping more late at night. Welcomed member Malcolm Hardy back at the bar, plus Laura Ratliff from Time Out magazine. One no-show (Logan Wells, 2 @ 9:15pm, charged). Glassware breakage: Collins, tulip, SOF, ugly Saz. Net $3,776 vs $6,788 target (−44.4%), 105 guests, $36 check avg, food $323, beverage $3,375, comps $271 (F&F, members, marketing). Favorite: welcoming Malcolm and Laura in."
+      "narrative": "**EV \u2014 Wednesday 7/1 (MOD Kyler + Chef Alejandro):** A scorcher \u2014 hot and humid all day. Busier than yesterday but still very mellow, running very duo-heavy with lots of dates persevering the heat; folks cozied up inside in the AC for extra rounds. Good handful at open eager for a cold place, a small wave of twos around 9pm, then slowing after 10:30 before a 6-top and 4-top filled things back up at 11pm. AC units noted dripping more late at night. Welcomed member Malcolm Hardy back at the bar, plus Laura Ratliff from Time Out magazine. One no-show (Logan Wells, 2 @ 9:15pm, charged). Glassware breakage: Collins, tulip, SOF, ugly Saz. Net $3,776 vs $6,788 target (\u221244.4%), 105 guests, $36 check avg, food $323, beverage $3,375, comps $271 (F&F, members, marketing). Favorite: welcoming Malcolm and Laura in."
     },
     {
       "id": "la",
@@ -78,23 +78,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DCLA — Wednesday 7/1 (MOD Gigi & Chef Vic):** A busy night. Nice and steady start with an almost-full room by 7:30; Julian arrived just as the 20s filled at 8pm. Food, vibes and cocktails all flowing — everyone having an amazing time. One member and an investor in; Jose dropped off a bag of pastries for the team, and Ryan was in on special side projects (check out the cage, #ABK). Room stayed completely full from ~8pm until 10:45, then a mass exodus emptied it. Jaz off the floor around 11:15. Kitchen busy — fries and desserts galore; 86 cookies, 86 IPA. Maintenance: oven knob & lowboy edges coming soon. No incidents; no-shows charged. Net $5,609 vs $6,993 target (−19.8%), 141 guests, $97.78 check avg, food $1,221, comps $244.05 (industry gifts, member Jackie Tan, investor Josh, DNL, birthday). Favorite: seeing the whole room completely full and everyone super happy."
+      "narrative": "**DCLA \u2014 Wednesday 7/1 (MOD Gigi & Chef Vic):** A busy night. Nice and steady start with an almost-full room by 7:30; Julian arrived just as the 20s filled at 8pm. Food, vibes and cocktails all flowing \u2014 everyone having an amazing time. One member and an investor in; Jose dropped off a bag of pastries for the team, and Ryan was in on special side projects (check out the cage, #ABK). Room stayed completely full from ~8pm until 10:45, then a mass exodus emptied it. Jaz off the floor around 11:15. Kitchen busy \u2014 fries and desserts galore; 86 cookies, 86 IPA. Maintenance: oven knob & lowboy edges coming soon. No incidents; no-shows charged. Net $5,609 vs $6,993 target (\u221219.8%), 141 guests, $97.78 check avg, food $1,221, comps $244.05 (industry gifts, member Jackie Tan, investor Josh, DNL, birthday). Favorite: seeing the whole room completely full and everyone super happy."
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": 3079.60,
+      "net_sales": 3079.6,
       "target": 3289.48,
       "comps": 17.0,
       "guests": 52,
       "check_avg": 59.22,
-      "weather": "Hot!!! 98 degrees and heat advisory — most foot traffic later in the evening",
-      "food_sales": 542.60,
+      "weather": "Hot!!! 98 degrees and heat advisory \u2014 most foot traffic later in the evening",
+      "food_sales": 542.6,
       "beverage_sales": null,
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC — Wednesday 7/1 (MOD Josh/Marcus):** Hot night in DC (98°, heat advisory). Understandably slow start with just 22 on the books and little foot traffic; Mariah was relieved from hosting around 8 to prep for Glizz and Glam. Bartop was quiet so they went to one bartender around 9, and Jada rocked the rest of the night solo with an assist from Elliot. Devan flexed across the floor and host duties. Last call at 11:30, everyone out by 12:15. Kitchen had a decent night on low covers. Maintenance: service entrance flooring, curtains. No incidents; no no-shows. Net $3,079.60 vs $3,289.48 target (−6.4%), 52 guests (17 reso / 35 walk-in), $59.22 check avg, food $542.60, comps $17 (DNL). Favorite moment: everyone's sigh of relief making it from the patio into the marquee."
+      "narrative": "**DC \u2014 Wednesday 7/1 (MOD Josh/Marcus):** Hot night in DC (98\u00b0, heat advisory). Understandably slow start with just 22 on the books and little foot traffic; Mariah was relieved from hosting around 8 to prep for Glizz and Glam. Bartop was quiet so they went to one bartender around 9, and Jada rocked the rest of the night solo with an assist from Elliot. Devan flexed across the floor and host duties. Last call at 11:30, everyone out by 12:15. Kitchen had a decent night on low covers. Maintenance: service entrance flooring, curtains. No incidents; no no-shows. Net $3,079.60 vs $3,289.48 target (\u22126.4%), 52 guests (17 reso / 35 walk-in), $59.22 check avg, food $542.60, comps $17 (DNL). Favorite moment: everyone's sigh of relief making it from the patio into the marquee."
     },
     {
       "id": "mg",
@@ -110,7 +110,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG F&B — Wednesday 7/1 (AM Justin/Marcus, PM Braden/Drew):** Very slow morning for Municipal Bar — one server was plenty, mostly hotel guests (8 covers, $430). Quiet evening (72 covers, $3,366): cut first server at 8 and host at 9, same with bar. The ghost-tour lady brought some people in for to-go drinks. One comp for a DNL on mussels (not enough broth). Sun Club calm ($317) — Samantha had a few hotel guests after opening. Hot Eye not open. Maintenance: Y peelers; linen-room aroma drifting into the Hot Eye hallway on hot days. No incidents. Net $3,796 vs $5,200 target (−27.0%), ~80 guests, $47.45 check avg, food $1,387, comps $124. Favorite moment: Miss Alexis coming in for some to-go food."
+      "narrative": "**MG F&B \u2014 Wednesday 7/1 (AM Justin/Marcus, PM Braden/Drew):** Very slow morning for Municipal Bar \u2014 one server was plenty, mostly hotel guests (8 covers, $430). Quiet evening (72 covers, $3,366): cut first server at 8 and host at 9, same with bar. The ghost-tour lady brought some people in for to-go drinks. One comp for a DNL on mussels (not enough broth). Sun Club calm ($317) \u2014 Samantha had a few hotel guests after opening. Hot Eye not open. Maintenance: Y peelers; linen-room aroma drifting into the Hot Eye hallway on hot days. No incidents. Net $3,796 vs $5,200 target (\u221227.0%), ~80 guests, $47.45 check avg, food $1,387, comps $124. Favorite moment: Miss Alexis coming in for some to-go food."
     }
   ]
 }
