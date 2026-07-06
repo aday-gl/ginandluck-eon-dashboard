@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Sunday 7/5 EON report submitted as of ~07:12 EDT on 7/6. #ccatl_eon_report latest entry is the Friday 7/3 report (posted 7/4 02:24 EDT) — no 7/4 or 7/5 report has posted. CCATL typically posts next-morning; will retry on the noon catch-up pass."
+      "narrative": "No Sunday 7/5 EON report submitted as of the 12:11 EDT catch-up pass on 7/6. #ccatl_eon_report latest entry is still the Friday 7/3 report (posted 7/4 02:24 EDT) — no 7/4 or 7/5 report has posted. CCATL appears dark for the July 4th holiday weekend; will keep retrying on subsequent passes until it posts or ages out of the 7-day window."
     },
     {
       "id": "ccnsh",
@@ -54,18 +54,18 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": 0,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": "",
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "net_sales": 2450.0,
+      "target": 3913.0,
+      "comps": 119.5,
+      "guests": 110,
+      "check_avg": 23.0,
+      "weather": "Late storms; dregs of prior-day NYC declared emergency",
+      "food_sales": 199.0,
+      "beverage_sales": 2225.0,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No Sunday 7/5 EON report submitted as of ~07:12 EDT on 7/6. #ev_eon_reports latest entry is the Friday 7/3 report (posted 7/4 17:49 EDT — EV routinely posts a full day late) — no 7/4 or 7/5 report has posted. Will retry on the noon catch-up pass and subsequent passes."
+      "narrative": "**EV — Sunday 7/5 (MOD/Chef: Thomas & Alejandro).** Net sales $2,450 vs a $3,913 target (−37%); beverage $2,225, food $199, retail $26; comps $119.50; 110 guests (Sevenrooms) at a $23 check average. A night that shifted from an 'arctically bleak' date night to a quiet-but-acceptable crowd — painfully dead early, to be expected after the July 4th weekend, with rain around 10:30pm dropping foot traffic to near zero before a small midnight crowd. 1 cancellation and 2 no-shows. Later in the evening a five-top celebrating a 40th birthday brought some life; the team did well inculcating regulars. Top sellers: Crowd Work, Burner Phone, Bell & Vine. Backfilled on the 12:11 EDT catch-up pass (report posted 7/6 11:40 EDT). Note: speed rail on point feels loose (maintenance). No incidents."
     },
     {
       "id": "la",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Sunday 7/5 EON report submitted as of ~07:12 EDT on 7/6. #dc_eon_report latest entry is the Friday 7/3 report (posted 7/4 02:57 EDT) — no 7/4 or 7/5 report has posted. DCDC typically posts next-morning; will retry on the noon catch-up pass."
+      "narrative": "No Sunday 7/5 EON report submitted as of the 12:11 EDT catch-up pass on 7/6. #dc_eon_report latest entry is still the Friday 7/3 report (posted 7/4 02:57 EDT) — no 7/4 or 7/5 report has posted. DCDC appears dark for the July 4th holiday weekend; will keep retrying on subsequent passes until it posts or ages out of the 7-day window."
     },
     {
       "id": "mg",
