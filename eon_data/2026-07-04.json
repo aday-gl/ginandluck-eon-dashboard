@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Saturday 7/4 EON report submitted as of ~07:00 EDT on 7/5. #ccatl_eon_report latest entry is the Friday 7/3 report (posted 7/4 02:24 EDT). CCATL typically posts next-morning; will retry on the noon catch-up pass."
+      "narrative": "No Saturday 7/4 EON report submitted as of the 12:11 EDT catch-up pass on 7/6 (re-checked; July 4th holiday weekend — venue appears dark). #ccatl_eon_report latest entry is the Friday 7/3 report (posted 7/4 02:24 EDT). CCATL typically posts next-morning; will retry on the noon catch-up pass."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Saturday 7/4 EON report submitted as of ~07:00 EDT on 7/5. #ccnsh_eon_report latest entry is the Friday 7/3 report (posted 7/4 05:14 EDT). CCNSH typically posts next-morning; will retry on the noon catch-up pass."
+      "narrative": "No Saturday 7/4 EON report submitted as of the 12:11 EDT catch-up pass on 7/6 (re-checked; July 4th holiday weekend — venue appears dark). #ccnsh_eon_report latest entry is the Friday 7/3 report (posted 7/4 05:14 EDT). CCNSH typically posts next-morning; will retry on the noon catch-up pass."
     },
     {
       "id": "dvr",
@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Saturday 7/4 EON report submitted as of ~07:00 EDT on 7/5. #ev_eon_reports latest entry is the Friday 7/3 report (posted 7/4 17:49 EDT — EV routinely posts a full day late). Will retry on the noon catch-up pass and subsequent passes."
+      "narrative": "No Saturday 7/4 EON report submitted as of the 12:11 EDT catch-up pass on 7/6 (re-checked; July 4th holiday weekend — venue appears dark). #ev_eon_reports latest entry is the Friday 7/3 report (posted 7/4 17:49 EDT — EV routinely posts a full day late). Will retry on the noon catch-up pass and subsequent passes."
     },
     {
       "id": "la",
@@ -81,7 +81,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Saturday 7/4 EON report submitted as of ~07:00 EDT on 7/5. #la_eon_reports latest entry is the Friday 7/3 report (posted 7/4 05:37 EDT). LA typically posts next-morning; will retry on the noon catch-up pass."
+      "narrative": "No Saturday 7/4 EON report submitted as of the 12:11 EDT catch-up pass on 7/6 (re-checked; July 4th holiday weekend — venue appears dark). #la_eon_reports latest entry is the Friday 7/3 report (posted 7/4 05:37 EDT). LA typically posts next-morning; will retry on the noon catch-up pass."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Saturday 7/4 EON report submitted as of ~07:00 EDT on 7/5. #dc_eon_report latest entry is the Friday 7/3 report (posted 7/4 02:57 EDT). DCDC typically posts next-morning; will retry on the noon catch-up pass."
+      "narrative": "No Saturday 7/4 EON report submitted as of the 12:11 EDT catch-up pass on 7/6 (re-checked; July 4th holiday weekend — venue appears dark). #dc_eon_report latest entry is the Friday 7/3 report (posted 7/4 02:57 EDT). DCDC typically posts next-morning; will retry on the noon catch-up pass."
     },
     {
       "id": "mg",
