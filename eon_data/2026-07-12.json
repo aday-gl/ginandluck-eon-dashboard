@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**CCATL** \u2014 No Sunday 7/12 EON report submitted as of the 7/13 catch-up pass. #ccatl_eon_report latest entry is still the Saturday 7/11 report. Will retry next pass; ages out of the 7-day backfill window shortly."
+      "narrative": "**CCATL \u2014 Sunday, July 12, 2026** \u2014 CC Atlanta is closed on Sundays; no EON report is expected. Dark day, not an outstanding report."
     },
     {
       "id": "ccnsh",
