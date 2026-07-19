@@ -70,18 +70,18 @@
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": 0,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 12233.0,
+      "target": 11890.0,
+      "comps": 511.0,
+      "guests": 316,
+      "check_avg": 93.38,
+      "weather": "A humid day in LA",
+      "food_sales": 2146.0,
       "beverage_sales": null,
       "event_sales": null,
-      "missing": true,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**LA** \u2014 No Saturday 7/18 EON report submitted as of the 7/19 early-morning pass (~5:35am ET / 2:35am PT). Latest entry in #la_eon_reports is the Friday 7/17 report. Will retry next pass."
+      "narrative": "**LA \u2014 Saturday, July 18, 2026** (MOD & Chef: Gigi + Joe + Josh + Saleh; entered by Joe)\n\n**Sales:** Net sales $12,233 vs target $11,890 (+2.9%). Food sales $2,146. Standing Room $2,807; Marquee $9,426. Comps $511 (Vic, Yiban, Bird, 40th birthday party, Ryan, Chef from Meteora, Kaneda, birthdays, anniversaries, investors, DNL, service recovery). Guests 316; check average $93.38. Weather: a humid day in LA.\n\n**Notes:** A very busy Saturday night \u2014 opened with 116 covers plus lots of large-party reservations and walk-ins. Slow first hour, but by 7pm the entire room was filled and standing room built from there; big push at 8pm, then both rooms stayed full until 12:30am. Down a host, but Ruffy and Gigi held down the floor and host stand. Lots of familiar faces in for drinks; service flow felt great and never overwhelming. Kitchen: busy night. No incidents; no-shows charged."
     },
     {
       "id": "dc",
