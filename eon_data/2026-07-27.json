@@ -49,7 +49,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Monday 7/27.** No report submitted as of 7/30 pass (3 days); will retry next pass."
+      "narrative": "**DVR \u2014 Monday 7/27.** No report submitted as of 7/30 noon pass (3 days outstanding); channel and search both checked. Will retry next pass."
     },
     {
       "id": "ev",
