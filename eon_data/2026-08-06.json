@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Thursday 8/6.** No report submitted as of 8/7 morning pass (channel checked through post time); will retry next pass."
+      "narrative": "**EV \u2014 Thursday 8/6.** No report submitted as of 8/8 ~7am pass (channel re-checked; newest EV report remains 8/5). Will retry next pass."
     },
     {
       "id": "la",
