@@ -54,18 +54,18 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "net_sales": 7985.0,
+      "target": 8131.0,
+      "comps": 143.01,
+      "guests": 224,
+      "check_avg": 36.0,
+      "weather": "Humid then rainy and muggy",
+      "food_sales": 400.0,
+      "beverage_sales": 7523.0,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Friday 8/7.** No report submitted as of 8/8 ~7am pass (channel checked; newest EV report is 8/5). Will retry next pass."
+      "narrative": "**EV \u2014 Friday 8/7** MOD & Chef: Kyle. Weather: Humid then rainy and muggy. Busy night despite extreme lulls at the bookends of the shift due to torrential downpour and humidity. Great line at the door at open, but a 6:05pm thunderstorm washed foot traffic away; quiet 7pm, emptied a bit by 8pm. After 8:30pm it returned to a bumping Friday night with a steady 1-2 hour waitlist for larger parties; reservations came early and all were squeezed in. Slowed at 12:30am, then another 1am wave filled the room back up. Legend Joaquin Simo visited with two childhood friends; investor Leland O'Connor stopped in. Celebrated a midnight birthday 5-top and a 20th anniversary. SevenRooms glitch marking a table paid recurred. No-shows: Ashton Brewley (2 @ 6pm), Mike Callari (2 @ 12am) \u2014 charged. Top sellers: Paper Was(p), Native Lion, Rosalie. Retail sales $62. Menu 19/19. Breakage: sidecar top, 2x v-martinis. Entered by Sean."
     },
     {
       "id": "la",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Friday 8/7.** No report submitted as of 8/8 ~7am pass (channel checked; newest DC report is 8/6). Will retry next pass."
+      "narrative": "No report submitted as of Aug 8 12:00pm pass; will retry next pass."
     },
     {
       "id": "mg",
