@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No report submitted as of Aug 8 12:00pm pass; will retry next pass."
+      "narrative": "No report submitted as of Aug 9 12:00pm pass (channel history complete; report was never filed)."
     },
     {
       "id": "la",
