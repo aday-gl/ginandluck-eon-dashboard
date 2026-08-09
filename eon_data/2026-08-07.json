@@ -86,18 +86,18 @@
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 8157.1,
+      "target": 9446.0,
+      "comps": 334.6,
+      "guests": 207,
+      "check_avg": 42.93,
+      "weather": "Hot, light rain and lightning at night",
+      "food_sales": 1096.3,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of Aug 8 12:00pm pass; will retry next pass."
+      "narrative": "**DC \u2014 Friday 8/7.** MOD Marcus / Josh. Net incl events $8,157.10 vs $9,446 target (-13.6%). Marquee bar sales $10,656.97; food $1,096.30; Garden closed due to heat. Comps $334.60 + voids $70 (investor, F&F, walk-out, avoidable mistakes). 207 guests; GCA $42.93. Extremely hot day with light rain/lightning at night \u2014 on-and-off flow as guests escaped the heat, which kept things moving through lulls. Waitlist moved quickly, no one turned away. Service smooth; continuing to work ticket passing and door comms at pre-shift. Kitchen: good night, top sellers B&B and cheese plate. Maintenance: carb hose leak, lodged outlet at bar top 1, repaint entry step rails. No incidents; no-shows not charged. Favorite: Leel coming by for a couple rounds. Entered by Josh (submitted next afternoon)."
     },
     {
       "id": "mg",
