@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No report submitted as of Aug 9 7:00am pass; will retry next pass."
+      "narrative": "No report submitted as of Aug 9 12:00pm pass (channel + workspace search checked); will retry next pass."
     },
     {
       "id": "mg",
