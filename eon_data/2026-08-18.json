@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No EON report submitted for Tuesday 8/18. Rechecked on the 8/20 7:00am pass: #ev_eon_reports goes from the 8/17 report (posted 8/17 11:03pm) straight to the 8/19 report (posted 8/19 11:07pm). Outstanding 2 days; will retry next pass. Rechecked on the 8/20 12:00pm pass: still no report in #ev_eon_reports (channel jumps over this date); remains outstanding."
+      "narrative": "No EON report submitted for Tuesday 8/18. Rechecked on the 8/21 pass: #ev_eon_reports still has no report for this date (verified via channel history and Slack search). Will keep checking on subsequent passes while within the 7-day window."
     },
     {
       "id": "la",
