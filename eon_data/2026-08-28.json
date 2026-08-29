@@ -50,15 +50,18 @@
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "missing": true,
+      "net_sales": 7134.0,
+      "target": 7924.0,
+      "comps": 216.4,
+      "guests": 222,
+      "check_avg": 32.0,
+      "weather": "Crisp fall evening",
+      "food_sales": 364.0,
+      "beverage_sales": 6770.0,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of 7:10am 8/29 pass; will retry next pass."
+      "narrative": "**EV Friday 8/28 \u2014 MOD: Kyler.** Net sales $7,134 vs target $7,924. 222 guests, $32 check avg, comps $216.40. Food $364 / beverage $6,770 / retail $0 / events $0. Crisp fall evening. Overall smooth night with strong momentum in the 2nd and 4th 'quarters' and lulls in the 1st and 3rd; plenty of industry folks stopped in, and later in the night the team sat twos at 8 and 9 to keep the vibe up. All food sales came from snacks. Top sellers: Rosalie, Cloudwalk, Shinebox (tie). Door: slow 6pm start with reservations staggering in; truly full by 7:30pm with a waitlist up to 2 hours (mostly duos). Welcomed many members and investors, 3 birthdays (incl. a 21st) and 2 anniversaries; Al Sotack, Korissa Matta (NY market manager, Juliette), and Alex McCutchen + 5 stopped in. Slowed at 1am but everything except the rail was sat at 1:30am. 3 no-shows (charged). Breakage: 2 DOF, 1 pilsner, 1 egg coupe. Menu count 19/19. Entered by Sean."
     },
     {
       "id": "la",
@@ -78,15 +81,18 @@
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "missing": true,
+      "net_sales": 8572.31,
+      "target": 8845.0,
+      "comps": 3.1,
+      "guests": 204,
+      "check_avg": 40.25,
+      "weather": "Hot",
+      "food_sales": 1307.0,
+      "beverage_sales": null,
+      "event_sales": null,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of 7:10am 8/29 pass; will retry next pass."
+      "narrative": "**DC Friday 8/28 \u2014 MOD: Marcus/Josh.** Total net sales incl. events $8,572.31 vs target $8,845. Marquee bar sales $7,873.31, Garden $699, food $1,307. 204 guests, GCA $40.25 (CA $77.22). Comps $3.10, voids $96. Hot day (low 90s): Garden slow early as guests moved inside, picked up after 8:30pm with a full bar top and a large six-top; handhelds kept losing connection despite restarts. Marquee started slow then filled quickly around 8pm \u2014 full bar top and floor, good host communication managing the waitlist. Coaching notes: more proactive water service, pre-bussing, and guest engagement on the floor. Kitchen: Rassan ran the line solo and kept up; fried chicken, potatoes, and bread & butter were top sellers. Maintenance: garbage disposal (awaiting ResQ), leak in ice machine. Favorite moment: Charles from The Dabney popping in for a bev. No-shows not charged. Entered by Josh."
     },
     {
       "id": "mg",
