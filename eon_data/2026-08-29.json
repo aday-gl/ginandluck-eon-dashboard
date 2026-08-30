@@ -62,7 +62,7 @@
       "weather": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No report submitted as of 8/30 morning pass; will retry next pass."
+      "narrative": "No report submitted as of Sun 8/30 noon pass; will retry next pass."
     },
     {
       "id": "la",
