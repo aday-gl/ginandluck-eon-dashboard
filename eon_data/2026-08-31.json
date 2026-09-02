@@ -114,6 +114,22 @@
       "missing": false,
       "data_source": "slack",
       "narrative": "**MG — Monday 8/31.** Net $2,340 vs $3,000 target (-22%). Municipal Bar AM $338 (5 guests, Sam MOD); PM $1,904 (55 guests, Justin & Marcus); Sun Club $98; Hot Eye $0. Food $1,068; events $0; comps $54.70. Slow morning — Tia held it solo, Madeleine trained on opening but left early. Evening: Eva and Sierra on the floor, one bartender with Kaylee barbacking; a second bartender knocked out inventory during the slow day. Good pop at 9pm — near-full bar and all 40s sat 9–10, then everyone left by 10:30; very early night. Sun Club: lazy day, 2 customers, 2 frozens. Kitchen: low on caviar — ordered from WCW pending Paramount switch; no AM prep person so line needs to prep green goddess. No injuries/incidents. Favorite moment: Kaylee shaking an espresso martini for a bar guest. Entered by Justin (submitted a day late, 9:39am 9/1)."
+    },
+    {
+      "id": "sea",
+      "name": "D&C Seattle",
+      "net_sales": 4089.0,
+      "target": null,
+      "comps": 4221.0,
+      "guests": 136,
+      "check_avg": 30.5,
+      "weather": "Sunny, high of 74",
+      "food_sales": 745.0,
+      "beverage_sales": null,
+      "event_sales": 0,
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**SEA — Monday 8/31. Friends & Family Night 2 (industry; pre-opening; no sales target set; comps $4,221 — the F&F comp button was inactive for the first 3 hours, so employee discounts ran high).** Net $4,089, food $745, 136 guests / $30.50 check avg. Strong start; Malachi took ownership of the door and spirits stayed high all night. Floor full of industry friends; squeezed in extra walk-ins who couldn't get reservations. Night loosened toward the end but the room cleared naturally to a decent close. High compliments from respected industry and community folks. Kitchen: Josh and Wes crushed it; one small pause from running out of bread — hand-shopping more tomorrow, need a permanent bread solve ASAP. 86'd/low: Censor, Negroni Verde (strain tomorrow), tartare (make fresh tomorrow), bread, C-folds. No incidents; no-shows not charged. Favorite moment: the warmth of the industry glowing in the bar. MOD Curtis Hayes. Entered by Curtis Hayes."
     }
   ]
 }
