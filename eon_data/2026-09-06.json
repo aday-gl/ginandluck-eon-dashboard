@@ -15,7 +15,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**CCATL — Sunday 9/6.** Close Company Atlanta is closed on Sundays; no EON report is submitted. Dark day, not an outstanding report.",
+      "narrative": "**CCATL \u2014 Sunday 9/6.** Close Company Atlanta is closed on Sundays; no EON report is submitted. Dark day, not an outstanding report.",
       "missing": true,
       "data_source": "slack"
     },
@@ -31,7 +31,7 @@
       "food_sales": 177.0,
       "beverage_sales": null,
       "event_sales": 0.0,
-      "narrative": "**CCNSH — Sunday 9/6 (MOD KE / Chef DJ).** Net sales $4,254 vs target $1,348. Food $177. Comps $84 (1.9%). 131 guests, $32.48 check avg. A nice punctuation to the week — relatively busy. Steady push until 6, slowed for about 90 minutes, then ended strong from 9:30 to midnight. A birthday party and a wedding party came in with 10–15 people each. Investor Cambel Brown came in and spent time with friends trying the different cocktails. Kitchen: smooth sailing. 86'd: Lassi. No incidents; no-shows not charged. Favorite moment: regular Gabe (a dad and traveling musician) back from weeks on the road — first stop after settling in with his family.",
+      "narrative": "**CCNSH \u2014 Sunday 9/6 (MOD KE / Chef DJ).** Net sales $4,254 vs target $1,348. Food $177. Comps $84 (1.9%). 131 guests, $32.48 check avg. A nice punctuation to the week \u2014 relatively busy. Steady push until 6, slowed for about 90 minutes, then ended strong from 9:30 to midnight. A birthday party and a wedding party came in with 10\u201315 people each. Investor Cambel Brown came in and spent time with friends trying the different cocktails. Kitchen: smooth sailing. 86'd: Lassi. No incidents; no-shows not charged. Favorite moment: regular Gabe (a dad and traveling musician) back from weeks on the road \u2014 first stop after settling in with his family.",
       "missing": false,
       "data_source": "slack"
     },
@@ -47,7 +47,7 @@
       "food_sales": 3018.5,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**DVR — Sunday 9/6 (AM Maggie & Rachel; PM Carey).** Total net sales incl. events $16,299.42 vs target $10,632. AM $2,324.07 / D&C PM $13,975.35 / Garden-6A $3,971.68. Food $3,018.50. No events. Comps $405.90 (2.5%). 267 guests (Tock), ~$61 check avg. AM: got rocked — Heather on POS/espresso, a few IRDs and a bunch of cocktails, hit hard with pops until 3. PM: very busy night, down one in the bar, down one in the Garden, a server switcheroo on the floor; team pulled out a ~$17K Sunday and felt it. Garden solo with assists from Kodi and Daunte on a Fro Spro batch. Kitchen mostly slow with a couple of entree pops near close. Incident/injury reported: Yes (no detail given). Maintenance: lights under Garden Bar won't turn on. No-shows not charged. Favorite moment: team said it was actually a fun evening despite running around all night.",
+      "narrative": "**DVR \u2014 Sunday 9/6 (AM Maggie & Rachel; PM Carey).** Total net sales incl. events $16,299.42 vs target $10,632. AM $2,324.07 / D&C PM $13,975.35 / Garden-6A $3,971.68. Food $3,018.50. No events. Comps $405.90 (2.5%). 267 guests (Tock), ~$61 check avg. AM: got rocked \u2014 Heather on POS/espresso, a few IRDs and a bunch of cocktails, hit hard with pops until 3. PM: very busy night, down one in the bar, down one in the Garden, a server switcheroo on the floor; team pulled out a ~$17K Sunday and felt it. Garden solo with assists from Kodi and Daunte on a Fro Spro batch. Kitchen mostly slow with a couple of entree pops near close. Incident/injury reported: Yes (no detail given). Maintenance: lights under Garden Bar won't turn on. No-shows not charged. Favorite moment: team said it was actually a fun evening despite running around all night.",
       "missing": false,
       "data_source": "slack"
     },
@@ -63,7 +63,7 @@
       "food_sales": 104.0,
       "beverage_sales": 6236.0,
       "event_sales": 0.0,
-      "narrative": "**EV — Sunday 9/6 (MOD Kyler).** Total EOD net sales $6,390 vs target $3,942. Beverage $6,236, food $104 (no real kitchen). Comps $177.03. 204 guests (SevenRooms), $31 check avg. After a chill first turn, ran full for ~4.5 hours with a late, lively crowd; kept things active later and looking at a 2am Sunday close. Tight, well-coordinated service. US Open crowd again a boost. Would have run well over $7K with a full kitchen. 3 large parties, 4 solos, 4 investor cocktails. Top sellers: Rosalie, Paper Wasp, Burner Phone. Door: started slow, amped up around 8 and stayed full; fire alarm outside for hours; industry friends, 3 anniversaries, a couple birthdays, a bridal shower. No no-shows. Menu count 18. Breakage: 1 tulip, 1 flute (guest broke, tipped extra $20). Entered by Thomas.",
+      "narrative": "**EV \u2014 Sunday 9/6 (MOD Kyler).** Total EOD net sales $6,390 vs target $3,942. Beverage $6,236, food $104 (no real kitchen). Comps $177.03. 204 guests (SevenRooms), $31 check avg. After a chill first turn, ran full for ~4.5 hours with a late, lively crowd; kept things active later and looking at a 2am Sunday close. Tight, well-coordinated service. US Open crowd again a boost. Would have run well over $7K with a full kitchen. 3 large parties, 4 solos, 4 investor cocktails. Top sellers: Rosalie, Paper Wasp, Burner Phone. Door: started slow, amped up around 8 and stayed full; fire alarm outside for hours; industry friends, 3 anniversaries, a couple birthdays, a bridal shower. No no-shows. Menu count 18. Breakage: 1 tulip, 1 flute (guest broke, tipped extra $20). Entered by Thomas.",
       "missing": false,
       "data_source": "slack"
     },
@@ -79,24 +79,24 @@
       "food_sales": 1480.0,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**LA — Sunday 9/6 (MOD Joe / Chef Oscar).** Net sales $7,542 vs target $4,848. Food $1,480. Standing Room $0. Comps $260 (Saleh, Nathan, Bird, Michael, birthdays, anniversary, walk-out, DNL). 184 guests, $100.57 check avg. Very busy Sunday before Labor Day: opened with 70 covers, walk-ins filled the room by 7pm, bulk of reservations 6–8pm captured most of the sales. Waitlist from 7:30 and stayed active all night; team burned and turned to seat every party in a timely fashion. Lorenzo crushed his first live security shift. Busy night for the kitchen — shoutout to Oscar. Full house at close but a smooth ending. No incidents; no-shows charged. Favorite moment: teamwork across the board.",
+      "narrative": "**LA \u2014 Sunday 9/6 (MOD Joe / Chef Oscar).** Net sales $7,542 vs target $4,848. Food $1,480. Standing Room $0. Comps $260 (Saleh, Nathan, Bird, Michael, birthdays, anniversary, walk-out, DNL). 184 guests, $100.57 check avg. Very busy Sunday before Labor Day: opened with 70 covers, walk-ins filled the room by 7pm, bulk of reservations 6\u20138pm captured most of the sales. Waitlist from 7:30 and stayed active all night; team burned and turned to seat every party in a timely fashion. Lorenzo crushed his first live security shift. Busy night for the kitchen \u2014 shoutout to Oscar. Full house at close but a smooth ending. No incidents; no-shows charged. Favorite moment: teamwork across the board.",
       "missing": false,
       "data_source": "slack"
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 6341.58,
+      "target": 1963.0,
+      "comps": 143.05,
+      "guests": 188,
+      "check_avg": 33.73,
+      "weather": "Sunny & Blue Skies",
+      "food_sales": 763.0,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**DC — Sunday 9/6.** No report submitted as of 9/7 7:20am ET; will retry next pass.",
-      "missing": true,
+      "narrative": "**DC \u2014 Sunday 9/6 (MOD Josh).** Total net sales incl. events $6,341.58 vs target $1,963 (+223%). Marquee bar $6,341.58; Garden closed; Food $763. Comps $143.05, voids $478. Guests 188 (GCA $38.43 / CA $93.32). Weather sunny & blue skies. Busy Sunday: slow first 45 min, then a 20-top at 5:30pm plus large HYROX and Labor Day walk-in parties filled both rooms through last call; last call extended an hour at 9:30pm. Down a barback, MOD floated bar/floor; extra scheduled server was necessary. Kitchen (Rassan) kept plates moving despite dish backups. Went well: hustle, communication, foot traffic. Improve: attentiveness. No incidents; no-shows not charged. Maintenance: loose patio panel in garden, ice machine leaking; CO2 fixed. Report submitted 9/7 10:43am ET.",
+      "missing": false,
       "data_source": "slack"
     },
     {
@@ -111,7 +111,7 @@
       "food_sales": 5846.0,
       "beverage_sales": null,
       "event_sales": 0.0,
-      "narrative": "**MG — Sunday 9/6 (AM Braden & Lex; PM Justin & Marcus).** Total net sales $16,612 vs target $7,410. Municipal Bar AM $4,142 / PM $8,333, Sun Club $506, Hot Eye $3,631. Food $5,846. No events. Comps $458. Guests 375 (129 AM + 246 PM OpenTable), ~$44 check avg. AM: great busy brunch (no AM write-up). PM: holiday-weekend Sunday paced much like Saturday — decent happy hour, lull at 6:30, walk-ins from 8:30 through close; four servers cut to two by 10; fair amount of IRD; bar full most of the night; no waitlist needed. Sun Club: Labor Day shindig rained out around 4 by the lightning storm, closed early. Hot Eye: full house by 9:30, at capacity by 11, DJ Maggie brought a ton of new faces, whole room became a dance floor, highest Sunday sales yet — 'live music feeds Hot Eye.' Kitchen: busy; 86'd romaine and garlic until tomorrow's truck. Maintenance: a piece of ceiling fell in THE — no one injured. Favorite moment: Earl got a rave review on his second live floor shift; Ezra stayed to close.",
+      "narrative": "**MG \u2014 Sunday 9/6 (AM Braden & Lex; PM Justin & Marcus).** Total net sales $16,612 vs target $7,410. Municipal Bar AM $4,142 / PM $8,333, Sun Club $506, Hot Eye $3,631. Food $5,846. No events. Comps $458. Guests 375 (129 AM + 246 PM OpenTable), ~$44 check avg. AM: great busy brunch (no AM write-up). PM: holiday-weekend Sunday paced much like Saturday \u2014 decent happy hour, lull at 6:30, walk-ins from 8:30 through close; four servers cut to two by 10; fair amount of IRD; bar full most of the night; no waitlist needed. Sun Club: Labor Day shindig rained out around 4 by the lightning storm, closed early. Hot Eye: full house by 9:30, at capacity by 11, DJ Maggie brought a ton of new faces, whole room became a dance floor, highest Sunday sales yet \u2014 'live music feeds Hot Eye.' Kitchen: busy; 86'd romaine and garlic until tomorrow's truck. Maintenance: a piece of ceiling fell in THE \u2014 no one injured. Favorite moment: Earl got a rave review on his second live floor shift; Ezra stayed to close.",
       "missing": false,
       "data_source": "slack"
     },
@@ -127,7 +127,7 @@
       "food_sales": 0.0,
       "beverage_sales": null,
       "event_sales": 0.0,
-      "narrative": "**SEA — Sunday 9/6 (MOD Curtis Hayes).** Net sales $9,330 vs target $10,000. Food $0 (kitchen closed for the day — Josh off to recoup; snacks only). No events. Comps $327.21 (3.5%; a few VIPs and DNLs, nothing major). 229 guests, $40.57 check avg. Ripped a $9K Sunday with a heavy initial push from the line out the door; Malachi held court on the door, swapping people in and out and accommodating a 12-top. Late night is a drop-off point with a noticeable attitude shift in guests arriving from other destinations. Daisey and Alex S ran the floor smoothly with two; bar team (Frank in service, Alex T on 300, Alexis on 200) was a unit; Sophie soldiered on barback. Big pushes 4–7. 86'd: Brooklyn, all food, hojicha, Reserve NF, Reserve Mai Tai, Ruby Beauty (lassi mix). No incidents; no-shows not charged. Favorite moment: old friends came in, pumped on the space.",
+      "narrative": "**SEA \u2014 Sunday 9/6 (MOD Curtis Hayes).** Net sales $9,330 vs target $10,000. Food $0 (kitchen closed for the day \u2014 Josh off to recoup; snacks only). No events. Comps $327.21 (3.5%; a few VIPs and DNLs, nothing major). 229 guests, $40.57 check avg. Ripped a $9K Sunday with a heavy initial push from the line out the door; Malachi held court on the door, swapping people in and out and accommodating a 12-top. Late night is a drop-off point with a noticeable attitude shift in guests arriving from other destinations. Daisey and Alex S ran the floor smoothly with two; bar team (Frank in service, Alex T on 300, Alexis on 200) was a unit; Sophie soldiered on barback. Big pushes 4\u20137. 86'd: Brooklyn, all food, hojicha, Reserve NF, Reserve Mai Tai, Ruby Beauty (lassi mix). No incidents; no-shows not charged. Favorite moment: old friends came in, pumped on the space.",
       "missing": false,
       "data_source": "slack"
     }
