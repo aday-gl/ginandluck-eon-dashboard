@@ -247,6 +247,61 @@ def _day_totals(day: dict):
     return (net, tgt, have)
 
 
+# ---------------------------------------------------------------------------
+# Password gate (client-side). SHA-256 of the passphrase; plaintext is never in
+# the page. sessionStorage remembers an unlock for the browser tab session, so
+# index.html -> EON_Dashboard.html only asks once. Deters casual viewers only —
+# the data is still in the page source for anyone determined.
+# ---------------------------------------------------------------------------
+GATE_HASH = "0699d322bcc2664ad140b28237c841719552eb4801019391dd8a439ca1e03a43"
+GATE_MARK = "<!-- gl-gate -->"
+GATE_HTML = GATE_MARK + r'''
+<style id="gl-gate-css">
+body:not(.gl-open)>*:not(#gl-gate){display:none!important}
+#gl-gate{position:fixed;inset:0;z-index:99999;background:#0F1117;display:flex;align-items:center;justify-content:center;font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif}
+body.gl-open #gl-gate{display:none}
+#gl-gate form{background:#1A1D27;border:1px solid #2A2D3A;border-radius:14px;padding:32px;width:320px;text-align:center}
+#gl-gate h2{color:#fff;font-size:16px;margin:0 0 6px}
+#gl-gate p{color:#777;font-size:12px;margin:0 0 18px}
+#gl-gate input{width:100%;box-sizing:border-box;padding:11px 12px;border-radius:8px;border:1px solid #2A2D3A;background:#0F1117;color:#fff;font-size:15px;outline:none;margin-bottom:12px}
+#gl-gate input:focus{border-color:#5BC88A}
+#gl-gate button{width:100%;padding:11px;border:0;border-radius:8px;background:#5BC88A;color:#0F1117;font-weight:700;font-size:14px;cursor:pointer}
+#gl-gate .err{color:#E87A7A;font-size:12px;margin-top:10px;min-height:14px}
+</style>
+<div id="gl-gate"><form id="gl-gate-form" autocomplete="off">
+<h2>G&amp;L EON Reports</h2><p>Enter the password to continue</p>
+<input id="gl-gate-pw" type="password" placeholder="Password" autofocus>
+<button type="submit">Unlock</button><div class="err" id="gl-gate-err"></div>
+</form></div>
+<script>
+(function(){
+var H="__HASH__",K="gl_eon_unlocked";
+function sha256(s){var K=[1116352408,1899447441,3049323471,3921009573,961987163,1508970993,2453635748,2870763221,3624381080,310598401,607225278,1426881987,1925078388,2162078206,2614888103,3248222580,3835390401,4022224774,264347078,604807628,770255983,1249150122,1555081692,1996064986,2554220882,2821834349,2952996808,3210313671,3336571891,3584528711,113926993,338241895,666307205,773529912,1294757372,1396182291,1695183700,1986661051,2177026350,2456956037,2730485921,2820302411,3259730800,3345764771,3516065817,3600352804,4094571909,275423344,430227734,506948616,659060556,883997877,958139571,1322822218,1537002063,1747873779,1955562222,2024104815,2227730452,2361852424,2428436474,2756734187,3204031479,3329325298];var h=[1779033703,3144134277,1013904242,2773480762,1359893119,2600822924,528734635,1541459225];var b=unescape(encodeURIComponent(s)),l=b.length*8,w=[],i;for(i=0;i<b.length;i++)w[i>>2]|=b.charCodeAt(i)<<(24-(i%4)*8);w[l>>5]|=0x80<<(24-l%32);w[((l+64>>9)<<4)+15]=l;var W=new Array(64),r=function(x,n){return(x>>>n)|(x<<(32-n))};for(var j=0;j<w.length;j+=16){var a=h[0],c=h[1],d=h[2],e=h[3],f=h[4],g=h[5],p=h[6],q=h[7];for(i=0;i<64;i++){W[i]=i<16?(w[j+i]|0):((r(W[i-2],17)^r(W[i-2],19)^(W[i-2]>>>10))+W[i-7]+(r(W[i-15],7)^r(W[i-15],18)^(W[i-15]>>>3))+W[i-16])|0;var t1=(q+(r(f,6)^r(f,11)^r(f,25))+((f&g)^(~f&p))+K[i]+W[i])|0,t2=((r(a,2)^r(a,13)^r(a,22))+((a&c)^(a&d)^(c&d)))|0;q=p;p=g;g=f;f=(e+t1)|0;e=d;d=c;c=a;a=(t1+t2)|0}h[0]=(h[0]+a)|0;h[1]=(h[1]+c)|0;h[2]=(h[2]+d)|0;h[3]=(h[3]+e)|0;h[4]=(h[4]+f)|0;h[5]=(h[5]+g)|0;h[6]=(h[6]+p)|0;h[7]=(h[7]+q)|0}var o="";for(i=0;i<8;i++)o+=("00000000"+(h[i]>>>0).toString(16)).slice(-8);return o}
+function open(){document.body.classList.add("gl-open");}
+try{if(sessionStorage.getItem(K)===H){open();}}catch(e){}
+document.getElementById("gl-gate-form").addEventListener("submit",function(ev){ev.preventDefault();var v=document.getElementById("gl-gate-pw").value;if(sha256(v)===H){try{sessionStorage.setItem(K,H);}catch(e){}open();}else{document.getElementById("gl-gate-err").textContent="Incorrect password";document.getElementById("gl-gate-pw").select();}});
+})();
+</script>
+'''.replace("__HASH__", GATE_HASH)
+
+
+def inject_gate(html: str) -> str:
+    """Insert the password gate right after <body>. Idempotent: an existing
+    gate block (any version) is replaced so the hash can be rotated by
+    editing GATE_HASH and re-running."""
+    if GATE_MARK in html:
+        start = html.index(GATE_MARK)
+        end = html.index("</script>", start) + len("</script>")
+        # swallow the trailing newline we add after the block
+        if html[end:end+1] == "\n":
+            end += 1
+        html = html[:start] + html[end:]
+    m = re.search(r"<body[^>]*>\n?", html)
+    if not m:
+        raise ValueError("No <body> tag found for gate injection")
+    return html[:m.end()] + GATE_HTML + html[m.end():]
+
+
 def build_index(history: dict) -> str:
     """Regenerate index.html landing page from the same HISTORY data so the
     front page can never drift from the dashboard again."""
@@ -377,6 +432,7 @@ def main():
     html = replace_const_block(html, "HISTORY",    history_json)
     html = replace_const_block(html, "CHART_DATA", chart_json)
     html = replace_const_block(html, "AVAIL",      avail_json)
+    html = inject_gate(html)
 
     # ASCII-safe encoding pass — preserve smart punctuation already escaped
     html.encode("utf-8")  # validate
@@ -386,7 +442,7 @@ def main():
     print(f"[rebuild] wrote {OUTPUT} ({os.path.getsize(OUTPUT):,} bytes)")
 
     # regenerate the landing page from the same data (no more May-13 freeze)
-    index_html = build_index(history)
+    index_html = inject_gate(build_index(history))
     with open(INDEX, "w", encoding="utf-8") as f:
         f.write(index_html)
     print(f"[rebuild] wrote {INDEX} ({os.path.getsize(INDEX):,} bytes)")
