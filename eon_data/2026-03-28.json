@@ -13,12 +13,12 @@
       "date_note": "",
       "missing": false,
       "target": 8097.0,
-      "net_sales": 8038.0,
+      "net_sales": 5012.0,
       "food_sales": 571.0,
       "beverage_sales": 4441.0,
       "event_sales": 0.0,
-      "comps": 2.0,
-      "comp_pct": 1.64,
+      "comps": 122.0,
+      "comp_pct": 2.43,
       "guest_count": 166,
       "guest_check_avg": 30.19,
       "mod": "MKZ/ KG",
@@ -40,12 +40,7 @@
           "type": "info",
           "text": "Great weather today so I think a lot of people have been lingering outside."
         }
-      ],
-      "r365_forecast": 8097.0,
-      "check_avg": 35.57,
-      "guests": 226,
-      "data_source": "r365",
-      "monthly_budget": 143197.2
+      ]
     },
     {
       "id": "ccnsh",
@@ -53,82 +48,86 @@
       "full_name": "Close Company Nashville",
       "color": "#6B8CBA",
       "missing": false,
-      "target": null,
-      "net_sales": 12111.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 235.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
+      "target": 16987.0,
+      "net_sales": 12105.0,
+      "food_sales": 306.0,
+      "beverage_sales": 11799.0,
+      "event_sales": 0.0,
+      "comps": 237.75,
+      "comp_pct": 1.96,
+      "guest_count": 445,
+      "guest_check_avg": 27.2,
+      "mod": "MD / KE",
+      "weather": "Kind of chilly but still a nice night!",
+      "notes_summary": "Trend of slow weekends continuing, but got a nicer pop than expected. People wide-eyed looking around the space.",
+      "maintenance_flags": [
+        "Soda tap well 1"
+      ],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 16987.0,
-      "check_avg": 27.22,
-      "guests": 445,
-      "data_source": "r365",
-      "monthly_budget": 190504.59
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Soda tap well 1"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $12,105 vs $16,987 (-28.7%)"
+        },
+        {
+          "type": "info",
+          "text": "Trend of slow weekends continuing, but got a nicer pop than expected. People wide-eyed looking around the space."
+        }
+      ],
+      "data_source": "slack"
     },
     {
-      "id": "mg",
-      "name": "Municipal Grand",
-      "full_name": "Municipal Grand F&B",
-      "color": "#7CB87A",
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
       "missing": false,
-      "target": 18000,
-      "net_sales": 21440,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 507,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": "Started overcast and windy, quickly warmed up",
-      "notes_summary": null,
-      "maintenance_flags": [],
+      "target": 12724.53,
+      "net_sales": 10552.19,
+      "food_sales": 884.2,
+      "beverage_sales": 9667.99,
+      "event_sales": 0.0,
+      "comps": 103.1,
+      "comp_pct": 0.98,
+      "guest_count": 250,
+      "guest_check_avg": 42.21,
+      "mod": "Josh / Kevin",
+      "weather": "Chilly",
+      "notes_summary": "Busy start, first push lasted a couple hours. Many larger parties hanging out long. Natural last call, last table left few min after 2am.",
+      "maintenance_flags": [
+        "Hot water heaters - parts ordered"
+      ],
       "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "guests": 450,
-      "check_avg": 47.64,
-      "data_source": "slack",
-      "narrative": "Night stacked with reservations. SMF Philharmonic show next door drew large crowds. Bar and dining room fully sat from 5pm until kitchen closing. Busiest Saturday of the year."
-    },
-    {
-      "id": "la",
-      "name": "D&C LA",
-      "full_name": "Death & Co Los Angeles",
-      "color": "#C47DC0",
-      "missing": false,
-      "target": null,
-      "net_sales": 13894.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 407.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 10975.0,
-      "check_avg": 38.81,
-      "guests": 358,
-      "data_source": "r365",
-      "monthly_budget": 253429.6
+      "sub_venues": [
+        {
+          "name": "D&C Marquee Bar",
+          "sales": 8283.1
+        },
+        {
+          "name": "Garden",
+          "sales": 2269.09
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Hot water heaters - parts ordered"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $10,552 vs $12,725 (-17.1%)"
+        },
+        {
+          "type": "info",
+          "text": "Busy start, first push lasted a couple hours. Many larger parties hanging out long. Natural last call, last table left f"
+        }
+      ],
+      "data_source": "slack"
     },
     {
       "id": "dvr",
@@ -139,12 +138,12 @@
       "date_note": "",
       "missing": false,
       "target": 15241.0,
-      "net_sales": 17409.0,
+      "net_sales": 16795.38,
       "food_sales": 4037.0,
       "beverage_sales": 12758.380000000001,
       "event_sales": null,
-      "comps": 607.0,
-      "comp_pct": null,
+      "comps": 646.38,
+      "comp_pct": 3.85,
       "guest_count": null,
       "guest_check_avg": null,
       "mod": null,
@@ -158,12 +157,7 @@
           "type": "win",
           "text": "Above target \u2014 $16,795 vs $15,241 (+10.2%)"
         }
-      ],
-      "r365_forecast": 18100.0,
-      "check_avg": 34.61,
-      "guests": 503,
-      "data_source": "r365",
-      "monthly_budget": 410111.15
+      ]
     },
     {
       "id": "ev",
@@ -171,55 +165,126 @@
       "full_name": "Death & Co East Village",
       "color": "#E87A7A",
       "missing": false,
-      "target": null,
-      "net_sales": 8490.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 30.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
+      "target": 8393.0,
+      "net_sales": 8571.0,
+      "food_sales": 909.0,
+      "beverage_sales": 7662.0,
+      "event_sales": 0.0,
+      "comps": 221.0,
+      "comp_pct": 2.58,
+      "guest_count": 226,
+      "guest_check_avg": 37.93,
+      "mod": "Cara / Yael",
+      "weather": "Unseasonably cold, after a False Summer Day",
+      "notes_summary": "Virtuoso evening. Busy with a nine-top of brit clubbers. Strong service despite being short-staffed. Would've hit 10k without late slowdown.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 8393.0,
-      "check_avg": 37.4,
-      "guests": 227,
-      "data_source": "r365",
-      "monthly_budget": 195056.0
+      "highlights": [
+        {
+          "type": "info",
+          "text": "Virtuoso evening. Busy with a nine-top of brit clubbers. Strong service despite being short-staffed. Would've hit 10k wi"
+        }
+      ],
+      "data_source": "slack"
     },
     {
-      "id": "dc",
-      "name": "D&C DC",
-      "full_name": "Death & Co Washington DC",
-      "color": "#5AA8C4",
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
       "missing": false,
-      "target": null,
-      "net_sales": 10908.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 94.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
+      "target": 18000.0,
+      "net_sales": 13324.0,
+      "food_sales": 2892.0,
+      "beverage_sales": 10432.0,
+      "event_sales": 0.0,
+      "comps": 451.0,
+      "comp_pct": 3.38,
+      "guest_count": 358,
+      "guest_check_avg": 37.22,
+      "mod": "Gigi + Joe + Josh + Selenia",
+      "weather": "Overcast then warm",
+      "notes_summary": "Very busy Saturday with 130 covers at open. Lots of large parties. Standing room filled quickly. Down a few bodies but team stepped up. Floor is major obstacle.",
+      "maintenance_flags": [
+        "Floor is very bad"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 3313.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 10011.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Floor is very bad"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $13,324 vs $18,000 (-26.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Very busy Saturday with 130 covers at open. Lots of large parties. Standing room filled quickly. Down a few bodies but t"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 18000.0,
+      "net_sales": 21440.0,
+      "food_sales": 7574.0,
+      "beverage_sales": 13866.0,
+      "event_sales": 1800.0,
+      "comps": 507.0,
+      "comp_pct": 2.36,
+      "guest_count": 450,
+      "guest_check_avg": 47.64,
+      "mod": "Gabby & Karim / Justin & Sukru",
+      "weather": "Overcast/windy then warm afternoon",
+      "notes_summary": "One of busiest brunch services of the year. Stacked evening reservations. SMF Philharmonic at Lucas drew large crowds. Bar & dining fully sat 5pm-close. Ezra's final training shift.",
       "maintenance_flags": [],
       "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 12725.0,
-      "check_avg": 36.97,
-      "guests": 295,
-      "data_source": "r365",
-      "monthly_budget": 198161.9
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 4645.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 11912.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 634.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 2450.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $21,440 vs $18,000 target (+19.1%)"
+        },
+        {
+          "type": "info",
+          "text": "One of busiest brunch services of the year. Stacked evening reservations. SMF Philharmonic at Lucas drew large crowds. B"
+        }
+      ],
+      "data_source": "slack"
     }
   ]
 }

@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-24",
+  "day_of_week": "Friday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 5718.0,
+      "target": 5991.0,
+      "comps": 69.45,
+      "guests": 201,
+      "check_avg": 28.45,
+      "weather": "Partly cloudy, high 80 / low 60s",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Mellow-ish start to Friday \u2014 small after-work pop ~5/6pm with 10 Meal Deals sold, then a lull until ~8:30/9pm. From 9pm to midnight guest flow was mostly one-and-done (small waves drinking and moving on). Good late-night pop ~12:30/12:45am thanks to a wedding party from the Forth (bar team took special care of bride/groom). Last call smooth, room cleared by 2:15am. Opener cut at 8pm when closers arrived; mid stayed till ~12:15am. Missed target by \u22124.6% ($5,718 vs $5,991). Comps 1.2% ($69.45). Food $359. 86: Fernet Branca, Herradura Blanco, Ocho Repo. Low: Diet Coke, High Noon, Ford's Gin. MOD: MKZ // JK Key. Heads-up: wedding season \u2014 may see more Forth-adjacent wedding parties through summer."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 9406.0,
+      "target": 11672.0,
+      "comps": 60.20,
+      "guests": 342,
+      "check_avg": 27.50,
+      "weather": "Warm, overcast / partly cloudy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Sleepier Friday than usual. Decent steady start until ebbing before 7pm; service rebuilt with most traffic from 9-11pm before clearing out early and dwindling to close. Graduation party (arrived early, stayed until 11pm) drove significant sales and was thoroughly enjoyed. 13-top with disclosed allergy was handled with special precautions. Eli & Naya trained tonight. Jarred left early; Tay's last night. Missed target by \u221219.4% ($9,406 vs $11,672). Comps just 0.64% ($60.20 \u2014 investor, DNL/service recovery, industry, grad party). Food $127 (very low). 86: GF Pockets, Chopped Salad, Totchos. Low: Sarsparilla soda. MOD: KE & MD / TY. Entered by BC."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 15054.38,
+      "target": 17557.98,
+      "comps": 640.70,
+      "guests": 398,
+      "check_avg": 37.83,
+      "weather": "Late-night windy cold snap",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Friday but a bit quieter than expected (no Rockies home game today). DC/AM $980.85, D&C PM $14,073.53, Garden/6A $2,604.77. No long waitlist; saw a lot of no-reservation no-shows, but room turned well and team enjoyed strong table interactions. 6A cranking with Frank selling LiTs. Kitchen steady. Cold brew strained, oat milk delivered. Missed target by \u221214.3% ($15,054.38 vs $17,557.98). Comps 4.26% ($640.70). Guests 398. Food $3,184.95. Break make-up complete. Morning MOD: Maggie; Evening MOD: Carey & Lucas. No events today."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 8093.0,
+      "target": 8139.0,
+      "comps": 175.94,
+      "guests": 233,
+      "check_avg": 34.0,
+      "weather": "Chill early-summer night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Busy flow night \u2014 first seating slow but turned quickly and ramped through 2nd and 3rd turns. Big parties kept energy high, peak service at the end with steady newcomers in the final 1am hour. Decent open with a 7pm lull, fully sat by 8pm, peak waitlist at 10pm (last resy hour) with line down the street; full to last call. No no-shows. One Tock glitch (Amanda Morrow, 2-top, 10pm). Welcomed Austin Tierney (friend of Jane, critic), Seth of Batemans, Braxton (regular 6-top), Peter (Municipal Grand designer), and many birthdays. Nick's first live floor shift \u2014 congrats! Essentially on target (\u22120.6%, $8,093 vs $8,139). Comps 2.2% ($175.94). Food $830, bev $7,237, retail $26. Top sellers: Material Control, Masari, Revenant. Glassware: 3 DOF, 1 N&N, 1 coupe. Maintenance flag: rodents noted in kitchen before service ended. MOD: Courtney & Steves."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 13431.0,
+      "target": 11800.0,
+      "comps": 367.0,
+      "guests": 370,
+      "check_avg": 37.03,
+      "weather": "Warm 75-80s",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Challenging but successful night \u2014 short-handed but team hustled. Long waitlist most of the evening, playing catch-up to turn-and-burn; rooms turned so quickly it was hard to keep them full. Lots of 2- and 4-tops with a handful of 5-8 tops. Several guests complained about the smell again (worst near the 20s and the women's restroom hallway, also bar pass in Marquee). Played musical chairs and pleased nearly everyone. Politely cut a few guests off (some pushback handled). Shoutouts: Zak helping on the floor, Ben moving to server, Natalie owning host stand. Beat target by +13.8% ($13,431 vs $11,800). Comps 2.7% ($367 \u2014 DNL, service recovery for spilled drink, birthdays, anniversary, promo). Marquee $7,594 (food $1,766); Standing Room $3,637 (food $612). Total food $2,718 (highest in weeks). Late-night snack menus delivered. MOD: Gigi/Joe & Josh/Selenia. Maintenance: smell still bad \u2014 needs a real fix."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 9801.71,
+      "target": 10647.0,
+      "comps": 165.72,
+      "guests": 179,
+      "check_avg": 37.89,
+      "weather": "Rain (thunderstorms on & off)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow Friday, light foot traffic with rain coming and going. After lulls, room filled by 10pm. Service ran smooth with opportunities to tighten drink descriptions, water service, and pass clearance. Bar moved well with a couple hiccups on order entry and bar-top seating. Garden slow to start (first seats ~6:45pm), picked up around 8pm with groups pre-dinner; brief 10:30pm waitlist with a 10-top that grew to 20; last call 11:15pm, cleared by midnight. D&C Marquee Bar $7,414.57; Garden $2,387.22; Total Sales $9,801.71. Reported \"Total Net Sales Including Events\" came in at $8,752.83 with no events \u2014 likely a typeform entry discrepancy; using the segment-aligned $9,801.71 here. Missed target by \u22128.0% ($9,801.71 vs $10,647). Comps 1.8% ($165.72) + voids 0.8% ($77). Guests 179, GCA $37.89 / CA $68.38. Food $1,013.74 (10.35%). Kitchen note: nightly deep clean and label/date items. MOD: Kevin / Cory / Josh. Highlight: guest requesting a \"Clairin Communal\" daiquiri."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 16423.0,
+      "target": 16500.0,
+      "comps": 314.0,
+      "guests": 298,
+      "check_avg": 55.11,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Friday across the property, essentially on target (\u22120.5%, $16,423 vs $16,500). MB Morning $2,494 / 48g (chill morning then hustled with 12pm bachelorette of 18 on full brunch menu, smooth close). MB Evening $9,864 / 250g (HH quiet, dinner pop at 5pm, near-max seating 7-9pm; bar took most of the heat; 9pm food rush; emptied half by 9:30, slow walk-in trickle after 10, gone by 11:20pm). 5 servers gave breathing room; Catie trained Sierra in detail. Sun Club $1,583 \u2014 first day of extended Friday hours! Nicole opened with guests already at the gate before noon; steady, manageable; Brigid jumped in 4:30pm, last walk-in at 8pm, shut down 9:15pm. Hot Eye $2,341 \u2014 hotel guests + regulars, almost full house with rush by 8pm, 9:30pm lull, refilled around 10:45pm with bachelorettes/birthday booth, last-call lingerers. Kitchen: smooth, no 86s. Food $5,486. Comps 1.9% ($314). MOD: Justin & Shannon (eve) / Sam, Gabby, Lex, Shannon (AM). Entered by Alexis. Highlights: Sun Club later hours getting positive feedback; Carla Morgan got rave reviews from a family; Sierra eager and helpful on the floor."
+    }
+  ]
+}

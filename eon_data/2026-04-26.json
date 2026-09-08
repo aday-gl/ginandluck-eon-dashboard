@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-26",
+  "day_of_week": "Sunday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": null,
+      "target": null,
+      "comps": null,
+      "guests": null,
+      "check_avg": null,
+      "weather": null,
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No EON report submitted for 4/26 (Sunday). CCATL is typically closed Sundays — last CCATL Sunday report was 3/19/2026."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1878.0,
+      "target": 2200.0,
+      "comps": 64.0,
+      "guests": 65,
+      "check_avg": 29.0,
+      "weather": "Warm, sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "A good Sunday. Most of the sales came from a large birthday party (~35 of the 65 guests). Past few Sundays have all seen birthday celebrations. Tonight's group was cool, friendly, fun, all had a good time. Missed target by −14.6% ($1,878 vs $2,200). Comps 3.4% ($64). Food $0. 86: Sasspharilla. MOD: KE. Entered by BT. Highlight: one of the loudest bar guests in recent memory was part of the birthday — his friends roasted him and got the whole bar laughing."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 8876.06,
+      "target": 6475.05,
+      "comps": 319.70,
+      "guests": 200,
+      "check_avg": 44.38,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Last day of Sakura with @Mel B — slower but great vibes throughout. Awesome busy DC/AM Sunday with @reggie_lane (covered Felix's day off; IRDs and a few cocktails). D&C PM was super slow with a lot of no-shows — flag: CCs on file for no-shows always have $0 balance when going to charge, especially painful for high-demand pop-ups like Sakura Bar. Beat target by +37.1% ($8,876.06 vs $6,475.05). Segments: DC/AM $1,686.11, D&C PM $7,189.95, Garden/6A $2,149.61. Comps 3.6% ($319.70). Food $2,768.70. 200 guests (Tock). Break make-up complete, no events. Morning & Evening MOD: Carey. Kitchen: chill Sunday, big ups to “yung squid” for closing — and new purple mop head unlocked. Highlight: with much of the evening slow, team did a lot of early cuts that everyone supported, and stepped in willingly when things popped — beautiful team energy."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 5269.0,
+      "target": 5385.0,
+      "comps": 111.0,
+      "guests": 149,
+      "check_avg": 35.0,
+      "weather": "Sunny as hell",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Wished for more walk-in pressure but strong reservations and large-party composition kept the room vibrant 6-11pm. Frankly ridiculous at 6:15pm with three large parties, two mid parties, and a single bar group — that's the nature of Sundays (groups cavorting through unlimited mimosa brunch, UPenn alumni, an intricately structured intergenerational Texan birthday). Squeezed lots of lemons into lemonade. First-turn palates were OBSCENELY basic — one guest argued for a Material Control sans gin and refused all alternatives (party happy in the end). 149 covers, 6 large parties, 6 solos, no investor cocktails. Top sellers: Year of the Trees, Masari, Root & Rye. Beautiful Sunday weather, plenty of foot traffic, drop-off ~11:15pm as it got cold again. Mari & husband joined at the bar. Essentially on target (−2.2%, $5,269 vs $5,385). Comps 2.1% ($111). Food $729, bev $4,540. Menu count 18. 3 no-shows (Nitin Waghmode-2, Christina Lin-4, Sydney Hursa-4 — all charged), 3 cancellations, 1 Tock glitch (Michael Villa-6). MOD: Cara & Alejandro. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5659.0,
+      "target": 4912.0,
+      "comps": 250.0,
+      "guests": 150,
+      "check_avg": 94.33,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Pretty steady Sunday evening. Started with 54 covers; Dodgers, Lakers, and the last weekend of Angel City Brewery (R.I.P.) all drew people walking around the Arts District. Decent walk-in volume right after open — unfortunately had **4 tables come down and leave minutes after sitting down because of the smell**. Filled the room by 7pm for a big first-couple-hours boost. Lots of large parties on the waitlist, accommodated as quickly as possible. Room stayed full almost the entire night with strong burn-and-turn execution. Strong last-call presence with industry crowd. Beat target by +15.2% ($5,659 vs $4,912). Comps 4.4% ($250 — Bird, Luis, Jeffrey, Brent Picha, Raymundo, Taberu folks, investor, birthdays, DNL). All Marquee tonight ($5,659 / Standing Room $0). Food $1,140. MOD: Joe + Josh + Selenia. Entered by Joe. **Maintenance**: smell complaint **escalating fast** — guests now actively walking out (4 tables tonight). This is the 6th consecutive day with the smell flag and it is now directly costing revenue and damaging reputation. Needs immediate plumbing/HVAC intervention."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": null,
+      "target": null,
+      "comps": null,
+      "guests": null,
+      "check_avg": null,
+      "weather": null,
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No EON report submitted for 4/26 (Sunday). Re-checked #dc_eon_report on 4/28 — still no submission, 2 days later. The DC team posted 4/27 on time, so this is not a backlog issue; pattern suggests DC was closed Sunday (consistent with the 4/19 Sunday closure earlier this month). DC also missed reports for 4/19 (Sun), 4/20 (Mon), 4/21 (Tue) — that 3-day gap and this Sunday's gap likely reflect closure days. Recommend confirming DC's standing closure schedule with Cory/Kevin so the dashboard can reliably treat Sundays as 'closed' rather than 'missing.'"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 9033.0,
+      "target": 9500.0,
+      "comps": 250.0,
+      "guests": 181,
+      "check_avg": 49.91,
+      "weather": "Warm & sunny day, overcast going into afternoon and evening with a quick hard shower at 5pm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Mellow Sunday across the property, just −4.9% off target ($9,033 vs $9,500). MB Morning $2,868 / 76g (very mellow with a few hotel guests; busiest hour 11am with several reservations arriving at once; little walk-in traffic and a quiet Broughton before 3pm; no large parties — atypical for a Sunday; opener cut by 1pm; Lucas Theatre matinee did NOT bring preshow business). MB Evening / 105g (HH continued mellow; Philharmonic let out 5:30pm and we got hit with a HUGE walk-in wave — surprising and good; not much food ordered from the rush but Matt and James hustled at the bar and servers were in full gear; rush died ~6:30pm followed by 2 hours of slow-but-steady reservations; closers cut at 9:30pm; one walk-in couple after 10pm). **Data note**: typeform shows Municipal Bar Evening Total Sales = $0 which is clearly a data-entry error given the narrative — implied evening total ≈ $4,339 (Total Net Sales $9,033 − Morning $2,868 − Sun Club $553 − Hot Eye $1,273). Sun Club $553 — pretty chill for Kelwin, biggest pop 3-4pm; sudden 5pm downpour triggered an early close. Hot Eye $1,273 — slow Sunday night, missed usual bar crawl (rain), handful of hotel guests/tourists with a big pop ~11pm; service-industry crowd at midnight stayed til lights-on. Kitchen: nice and chill, no notes. Comps 2.8% ($250). Food $3,304. MOD: Sam & Lex (AM), Justin & Shannon (eve). Entered by Alexis. Highlight: Jules and Burke — couple and local industry celebs — came in after the Philharmonic and had a few rounds of fun."
+    }
+  ]
+}

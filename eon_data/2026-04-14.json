@@ -1,0 +1,320 @@
+{
+  "report_date": "April 14, 2026",
+  "iso_date": "2026-04-14",
+  "day_of_week": "Tuesday",
+  "generated_at": "2026-04-15 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 2198,
+      "net_sales": 1726,
+      "food_sales": 330,
+      "beverage_sales": 1396,
+      "event_sales": 0,
+      "comps": 65.7,
+      "comp_pct": 3.81,
+      "guest_count": 61,
+      "guest_check_avg": 28.3,
+      "mod": "KG",
+      "weather": "85/57",
+      "notes_summary": "Bingo Tuesday went smoothly. Calm beginning, closer came in at start of Bingo with a flow of regulars and new faces. FOH made connections and informed guests of other activations. Small pop at end of night. Already had a guest visit because of beltline sign.",
+      "maintenance_flags": [
+        "Leak under well two"
+      ],
+      "eightysixed": [
+        "Notas De Agave"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $1,726 vs $2,198 target (-21.5%)"
+        },
+        {
+          "type": "win",
+          "text": "Bingo night drew regulars and new faces"
+        },
+        {
+          "type": "info",
+          "text": "Beltline signage driving new guest traffic"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 1886,
+      "net_sales": 1673,
+      "food_sales": 94,
+      "beverage_sales": 1579,
+      "event_sales": 0,
+      "comps": 62.4,
+      "comp_pct": 3.73,
+      "guest_count": 58,
+      "guest_check_avg": 28.85,
+      "mod": "MD TAY",
+      "weather": "Warm. Clear.",
+      "notes_summary": "Small but enthusiastic bingo crowd. Lull after bingo didn't last long \u2014 stayed steady from 9:30 through close. Some bingo coupons closed as comps rather than 'Bingo' due to missing POS discount button.",
+      "maintenance_flags": [
+        "iPad 2 very quickly loses charge when not plugged in"
+      ],
+      "eightysixed": [
+        "High Noon"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $1,673 vs $1,886 target (-11.3%)"
+        },
+        {
+          "type": "win",
+          "text": "Steady post-bingo business through close"
+        },
+        {
+          "type": "info",
+          "text": "POS bingo discount button not active \u2014 coupons manually comped"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 6000,
+      "net_sales": 5554,
+      "food_sales": 2370,
+      "beverage_sales": 3184,
+      "event_sales": 0,
+      "comps": 193,
+      "comp_pct": 3.47,
+      "guest_count": 127,
+      "guest_check_avg": 43.73,
+      "mod": "Gabby & Lex (AM) / James & Shannon (PM)",
+      "weather": "Warm and sunny",
+      "notes_summary": "Great steady start with new server in training. Beautiful weather brought patio guests. Average Tuesday evening with hectic late push. Bar and floor mostly full through 8pm then guests camped. Late groups came in around 11pm and stayed past close. Burgerville USA \u2014 everyone ordering burgers.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 1015
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4233
+        },
+        {
+          "name": "Sun Club",
+          "sales": 306
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $5,554 vs $6,000 target (-7.4%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong training day with new server progressing well"
+        },
+        {
+          "type": "info",
+          "text": "Shannon back from golf \u2014 kitchen did great"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 5053,
+      "net_sales": 5037,
+      "food_sales": 1053,
+      "beverage_sales": 3984,
+      "event_sales": 0,
+      "comps": 59,
+      "comp_pct": 1.17,
+      "guest_count": 145,
+      "guest_check_avg": 34.74,
+      "mod": "Joe + Vic",
+      "weather": "N/A",
+      "notes_summary": "Pretty jumping Tuesday night. First couple hours slow to fill but lots of familiar faces. Room filled around 9pm with small waitlist until 11pm. Team did great job burning and turning. Multiple guests complained about sewer smell \u2014 couple parties left after being sat. Team made best of situation.",
+      "maintenance_flags": [
+        "Sewer smell persisting \u2014 guests leaving and requesting moves"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 0
+        },
+        {
+          "name": "Marquee",
+          "sales": 5037
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Near target \u2014 $5,037 vs $5,053 target (-0.3%)"
+        },
+        {
+          "type": "flag",
+          "text": "Sewer smell continues \u2014 guests leaving after being sat"
+        },
+        {
+          "type": "win",
+          "text": "Strong guest count at 145 with good turn and burn"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 5891.73,
+      "net_sales": 8368.71,
+      "food_sales": 2232.6,
+      "beverage_sales": 6136.11,
+      "event_sales": 8505,
+      "comps": 230.26,
+      "comp_pct": 2.75,
+      "guest_count": 185,
+      "guest_check_avg": 45.24,
+      "mod": "Maggie & Josh (AM) / Carey & Lucas (PM)",
+      "weather": "N/A",
+      "notes_summary": "Chill Tuesday AM. PM was busy from 6pm on with walk-in 9-top handled with grace by Paige & Lily. Great food sales. Two events: Exodigo day meeting (14 guests, 9am-5pm) and Castle Biosciences panel dinner (42 guests, 6:30-9:30pm) \u2014 both executed flawlessly. $16,874 total including events.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 692.06
+        },
+        {
+          "name": "D&C PM",
+          "sales": 7676.65
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target \u2014 $8,369 vs $5,892 target (+42.0%) excluding events"
+        },
+        {
+          "type": "win",
+          "text": "Massive event night \u2014 $8,505 event sales, $16,874 total"
+        },
+        {
+          "type": "win",
+          "text": "Outstanding hospitality \u2014 walk-in 9-top guests personally thanked MOD"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "EON report not yet submitted as of dashboard generation time.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missing \u2014 EON report not yet submitted for Tuesday April 14"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 2884,
+      "net_sales": 2690.79,
+      "food_sales": 366.6,
+      "beverage_sales": 2324.19,
+      "event_sales": 0,
+      "comps": 23.38,
+      "comp_pct": 0.87,
+      "guest_count": 64,
+      "guest_check_avg": 42.04,
+      "mod": "Kevin",
+      "weather": "Toasty until sunset",
+      "notes_summary": "Slow night at 124 \u2014 room never filled. Slower pace allowed for continued training of Alex H behind bar and Elliott on technique. Great communication from team. Potential event client came by, loved the garden space and cocktails, looking to book engagement party.",
+      "maintenance_flags": [
+        "Hot water heater tripping",
+        "No AC in kitchen \u2014 ongoing"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 2690.79
+        },
+        {
+          "name": "Garden",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $2,691 vs $2,884 target (-6.7%)"
+        },
+        {
+          "type": "win",
+          "text": "Productive training night \u2014 Alex H and Elliott progressing"
+        },
+        {
+          "type": "win",
+          "text": "Potential event client excited about booking engagement party"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}

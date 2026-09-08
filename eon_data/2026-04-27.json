@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-27",
+  "day_of_week": "Monday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 868.0,
+      "target": 1660.0,
+      "comps": 38.95,
+      "guests": 25,
+      "check_avg": 34.73,
+      "weather": "Sunny with a little breeze, high 77",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Smooth Monday overall. Stronger start than typical Monday — guests opted for the patio to enjoy the weather. Full bar and half the booths filled from 10pm until close; people stayed in the space until 12:45-1am. Bartenders accomplished cleaning tasks thoroughly. Opener cut around 8:45pm — used downtime to ABK the walk-in and liquor room ahead of tomorrow's deliveries. Tre did a great job on close, had industry friends visit and made new connections. Missed target by −47.7% ($868 vs $1,660), but for a Monday the energy and operational execution were on point. Comps $38.95 (employee discounts, Industry Love $22.50, F&F $3.45, Investor $1). Food sales $154 / 25 guests / $34.73 check avg. Kitchen prepped for tomorrow's event. 86: TK Mule. MOD: MKZ. Entered by MKZ. Highlight: full bar at end of night — looking forward to building service-industry-night base."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 997.0,
+      "target": 1075.0,
+      "comps": 68.0,
+      "guests": 31,
+      "check_avg": 32.0,
+      "weather": "Warm, rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "A pretty typical chill Monday. Most sales came in the back half of the night — gave KE an opportunity to clean and ABK behind the bar and on the floor. Eli and Naya both got training on round building plus bar set-up and weekly sidework regimen. One birthday party of four referred by industry regular Thomas from Oku. Essentially on target (−7.3%, $997 vs $1,075). Comps 6.8% ($68). Food just $4 — food sales remain extremely soft. 86: candied ginger, papaya, sasspharilla. MOD: KE. Entered by BT. Highlight: the Opti crew came in arguing about Trailer Park Boys — most ridiculous bar debate BT has ever heard."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6988.77,
+      "target": 3571.50,
+      "comps": 212.19,
+      "guests": 166,
+      "check_avg": 42.10,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Nice and steady Monday. DC/AM mellow with deep cleaning and RnD time for summer sodas (cold brew strained, needs dilution). D&C PM nothing too crazy — easy 'get-together' event in 6A added a little extra revenue and FOH did a great job engaging all guests. Beat target by +95.7% ($6,988.77 vs $3,571.50). Including the VEG intern graduation event (12 guests, 6:30-9:30pm in 6A, $1,963 net event sales / $1,304 event food), TOTAL net sales $8,951.77 incl events. Segments: DC/AM $734.02, D&C PM $6,254.75, 6A na. Comps 3.04% ($212.19). Food $1,729.30 (excl events) / $3,033.30 incl events. 166 guests. Kitchen: Chef Josh handled the event while Antonio and Rachel held the line. Event host gracious, all had a great time. Break make-up complete, no incidents. Morning MOD: Maggie & Josh, Evening MOD: Carey. Highlight: hotel guests Bobby & Marci have been so much fun to chat with — kind to every staff member and genuinely pleasant."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4296.0,
+      "target": 4276.0,
+      "comps": 143.88,
+      "guests": 131,
+      "check_avg": 34.0,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Chill Monday overall, slightly above target (+0.5%, $4,296 vs $4,276). High early food sales flustered the bar — caught between cacophonies of food and beverage symphonies — but Courtney found her footing by 7:30 and locked in with floor & door. Few back-catalogs, solid percentage of classics; lighter palates this evening. Lots of goofy conversations: PE guys describing plans to take over the Amish furniture market, dream-cocktails-and-elf-diasporas chatter, Basement programming. Dante hit oyster flow on point — guests ripping 2/4 oysters at a go and reordering, accompanied by another round each time. 131 covers, 3 large parties, 12 solos, 1 investor cocktail, 98 OYSTERS (!!) — possibly a record. Top sellers: Buckhorn Exchange (Martini Monday!), Revenant, First Time Listener. Door: brisk Monday with waves of full/calm every hour or so; lull 6:30-7:30, friend groups emerged 8pm, fully turning all night, slowing officially at 11:30pm and emptying by midnight. No no-shows or Tock glitches. Comps $143.88 (lots of friends of departing AGM Courtney). Food $604; bev $3,692. Glassware: 1 martini (bar guest). MOD: Courtney & Alejandro. Entered by Thomas. **Note**: Courtney's farewell night — many industry friends visited (Carlo from Batemans, Koba, Max, Kyler, Katin, Dominic from Sip & Guzzle)."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 3296.0,
+      "target": 2955.0,
+      "comps": 120.42,
+      "guests": 73,
+      "check_avg": 80.18,
+      "weather": "Chilly night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Relatively sleepy Monday — chilly weather kept folks cozied up at home. Beat target by +11.5% ($3,296 vs $2,955), all from Marquee (Standing Room $0). Sold 80-90 oysters despite a slow burner of a night — beat food sales goal by a wide margin ($851 / 25.8% of total). Nice familiar faces in: Caitlin (Mike's hunny), Sam from Hojokban (brought the team Knotted Cornbread Donuts), and the magician investor swung by again. Tevin from CC Nashville was expected but didn't make it; hopefully later this week. Easy close, nothing major to report. Comps $120.42 (Caitlin/MP, Sam/Hojokban, investor magician, birthday, employee discount). Low: cane, cinna, bell pep (noted for AM prep). **Maintenance**: Aval Cider Tap still hella leaky — sani bucket placed to measure overnight loss. **NOTE on smell**: Joe didn't flag the smell tonight — first day in 7 without an explicit smell mention, though Saturday/Sunday's escalating walkouts suggest the underlying issue is unresolved. Continue to push for plumbing/HVAC inspection. MOD: Mikey, Vic, Josh. Entered by Mikey. Highlight: Cornbread Donuts from Hojokban — 'Sheeeesh!'"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 3185.54,
+      "target": 2744.75,
+      "comps": 40.93,
+      "guests": 76,
+      "check_avg": 40.32,
+      "weather": "Nice",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow but steady Monday. Majority of guests were 2-tops on date night plus a couple larger groups celebrating. Didn't see much additional foot traffic from the convention; hoping day 2 brings more activity. Service ran smoothly with strong communication. Beat target by +16.1% ($3,185.54 net incl events vs $2,744.75). D&C Marquee Bar gross $3,557.87. Comps 1.2% ($40.93); voids 0.8% ($28). 76 guests / GCA $40.32 / CA $91.02. Food $771.85 (21.77% of sales — kitchen pushed oysters and fried chicken hard). Garden closed. Maintenance: same standing items (water heaters, 2nd bathroom OOO). MOD: Josh. Entered by Josh. What went well: comms, oysters, guest connection. Improve: ABK, dropping coasters, water service. Highlight: 70's soul music."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 8153.0,
+      "target": 7600.0,
+      "comps": 412.0,
+      "guests": 94,
+      "check_avg": 86.73,
+      "weather": "Cool and overcast — odd day for the season",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Beat target by +7.3% ($8,153 vs $7,600). Segments: MB Morning $2,576 / 3 guests (very low cover count — except for the Mahjong Club, morning was uneventful; new servers learning alongside an experienced server while working a singular larger group), MB Evening $3,520 / 91 guests (fairly tame and steady; lots of important folks in but pace allowed everyone undivided attention while room felt full and energetic; no major hiccups, team out at a reasonable time), Sun Club $2,030 (rooftop event — Kelwin and Brigid handled confidently and aptly), Hot Eye $0 (closed), Event Sales $2,000 (rooftop event, easy and short with no problems). Food $3,790. Comps $412. Kitchen: great job fielding extra event lift seamlessly; not a huge night for restaurant food, but team deep-cleaned the line — looks immaculate. Tickets came out quickly, no comps or send-backs. Event Notes: rooftop folks trickled in instead of all arriving at once, kept Kelwin and Brigid from getting overwhelmed; some lingered a little past time but no problems. Morning MOD: Sam. Evening MOD: James & Shannon. Entered by James. Highlight: very rewarding to see all the new cocktails selling so well — heard nothing but good things about the new drinks."
+    }
+  ]
+}

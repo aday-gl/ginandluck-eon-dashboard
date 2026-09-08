@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-23",
+  "day_of_week": "Thursday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1891.0,
+      "target": 2965.0,
+      "comps": 25.95,
+      "guests": 52,
+      "check_avg": 36.36,
+      "weather": "Partly sunny, high 80 / low 60s",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Thursday at CC ATL with sales and guest flow building through the night and peaking around 9pm \u2014 fully lined bar, every booth sat, couple of Mezz tables. Flow slowed around 10pm and went quietly into last-call; everyone out by 12:15am. No late-night pop tonight, which has been unusual for Thursdays lately. Competing events: Knicks vs Hawks Game 3 at State Farm Arena and NFL Draft Round 1 on TV. Bar team did solid table service and pushed for reviews during positive interactions. Missed target by \u224136% ($1,891 vs $2,965). Comps just 1.4%. Food $219. 86: Fernet Branca, Herradura Blanco, Ocho Repo. MOD: MKZ // JK Key."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 4885.0,
+      "target": 4880.0,
+      "comps": 9.0,
+      "guests": 71,
+      "check_avg": 68.80,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Another event-driven night: Visit Music City private event pushed sales \u2014 feedback strong, crew killed it. Aside from the event, steady night with premium party people and a ~7pm pop that JO and Brandon snapped into boss mode to serve quickly. Beat target essentially on the nose (+0.1%, $4,885 vs $4,880), though event sales may be booked separately on TripleSeat depending on structure \u2014 typeform counts total net $4,885. Comps just 0.18% ($9). Low food sales ($80) as expected for an event-heavy night. 86: Lairds, Ritual NA Gin, backup Campari, GF Pockets, Chopped Salad. MOD: MD & JR/TY."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 10805.56,
+      "target": 9491.15,
+      "comps": 572.95,
+      "guests": 270,
+      "check_avg": 40.02,
+      "weather": "60 and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Thursday that felt like a weekend night. DC/AM $834.92, D&C PM $9,970.64, Garden/6A $2,290.46. Kitchen busy, bar full, 6A cranking. Hosted Attentive Team Day 3 in Vauxhall (20 guests, 8am-5pm, to-go breakfast + buffet lunch): event food $1,482, event bev $247, total event F&B $1,729. Total incl. events: $12,534.56. Beat target by +14% ($10,805.56 vs $9,491.15 non-event). Comps 5.3% ($572.95) \u2014 mostly employee half-off. Guests 270. Break make-up not completed tonight. Evening MOD: Michael Buonocore; Chef: Maggie."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 5784.0,
+      "target": 6331.0,
+      "comps": 209.10,
+      "guests": 157,
+      "check_avg": 37.0,
+      "weather": "Warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Half-full but exuberant open \u2014 hit $1K by 6:50pm despite only half the tables open, thanks to strong food orders and roundbuilding. Powerful second turn, a lull, then an ok pop around 11pm. 157 covers, 4 large parties, 5 solos (unusually low), ~11 investor cocktails. Food $820, bev $4,964. Top sellers: Material Control, Thunderball, Masari. Missed target by \u22128.6% ($5,784 vs $6,331). Comps 3.6% ($209.10) \u2014 investor and member heavy night. Three Tock reservation glitches (Kruger, McCarthy, Knox) \u2014 Tock fix still outstanding. No incidents, no no-shows. MOD: Courtney & Alejandro."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5416.0,
+      "target": 7339.0,
+      "comps": 245.0,
+      "guests": 163,
+      "check_avg": 79.28,
+      "weather": "Perfect 76 LA day (Dodger win)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Wonky pace \u2014 never fully filled, lots of small rushes and a few campers. Seated the whole room with 2 servers and cut a bartender around 10pm; slowed, then gradually filled back up. Lots of 4-tops. Complaint about the smell again (less severe than yesterday) \u2014 moved the group and comped dessert, kept them happy and taking photos. Phased out Bailey at last call. Marquee $5,416, Standing Room $0, Food $790. Missed target by \u224126% ($5,416 vs $7,339). Comps $245 (couple late-rung items, DNLs, investors, birthdays). Favorite: London visitors geeking out at a Waymo. Maintenance: urinal unclogged (\u2713); smell still present \u2014 incense + water down drains continuing. MOD: Gigi & Chef Selenia."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2372.0,
+      "target": 5848.0,
+      "comps": 14.0,
+      "guests": 54,
+      "check_avg": 39.55,
+      "weather": "Warm!",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Opened to the public at 9pm after a private event + cocktail class (event sales $5,320 \u2014 total incl. events $7,692). 9-10:30pm reservations mostly no-showed but a decent steady stream of walk-ins filled in. Never at full capacity but a few large tables carried energy; transitioned to one well and cut a server before last call; room empty by 1am. Food $239 (\u224110% of sales). D&C non-event total $2,372 vs target $5,848 (\u221259.4%) \u2014 incl. events $7,692 vs target $5,848 = +31.5%. Comps only $14 (Voids $38). Guests 54 (49 walk-ins, 5 resos \u2014 20 of which were cocktail class). Maintenance: 2nd bathroom, water heaters. Highlight: head of the private party HR shaking her own daiquiri and chugging it. MOD: Kevin / Cory."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 7774.0,
+      "target": 11000.0,
+      "comps": 315.0,
+      "guests": 166,
+      "check_avg": 46.83,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Thursday across venues but shy of target. MB Morning $1,115 / 26g (strong hotel coffee volume + two new servers in early training), MB Evening $5,373 / 140g (decent start but light on floor walk-ins; bar full through early dinner, dying down after 8pm). Sun Club $358 \u2014 opened without pool-attendant coverage but Sofia stepped in and held it down; Kelwin helped with close. Hot Eye $927 \u2014 sleepy feeling all day, SCAD groups + small industry pop around 11pm, productive prep during lulls. Kitchen smooth, no 86s, no send-backs. Food $2,771. Missed target by \u224129% ($7,774 vs $11,000). Comps 4.1%. Highlights: Catie's family celebration camped out most of the night; ATL out-of-towners returning tomorrow for dinner. Evening MOD: Justin & Sukru. Entered by Alexis."
+    }
+  ]
+}

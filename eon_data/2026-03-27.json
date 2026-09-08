@@ -13,12 +13,12 @@
       "date_note": "",
       "missing": false,
       "target": 2488.0,
-      "net_sales": 5074.0,
+      "net_sales": 1113.0,
       "food_sales": 172.0,
       "beverage_sales": 941.0,
       "event_sales": 0.0,
-      "comps": 16.0,
-      "comp_pct": 6.01,
+      "comps": 82.0,
+      "comp_pct": 7.37,
       "guest_count": 39,
       "guest_check_avg": null,
       "mod": "MKZ // KG // JK Key",
@@ -55,12 +55,7 @@
           "type": "info",
           "text": "86'd: 86 - Lairds, Laphoiag, Seasonal Beer, Low - Aperol"
         }
-      ],
-      "r365_forecast": 7302.0,
-      "check_avg": 30.57,
-      "guests": 166,
-      "data_source": "r365",
-      "monthly_budget": 143197.2
+      ]
     },
     {
       "id": "ccnsh",
@@ -68,145 +63,42 @@
       "full_name": "Close Company Nashville",
       "color": "#6B8CBA",
       "missing": false,
-      "target": null,
-      "net_sales": 8366.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 172.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 12933.0,
-      "check_avg": 27.52,
-      "guests": 304,
-      "data_source": "r365",
-      "monthly_budget": 190504.59
-    },
-    {
-      "id": "mg",
-      "name": "Municipal Grand",
-      "full_name": "Municipal Grand F&B",
-      "color": "#7CB87A",
-      "missing": false,
-      "target": 14500,
-      "net_sales": 16817,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 171,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": "Warm & Sunny",
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "guests": 290,
-      "check_avg": 57.99,
-      "data_source": "slack",
-      "narrative": "Another SMF show at Lucas tonight at 8pm. MB steady busy through happy hour and dinner. Bar got fully sat again by walk-ins by 8. Strong Friday."
-    },
-    {
-      "id": "la",
-      "name": "D&C LA",
-      "full_name": "Death & Co Los Angeles",
-      "color": "#C47DC0",
-      "missing": false,
-      "target": null,
-      "net_sales": 11971.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 161.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 10846.0,
-      "check_avg": 37.41,
-      "guests": 320,
-      "data_source": "r365",
-      "monthly_budget": 253429.6
-    },
-    {
-      "id": "dvr",
-      "name": "D&C Denver",
-      "full_name": "Death & Co Denver",
-      "color": "#E8C45A",
-      "date_reported": "2026-03-26",
-      "date_note": "",
-      "missing": false,
-      "target": 9004.0,
-      "net_sales": 16975.0,
-      "food_sales": 2322.4,
-      "beverage_sales": 8415.92,
-      "event_sales": null,
-      "comps": 662.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": "90 in March - cold at night?",
-      "notes_summary": "",
-      "maintenance_flags": [],
-      "eightysixed": [],
+      "target": 12933.0,
+      "net_sales": 8421.0,
+      "food_sales": 180.0,
+      "beverage_sales": 8241.0,
+      "event_sales": 0.0,
+      "comps": 172.2,
+      "comp_pct": 2.0,
+      "guest_count": 304,
+      "guest_check_avg": 27.7,
+      "mod": "MD // KEY: JM",
+      "weather": "Cold",
+      "notes_summary": "Rather slow night (patio weather drawing people away). Jaylen Warren from the Steelers visited and had a blast. Lot of new faces.",
+      "maintenance_flags": [
+        "Well 2 sprayer"
+      ],
+      "eightysixed": [
+        "Taco Tuesday lager",
+        "Seedlip Agave",
+        "GF Pockets & Popcorn"
+      ],
       "sub_venues": [],
       "highlights": [
         {
-          "type": "win",
-          "text": "Above target \u2014 $10,738 vs $9,004 (+19.3%)"
+          "type": "flag",
+          "text": "Well 2 sprayer"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $8,421 vs $12,933 (-34.9%)"
+        },
+        {
+          "type": "info",
+          "text": "Rather slow night (patio weather drawing people away). Jaylen Warren from the Steelers visited and had a blast. Lot of n"
         }
       ],
-      "r365_forecast": 15241.0,
-      "check_avg": 31.97,
-      "guests": 531,
-      "data_source": "r365",
-      "monthly_budget": 410111.15
-    },
-    {
-      "id": "ev",
-      "name": "D&C EV",
-      "full_name": "Death & Co East Village",
-      "color": "#E87A7A",
-      "missing": false,
-      "target": null,
-      "net_sales": 8118.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 111.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 8665.0,
-      "check_avg": 38.47,
-      "guests": 211,
-      "data_source": "r365",
-      "monthly_budget": 195056.0
+      "data_source": "slack"
     },
     {
       "id": "dc",
@@ -217,11 +109,11 @@
       "date_note": "Date field was entered as 4/27 in Typeform \u2014 corrected to 3/27 based on submission timestamp (Fri 3/28 05:55am) and Day of the Week field (Friday).",
       "missing": false,
       "target": 7302.0,
-      "net_sales": 10278.0,
+      "net_sales": 10047.09,
       "food_sales": 1016.84,
       "beverage_sales": 9030.25,
       "event_sales": 0.0,
-      "comps": 81.0,
+      "comps": 118.94,
       "comp_pct": 1.18,
       "guest_count": 211,
       "guest_check_avg": 39.56,
@@ -261,12 +153,177 @@
           "type": "win",
           "text": "Strong night \u2014 $10,047 vs $7,302 target (+37.6%)"
         }
+      ]
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "2026-03-26",
+      "date_note": "",
+      "missing": false,
+      "target": 9004.0,
+      "net_sales": 10738.32,
+      "food_sales": 2322.4,
+      "beverage_sales": 8415.92,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": "90 in March - cold at night?",
+      "notes_summary": "",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $10,738 vs $9,004 (+19.3%)"
+        }
+      ]
+    },
+    {
+      "id": "ev",
+      "name": "D&C EV",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 8666.0,
+      "net_sales": 8103.0,
+      "food_sales": 846.0,
+      "beverage_sales": 7257.0,
+      "event_sales": 0.0,
+      "comps": 378.58,
+      "comp_pct": 4.67,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": "Cara / Arriel",
+      "weather": "Brisk winter evening",
+      "notes_summary": "Bustling night but not chaotic. John Feursanger visited. Strong middle and finish. Guest count not saved from shift review.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Missed target \u2014 $8,103 vs $8,666 (-6.5%)"
+        },
+        {
+          "type": "info",
+          "text": "Bustling night but not chaotic. John Feursanger visited. Strong middle and finish. Guest count not saved from shift revi"
+        }
       ],
-      "r365_forecast": 11181.0,
-      "check_avg": 40.15,
-      "guests": 256,
-      "data_source": "r365",
-      "monthly_budget": 198161.9
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 10846.0,
+      "net_sales": 11704.0,
+      "food_sales": 2108.0,
+      "beverage_sales": 9596.0,
+      "event_sales": 0.0,
+      "comps": 161.0,
+      "comp_pct": 1.38,
+      "guest_count": 320,
+      "guest_check_avg": 36.58,
+      "mod": "Chef + Gigi + Tomo + Josh",
+      "weather": "Warm with a side of Dodger win!",
+      "notes_summary": "Sleepy start, picked up at 9:30. Natalie (new host) first training night. Ben's birthday! Removed 2 bar seats due to floor issue.",
+      "maintenance_flags": [
+        "Floor becoming a mountain",
+        "Water is back"
+      ],
+      "eightysixed": [
+        "Lamb burger"
+      ],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 3145.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 8558.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Floor becoming a mountain"
+        },
+        {
+          "type": "flag",
+          "text": "Water is back"
+        },
+        {
+          "type": "info",
+          "text": "Sleepy start, picked up at 9:30. Natalie (new host) first training night. Ben's birthday! Removed 2 bar seats due to flo"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 14500.0,
+      "net_sales": 16817.0,
+      "food_sales": 5237.0,
+      "beverage_sales": 11580.0,
+      "event_sales": 1800.0,
+      "comps": 171.0,
+      "comp_pct": 1.02,
+      "guest_count": 290,
+      "guest_check_avg": 57.99,
+      "mod": "Gabby & Karim / Justin & Sukru",
+      "weather": "Warm & Sunny!",
+      "notes_summary": "Strong morning, busy evening pre-show at Lucas (8pm). SMF bringing steady guests. Sun Club busy with wind advisory. Hot Eye steady till midnight.",
+      "maintenance_flags": [
+        "THE temps high - warm air from vents again"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 1890.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 10017.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 1125.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 1985.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "THE temps high - warm air from vents again"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $16,817 vs $14,500 target (+16.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Strong morning, busy evening pre-show at Lucas (8pm). SMF bringing steady guests. Sun Club busy with wind advisory. Hot "
+        }
+      ],
+      "data_source": "slack"
     }
   ]
 }

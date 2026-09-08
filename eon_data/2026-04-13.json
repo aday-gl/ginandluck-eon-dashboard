@@ -21,7 +21,7 @@
       "guest_check_avg": 40.82,
       "mod": "KG / JK Key",
       "weather": "Sunny with highs in the mid 80s and lows dropping near 60",
-      "notes_summary": "Nice start with folks from upstairs joining for Meal Deals and after-work cocktails. Lull around 6pm, then familiar faces returned. Guest flow picked up again at 9pm. Industry push at 10:30-11pm. Served to midnight. Great upselling night with Murrell's Row Martinis and Mezcal drinks.",
+      "notes_summary": "Nice start with folks from upstairs joining for Meal Deals and after-work cocktails. Lull around 6pm, then familiar faces returned. Guest flow picked up again at 9pm. Industry push at 10:30-11pm. Served to midnight.",
       "maintenance_flags": [],
       "eightysixed": [
         "Titos",
@@ -37,11 +37,11 @@
       "highlights": [
         {
           "type": "win",
-          "text": "Well above target — $1,388 vs $885 target (+56.8%)"
+          "text": "Well above target \u2014 $1,388 vs $885 target (+56.8%)"
         },
         {
           "type": "info",
-          "text": "Strong industry connections — bartenders from Delbar and Sozou returning regularly"
+          "text": "Strong industry connections \u2014 bartenders from Delbar and Sozou returning regularly"
         }
       ],
       "data_source": "slack"
@@ -58,14 +58,14 @@
       "beverage_sales": 845,
       "event_sales": 0,
       "comps": 93,
-      "comp_pct": 10,
+      "comp_pct": 10.0,
       "guest_count": 29,
-      "guest_check_avg": 32,
+      "guest_check_avg": 32.0,
       "mod": "MD Tay",
       "weather": "Muggy",
       "notes_summary": "Slow start with no guests until 6:30. Two guests from Rolf & Daughters said it was their best bar experience in Nashville. Nearly half of sales ($450) came in last 1.5 hours from industry crowd.",
       "maintenance_flags": [
-        "Kitchen ticket printer stopped sending — had to handwrite checks"
+        "Kitchen ticket printer stopped sending \u2014 had to handwrite checks"
       ],
       "eightysixed": [
         "High Noons"
@@ -74,15 +74,15 @@
       "highlights": [
         {
           "type": "flag",
-          "text": "Below target — $920 vs $1,012 target (-9.1%)"
+          "text": "Below target \u2014 $920 vs $1,012 target (-9.1%)"
         },
         {
           "type": "win",
-          "text": "Great guest feedback — Rolf & Daughters bartenders called it best bar experience in Nashville"
+          "text": "Great guest feedback \u2014 Rolf & Daughters bartenders called it best bar experience in Nashville"
         },
         {
           "type": "flag",
-          "text": "POS ticket issue — tickets stopped printing to kitchen"
+          "text": "POS ticket issue \u2014 tickets stopped printing to kitchen"
         }
       ],
       "data_source": "slack"
@@ -104,7 +104,7 @@
       "guest_check_avg": 47.87,
       "mod": "Gabby (AM) / James & Lex (PM)",
       "weather": "Warm and sunny",
-      "notes_summary": "Steady Monday. AM had training for Skylar, Stephanie (server training), and Brigid (pool attendant day 2). Team did spring cleaning across vault, dry storage, BOH, mezz closet. PM was slow until 6pm then filled up until 9pm. Bar was steady with Amelia staying until 10pm to help. Excellent teamwork.",
+      "notes_summary": "Steady Monday. AM had training for Skylar, Stephanie, and Brigid. Team did spring cleaning. PM was slow until 6pm then filled up until 9pm. Excellent teamwork.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [
@@ -128,11 +128,11 @@
       "highlights": [
         {
           "type": "flag",
-          "text": "Below target — $5,409 vs $6,000 target (-9.9%)"
+          "text": "Below target \u2014 $5,409 vs $6,000 target (-9.9%)"
         },
         {
           "type": "info",
-          "text": "Productive training day — three new staff members progressing well"
+          "text": "Productive training day \u2014 three new staff members progressing well"
         }
       ],
       "data_source": "slack"
@@ -154,9 +154,9 @@
       "guest_check_avg": 40.47,
       "mod": "Mikey, Vic",
       "weather": "Not rainy but pretty chilly for LA",
-      "notes_summary": "Started busy with TOTC HH event that ran longer than expected. Joe helped with closedown and reopen. Business trickled in slowly. VIP Lauren had a wonderful time. Slowed drastically around 10pm. Sewage smell still present — guests requested seat changes. Sold about 80 oysters.",
+      "notes_summary": "Started busy with TOTC HH event. Business trickled in slowly. Slowed drastically around 10pm. Sewage smell still present \u2014 guests requested seat changes.",
       "maintenance_flags": [
-        "Sewage smell persisting — guests still requesting to move away from restroom area"
+        "Sewage smell persisting \u2014 guests still requesting to move away from restroom area"
       ],
       "eightysixed": [
         "Aval draught cider"
@@ -174,7 +174,7 @@
       "highlights": [
         {
           "type": "flag",
-          "text": "Below target — $3,602 vs $3,835 target (-6.1%)"
+          "text": "Below target \u2014 $3,602 vs $3,835 target (-6.1%)"
         },
         {
           "type": "win",
@@ -182,7 +182,7 @@
         },
         {
           "type": "flag",
-          "text": "Sewage smell continuing — guests actively moving seats"
+          "text": "Sewage smell continuing \u2014 guests actively moving seats"
         }
       ],
       "data_source": "slack"
@@ -204,9 +204,9 @@
       "guest_check_avg": 38.23,
       "mod": "Maggie (AM) / Carey (PM)",
       "weather": "N/A",
-      "notes_summary": "Mellow Monday AM — light pops with one bird. PM had slower start but nice food pop mid-day with amazing food sales. Great guest interactions. Tin rinser on bar 300 randomly squirts water at guests.",
+      "notes_summary": "Mellow Monday AM. PM had slower start but nice food pop mid-day with amazing food sales. Great guest interactions.",
       "maintenance_flags": [
-        "Tin rinser on bar 300 randomly squirts water — entered into Intelity by TRH"
+        "Tin rinser on bar 300 randomly squirts water \u2014 entered into Intelity by TRH"
       ],
       "eightysixed": [],
       "sub_venues": [
@@ -226,11 +226,11 @@
       "highlights": [
         {
           "type": "win",
-          "text": "Well above target — $5,735 vs $3,491 target (+64.3%)"
+          "text": "Well above target \u2014 $5,735 vs $3,491 target (+64.3%)"
         },
         {
           "type": "win",
-          "text": "Strong food sales — $1,854 with great guest feedback"
+          "text": "Strong food sales \u2014 $1,854 with great guest feedback"
         }
       ],
       "data_source": "slack"
@@ -240,26 +240,40 @@
       "name": "D&C East Village",
       "full_name": "Death & Co East Village",
       "color": "#E87A7A",
-      "missing": true,
-      "target": null,
-      "net_sales": null,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": null,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": "EON report not yet submitted as of dashboard generation time.",
-      "maintenance_flags": [],
+      "missing": false,
+      "target": 4366,
+      "net_sales": 4000,
+      "food_sales": 766,
+      "beverage_sales": 3051,
+      "event_sales": 0,
+      "comps": 210.02,
+      "comp_pct": 5.25,
+      "guest_count": 124,
+      "guest_check_avg": 32.26,
+      "mod": "Cara & Alejandro",
+      "weather": "Warm",
+      "notes_summary": "Night was remarkably full for its volume. Many ex-EV residents visiting. 89 oysters sold out around 10:15pm. Javelle, Tiff, Robin, Josh, Shelby and EMP colleagues visited. 3 large parties, 4 solos, 8 investor cocktails. Top sellers: Buckhorn Exchange, Masari, Doves in the Wind.",
+      "maintenance_flags": [
+        "AC not running very well"
+      ],
       "eightysixed": [],
       "sub_venues": [],
       "highlights": [
         {
           "type": "flag",
-          "text": "Missing — EON report not yet submitted for Monday April 13"
+          "text": "Below target \u2014 $4,000 vs $4,366 target (-8.4%)"
+        },
+        {
+          "type": "win",
+          "text": "89 oysters sold \u2014 sold out at 10:15pm"
+        },
+        {
+          "type": "win",
+          "text": "Great ex-D&C alumni visits including Javelle's EMP colleagues"
+        },
+        {
+          "type": "flag",
+          "text": "AC not running well"
         }
       ],
       "data_source": "slack"
@@ -281,10 +295,10 @@
       "guest_check_avg": 48.98,
       "mod": "Alex G",
       "weather": "Warm weather with a cool evening",
-      "notes_summary": "Quiet start gave time for connection points. Picked up at sundown with manageable flow. Patio had guests from open to last call. 90s music fit millennial birthday vibe. Kitchen started without oysters but Jamal got them in by 6:15pm. Strong food night at $807 for a Monday.",
+      "notes_summary": "Quiet start gave time for connection points. Picked up at sundown with manageable flow. Patio had guests open to last call. Strong food night at $807 for a Monday.",
       "maintenance_flags": [
         "Hot water heater tripping",
-        "No AC in kitchen — still ongoing"
+        "No AC in kitchen \u2014 still ongoing"
       ],
       "eightysixed": [],
       "sub_venues": [
@@ -300,11 +314,11 @@
       "highlights": [
         {
           "type": "win",
-          "text": "Strong Monday — $3,429 net sales (target not provided)"
+          "text": "Strong Monday \u2014 $3,429 net sales (target not provided)"
         },
         {
           "type": "win",
-          "text": "Excellent food sales at $807 — 23.5% of total"
+          "text": "Excellent food sales at $807 \u2014 23.5% of total"
         },
         {
           "type": "flag",

@@ -1,0 +1,293 @@
+{
+  "report_date": "April 5, 2026",
+  "iso_date": "2026-04-05",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-06 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "No EON report found for this date. CC Atlanta may be closed on Sundays or report not yet submitted.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [],
+      "data_source": null
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 1838.0,
+      "net_sales": 1532.0,
+      "food_sales": 84.0,
+      "beverage_sales": 1448.0,
+      "event_sales": 0.0,
+      "comps": 66.0,
+      "comp_pct": 4.31,
+      "guest_count": 65,
+      "guest_check_avg": 23.58,
+      "mod": "KE Tay",
+      "weather": "Nice. Cooler.",
+      "notes_summary": "Slow but steady Easter Sunday night. Handful of first-time guests, mostly local. Charmers had a pop-up with Fox Den which drew some traffic but most stayed at Charmers. Industry regulars from Pelato and Oku meeting and connecting.",
+      "maintenance_flags": [
+        "Leak under water taps by well 1"
+      ],
+      "eightysixed": [
+        "Ketchup",
+        "Bitter melon"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $1,532 vs $1,838 target (-16.6%)"
+        },
+        {
+          "type": "info",
+          "text": "Easter Sunday \u2014 slow but steady with local first-timers"
+        },
+        {
+          "type": "info",
+          "text": "Industry folks from Pelato and Oku connecting at the bar"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 11000.0,
+      "net_sales": 15041.0,
+      "food_sales": 6679.0,
+      "beverage_sales": 8362.0,
+      "event_sales": 0.0,
+      "comps": 433.0,
+      "comp_pct": 2.88,
+      "guest_count": 352,
+      "guest_check_avg": 42.73,
+      "mod": "Sam & Lex (AM) / Gabby & Sukru (PM)",
+      "weather": "Sunny Day until 2pm then showers",
+      "notes_summary": "Really strong Easter brunch with large family parties (14-top, 9-top, multiple 8-tops). Kitchen handled every push well. Evening ramped up quickly after brief post-HH lull. Down a server and barback but team adjusted and found solid flow. Out-of-town visitors strong. Sun Club closed early due to thunderstorms. Hot Eye steady with regular Sunday bar crawl tour.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 6276.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 8890.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 328.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 1405.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Crushed target \u2014 $15,041 vs $11,000 target (+36.7%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong Easter brunch with large family parties"
+        },
+        {
+          "type": "info",
+          "text": "Down a server and barback but team adjusted beautifully"
+        },
+        {
+          "type": "info",
+          "text": "Guests joking about moving to Savannah \u2014 great holiday energy"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 3275.0,
+      "net_sales": 4013.0,
+      "food_sales": 448.0,
+      "beverage_sales": 3565.0,
+      "event_sales": 0.0,
+      "comps": 59.2,
+      "comp_pct": 1.48,
+      "guest_count": 129,
+      "guest_check_avg": 31.11,
+      "mod": "Joe + Josh + Tomo",
+      "weather": "Not reported",
+      "notes_summary": "Pretty steady Sunday evening. Started with 44 covers, sleepy first hours. Room full around 9pm with small waitlist cleared quickly. Full until last call. Some POS/printer tech issues resolved with Toast team. Floor drains in kitchen and marquee bar started backing up at close \u2014 plunged and monitoring.",
+      "maintenance_flags": [
+        "Floor drains backing up"
+      ],
+      "eightysixed": [
+        "Rockfish"
+      ],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 0.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 4013.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $4,013 vs $3,275 target (+22.5%)"
+        },
+        {
+          "type": "info",
+          "text": "POS printer issues resolved with Toast team"
+        },
+        {
+          "type": "flag",
+          "text": "Floor drains backing up at close \u2014 monitoring"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 8504.15,
+      "net_sales": 7060.1,
+      "food_sales": 1777.3,
+      "beverage_sales": 5282.8,
+      "event_sales": 0.0,
+      "comps": 278.6,
+      "comp_pct": 3.95,
+      "guest_count": 163,
+      "guest_check_avg": 43.31,
+      "mod": "Kira (AM) / Carey (PM)",
+      "weather": "Not reported",
+      "notes_summary": "Very slow Sunday. No IRDs. Made early cuts and tried to get D&C guests to also experience Sakura Bar. Dom's mom came in and brought Easter snacks for the whole class. Smooth evening with great mood throughout.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 566.58
+        },
+        {
+          "name": "D&C PM",
+          "sales": 6493.52
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 2204.2
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $7,060 vs $8,504 target (-17.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Slow Easter Sunday \u2014 early cuts made"
+        },
+        {
+          "type": "info",
+          "text": "Dom's mom brought Easter snacks for the team!"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 4411.0,
+      "net_sales": 3482.0,
+      "food_sales": 423.0,
+      "beverage_sales": 3012.0,
+      "event_sales": 0.0,
+      "comps": 61.93,
+      "comp_pct": 1.78,
+      "guest_count": 101,
+      "guest_check_avg": 35.0,
+      "mod": "Courtney & Riel",
+      "weather": "Chilly a bit",
+      "notes_summary": "Sleepy Easter Sunday with early brunches and colder weather slowing things down. Half capacity until 8pm when reservations filled in. 3 birthdays in a row at 9pm. No walk-ins for an hour from 10:45-11:45pm. Art world workers and birthday celebrations at the Salon.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $3,482 vs $4,411 target (-21.1%)"
+        },
+        {
+          "type": "info",
+          "text": "Easter Sunday \u2014 sleepy with early brunches and cold weather"
+        },
+        {
+          "type": "info",
+          "text": "Top Sellers: Buckhorn Exchange, First Time Listener, Masari, Material Control"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "No EON report found for this date. D&C DC may be closed on Sundays or report not yet submitted.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [],
+      "data_source": null
+    }
+  ]
+}

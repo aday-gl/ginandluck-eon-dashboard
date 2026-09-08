@@ -1,0 +1,312 @@
+{
+  "report_date": "April 10, 2026",
+  "iso_date": "2026-04-10",
+  "day_of_week": "Friday",
+  "generated_at": "2026-04-11 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 6653.0,
+      "net_sales": 5402.0,
+      "food_sales": 535.0,
+      "beverage_sales": 4867.0,
+      "event_sales": 0.0,
+      "comps": 50.8,
+      "comp_pct": 0.94,
+      "guest_count": 182,
+      "guest_check_avg": 29.68,
+      "mod": "MKZ // KG // JK Key",
+      "weather": "Sunny with highs near 80 and lows reaching the 50s overnight",
+      "notes_summary": "Steady start to the Friday at CC ATL. Nice weather brought people out on the beltline and past the open door. Guest flow picked up around 8:30pm and stayed steady till about 12am. Peak volume around 10pm as usual, but no significant late-night push around 12/12:30am. Kya from Il Premio said their volume was also meh \u2014 a chill Friday for the neighborhood. Opener cut shortly after closers arrived. Mid stayed on till just after 12am. All guests out by 2:15am.",
+      "maintenance_flags": [
+        "Well 200 leak is back \u2014 pool of liquid requiring multiple towel cleanups through the night"
+      ],
+      "eightysixed": [
+        "Titos (back next week)",
+        "Chinola",
+        "3 Taverns Prince of Pils (now running Sierra Nevada Pilsner)",
+        "Low Miller High Life"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $5,402 vs $6,653 target (-18.8%)"
+        },
+        {
+          "type": "flag",
+          "text": "Well 200 leak back with a vengeance \u2014 needs investigation (possibly bar rinser or H2O/sparkling lines)"
+        },
+        {
+          "type": "info",
+          "text": "Peak around 10pm; steady from 8:30pm-12am. No significant late-night push"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 13095.0,
+      "net_sales": 10359.0,
+      "food_sales": 171.0,
+      "beverage_sales": 10188.0,
+      "event_sales": 0.0,
+      "comps": 100.75,
+      "comp_pct": 0.97,
+      "guest_count": 376,
+      "guest_check_avg": 27.55,
+      "mod": "KE, TY",
+      "weather": "Perfect weather",
+      "notes_summary": "Very slow in house until about 9:30pm. Picked up but never got too full \u2014 stayed steady from that point until later than usual. A decent amount of folks in house right up to the end. 10-top no-showed their 7pm reservation. Tay had a minor finger cut that was wrapped and he finished the shift. Decent food sales toward the end. Linda Tan (old teammate of KE from ~6 years ago) came in with friends and particularly loved the Daisy de Manzana.",
+      "maintenance_flags": [
+        "Well 1 taps"
+      ],
+      "eightysixed": [
+        "GF Pockets",
+        "Chopped Salad is back"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $10,359 vs $13,095 target (-20.9%)"
+        },
+        {
+          "type": "flag",
+          "text": "10-top no-show at 7pm; minor staff injury (finger cut, finished shift)"
+        },
+        {
+          "type": "info",
+          "text": "Slow start, picked up at 9:30pm and stayed steady through close"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 12500.0,
+      "net_sales": 14722.0,
+      "food_sales": 4813.0,
+      "beverage_sales": 9909.0,
+      "event_sales": 0.0,
+      "comps": 400.0,
+      "comp_pct": 2.72,
+      "guest_count": 281,
+      "guest_check_avg": 52.39,
+      "mod": "Gabby (AM) / Justin & Sukru (PM)",
+      "weather": "Warm and sunny",
+      "notes_summary": "Busy morning from the start with a steady pace and consistent flow of service throughout. Strong street traffic on Broughton brought many new faces along with MAX guests. Great start to the weekend! Good business through happy hour into a great dinner start with walk-ins filling the dining room until reservations took off around 7pm. Solid rush at 8:30 kept bar and floor busy until kitchen close. A few more walk-ins after 10 \u2014 most headed downstairs to keep the party going. Sun Club had its busiest day of the week with beautiful weather. Hot Eye notes: 0.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 1663.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 9158.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 973.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 2928.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $14,722 vs $12,500 target (+17.8%)"
+        },
+        {
+          "type": "win",
+          "text": "Sun Club busiest day of the week; all four sub-venues active"
+        },
+        {
+          "type": "info",
+          "text": "Strong street traffic on Broughton; solid 8:30 rush kept team busy through kitchen close"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 11857.0,
+      "net_sales": 13972.0,
+      "food_sales": 2484.0,
+      "beverage_sales": 11488.0,
+      "event_sales": 0.0,
+      "comps": 222.88,
+      "comp_pct": 1.6,
+      "guest_count": 355,
+      "guest_check_avg": 39.36,
+      "mod": "Gigi/Joe & Chef Selenia/Josh",
+      "weather": "Hot! In the 80s",
+      "notes_summary": "WOW what a night. Full rooms all night \u2014 turn and burn. Lots of big parties and 2-top walk-ins made seating easy. Ryan and Natalie did great tackling the waitlist. Implemented QR code waitlist for upstairs \u2014 working great! Continued pulling people physically there downstairs to speed up instead of relying solely on text-backs. A few DNLs but found solutions for all. Kept SR open til 1am \u2014 it was cranking. Snack menus driving great late-night food sales. Huge shoutout to Chef and Josh. Sewer smell + weird fishy smell plagued the evening with several guest complaints and a couple guests who decided not to stay because of it.",
+      "maintenance_flags": [
+        "Severe sewer/fishy smell all night \u2014 guest complaints, some guests left because of it"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 4126.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 7594.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $13,972 vs $11,857 target (+17.8%)"
+        },
+        {
+          "type": "flag",
+          "text": "Severe sewer/fishy smell \u2014 guest complaints, some guests left"
+        },
+        {
+          "type": "win",
+          "text": "Both rooms cranking all night; QR code waitlist working great upstairs"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 14844.25,
+      "net_sales": 17615.46,
+      "food_sales": 3447.55,
+      "beverage_sales": 14167.91,
+      "event_sales": 0.0,
+      "comps": 818.56,
+      "comp_pct": 4.65,
+      "guest_count": 458,
+      "guest_check_avg": 38.46,
+      "mod": "Maggie (AM) / Carey & Lucas (PM)",
+      "weather": "N/A",
+      "notes_summary": "Steady smooth Friday night with a full staff of rock stars! Pacing was fantastic and everyone on top of their game. Lots of celebrations tonight including VIPs bringing family and TRH staff celebrating a 21st birthday with their first drink at D&C. 6A had a chill night with some lulls and no-shows. Kitchen had a fuego night with Archer and Isais \u2014 orders all the way till the end yet went so smoothly. Carey celebrating 8-year anniversary with the team. AM sales $1,128.62, PM D&C $16,486.84, Garden/6A $2,713.02.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 1128.62
+        },
+        {
+          "name": "D&C PM",
+          "sales": 16486.84
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 2713.02
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $17,615 vs $14,844 target (+18.7%)"
+        },
+        {
+          "type": "win",
+          "text": "Full staff of rock stars; fantastic pacing all night"
+        },
+        {
+          "type": "info",
+          "text": "Carey's 8-year anniversary; VIP celebrations and first-drink 21st birthday"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 9459.0,
+      "net_sales": 8041.0,
+      "food_sales": 1109.0,
+      "beverage_sales": 6932.0,
+      "event_sales": 0.0,
+      "comps": 232.0,
+      "comp_pct": 2.88,
+      "guest_count": 213,
+      "guest_check_avg": 38.0,
+      "mod": "Cara / Steves",
+      "weather": "Chilly spring evening",
+      "notes_summary": "Slow start, slow finish, packed middle. Large parties boosted first couple turns. Room half empty by midnight with trickling foot traffic. Strong enthusiasts kept check averages high. Courtney and family visited during first turn. Top sellers: Masari, Cielo Asilo, Root & Rye. Door had line at open, full by 7pm, smooth flips with long waitlist of midsized tables. Foot traffic died after 10pm flip. Three no-shows charged (2 of 3).",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $8,041 vs $9,459 target (-15.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Packed middle section; slow bookends. Strong enthusiast engagement kept check avg high"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 10398.11,
+      "net_sales": 16802.0,
+      "food_sales": 0.0,
+      "beverage_sales": 0.0,
+      "event_sales": 16802.0,
+      "comps": 0.0,
+      "comp_pct": 0.0,
+      "guest_count": 79,
+      "guest_check_avg": 0.0,
+      "mod": "Kevin / Cory / Josh",
+      "weather": "Perfect!",
+      "notes_summary": "Full private event night \u2014 $16,802 in event sales with 79 attendees. BOH team did great job with event food, all dishes timely. Heard many compliments on food offerings. Great communication throughout. Some guests requested photos with staff. May need more large format plates for future events.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $16,802 vs $10,398 target (+61.6%) \u2014 full private event"
+        },
+        {
+          "type": "win",
+          "text": "Guests raved about atmosphere, F&B, and staff"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}

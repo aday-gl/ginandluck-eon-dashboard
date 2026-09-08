@@ -13,11 +13,11 @@
       "date_note": "",
       "missing": false,
       "target": 8097.0,
-      "net_sales": 0.0,
+      "net_sales": 7976.0,
       "food_sales": 336.0,
       "beverage_sales": 7640.0,
       "event_sales": 0.0,
-      "comps": 0.0,
+      "comps": 122.0,
       "comp_pct": 1.53,
       "guest_count": 226,
       "guest_check_avg": null,
@@ -44,12 +44,7 @@
           "type": "info",
           "text": "86'd: 86 - Aperol, Lairds, Lalo"
         }
-      ],
-      "r365_forecast": 0.0,
-      "check_avg": 0.0,
-      "guests": 0,
-      "data_source": "r365",
-      "monthly_budget": 143197.2
+      ]
     },
     {
       "id": "ccnsh",
@@ -57,82 +52,74 @@
       "full_name": "Close Company Nashville",
       "color": "#6B8CBA",
       "missing": false,
-      "target": null,
-      "net_sales": 1121.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
+      "target": 1360.0,
+      "net_sales": 1129.0,
+      "food_sales": 115.0,
+      "beverage_sales": 1014.0,
+      "event_sales": 0.0,
       "comps": 115.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
+      "comp_pct": 10.19,
+      "guest_count": 38,
+      "guest_check_avg": 29.71,
+      "mod": "KE / Tay",
+      "weather": "Very temperate",
+      "notes_summary": "Pretty chill evening. March madness may be keeping it slow. Cleaned and relabeled the lowboy. Regulars from Etch, Opti, Pelato.",
       "maintenance_flags": [],
-      "eightysixed": [],
+      "eightysixed": [
+        "Totchos"
+      ],
       "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 1360.0,
-      "check_avg": 29.5,
-      "guests": 38,
-      "data_source": "r365",
-      "monthly_budget": 190504.59
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $1,129 vs $1,360 (-17.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Pretty chill evening. March madness may be keeping it slow. Cleaned and relabeled the lowboy. Regulars from Etch, Opti, "
+        }
+      ],
+      "data_source": "slack"
     },
     {
-      "id": "mg",
-      "name": "Municipal Grand",
-      "full_name": "Municipal Grand F&B",
-      "color": "#7CB87A",
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
       "missing": false,
-      "target": 7500,
-      "net_sales": 13443,
-      "food_sales": null,
-      "beverage_sales": null,
+      "target": 4135.53,
+      "net_sales": 4145.14,
+      "food_sales": 698.5,
+      "beverage_sales": 3446.64,
       "event_sales": null,
-      "comps": 605,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": "70 and beautiful",
-      "notes_summary": null,
-      "maintenance_flags": [],
+      "comps": 92.6,
+      "comp_pct": 2.23,
+      "guest_count": 73,
+      "guest_check_avg": 56.78,
+      "mod": "Khaleel",
+      "weather": "Sunny but chilly",
+      "notes_summary": "Good push from the start. Women's History Month pop-up, then second event grew from 40 to 74 guests. Short-staffed but team dove in. Industry crowd late night.",
+      "maintenance_flags": [
+        "Staffing"
+      ],
       "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "guests": 295,
-      "check_avg": 45.57,
-      "data_source": "slack",
-      "narrative": "Empirical Spirits pop-up in Hot Eye tonight. Biggest Sunday for THE to date \u2014 packed from open to close. Steady morning then strong evening, everyone gone by 11:15."
-    },
-    {
-      "id": "la",
-      "name": "D&C LA",
-      "full_name": "Death & Co Los Angeles",
-      "color": "#C47DC0",
-      "missing": false,
-      "target": null,
-      "net_sales": 3794.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 162.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 5395.0,
-      "check_avg": 33.57,
-      "guests": 113,
-      "data_source": "r365",
-      "monthly_budget": 253429.6
+      "sub_venues": [
+        {
+          "name": "D&C Marquee Bar",
+          "sales": 3087.12
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Staffing"
+        },
+        {
+          "type": "info",
+          "text": "Good push from the start. Women's History Month pop-up, then second event grew from 40 to 74 guests. Short-staffed but t"
+        }
+      ],
+      "data_source": "slack"
     },
     {
       "id": "dvr",
@@ -143,12 +130,12 @@
       "date_note": "",
       "missing": false,
       "target": 18100.0,
-      "net_sales": 9848.0,
+      "net_sales": 17123.52,
       "food_sales": 4195.2,
       "beverage_sales": 12928.32,
       "event_sales": null,
-      "comps": 354.0,
-      "comp_pct": null,
+      "comps": 369.74,
+      "comp_pct": 2.16,
       "guest_count": null,
       "guest_check_avg": null,
       "mod": null,
@@ -162,12 +149,7 @@
           "type": "flag",
           "text": "Missed target \u2014 $17,124 vs $18,100 (-5.4%)"
         }
-      ],
-      "r365_forecast": 8056.0,
-      "check_avg": 32.29,
-      "guests": 305,
-      "data_source": "r365",
-      "monthly_budget": 410111.15
+      ]
     },
     {
       "id": "ev",
@@ -175,55 +157,148 @@
       "full_name": "Death & Co East Village",
       "color": "#E87A7A",
       "missing": false,
-      "target": null,
-      "net_sales": 3359.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 9.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
+      "target": 5000.0,
+      "net_sales": 3336.0,
+      "food_sales": 369.0,
+      "beverage_sales": 2906.0,
+      "event_sales": 0.0,
+      "comps": 72.92,
+      "comp_pct": 2.19,
+      "guest_count": 104,
+      "guest_check_avg": 32.08,
+      "mod": "Cara & Arriel",
+      "weather": "Chilly but sunny",
+      "notes_summary": "Unusually compressed peak hours. Salon Sundays in front section. Strong bond between youthful Nowadays employees and elder Bostonian investors. Fizzled after 11PM.",
+      "maintenance_flags": [
+        "Tock reservation system issue"
+      ],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 4904.0,
-      "check_avg": 34.63,
-      "guests": 97,
-      "data_source": "r365",
-      "monthly_budget": 195056.0
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Tock reservation system issue"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $3,336 vs $5,000 (-33.3%)"
+        },
+        {
+          "type": "info",
+          "text": "Unusually compressed peak hours. Salon Sundays in front section. Strong bond between youthful Nowadays employees and eld"
+        }
+      ],
+      "data_source": "slack"
     },
     {
-      "id": "dc",
-      "name": "D&C DC",
-      "full_name": "Death & Co Washington DC",
-      "color": "#5AA8C4",
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
       "missing": false,
-      "target": null,
-      "net_sales": 4145.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 63.0,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "r365_forecast": 4136.0,
-      "check_avg": 41.87,
-      "guests": 99,
-      "data_source": "r365",
-      "monthly_budget": 198161.9
+      "target": 5395.0,
+      "net_sales": 3655.0,
+      "food_sales": 613.0,
+      "beverage_sales": 3042.0,
+      "event_sales": 0.0,
+      "comps": 185.0,
+      "comp_pct": 5.06,
+      "guest_count": 113,
+      "guest_check_avg": 32.35,
+      "mod": "Joe + Selenia + Josh",
+      "weather": "Clear",
+      "notes_summary": "Very slow Sunday. Gradually busier, filled around 9pm. Streets unusually quiet. Took advantage to break down early and do R&D. Last call was quiet.",
+      "maintenance_flags": [
+        "Crushed ice machine unusual noise",
+        "Floors"
+      ],
+      "eightysixed": [
+        "Lamb burger",
+        "Tarragon aioli"
+      ],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 3655.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Crushed ice machine unusual noise"
+        },
+        {
+          "type": "flag",
+          "text": "Floors"
+        },
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $3,655 vs $5,395 (-32.3%)"
+        },
+        {
+          "type": "info",
+          "text": "Very slow Sunday. Gradually busier, filled around 9pm. Streets unusually quiet. Took advantage to break down early and d"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 7500.0,
+      "net_sales": 13443.0,
+      "food_sales": 4796.0,
+      "beverage_sales": 8647.0,
+      "event_sales": 0.0,
+      "comps": 605.0,
+      "comp_pct": 4.5,
+      "guest_count": 295,
+      "guest_check_avg": 45.57,
+      "mod": "Sam & Sukru / Justin & Karim",
+      "weather": "70 and beautiful",
+      "notes_summary": "Biggest Sunday for Hot Eye to date \u2014 Empirical Spirits pop-up was a smash. Brunch steady, evening died around 7:30 but picked up with walk-ins. Sun Club table damaged by wind.",
+      "maintenance_flags": [
+        "Sun Club table damaged by umbrella"
+      ],
+      "eightysixed": [
+        "Sunchokes"
+      ],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 3946.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 5530.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 752.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 3187.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Sun Club table damaged by umbrella"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $13,443 vs $7,500 target (+79.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Biggest Sunday for Hot Eye to date \u2014 Empirical Spirits pop-up was a smash. Brunch steady, evening died around 7:30 but p"
+        }
+      ],
+      "data_source": "slack"
     }
   ]
 }

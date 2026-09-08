@@ -13,12 +13,12 @@
       "date_note": "",
       "missing": false,
       "target": 985.0,
-      "net_sales": 2370.0,
+      "net_sales": 4968.0,
       "food_sales": 43.0,
       "beverage_sales": 4925.0,
       "event_sales": 0.0,
-      "comps": null,
-      "comp_pct": 1.13,
+      "comps": 32.6,
+      "comp_pct": 0.66,
       "guest_count": 108,
       "guest_check_avg": null,
       "mod": "MKZ",
@@ -52,13 +52,7 @@
           "type": "info",
           "text": "86'd: Aperol"
         }
-      ],
-      "full": "Close Company Atlanta",
-      "r365_forecast": 0.0,
-      "check_avg": 650.0,
-      "guests": 0,
-      "data_source": "r365",
-      "monthly_budget": 143197.2
+      ]
     },
     {
       "id": "ccnsh",
@@ -66,84 +60,85 @@
       "full_name": "Close Company Nashville",
       "color": "#6B8CBA",
       "missing": false,
-      "target": null,
+      "target": 1828.0,
       "net_sales": 1989.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": null,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
+      "food_sales": 202.0,
+      "beverage_sales": 1787.0,
+      "event_sales": 0.0,
+      "comps": 158.95,
+      "comp_pct": 7.99,
+      "guest_count": 75,
+      "guest_check_avg": 26.52,
+      "mod": "MD // KEY: JM",
+      "weather": "Weather might have pushed people down",
+      "notes_summary": "Solid night, Bingo was popping. Slowed then nice pop around 10 with lots of new faces. Good Tuesday!",
+      "maintenance_flags": [
+        "Well 2 sprayer"
+      ],
+      "eightysixed": [
+        "Bitter Melon"
+      ],
       "sub_venues": [],
-      "highlights": [],
-      "full": "Close Company Nashville",
-      "r365_forecast": 0.0,
-      "check_avg": 622.0,
-      "guests": 0,
-      "data_source": "r365",
-      "monthly_budget": 190504.59
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well 2 sprayer"
+        },
+        {
+          "type": "info",
+          "text": "Solid night, Bingo was popping. Slowed then nice pop around 10 with lots of new faces. Good Tuesday!"
+        }
+      ],
+      "data_source": "slack"
     },
     {
-      "id": "mg",
-      "name": "Municipal Grand",
-      "full_name": "Municipal Grand F&B",
-      "color": "#7CB87A",
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
       "missing": false,
-      "target": 11000,
-      "net_sales": 6632,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": 531,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": "Partly cloudy, warm",
-      "notes_summary": null,
-      "maintenance_flags": [],
+      "target": 4447.0,
+      "net_sales": 8547.0,
+      "food_sales": 501.0,
+      "beverage_sales": 3846.0,
+      "event_sales": 4200.0,
+      "comps": 82.0,
+      "comp_pct": 0.96,
+      "guest_count": 118,
+      "guest_check_avg": 32.94,
+      "mod": "Cory",
+      "weather": "Warm",
+      "notes_summary": "Pretty solid night. Majority of reservations 5-8pm. Nearby conference drew groups. Event in garden was successful \u2014 company looking to rebook.",
+      "maintenance_flags": [
+        "2nd bathroom",
+        "Server water tower"
+      ],
       "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "guests": 156,
-      "check_avg": 42.51,
-      "data_source": "slack",
-      "narrative": "Sun Club Grand Opening! Amazing turnout for the Sun Club Grand Opening \u2014 approx. 35 people at peak, beautiful weather, DJ Miss Paradise. Early dinner was busiest evening period."
-    },
-    {
-      "id": "la",
-      "name": "D&C LA",
-      "full_name": "Death & Co Los Angeles",
-      "color": "#C47DC0",
-      "missing": false,
-      "target": null,
-      "net_sales": -193.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": null,
-      "comp_pct": null,
-      "guest_count": null,
-      "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
-      "maintenance_flags": [],
-      "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "full": "Death & Co LA",
-      "r365_forecast": 3915.0,
-      "check_avg": 1455.0,
-      "guests": 2,
-      "data_source": "r365",
-      "monthly_budget": 253429.6
+      "sub_venues": [
+        {
+          "name": "D&C Marquee Bar",
+          "sales": 4347.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "2nd bathroom"
+        },
+        {
+          "type": "flag",
+          "text": "Server water tower"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $8,547 vs $4,447 target (+92.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Pretty solid night. Majority of reservations 5-8pm. Nearby conference drew groups. Event in garden was successful \u2014 comp"
+        }
+      ],
+      "data_source": "slack"
     },
     {
       "id": "dvr",
@@ -154,12 +149,12 @@
       "date_note": "",
       "missing": false,
       "target": 6027.0,
-      "net_sales": 6156.0,
+      "net_sales": 5307.25,
       "food_sales": 1542.8,
       "beverage_sales": 3764.45,
       "event_sales": null,
-      "comps": null,
-      "comp_pct": null,
+      "comps": 420.15,
+      "comp_pct": 7.92,
       "guest_count": null,
       "guest_check_avg": null,
       "mod": null,
@@ -179,22 +174,16 @@
           "type": "flag",
           "text": "Missed target \u2014 $5,307 vs $6,027 (-11.9%)"
         }
-      ],
-      "full": "Death & Co Denver",
-      "r365_forecast": 5835.0,
-      "check_avg": 3302.0,
-      "guests": 3,
-      "data_source": "r365",
-      "monthly_budget": 410111.15
+      ]
     },
     {
       "id": "ev",
-      "name": "D&C East Village",
+      "name": "D&C EV",
       "full_name": "Death & Co East Village",
       "color": "#E87A7A",
-      "missing": false,
+      "missing": true,
       "target": null,
-      "net_sales": 2660.0,
+      "net_sales": null,
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
@@ -208,42 +197,106 @@
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": [],
-      "full": "Death & Co East Village",
-      "r365_forecast": 3887.0,
-      "check_avg": 896.0,
-      "guests": 0,
-      "data_source": "r365",
-      "monthly_budget": 195056.0
+      "highlights": []
     },
     {
-      "id": "dc",
-      "name": "D&C DC",
-      "full_name": "Death & Co Washington DC",
-      "color": "#5AA8C4",
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
       "missing": false,
-      "target": null,
-      "net_sales": 4555.0,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "comps": null,
-      "comp_pct": null,
+      "target": 4089.0,
+      "net_sales": 4558.0,
+      "food_sales": 1132.0,
+      "beverage_sales": 3426.0,
+      "event_sales": 0.0,
+      "comps": 217.0,
+      "comp_pct": 4.76,
       "guest_count": null,
       "guest_check_avg": null,
-      "mod": null,
-      "weather": null,
-      "notes_summary": null,
+      "mod": "Joe + Vic",
+      "weather": "Rainy evening",
+      "notes_summary": "Pretty steady Tuesday. Second day of Toast POS \u2014 big learning experience. Coco from Toast here all night troubleshooting. Marquee bar reached 87 degrees.",
+      "maintenance_flags": [
+        "AC unit",
+        "Crushed ice machine swap tomorrow"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 4558.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "AC unit"
+        },
+        {
+          "type": "flag",
+          "text": "Crushed ice machine swap tomorrow"
+        },
+        {
+          "type": "win",
+          "text": "Strong night \u2014 $4,558 vs $4,089 target (+11.5%)"
+        },
+        {
+          "type": "info",
+          "text": "Pretty steady Tuesday. Second day of Toast POS \u2014 big learning experience. Coco from Toast here all night troubleshooting"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 11000.0,
+      "net_sales": 6632.0,
+      "food_sales": 2154.0,
+      "beverage_sales": 4478.0,
+      "event_sales": 0.0,
+      "comps": 531.0,
+      "comp_pct": 8.01,
+      "guest_count": 156,
+      "guest_check_avg": 42.51,
+      "mod": "Gabby & Karim / Justin & Karim",
+      "weather": "Partly cloudy, warm",
+      "notes_summary": "Sun Club Grand Opening \u2014 amazing turnout! DJ Miss Paradise set the tone. Happy Hour All Night was chill. Restaurant full at 6pm hour then quieted. Industry folks throughout.",
       "maintenance_flags": [],
       "eightysixed": [],
-      "sub_venues": [],
-      "highlights": [],
-      "full": "Death & Co DC",
-      "r365_forecast": 3902.0,
-      "check_avg": 1397.0,
-      "guests": 0,
-      "data_source": "r365",
-      "monthly_budget": 198161.9
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 538.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4336.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 1758.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Well below target \u2014 $6,632 vs $11,000 (-39.7%)"
+        },
+        {
+          "type": "info",
+          "text": "Sun Club Grand Opening \u2014 amazing turnout! DJ Miss Paradise set the tone. Happy Hour All Night was chill. Restaurant full"
+        }
+      ],
+      "data_source": "slack"
     }
   ]
 }

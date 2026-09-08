@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-21",
+  "day_of_week": "Tuesday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 3429.0,
+      "target": 2272.0,
+      "comps": 72.40,
+      "guests": 80,
+      "check_avg": 32.88,
+      "weather": "High 77 / low 55",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Super lively Bingo Tuesday at Close Company ATL. Got hit quickly at open with guests looking for the meal deal; new Beltline signage from Wonderworks bringing walk-ins. Regulars stayed the entire Bingo; more new faces via Eventbrite. Second wave ~9pm after opener left — kitchen efficient through last call. Beat target by +51% ($3,429 vs $2,272). 86'd: fernet branca, apple jack brandy."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 858.0,
+      "target": 1886.0,
+      "comps": 31.0,
+      "guests": 42,
+      "check_avg": 20.43,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Sleepier Tuesday than anticipated. Nice pop at the start and a decent Bingo crowd, but the usual late-night crowd never materialized. Eli trained tonight with KE & BT and did well; Jarred held down the kitchen. Missed target by ~54%. 86: GF Pockets. Low: Campari, Lairds. Comps 3.6% (industry + Bingo credits)."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6804.22,
+      "target": 7988.0,
+      "comps": 454.80,
+      "guests": 163,
+      "check_avg": 41.74,
+      "weather": "N/A",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Lots of large parties and first-timers celebrating. DC/AM $1,106.57, D&C PM $5,697.65. Plated Armanino event (23 guests, Vauxhall 6-9pm) added $4,574.60 event net sales and $2,919 event food for a total night of $11,378.82 incl. events. Non-event performance missed target by ~15% but incl. events the venue crushed the number. Comps 6.55%. Chef Lucas & Nate handled event; Antonio & Archer held the line."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3685.0,
+      "target": 3150.0,
+      "comps": 235.0,
+      "guests": 100,
+      "check_avg": 34.0,
+      "weather": "Cool + breezy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Mellow start turning into a lucrative evening. Hosted the Heaven Hill Distillery crew (Ian Orekondy) — party grew from 8 to 16; team spread them out, comped shot du jours and popcorn. Two-tops dominated reservations; mostly walk-in twos, a few solos and first dates. Bar full most of the night; tapered off at midnight. Beat target by +17% ($3,685 vs $3,150). Comps 6.3% (gifts + F&F). 2 DOF + 1 N&N glass breakage."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4139.0,
+      "target": 3573.0,
+      "comps": 76.0,
+      "guests": 94,
+      "check_avg": 44.03,
+      "weather": "Cold night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Tuesday. Started sleepy with 11 covers — used the lull for deep cleaning across kitchen, bar, and cage. Got progressively busier; room full by 9:30pm and stayed full to last call. Marquee $4,139, Standing Room $0. Beat target by +16% ($4,139 vs $3,573). Favorite moment per Joe: overhearing a first date conversation at the bar."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": null,
+      "target": null,
+      "comps": null,
+      "guests": null,
+      "check_avg": null,
+      "weather": null,
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No EON report submitted for 4/21. Last DC EON posted to #dc_eon_report was 4/19 02:04 EDT for 4/18 service — 4/19, 4/20, and 4/21 are all now outstanding. Recommend following up with Cory / Kevin / Josh (now a 3-day reporting gap)."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 4370.0,
+      "target": 7200.0,
+      "comps": 398.0,
+      "guests": 111,
+      "check_avg": 39.37,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow Tuesday. Busy 9am start with strong hotel guest traffic, then a lull that allowed early cuts. Kelly on-site capturing photos/video ahead of tomorrow's menu flip. Very smooth evening; Sierra trained with Emma at the host stand and Kaylee on SA. Sun Club closed early — pool attendant became sick mid-shift, couldn't cover. Hot Eye $0. Missed target by ~39% ($4,370 vs $7,200). Morning MB $890 / 42g, Evening MB $3,480 / 69g."
+    }
+  ]
+}

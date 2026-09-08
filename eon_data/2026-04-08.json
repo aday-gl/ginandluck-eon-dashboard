@@ -1,0 +1,332 @@
+{
+  "report_date": "April 8, 2026",
+  "iso_date": "2026-04-08",
+  "day_of_week": "Wednesday",
+  "generated_at": "2026-04-09 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 1757.0,
+      "net_sales": 1073.0,
+      "food_sales": 86.0,
+      "beverage_sales": 987.0,
+      "event_sales": 0.0,
+      "comps": 35.75,
+      "comp_pct": 3.33,
+      "guest_count": 30,
+      "guest_check_avg": 35.77,
+      "mod": "MKZ / KG",
+      "weather": "High 68 / Low 51",
+      "notes_summary": "Chill Wednesday at CC ATL. Quiet start to the day; opening bartender took great care of regulars. No kickball folks tonight (tournament across town). Opener cut around 9pm and the pop followed shortly after. Lots of industry folk and guests from Burlees. Did almost completely table service, gaining many new connections. Quiet for BOH but FOH offered snacks. Met first-time guest Cameron who will bring a 30-top after a scholarship gala Saturday.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $1,073 vs $1,757 target (-38.9%)"
+        },
+        {
+          "type": "info",
+          "text": "Mostly table service — lots of industry and Burlees crowd, new connections made"
+        },
+        {
+          "type": "info",
+          "text": "Cameron booking a 30-top for Saturday after a scholarship gala"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 2135.0,
+      "net_sales": 1188.0,
+      "food_sales": 35.0,
+      "beverage_sales": 1153.0,
+      "event_sales": 0.0,
+      "comps": 41.90,
+      "comp_pct": 3.53,
+      "guest_count": 29,
+      "guest_check_avg": 40.99,
+      "mod": "MD / JR",
+      "weather": "Mild, partly sunny",
+      "notes_summary": "Sleepier Wednesday than expected. 'Freely Fest' at the arena let out late and may have pulled traffic. Still enjoyed a few new industry friends and birthdays. A young bartender joined solo to celebrate her 21st — had seen CC on TikTok and had been anticipating her birthday to finally visit.",
+      "maintenance_flags": [
+        "Well 1 water taps leak"
+      ],
+      "eightysixed": [
+        "GF pockets",
+        "Super Martini (low)"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $1,188 vs $2,135 target (-44.4%)"
+        },
+        {
+          "type": "info",
+          "text": "Freely Fest at arena may have pulled traffic"
+        },
+        {
+          "type": "info",
+          "text": "21st birthday guest discovered CC on TikTok — solo visit to celebrate"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 6000.0,
+      "net_sales": 6005.0,
+      "food_sales": 2837.0,
+      "beverage_sales": 3168.0,
+      "event_sales": 0.0,
+      "comps": 126.0,
+      "comp_pct": 2.10,
+      "guest_count": 204,
+      "guest_check_avg": 29.44,
+      "mod": "Gabby (AM) / Justin & Sukru (PM)",
+      "weather": "Extremely windy, sunny and chilly",
+      "notes_summary": "Busy Wednesday morning overall — kicked off with a 25-top local group that took over the 40s, team paced orders and maintained smooth flow. Great energy for a Wednesday morning. Evening slowed a bit into happy hour with 2-3 tables per server, then picked up around 8:30pm with hotel walk-ins and locals at the bar. Food orders went right up to kitchen close and drinks until last call. Another unexpected late pop. Kevin King and Kenny Lyons of Neighborhood Dining Group dined after the opening of their new restaurant Marbled & Fin.",
+      "maintenance_flags": [
+        "Freezer #3 unplugged to thaw — needs to be plugged back in during opening"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 1500.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4505.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 0.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Just above target — $6,005 vs $6,000 target (+0.1%)"
+        },
+        {
+          "type": "info",
+          "text": "25-top local group anchored a busy Wednesday brunch"
+        },
+        {
+          "type": "info",
+          "text": "Sun Club closed due to high winds — sandbags held the umbrellas"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 4979.0,
+      "net_sales": 3535.0,
+      "food_sales": 764.0,
+      "beverage_sales": 2771.0,
+      "event_sales": 0.0,
+      "comps": 31.20,
+      "comp_pct": 0.88,
+      "guest_count": 92,
+      "guest_check_avg": 38.42,
+      "mod": "Gigi & Vic",
+      "weather": "Warm perfect day",
+      "notes_summary": "Quiet night in Standing Room — the room was full a handful of times and every guest enjoyed multiple rounds. Crew gave everyone extra love and attention. A few regulars stopped by; large parties at T37 had a splendid time. Vibes great, streets quiet. Vic and Chef showed Gigi how to execute a few dishes on the menu. Ryan helped clean the lamps upstairs. Organized inside the cage. Sat nearly every guest at the door for a smooth close.",
+      "maintenance_flags": [
+        "Marquee floor being repaired",
+        "Electrical being discussed"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 3535.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $3,535 vs $4,979 target (-29.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Standing room only — Marquee still closed for floor repairs"
+        },
+        {
+          "type": "win",
+          "text": "Gigi learned to execute a few dishes with Vic and Chef"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 6469.50,
+      "net_sales": 8251.41,
+      "food_sales": 1687.30,
+      "beverage_sales": 6564.11,
+      "event_sales": 0.0,
+      "comps": 385.07,
+      "comp_pct": 4.67,
+      "guest_count": 193,
+      "guest_check_avg": 42.75,
+      "mod": "Kira (AM) / Eli, Maggie & Lucas (PM)",
+      "weather": "Heat waves beginning — many thirsty walk-ins; bottles needed refilling quicker than usual",
+      "notes_summary": "Very manageable Wednesday with a lot of fun had by staff, but busier than expected. Heat waves beginning — expecting more walk-ins. AM was easy with Reggie Lane; dishwasher was swapped out with Vauxhall's dishwasher (much more powerful now). Tyson Buhler came by to say hi and grab a burger and a drink. Slowish night in the kitchen with prep done during downtime.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Garlic paste",
+        "Chicken breast",
+        "Shaved fennel",
+        "Caviar"
+      ],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 614.97
+        },
+        {
+          "name": "D&C PM",
+          "sales": 7636.44
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $8,251 vs $6,470 target (+27.5%)"
+        },
+        {
+          "type": "info",
+          "text": "Heat waves beginning — expect more walk-ins going forward"
+        },
+        {
+          "type": "info",
+          "text": "Dishwasher swapped out with Vauxhall's — much more powerful now"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 3077.0,
+      "net_sales": 4919.0,
+      "food_sales": 569.0,
+      "beverage_sales": 4350.0,
+      "event_sales": 0.0,
+      "comps": 166.04,
+      "comp_pct": 3.38,
+      "guest_count": 138,
+      "guest_check_avg": 35.64,
+      "mod": "Cara & Ja",
+      "weather": "Chilly",
+      "notes_summary": "A sleepy Wednesday that ramped up towards the middle of the shift with a full room and drinks flowing. Folks cold-calling back-catalogue items, others went for the bartender's choice experience. Some birthdays, lots of lingerers, a mostly joyous room. Sub-40 temps in April didn't stop guests in pursuit of delicious cocktails. 1 no-show (Ariel, 2 people) — charged.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $4,919 vs $3,077 target (+59.9%)"
+        },
+        {
+          "type": "info",
+          "text": "Back-catalogue cold calls and bartender's choice requests all night"
+        },
+        {
+          "type": "info",
+          "text": "Sub-40 temps didn't deter guests — sleepy start, strong mid-service"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 3777.0,
+      "net_sales": 2749.0,
+      "food_sales": 481.0,
+      "beverage_sales": 2268.0,
+      "event_sales": 0.0,
+      "comps": 6.0,
+      "comp_pct": 0.22,
+      "guest_count": 76,
+      "guest_check_avg": 36.17,
+      "mod": "Kevin / Cory",
+      "weather": "Chilly",
+      "notes_summary": "Slower night again but things picked up around 7pm when the majority of reservations came in. Solid push for about an hour or two; by 9:30pm the room dropped off significantly with most of the bar and nearly all tables closed out. Handful of walk-ins in the last hour, but last call came early shortly after 11pm as the room had already closed out on its own. 76 covers: 59 walk-ins, 17 reservations. Kitchen closed at 10pm.",
+      "maintenance_flags": [
+        "Same old"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 2749.0
+        },
+        {
+          "name": "Garden",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $2,749 vs $3,777 target (-27.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Garden closed; 76 covers (59 walk-in / 17 booked)"
+        },
+        {
+          "type": "info",
+          "text": "Room dropped off around 9:30pm — natural early last call"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}

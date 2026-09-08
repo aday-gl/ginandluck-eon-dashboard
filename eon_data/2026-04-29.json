@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-29",
+  "day_of_week": "Wednesday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 941.0,
+      "target": 1791.0,
+      "comps": 65.25,
+      "guests": 40,
+      "check_avg": 23.53,
+      "weather": "High 82 / Low 62",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Calm Wednesday at Close Company Atlanta. Opening bartender had a few HH guests with table-side service. About 5 kickball teammates showed up and used their discounts; mostly returning faces from the area. Opener left around 9pm. Very quiet close to the night. Missed target by \u221247.5% ($941 vs $1,791). Food $202. Comps $65.25. 40 guests / $23.53 GCA. 86: coke, diet coke, sprite. MOD: MKZ/JK. Entered by Mya. Highlight: introducing regulars to a new spirit for the Adventure Gimlet \u2014 versatile cocktail to highlight."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1291.0,
+      "target": 1649.0,
+      "comps": 0.0,
+      "guests": 41,
+      "check_avg": 30.73,
+      "weather": "Partly cloudy, cleared up through the night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow start, picked up around 9pm. Some guests disappointed by limited food options \u2014 recovered by explaining what's coming and offered free popcorn (well received). One guest opened with 'I don't tip' \u2014 got the same great service regardless. A mix of interesting Wednesday folks. Missed target by \u221221.7% ($1,291 vs $1,649). Food $4 (continued food-sales softness \u2014 6th day under $130). Comps $0. ~41 guests / $30.73 GCA. MOD: MD. Entered by JO. Highlight: free burger from Charmers."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 7970.67,
+      "target": 8134.54,
+      "comps": 299.7,
+      "guests": 192,
+      "check_avg": 41.51,
+      "weather": "Rainy / Gloomy / Green / Vibey",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Surprisingly busy Wednesday after a rainy/gloomy start. Initially looked slow with a thin book, but built into a busy evening as the sun went down \u2014 beat yesterday's cover count within 3 hours of walk-ins. Net (excl events) $7,970.67 vs target $8,134.54 (\u22122.0%). Including events $11,497.67 (+41.3%). Segments: DC/AM $967.25, D&C PM $7,003.42, 6A NA. Food $1,754 / Food incl events $5,574. Comps $299.70 / 3.76%. 192 guests. **Event**: Day 2 of Omada Health \u2014 19 breakfast / 10 day guests in Vauxhall ($3,820 event food / $3,527 net event sales); Day 3 tomorrow. AM MOD: Maggie. PM MOD: Elio & Archer. DC/AM: deep-cleaned steam wands, fresh teas brewed; low on kombucha and miso sesame, awaiting Rishi delivery. Kitchen: easy prep day, 86 salmon/olive halves/parsley. Highlight: Elio + Sud + Lily turned around a tough date-night experience (sound + table quality complaints) into a complete tone change \u2014 both Elio and Lily pushed through stomach bug to deliver service."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 5787.0,
+      "target": 4020.0,
+      "comps": 233.53,
+      "guests": 148,
+      "check_avg": 39.0,
+      "weather": "Chill, then RAINY",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Wednesday with 'old school energy' \u2014 lots of two-three rounds, intensive experiences, witty banter, and a bar top that was full at midnight. Aside from a lull, about as solid as a date night could be. Could have pushed a few duos harder/faster to avoid reshuffles \u2014 worth pushing earlier on busier nights. Beat target by +44.0% ($5,787 vs $4,020). Food $536, Bev $5,252. Comps $233.53 (some DNLs, lots of popcorn and service-improvement snaquiris). 148 guests / $39 GCA. 5 solos, 4 large parties, 2 investor cocktails. Top sellers: First Time Listener, Masari, Buckhorn Exchange. Back-catalog banger: Soul Stirrer (rum sazerac). **No-shows**: Todd Petersen (2) at 9:30pm \u2014 later messaged saying they'd emailed yesterday to cancel. Glassware: 2 candle votives, 1 mixer, 1 lemon Cheater (need backup tomorrow). Maintenance: bar lights. MOD: Cara & Steeves. Door: HP. Entered by Thomas. Highlight: hosting birthday celebrations including welcoming Stilo (Milagro ambassador), Laura Toth, and Thomas's roommate Lexi visiting with her parents."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4476.0,
+      "target": 5230.0,
+      "comps": 94.0,
+      "guests": 115,
+      "check_avg": 38.92,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Wednesday night. Started with 33 covers and a nice presence of walk-ins shortly after open. Lots of small parties tonight, not a lot of large parties. Room gradually filled, peaking around 8:30pm and staying steady for a couple hours. Slowed around 11pm \u2014 Jaz cut around 11:30pm. A few parties in the final hour made for a smooth last call. Missed target by \u221214.4% ($4,476 vs $5,230). Food $904 (solid). Comps $94 (Jose regular, Mike's friends, investor, DNL). 115 guests / $38.92 GCA (Typeform reported $84.45 \u2014 likely data-entry error). 86: hamburger buns. **Maintenance/smell**: new scent diffusers worked well \u2014 didn't need to light incense throughout the night. MOD: Joe + Vic. Entered by Joe. Highlight: regular Jose dropped off dozens of pastries for the staff \u2014 wonderful surprise."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 2699.0,
+      "target": 4887.0,
+      "comps": 47.0,
+      "guests": 66,
+      "check_avg": 41.53,
+      "weather": "So much rain",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slower night \u2014 rain meaningfully impacted foot traffic. Apart from the reservations, not much action until around 9pm. By 9:30 a decent push of walk-ins came in escaping the rain \u2014 room filled quickly but energy didn't last; by 11:30 most had closed out. Missed target by \u221244.8% ($2,699 vs $4,887). Food $361. Voids $14, Comps $47. 66 guests (46 walk-ins, 20 resos) / $40.89 GCA (typeform reported $41.53). New hire Mariah onboarded and spent time with Tyler before being cut at 7. Bar team cleaned behind the bar; MOD worked on decluttering the back hall and breaking down recycling. Kitchen: decent sales for the volume \u2014 sold both orders of oysters. **Maintenance/Urgent**: recycling dumpsters overflowing (recycling not taken out for 2 days); 1st bathroom sink slow drip can't be turned off; 2nd bathroom OOO; 2 mixing glasses exploded in Jada's hand coming out of the freezer. MOD: Cory. Entered by Cory. Highlight: ABK ABK ABK."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 5528.0,
+      "target": 8100.0,
+      "comps": 177.75,
+      "guests": 138,
+      "check_avg": 40.06,
+      "weather": "Rainy/overcast morning, warm and sunny by afternoon",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady, run-of-the-mill Wednesday. Unusually slow morning \u2014 likely the rain. Berry completed her final day of training, took the lead on most tables, did a great job; team used downtime productively for inventory counts and side work. Slow start to the evening with a quiet happy hour; business came in waves \u2014 by 6:30 most dining-room tables were sat, then quiet again around 7:30 (cut down to 2 servers). Tiny pop right after 8:00, mostly drinks. One group of 9 had a small last push for the kitchen; only a few cocktails between 10\u201311; all guests out by 11:05. Decent walk-in volume from afternoon check-ins. Missed target by \u221231.8% ($5,528 vs $8,100). Food $2,298. Comps $177.75. Sales mix: AM bar $662, PM bar $4,691, Sun Club $175, Hot Eye $0. Sun Club: Sofia held it down most of the day, hotel guests around 1pm, no business after 3:30. Hot Eye closed. Smooth, easy kitchen service. Morning MOD: Gabby & Lex. Evening MOD: Justin & Sukru. Entered by Justin. Highlight: members from a 25-person brunch group (a few weeks ago) came back for dinner and cocktails."
+    }
+  ]
+}

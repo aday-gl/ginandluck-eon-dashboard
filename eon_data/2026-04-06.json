@@ -1,0 +1,310 @@
+{
+  "report_date": "April 6, 2026",
+  "iso_date": "2026-04-06",
+  "day_of_week": "Monday",
+  "generated_at": "2026-04-07 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 915.0,
+      "net_sales": 944.0,
+      "food_sales": 115.0,
+      "beverage_sales": 829.0,
+      "event_sales": 0.0,
+      "comps": 48.7,
+      "comp_pct": 5.16,
+      "guest_count": 25,
+      "guest_check_avg": 37.77,
+      "mod": "MKZ // JK Key",
+      "weather": "Partly sunny, highs ~70, lows ~50",
+      "notes_summary": "Chill Monday at CC ATL. Meal deal guests around 5-6pm, lull 6-7pm, picked up around 8pm until just after 10pm. Smooth last call. Bar team did deep cleaning during downtime. Met Bar Lead from Delbar Inman Park who'd never heard of Cocktail Codex \u2014 great moment of connection.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Tito's",
+        "Grey Goose",
+        "Green Chartreuse",
+        "Vida Mezcal",
+        "Chinola Passionfruit"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $944 vs $915 target (+3.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Steady Monday with good connection moments"
+        },
+        {
+          "type": "info",
+          "text": "Met Bar Lead from Delbar who'd never heard of Cocktail Codex"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 1020.0,
+      "net_sales": 813.0,
+      "food_sales": 52.0,
+      "beverage_sales": 761.0,
+      "event_sales": 0.0,
+      "comps": 62.08,
+      "comp_pct": 7.6,
+      "guest_count": 28,
+      "guest_check_avg": 29.0,
+      "mod": "KE",
+      "weather": "Chilly, nice",
+      "notes_summary": "Slower Monday night. Last night of NCAA March Madness Championship series, which should be good news going forward. Great night for engaging conversations with guests. Tay did deep cleaning of kitchen floors.",
+      "maintenance_flags": [
+        "Walk-in Freezer",
+        "Well 1 Tap"
+      ],
+      "eightysixed": [
+        "Chareau & Bitter Melon",
+        "Lillet Blanc & Daisy"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $813 vs $1,020 target (-20.3%)"
+        },
+        {
+          "type": "info",
+          "text": "NCAA March Madness Championship keeping guests home"
+        },
+        {
+          "type": "info",
+          "text": "Great post-punk and college radio conversations at bar top"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 6000.0,
+      "net_sales": 5216.0,
+      "food_sales": 2212.0,
+      "beverage_sales": 3004.0,
+      "event_sales": 0.0,
+      "comps": 205.0,
+      "comp_pct": 3.93,
+      "guest_count": 115,
+      "guest_check_avg": 45.36,
+      "mod": "Sam & Lex (AM) / James (PM)",
+      "weather": "Overcast and blustery, cool compared to last week",
+      "notes_summary": "Run of the mill Monday morning. Evening was surprisingly solid with a busy 4 o'clock hour and strong dinner period. Despite being understaffed in the kitchen (no expo, two cooks on the line), team pulled together beautifully \u2014 everyone helped run food and expo unprompted. No hiccups. Sun Club and Hot Eye closed (weather/Monday). Lots of out-of-town regulars returning.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 859.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4357.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 0.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $5,216 vs $6,000 target (-13.1%)"
+        },
+        {
+          "type": "win",
+          "text": "Kitchen rockstars \u2014 2 cooks, no expo, zero hiccups"
+        },
+        {
+          "type": "info",
+          "text": "Out-of-town regulars returning and loving Municipal Bar"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "D&C LA was closed Monday for Marquee floor repairs. Venue reopened Tuesday 4/7 in standing room configuration while repairs completed.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [],
+      "data_source": null
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 5199.3,
+      "net_sales": 5194.36,
+      "food_sales": 1358.9,
+      "beverage_sales": 3835.46,
+      "event_sales": 3480.93,
+      "comps": 154.75,
+      "comp_pct": 2.98,
+      "guest_count": 129,
+      "guest_check_avg": 40.27,
+      "mod": "Maggie & Carey (AM) / Kira & Lucas (PM)",
+      "weather": "N/A",
+      "notes_summary": "Slow night with Rockies home game and day after Easter. Pop at 6pm, another at 9:15pm. Opening server cut at 7:30pm. Held a happy hour event for GiveCampus with 40 guests in Garden & Suite 6A \u2014 taco bar was a hit and NCAA final game on TV. Event net sales $3,480.93 bringing total to $8,675.29. Mike Dees training on barback. Nik's last couple shifts.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 431.39
+        },
+        {
+          "name": "D&C PM",
+          "sales": 4762.97
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 3480.93
+        }
+      ],
+      "highlights": [
+        {
+          "type": "info",
+          "text": "Just missed target \u2014 $5,194 vs $5,199 target (-0.1%) excl. events"
+        },
+        {
+          "type": "win",
+          "text": "GiveCampus event added $3,481 \u2014 total w/ events $8,675"
+        },
+        {
+          "type": "info",
+          "text": "Rockies home game + post-Easter kept walk-ins low"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 3966.0,
+      "net_sales": 3209.0,
+      "food_sales": 503.0,
+      "beverage_sales": 2595.0,
+      "event_sales": 0.0,
+      "comps": 41.0,
+      "comp_pct": 1.28,
+      "guest_count": 92,
+      "guest_check_avg": 35.0,
+      "mod": "Courtney & Riel",
+      "weather": "Brisk but pleasant",
+      "notes_summary": "Slow drip concentrated on the bar \u2014 2-6 guests entering every 15 minutes until 10:30pm when flow stopped. Peak capacity ~80%. Haleigh did great handling disproportionate 3-4 tops using booths. Tenzin was a perfect teacher to Max on her final training shift. 40 oysters sold. Celebrated Zoe (Speed Rack winner) birthday. Fever Dream was a back catalog banger.",
+      "maintenance_flags": [
+        "Speed rail at point"
+      ],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $3,209 vs $3,966 target (-19.1%)"
+        },
+        {
+          "type": "info",
+          "text": "Slow Monday drip \u2014 peak 80% capacity, dried up by 10:30pm"
+        },
+        {
+          "type": "info",
+          "text": "Top Sellers: First Time Listener, Doves in the Wind, Material Control"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 2660.5,
+      "net_sales": 2511.04,
+      "food_sales": 412.36,
+      "beverage_sales": 2098.68,
+      "event_sales": 0.0,
+      "comps": 20.3,
+      "comp_pct": 0.81,
+      "guest_count": 71,
+      "guest_check_avg": 35.37,
+      "mod": "Jamal / Jesse",
+      "weather": "The best 50 degrees has ever felt",
+      "notes_summary": "Solid Monday at 124! Started low on covers but by 8:30 rolling with a close to full floor. Josh was at Rammys finalists announcements so Jesse stepped up and led the floor \u2014 much appreciated. Oyster Monday special continues to do well, kitchen was more prepared with pre-shucked oysters. Floor cleared by 10pm for a quick and seamless close.",
+      "maintenance_flags": [
+        "Loose floor drain cap",
+        "Water heater"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 945.04
+        },
+        {
+          "name": "Garden",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $2,511 vs $2,661 target (-5.6%)"
+        },
+        {
+          "type": "win",
+          "text": "Jesse stepped up to lead floor while Josh at Rammys"
+        },
+        {
+          "type": "info",
+          "text": "Oyster Monday special continues to drive food sales (14%)"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}

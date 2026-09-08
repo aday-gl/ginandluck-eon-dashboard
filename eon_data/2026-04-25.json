@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-25",
+  "day_of_week": "Saturday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 8957.0,
+      "target": 6534.0,
+      "comps": 91.0,
+      "guests": 251,
+      "check_avg": 35.69,
+      "weather": "High 73 / low 63",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Very lively start to Saturday at Close Company Atlanta. Openers set us up well; guests trickled in for investors Uvee & Leah's engagement party with high vibes and great connections. Steady flow outside of event. Closers in at 8pm, opener cut ~9:30pm with a brief lull — reminder to get from behind the bar and touch tables when we can. Second pop ~10:30pm with the Highwest after-party. DJ BAD! crushed it (lots of compliments, adjusted to changing vibe through the night). Beat target by +37.1% ($8,957 vs $6,534). Comps 1.0% ($91). Food $451. 86: T.K. Mule. MOD: Mkz, entered by Mya. Joseph's notes: Mia's glassware maintenance was excellent, cornhole boards on the patio drew attention from passersby, and the UV/Lee event + Highwest folks + Sat-night crowd made for a packed neighborhood night."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 9490.0,
+      "target": 11010.0,
+      "comps": 128.0,
+      "guests": 313,
+      "check_avg": 30.13,
+      "weather": "Warm, cloudy",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Sleepier Saturday — a food & wine festival and the Music City Marathon were both in town and likely siphoned traffic. Still a fun night. Missed target by −13.8% ($9,490 vs $11,010). Comps 1.3% ($128). Food $55 (extremely low). 86: Sasspharilla; low on tonic; candies misdelivered. MOD: KE & MD. Entered by BT. Highlight: Lawson, Thomas, the Opti crew and the Charmers crew all met each other at end of night — nice to know area industry sees CCNSH as the hangout."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 16996.50,
+      "target": 15944.28,
+      "comps": 757.50,
+      "guests": 437,
+      "check_avg": 38.89,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Saturday across all segments. DC/AM $1,497.65 (chill day, IRDs and a good cocktail hour; @reggie_lane to nail down Mont Blanc recipe), D&C PM $15,498.85 (smooth shift over 400 guests, sent a few D&C guests up to Sakura Bar for double-the-fun), Garden/6A $2,808.82 (final weekend of Sakura, non-stop pace). Plus Celebration of Life event for Aurelia Tittmann ~50-60 guests in Garden & Vauxhall 3-5pm — Justice/Nik/Minsu/Madi crushed service, $5,502 net event sales (Total Net Sales incl. events: $22,498.50). Beat target by +6.6% ($16,996.50 vs $15,944.28 excl. events). Comps 4.46% ($757.50). Food $3,980.80 (excl. event food $4,110). 437 guests (Tock). Break make-up complete. Morning MOD: Evan; Evening MOD: Carey & Lucas. Highlight: a couple enjoyed both D&C and Sakura Bar and committed to coming back with friends — Reagan & Dom made the connection."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 7600.0,
+      "target": 7741.0,
+      "comps": 134.62,
+      "guests": 206,
+      "check_avg": 37.0,
+      "weather": "Rain all night",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid but imperfect first turn, killer second turn, then echoes through the rest. Excess of 8pm reservations made flow choppy but a solid team effort overall. Charming crowd — James got a 3-top five rounds deep building a fossil record across cocktail eras. Steady Saturday foot traffic despite heavy rain. Top sellers: Masari, Core Slight, Material Control, Revenant/Thunderball (tie). Investor cocktails: 8. 6 large parties, 7 solos. Industry visits: Kenneth Young (Joyface), Matt Kumar (Mr. Melo), Stefania's in-laws, Alex Bennet, recently engaged Corey Kirchner. Essentially on target (−1.8%, $7,600 vs $7,741). Comps 1.8% ($134.62). Food $670, bev $6,867. Menu count 18. Glassware: 2 N&N, 1 DOF, 1 Collins (guest). 1 Tock glitch (Pranav Vadrevu), 1 no-show (Amit Shoor, charged), 1 cancellation (Margeaux Fortin). MOD: Cara & Steves. Entered by Thomas."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 12853.0,
+      "target": 9349.0,
+      "comps": 206.0,
+      "guests": 340,
+      "check_avg": 96.95,
+      "weather": "Rainy and chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Very busy Saturday with lots of large parties and familiar faces despite chilly rain. Started with 130 covers and got a decent push right after opening. Both rooms (Marquee $9,895 / Standing Room $2,958) full by ~8:30pm and stayed that way most of the night. Decent waitlist but room turned quickly. Industry friends dropped off snacks for the team. Late-night rain made for a smooth ending — no service hiccups, drinks flowing. Great 11-top from a K-pop concert brought the vibes. Beat target by +37.5% ($12,853 vs $9,349). Comps 1.6% ($206 — Carlos, Jeff, Genesis, Edgar Estevens, investor, DNL). Food $2,128. 86: shrimp toast, rockfish, lamb burger. MOD: Gigi/Joe & Selenia/Josh. Entered by Joe. **Maintenance**: “Very smelly bar” — still flagged urgent (now ~5 days running)."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 9014.0,
+      "target": 7106.0,
+      "comps": 301.0,
+      "guests": 215,
+      "check_avg": 39.19,
+      "weather": "Rainy and cold",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady Saturday with a full room by 8pm. Savannah and Cory mostly avoided a waitlist; those who waited were sat quickly. By 11pm closed garden and got aggressive turning Marquee and pressuring campers. Some larger parties later but nothing overwhelming. Room stayed mostly full to last call; cleared by 2am. Garden slower (rain/chill, first guests ~6:30pm); breakdown improved but found a few misses (open wine bottles, dry deck under cash register, empty bottles needing sanitizing). Marquee gross $9,079 + Garden gross $1,143 = $10,222 gross; Total Net Sales $9,014. Beat target by +26.9% ($9,014 vs $7,106). Comps 3.3% ($301 — VIP/manager/investor/employee) + voids $81 (entry error). Guests 215 (128 walks / 87 resos), GCA $39.19. Food $819 (just under 10%). MOD: Josh / Cory. Entered by Cory. **Maintenance**: water heaters issue persists; 2nd bathroom still Out of Order. Highlights: Grant hustling for 5-star reviews; tonight's playlist had the team in disco fever."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 20136.0,
+      "target": 21000.0,
+      "comps": 608.0,
+      "guests": 350,
+      "check_avg": 57.53,
+      "weather": "Warm, sunny day, overcast going into evening, smoky from neighboring wildfires",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong Saturday across the property, just −4.1% off target ($20,136 vs $21,000). MB Morning $3,062 / 86g (Stephanie showed Berry the ropes; smooth busy brunch with 11a-1p peak). MB Evening $12,055 / 264g (HH about half-sat 3-5pm; Lucas Theatre Philharmonic at 7pm drove the early dinner rush, full and manageable until then with the expected Philharmonic exodus, then bulk of dinner resos sat by 7:30pm; busy bar between Philharmonic Acts at ~8:30pm; show let out 9:30pm with a big food push the BOH crushed; Sierra trained with Tia first half, then jumped to expo support due to volume and a 4-server floor). Sun Club $2,053 — first Saturday of extended hours! Nicki opened at 11am with hotel guests already ready; Sofia opened the bar early; Brigid joined for finish of midday rush. Peak hour 5pm: entire lower deck full for an hour with turn-and-burn. Hot Eye $2,817 — line waiting at open, full house by 7:45pm with several 10-15+ parties (high tops worked); cleared ~11pm; midnight pop; ~80% tourists (first in a while); SO to Justin for clearing tables/glassware support. Kitchen: big pushes/lulls, no DNLs, low on croquettes. Comps 3.0% ($608). Food $7,878. MOD: Justin/Gabby & Shannon/Sukru (eve), Sam/Gabby & Lex/Shannon (AM). Entered by Alexis. Highlights: Sun Club popping (engagement celebration, James in a party hat at close); Seba came for bevvies in Hot Eye after the Philharmonic."
+    }
+  ]
+}

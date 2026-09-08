@@ -39,15 +39,15 @@
       "full_name": "Close Company Nashville",
       "color": "#6B8CBA",
       "missing": false,
-      "target": 2011,
-      "net_sales": 1612,
-      "food_sales": 136,
-      "beverage_sales": 1476,
-      "event_sales": 0,
-      "comps": 115,
-      "comp_pct": 7,
+      "target": 2011.0,
+      "net_sales": 1612.0,
+      "food_sales": 136.0,
+      "beverage_sales": 1476.0,
+      "event_sales": 0.0,
+      "comps": 115.0,
+      "comp_pct": 7.0,
       "guest_count": 71,
-      "guest_check_avg": 22.7,
+      "guest_check_avg": 22.70,
       "mod": "KE, Tay",
       "weather": "Warm. Clear.",
       "notes_summary": "Not super busy but a good night. Started with an early pop, followed by a slow middle, finished with a late pop through close. Met a lovely young couple, Cindy and Vladimir, who were into the cocktails.",
@@ -75,36 +75,36 @@
       "full_name": "Municipal Grand F&B",
       "color": "#7CB87A",
       "missing": false,
-      "target": 8100,
-      "net_sales": 9663,
-      "food_sales": 3585,
-      "beverage_sales": 6078,
-      "event_sales": 0,
-      "comps": 154,
+      "target": 8100.0,
+      "net_sales": 9663.0,
+      "food_sales": 3585.0,
+      "beverage_sales": 6078.0,
+      "event_sales": 0.0,
+      "comps": 154.0,
       "comp_pct": 1.59,
       "guest_count": 173,
       "guest_check_avg": 55.86,
       "mod": "Sam & Lex (AM) / Justin & Sukru (PM)",
       "weather": "Warm and sunny",
-      "notes_summary": "Good morning start with 30 of 88 guests seated before 10am. PM was chill; dining room near 70% through dinner. Sun Club had Brigid's first training day. Guest Kierra Lynch returned and left a 5-star review.",
+      "notes_summary": "Good morning start with 30 of 88 guests seated before 10am. 8-top and 11-top had great time. PM was chill and manageable; dining room and bar stayed near 70% through dinner. Place empty by 10:30pm. Sun Club had Brigid's first training day. Hot Eye had steady evening after bar crawl at 9. Guest Kierra Lynch, who previously had a bad experience, returned and left a 5-star review after fabulous dinner.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [
         {
           "name": "Municipal Bar AM",
-          "sales": 2342
+          "sales": 2342.0
         },
         {
           "name": "Municipal Bar PM",
-          "sales": 4489
+          "sales": 4489.0
         },
         {
           "name": "Sun Club",
-          "sales": 1022
+          "sales": 1022.0
         },
         {
           "name": "Hot Eye",
-          "sales": 1810
+          "sales": 1810.0
         }
       ],
       "highlights": [
@@ -125,18 +125,18 @@
       "full_name": "Death & Co Los Angeles",
       "color": "#C47DC0",
       "missing": false,
-      "target": 3760,
-      "net_sales": 4284,
-      "food_sales": 870,
-      "beverage_sales": 3414,
-      "event_sales": 0,
-      "comps": 134,
+      "target": 3760.0,
+      "net_sales": 4284.0,
+      "food_sales": 870.0,
+      "beverage_sales": 3414.0,
+      "event_sales": 0.0,
+      "comps": 134.0,
       "comp_pct": 3.13,
       "guest_count": 113,
       "guest_check_avg": 37.91,
       "mod": "Joe / Chef Selenia & Josh",
       "weather": "N/A",
-      "notes_summary": "Mellow Sunday with familiar faces. Nice push around 9pm. Sewage smell continued and was mentioned by a few tables.",
+      "notes_summary": "Mellow Sunday with lots of familiar faces. First couple hours sleepy — time for prep and cleaning. Nice push around 9pm filling room for remainder. Industry folks stopped by to close out the weekend. Sewage smell continued and was mentioned by a few tables but smoothed over.",
       "maintenance_flags": [
         "Sewage smell persisting — mentioned by guests"
       ],
@@ -146,11 +146,11 @@
       "sub_venues": [
         {
           "name": "Standing Room",
-          "sales": 0
+          "sales": 0.0
         },
         {
           "name": "Marquee",
-          "sales": 4284
+          "sales": 4284.0
         }
       ],
       "highlights": [
@@ -171,18 +171,18 @@
       "full_name": "Death & Co Denver",
       "color": "#E8C45A",
       "missing": false,
-      "target": 6235.5,
-      "net_sales": 9782.1,
-      "food_sales": 2806.9,
-      "beverage_sales": 6975.2,
-      "event_sales": 0,
-      "comps": 892.3,
+      "target": 6235.50,
+      "net_sales": 9782.10,
+      "food_sales": 2806.90,
+      "beverage_sales": 6975.20,
+      "event_sales": 0.0,
+      "comps": 892.30,
       "comp_pct": 9.12,
       "guest_count": 237,
       "guest_check_avg": 41.27,
       "mod": "Carey (AM & PM)",
       "weather": "N/A",
-      "notes_summary": "Very solid Sunday. Sakura Bar reservations filled floor. Nik's last night — amazing turnout. High comps due to staff farewell. Women's restroom first stall clogged.",
+      "notes_summary": "Very solid Sunday. Most reservations through Sakura Bar but floor also filled up — never went on a wait. Some early fumbles with great recoveries ensuring no guest left unhappy. Tonight was Nik's last night — amazing turnout of friends. High comps due to large staff turnout for Nik's farewell. Kitchen had steady night with prep done during downtime. Women's restroom first stall clogged.",
       "maintenance_flags": [
         "Women's restroom first stall clogged — entered into Intellity by TRH"
       ],
@@ -221,18 +221,18 @@
       "full_name": "Death & Co East Village",
       "color": "#E87A7A",
       "missing": false,
-      "target": 4933,
-      "net_sales": 5113,
-      "food_sales": 699,
-      "beverage_sales": 4299,
-      "event_sales": 0,
+      "target": 4933.0,
+      "net_sales": 5113.0,
+      "food_sales": 699.0,
+      "beverage_sales": 4299.0,
+      "event_sales": 0.0,
       "comps": 176.82,
       "comp_pct": 3.46,
       "guest_count": 135,
       "guest_check_avg": 37.87,
       "mod": "Cara & Alejandro",
       "weather": "Oddly cold yet sunny",
-      "notes_summary": "First turn chill, then 1k/hour flow 7-10pm. Large parties created waitlist. Night slowed after 11pm. Top sellers: Revenant, Masari, Deviltown.",
+      "notes_summary": "First turn started chill, then hit nice 1k/hour flow from 7-10pm. Anomalous surfeit of large parties intensified by several packed into a 90-minute window — hit waitlist. Night slowed after 11pm with only 15 covers after that. Lots of industry friends — Matty Clark with Nevada, Taylor and Miles, friends of Max, and Joe from Dante's. Top sellers: Revenant, Masari, Deviltown.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
@@ -254,18 +254,18 @@
       "full_name": "Death & Co Washington DC",
       "color": "#5AA8C4",
       "missing": false,
-      "target": 2340,
+      "target": 2340.0,
       "net_sales": 2856.34,
-      "food_sales": 805.1,
+      "food_sales": 805.10,
       "beverage_sales": 2051.24,
-      "event_sales": 0,
+      "event_sales": 0.0,
       "comps": 17.85,
       "comp_pct": 0.62,
       "guest_count": 65,
       "guest_check_avg": 43.94,
       "mod": "Jamal / Alex",
       "weather": "Pretty nice, got chilly early",
-      "notes_summary": "Solid Sunday at 124. 25% food sales. Room never half full but beat target. Kitchen AC still out.",
+      "notes_summary": "Solid Sunday at 124. Steady pacing with good food push — 25% of all sales were food. Room never got halfway full but still beat target. Lots of crudo, oysters and fried chicken going out. Depleted some leftover event inventory. Kitchen AC still out and getting unbearable as weather warms.",
       "maintenance_flags": [
         "No AC in kitchen — becoming unbearable"
       ],
@@ -277,7 +277,7 @@
         },
         {
           "name": "Garden",
-          "sales": 0
+          "sales": 0.0
         }
       ],
       "highlights": [
@@ -287,7 +287,7 @@
         },
         {
           "type": "win",
-          "text": "Strong food sales at 25% of total"
+          "text": "Strong food sales at 25% of total — crudo, oysters, fried chicken"
         },
         {
           "type": "flag",

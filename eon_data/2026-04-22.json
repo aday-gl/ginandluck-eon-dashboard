@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-22",
+  "day_of_week": "Wednesday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 1167.0,
+      "target": 1778.0,
+      "comps": 48.80,
+      "guests": 60,
+      "check_avg": 25.35,
+      "weather": "High 82 / low 54",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Another good Wednesday at Close Company ATL. Chill start with a few regulars; closer came in at 6pm and FOH used the downtime to deep-clean the bottle-drying area. Kickball folks filtered in at 7:30pm and the late-night pop showed up as usual; everyone out by 12am. Beltline signage continued pulling curious walk-ins. Missed target by ~34% ($1,167 vs $1,778). Highlight: a group of Delbar bartenders came in after hearing about CC. Comps 4.2%. MOD: Mkz."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 3913.0,
+      "target": 2167.0,
+      "comps": 32.15,
+      "guests": 65,
+      "check_avg": 60.20,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Nice rebound from Tuesday's softness, largely driven by a YLC private event (event sales booked separately via TripleSeat — see Kala & Morgan). Non-event business was steady with some great guests; several YLC folks lingered post-event. Beat stated target by +81% ($3,913 vs $2,167). Comps just 0.82%. Jarred crushed event food (strong food sales). Wide 86 list: Lairds, Ritual NA Gin, backup Campari, Mango Lassi (next-day), TK Mule (next-day), GF Pockets, Chopped Salad."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 7144.03,
+      "target": null,
+      "comps": 236.28,
+      "guests": 183,
+      "check_avg": 39.04,
+      "weather": "Sunny spring day",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Wednesday with lots of large-party walk-ins. DC/AM $703.88, D&C PM $6,440.15. Hosted Attentive team all-day (20 guests, 8am-5pm, Vauxhall) with to-go breakfast + buffet lunch: event food $1,919, event bev $247, total event F&B $2,166. Grand total incl. events $9,310.03 ($3,539.60 food incl. events). Comps 3.31%. Maintenance: backflow preventer in liquor room leaked ~3 gallons over 4 minutes, now stopped — likely debris buildup, should be flushed soon; some boxes not fully dry. Tock guest count 183. Wed target not reported in typeform (field absent on this day's form)."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3893.0,
+      "target": 3977.0,
+      "comps": 71.80,
+      "guests": 118,
+      "check_avg": 33.0,
+      "weather": "Chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Late-filed 4/22 report (submitted 2026-04-23 11:32 EDT \u2014 backfilled in 2026-04-24 run). Obscenely slow open, date-night flow 8-11pm and basically nothing after. SevenRooms flow felt lengthier than usual \u2014 MOD felt like pulling teeth to get initial orders; likely the last cold weekday of winter kept things date-heavy and short. 118 covers, 2 large parties, 9 solos, 0 investor cocktails. Food $291, bev $3,602. Top sellers: Year of the Trees, Masari, Thunderball. Missed target by just \u22122.1% ($3,893 vs $3,977). Comps 1.8% ($71.80). Welcomed Jim Briggs (old Tiffany regular, left readers behind) and Stefan (friend of Jane, Bar Mgr at COTE). Pedicab arrivals from Florence + The Machine concert. Glassware: 2 coupe, 1 DOF. No no-shows or Tock glitches. MOD: Cara & Steves."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 5285.0,
+      "target": 5323.0,
+      "comps": 150.0,
+      "guests": 150,
+      "check_avg": 35.23,
+      "weather": "Chilly",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Extra fully-staffed Wednesday with an additional server added at 8pm — perfect timing as a rush started when Julian showed up. Big push until 10pm then tapered; Jaz out by 11:45pm, Julian handled floor solo after. Had Ryan trail Gin behind the bar for reps. Ticket times crept up briefly during rush but snacks kept guests happy — zero complaints. Marquee $5,285, Standing Room $0. Sold 4/6 lamb burgers. Missed target by just $38 (-0.7%, $5,285 vs $5,323). Maintenance: men's urinal (plumber contacted), bad smell today (Bobby quote in review). 86 pepita orgeat (using almond). Vic's birthday celebrated at midnight with pizza."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 4668.0,
+      "target": 4000.0,
+      "comps": 49.0,
+      "guests": 114,
+      "check_avg": 37.65,
+      "weather": "Warm and beautiful",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "First DC EON in four days — busy night driven by a conference in town. Room filled from the jump; by 7:30pm all reservations were in. Cory took the door, Devan moved to the floor with Tyler — avoided a waitlist all night with creative maneuvering (one 4-top walked). Last reservation seated just before 11pm, last call on time, guests gone by midnight. Beat target by +17% ($4,668 vs $4,000). Food hit ~15% of sales. 91 walk-ins / 23 resos. Voids $130 (kitchen test/did-not-make), comps $49 (walk-out on offline handheld). Maintenance: water heaters threw a new code series at close that didn't respond to normal fixes. Note: 4/19, 4/20, 4/21 EON reports for DC remain outstanding (prior 3-day gap not yet backfilled)."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 4602.0,
+      "target": 7200.0,
+      "comps": 499.0,
+      "guests": 89,
+      "check_avg": 51.71,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow-and-steady AM (9 guests, $750) gave the bar time to prep for the menu flip. Evening built after 7pm with a great mix of hotel guests and new faces; bar stayed full past 11pm. Kelly captured new cocktail photos early — guest feedback already excellent. Sun Club very slow (a few hotel guests + late pop at the bar, $214). Hot Eye closed/$0. Kitchen smooth — no send-backs. Morning MB $750 / 9g, Evening MB $3,851 / 80g. Missed target by ~36% ($4,602 vs $7,200). Highlight: a graduation celebration where the team helped set up decorations. Entered by Gabby."
+    }
+  ]
+}

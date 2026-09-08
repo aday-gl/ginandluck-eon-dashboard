@@ -10,18 +10,18 @@
       "full_name": "Close Company Atlanta",
       "color": "#E07B54",
       "missing": false,
-      "target": 6447,
-      "net_sales": 7647,
-      "food_sales": 428,
-      "beverage_sales": 7219,
-      "event_sales": 0,
+      "target": 6447.0,
+      "net_sales": 7647.0,
+      "food_sales": 428.0,
+      "beverage_sales": 7219.0,
+      "event_sales": 0.0,
       "comps": 38.3,
       "comp_pct": 0.5,
       "guest_count": 244,
       "guest_check_avg": 31.34,
       "mod": "KG",
       "weather": "High 85 low 51",
-      "notes_summary": "Nice Saturday at CC ATL. Nice pop at open. Investors and regulars stopped by. Scholarship gala guests around 10pm. Smooth EON.",
+      "notes_summary": "Nice Saturday at CC ATL. Nice pop at open with FOH welcoming early flow. Opener left around 9pm, then another wave of guests brought energy. Investors and regulars stopped by. Scholarship gala guests trickled in around 10pm \u2014 all fans of the espresso martini, ~10 at the table. BOH handled tickets timely. Smooth EON with closer leaving around 1am. Lots of familiar faces in the house.",
       "maintenance_flags": [],
       "eightysixed": [
         "Tito's",
@@ -31,11 +31,11 @@
       "highlights": [
         {
           "type": "win",
-          "text": "Above target — $7,647 vs $6,447 target (+18.6%)"
+          "text": "Above target \u2014 $7,647 vs $6,447 target (+18.6%)"
         },
         {
           "type": "info",
-          "text": "Scholarship gala guests trickled in around 10pm"
+          "text": "Scholarship gala guests trickled in around 10pm; investors and regulars visited"
         }
       ],
       "data_source": "slack"
@@ -46,18 +46,18 @@
       "full_name": "Close Company Nashville",
       "color": "#6B8CBA",
       "missing": false,
-      "target": 11740,
-      "net_sales": 11127,
-      "food_sales": 231,
-      "beverage_sales": 10896,
-      "event_sales": 0,
+      "target": 11740.0,
+      "net_sales": 11127.0,
+      "food_sales": 231.0,
+      "beverage_sales": 10896.0,
+      "event_sales": 0.0,
       "comps": 109.6,
       "comp_pct": 0.99,
       "guest_count": 419,
-      "guest_check_avg": 27,
+      "guest_check_avg": 27.0,
       "mod": "KE, Tay",
       "weather": "Moderate and nice",
-      "notes_summary": "Not super busy but solid. Plastic cups for outside gaining traction. Great neighbor energy with Fishmonger & Charmers.",
+      "notes_summary": "Not super busy but solid. Guests catching on about plastic cups for outside \u2014 telling guests is paying off for spring/fall months. Fishmonger and Charmers sent boomerangs and CC reciprocated \u2014 whole building felt like a cohesive element.",
       "maintenance_flags": [],
       "eightysixed": [
         "Pickles",
@@ -68,11 +68,11 @@
       "highlights": [
         {
           "type": "flag",
-          "text": "Slightly below target — $11,127 vs $11,740 target (-5.2%)"
+          "text": "Slightly below target \u2014 $11,127 vs $11,740 target (-5.2%)"
         },
         {
           "type": "info",
-          "text": "Plastic cups for outdoor sipping gaining traction"
+          "text": "Plastic cups for outdoor sipping gaining traction; great neighbor energy with Fishmonger & Charmers"
         }
       ],
       "data_source": "slack"
@@ -83,18 +83,18 @@
       "full_name": "Municipal Grand F&B",
       "color": "#7CB87A",
       "missing": false,
-      "target": 19000,
-      "net_sales": 17927,
-      "food_sales": 6386,
-      "beverage_sales": 11541,
-      "event_sales": 0,
-      "comps": 333,
+      "target": 19000.0,
+      "net_sales": 17927.0,
+      "food_sales": 6386.0,
+      "beverage_sales": 11541.0,
+      "event_sales": 0.0,
+      "comps": 333.0,
       "comp_pct": 1.86,
       "guest_count": 364,
       "guest_check_avg": 49.25,
       "mod": "Gabby & Lex (AM) / Justin & Sukru (PM)",
       "weather": "Warm & Sunny",
-      "notes_summary": "Strong Saturday morning from 8am. PM reservations after 6pm, kitchen crushed 7pm push. Sun Club 100% pool occupancy. Hot Eye shoulder-to-shoulder at 11:30pm with wedding parties and Billy Strings fans.",
+      "notes_summary": "Strong Saturday morning from 8am, busiest 10am-2pm. Emphasis on guests heading to Sun Club. PM reservations took hold after 6pm, big food push at 7pm \u2014 kitchen crushed it. After 8:30pm MB emptied out due to events in town. Big push for last-call drinks. Sun Club very busy with 100% pool occupancy. Hot Eye had solid pop from the start, shoulder-to-shoulder at 11:30pm with wedding parties, locals, and Billy Strings fans. No sendbacks or DNLs from kitchen.",
       "maintenance_flags": [
         "Housekeeping to Hot Eye"
       ],
@@ -102,29 +102,33 @@
       "sub_venues": [
         {
           "name": "Municipal Bar AM",
-          "sales": 3564
+          "sales": 3564.0
         },
         {
           "name": "Municipal Bar PM",
-          "sales": 9842
+          "sales": 9842.0
         },
         {
           "name": "Sun Club",
-          "sales": 1349
+          "sales": 1349.0
         },
         {
           "name": "Hot Eye",
-          "sales": 3172
+          "sales": 3172.0
         }
       ],
       "highlights": [
         {
           "type": "flag",
-          "text": "Below target — $17,927 vs $19,000 target (-5.6%)"
+          "text": "Below target \u2014 $17,927 vs $19,000 target (-5.6%)"
         },
         {
           "type": "win",
-          "text": "Sun Club 100% pool occupancy; Hot Eye packed with wedding parties & Billy Strings fans"
+          "text": "Sun Club 100% pool occupancy; Hot Eye shoulder-to-shoulder with wedding parties & Billy Strings fans"
+        },
+        {
+          "type": "info",
+          "text": "Big events in town pulled guests out early evening; strong morning and late-night energy"
         }
       ],
       "data_source": "slack"
@@ -135,38 +139,38 @@
       "full_name": "Death & Co Los Angeles",
       "color": "#C47DC0",
       "missing": false,
-      "target": 7390,
-      "net_sales": 13202,
-      "food_sales": 2277,
-      "beverage_sales": 10925,
-      "event_sales": 0,
-      "comps": 426,
+      "target": 7390.0,
+      "net_sales": 13202.0,
+      "food_sales": 2277.0,
+      "beverage_sales": 10925.0,
+      "event_sales": 0.0,
+      "comps": 426.0,
       "comp_pct": 3.23,
       "guest_count": 335,
       "guest_check_avg": 39.41,
       "mod": "Gigi/Joe & Chef Selenia/Josh",
       "weather": "Rain around midnight",
-      "notes_summary": "Very steady Saturday despite Coachella weekend. Busy first hours with walk-ins. Short a server but team adapted. Decent waitlist most of the night. Rain around midnight slowed walk-ins for smooth ending.",
+      "notes_summary": "Very steady Saturday despite Coachella weekend in the city \u2014 didn't seem to affect D&C much. Busy first couple hours with lots of walk-ins. Short a server so Angel moved from bar back to server \u2014 team filled holes well. Decent waitlist most of the night with lots of large parties; team did great burning and turning. Rain around midnight slowed walk-in pace for a smooth ending. No-shows were charged.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [
         {
           "name": "Standing Room",
-          "sales": 3218
+          "sales": 3218.0
         },
         {
           "name": "Marquee",
-          "sales": 9984
+          "sales": 9984.0
         }
       ],
       "highlights": [
         {
           "type": "win",
-          "text": "Well above target — $13,202 vs $7,390 target (+78.6%)"
+          "text": "Well above target \u2014 $13,202 vs $7,390 target (+78.6%)"
         },
         {
           "type": "win",
-          "text": "Strong performance despite Coachella weekend"
+          "text": "Strong performance despite Coachella weekend; team adapted well to being short-staffed"
         }
       ],
       "data_source": "slack"
@@ -181,14 +185,14 @@
       "net_sales": 18111.62,
       "food_sales": 3890.7,
       "beverage_sales": 14220.92,
-      "event_sales": 0,
+      "event_sales": 0.0,
       "comps": 693.63,
       "comp_pct": 3.53,
       "guest_count": 408,
       "guest_check_avg": 44.39,
       "mod": "Maggie (AM) / Carey & Lucas (PM)",
       "weather": "N/A",
-      "notes_summary": "Slower than last Saturday but groups stayed long. Garden had tight turns. 621 high top chairs unstable per guests. Recognized as city's best sober bar two years running. Nik's last day approaching.",
+      "notes_summary": "Slower night than last Saturday but lots of groups stayed long and continuously enjoyed. Slightly higher food sales & happy guests. Garden had tight turns and clever host maneuvering \u2014 multiple parties at 621 high top mentioned unstable chairs. Kitchen had great night with Archer & Isaias \u2014 food orders all the way to end. AM sales solid with Care Leite. Recognized as city's best sober bar two years running. Nik's last day approaching.",
       "maintenance_flags": [
         "621 high top chairs feel unstable per multiple guest mentions"
       ],
@@ -210,11 +214,15 @@
       "highlights": [
         {
           "type": "win",
-          "text": "Above target — $18,112 vs $16,094 target (+12.5%)"
+          "text": "Above target \u2014 $18,112 vs $16,094 target (+12.5%)"
         },
         {
           "type": "flag",
-          "text": "621 high top chairs unstable — multiple guest complaints"
+          "text": "621 high top chairs unstable \u2014 multiple guest complaints"
+        },
+        {
+          "type": "win",
+          "text": "Recognized as city's best sober bar two years running; made food for an NFL player"
         }
       ],
       "data_source": "slack"
@@ -225,29 +233,29 @@
       "full_name": "Death & Co East Village",
       "color": "#E87A7A",
       "missing": false,
-      "target": 7391,
-      "net_sales": 7455,
-      "food_sales": 925,
-      "beverage_sales": 6279,
-      "event_sales": 0,
+      "target": 7391.0,
+      "net_sales": 7455.0,
+      "food_sales": 925.0,
+      "beverage_sales": 6279.0,
+      "event_sales": 0.0,
       "comps": 341.56,
       "comp_pct": 4.58,
       "guest_count": 200,
       "guest_check_avg": 37.28,
       "mod": "Cara",
       "weather": "Chilly but normal early April",
-      "notes_summary": "Flip-flopping between half-full and overfull. Second turn mighty busy. 5 large parties, 13 solos, 10 investor cocktails. Wait grew after 10pm. Welcomed Nicole Pla from Denver, Kenneth Young from Joyface. Top sellers: Masari, Spaaaace, City Point, Buckhorn Exchange.",
+      "notes_summary": "Flip-flopping between half-full and overfull all night. Second turn mighty busy with >1k in one section alone. Nice refilling after 1am. Large parties dominated with 5 large parties, 13 solos, 10 investor cocktails. Warm night brought friend groups and large walk-up parties. Wait grew after 10pm, completed around 12:30am. Welcomed Nicole Pla from D&C Denver, Kenneth Young from Joyface, and D&C members. Top sellers: Masari, Spaaaace, City Point, Buckhorn Exchange.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
       "highlights": [
         {
           "type": "win",
-          "text": "Above target — $7,455 vs $7,391 target (+0.9%)"
+          "text": "Above target \u2014 $7,455 vs $7,391 target (+0.9%)"
         },
         {
           "type": "info",
-          "text": "Big Saturday energy — 5 large parties, crowds past 1am"
+          "text": "Big Saturday energy \u2014 5 large parties, 13 solos, warm weather brought crowds past 1am"
         }
       ],
       "data_source": "slack"
@@ -258,38 +266,42 @@
       "full_name": "Death & Co Washington DC",
       "color": "#5AA8C4",
       "missing": false,
-      "target": 8412,
-      "net_sales": 10445,
-      "food_sales": 1738,
-      "beverage_sales": 8707,
-      "event_sales": 0,
-      "comps": 105,
+      "target": 8412.0,
+      "net_sales": 10445.0,
+      "food_sales": 1738.0,
+      "beverage_sales": 8707.0,
+      "event_sales": 0.0,
+      "comps": 105.0,
       "comp_pct": 1.01,
       "guest_count": 241,
       "guest_check_avg": 42.29,
       "mod": "Josh / Cory",
       "weather": "Warm",
-      "notes_summary": "Solid night. Garden benefited from warm weather. Jordan continued training. Big night for B-side cocktails, especially Cafe Del Tigre. Late wave at 11pm filled marquee.",
+      "notes_summary": "Solid night. Garden benefited from warm weather \u2014 guests opted to sit outside including some scheduled reservations. Marquee had waves of filling and emptying; late cancellations and no-shows affected pacing. Jordan continued training alongside Grant and Devan \u2014 extra hands sped up service but communication needs tightening. Big night for B-side cocktails, especially Cafe Del Tigre. Late wave at 11pm filled marquee quickly, guests sat until 1am but room empty by 2:15. Kitchen busy with 16% food sales. Garden last-called at midnight, moved remaining wait inside.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [
         {
           "name": "Marquee",
-          "sales": 8667
+          "sales": 8667.0
         },
         {
           "name": "Garden",
-          "sales": 2943
+          "sales": 2943.0
         }
       ],
       "highlights": [
         {
           "type": "win",
-          "text": "Above target — $10,445 vs $8,412 target (+24.2%)"
+          "text": "Above target \u2014 $10,445 vs $8,412 target (+24.2%)"
         },
         {
           "type": "win",
-          "text": "Garden popping — finally looking like Spring in DC!"
+          "text": "Garden popping \u2014 finally looking like Spring in DC!"
+        },
+        {
+          "type": "info",
+          "text": "B-side cocktails big night; Jordan training progressing; communication on floor needs work"
         }
       ],
       "data_source": "slack"

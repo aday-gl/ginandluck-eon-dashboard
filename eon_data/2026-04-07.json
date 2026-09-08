@@ -1,0 +1,328 @@
+{
+  "report_date": "April 7, 2026",
+  "iso_date": "2026-04-07",
+  "day_of_week": "Tuesday",
+  "generated_at": "2026-04-08 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 2577.0,
+      "net_sales": 1685.0,
+      "food_sales": 301.0,
+      "beverage_sales": 1384.0,
+      "event_sales": 0.0,
+      "comps": 17.0,
+      "comp_pct": 1.01,
+      "guest_count": 52,
+      "guest_check_avg": 32.41,
+      "mod": "MKZ",
+      "weather": "High 77 / Low 50",
+      "notes_summary": "Bingo Tuesday at CC ATL. Chill start to the day with downtime used for ABK tasks. Bingo had a slow start but energy was high — host Jessica always shows up with great attitude. FOH went nearly full table service, which helped push extra rounds and snacks. Pop around 10:30pm as usual; late-night crowd includes industry folk (group from Casi Cielo almost every night). Celebrated regular Shelby's birthday.",
+      "maintenance_flags": [
+        "2nd & 3rd freezer frozen over"
+      ],
+      "eightysixed": [
+        "Low Martini Glasses",
+        "Low Collins Glasses"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $1,685 vs $2,577 target (-34.6%)"
+        },
+        {
+          "type": "info",
+          "text": "Bingo Tuesday with strong energy despite slow start"
+        },
+        {
+          "type": "info",
+          "text": "Celebrated regular Shelby's birthday — late-night pop at 10:30pm"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 1851.0,
+      "net_sales": 1310.0,
+      "food_sales": 34.0,
+      "beverage_sales": 1276.0,
+      "event_sales": 0.0,
+      "comps": 66.0,
+      "comp_pct": 5.04,
+      "guest_count": 52,
+      "guest_check_avg": 25.19,
+      "mod": "MD / JR",
+      "weather": "Mild, partly cloudy",
+      "notes_summary": "Steady start to service with an enjoyable bingo crowd. Most traffic occurred during bingo with little after it concluded. Had a few first timers who expressed enthusiasm about returning with a group. Last guest was Thomas from O-Ku, who departed just after close. Jarred held it down in the kitchen.",
+      "maintenance_flags": [
+        "Leak - well 1 water taps"
+      ],
+      "eightysixed": [
+        "GF pockets"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $1,310 vs $1,851 target (-29.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Bingo Tuesday crowd — several first timers excited to return with groups"
+        },
+        {
+          "type": "info",
+          "text": "Steady start, most traffic concentrated during bingo"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 6000.0,
+      "net_sales": 6220.0,
+      "food_sales": 3037.0,
+      "beverage_sales": 3183.0,
+      "event_sales": 0.0,
+      "comps": 184.0,
+      "comp_pct": 2.96,
+      "guest_count": 179,
+      "guest_check_avg": 34.75,
+      "mod": "Justin (AM) / James & Sukru (PM)",
+      "weather": "Overcast and windy until 5pm, then clear and nice",
+      "notes_summary": "Strong morning anchored by a 10-top film crew from the hotel who boxed food to go by 9:15am. Business popped at 1pm with nearly half the dining room seated. Evening was steadily busy for longer than Monday — bar full all evening, nearly all dining tables full too. Lots of full coursed meals driving strong food sales. No food returned to kitchen, no long ticket times. Team inspired by staff stepping up across departments. Sun Club operated briefly; Hot Eye closed.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 1369.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4748.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 103.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $6,220 vs $6,000 target (+3.7%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong food sales — coursed meals, no returns, quick ticket times"
+        },
+        {
+          "type": "info",
+          "text": "Film crew 10-top in AM; bar full all evening with lots of regulars"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 4987.0,
+      "net_sales": 3335.0,
+      "food_sales": 646.0,
+      "beverage_sales": 2689.0,
+      "event_sales": 0.0,
+      "comps": 29.0,
+      "comp_pct": 0.87,
+      "guest_count": 102,
+      "guest_check_avg": 32.70,
+      "mod": "Joe + Vic",
+      "weather": "Clear",
+      "notes_summary": "First night back after Marquee floor repairs forced closure on Monday. Operating in standing room only with Marquee out of commission. Kept the room pretty much full from start to finish with a small waitlist at one point — got everyone seated in a timely fashion. Good vibes, guests happy to be there. Got a bunch of cleaning done and some R&D during service. Low orgeat noted as running low. A guest called the prep phone to ask about reservations — felt old school.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Low orgeat"
+      ],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 3335.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $3,335 vs $4,987 target (-33.1%)"
+        },
+        {
+          "type": "info",
+          "text": "Standing room only — Marquee closed for floor repairs"
+        },
+        {
+          "type": "win",
+          "text": "Kept room full all night despite reduced capacity; small waitlist cleared quickly"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 7471.92,
+      "net_sales": 7643.30,
+      "food_sales": 1884.0,
+      "beverage_sales": 5759.30,
+      "event_sales": 0.0,
+      "comps": 336.15,
+      "comp_pct": 4.40,
+      "guest_count": 185,
+      "guest_check_avg": 41.32,
+      "mod": "Maggie, Evan, Carey & Josh (AM) / Kira & Lucas (PM)",
+      "weather": "N/A",
+      "notes_summary": "Solid Tuesday with good flow throughout the night. Multiple pops at 4:30pm, 5:30pm, 7pm, and 8:30pm. TB in house for S/S menu tastings. Opening server cut at 9pm and out before 10pm. Rico's training on barback — beautiful full circle moment as Rico's first Denver stop was D&C and Micah was his bartender; now training with Micah behind Marquee. Slow Tuesday in kitchen with cleaning and prep done during downtime.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 688.22
+        },
+        {
+          "name": "D&C PM",
+          "sales": 6955.08
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $7,643 vs $7,472 target (+2.3%)"
+        },
+        {
+          "type": "win",
+          "text": "Multiple pops throughout the night — consistent flow from 4:30pm to close"
+        },
+        {
+          "type": "info",
+          "text": "Rico's full circle moment training with Micah behind Marquee"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 2738.0,
+      "net_sales": 4016.0,
+      "food_sales": 420.0,
+      "beverage_sales": 3595.0,
+      "event_sales": 0.0,
+      "comps": 162.40,
+      "comp_pct": 4.04,
+      "guest_count": 118,
+      "guest_check_avg": 34.03,
+      "mod": "Courtney / Ja",
+      "weather": "Frigid spring night",
+      "notes_summary": "Nice Tuesday evening — smaller excited parties for main turns, closing with a couple of larger ones during the last turn. Some fun two-tops stayed through the better half of the final turn. Industry visitors included Raoul of Rum Zacapa, Christina Helmer of Don Fulano Tequila, Alex Durante of Derrumbes Mezcal, and Tim Miner of Skurnik (former D&C bartender). Room 75% full approaching last call, full of positive energy. One no-show (Leqoinne Rice, 2ppl). Top Sellers: Revenant, Doves in the Wind, Grand Entrance.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Well above target — $4,016 vs $2,738 target (+46.7%)"
+        },
+        {
+          "type": "win",
+          "text": "Strong industry night — Rum Zacapa, Don Fulano, Derrumbes, Skurnik all in"
+        },
+        {
+          "type": "info",
+          "text": "Top Sellers: Revenant, Doves in the Wind, Grand Entrance"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 4630.0,
+      "net_sales": 2405.77,
+      "food_sales": 356.80,
+      "beverage_sales": 2048.97,
+      "event_sales": 0.0,
+      "comps": 28.30,
+      "comp_pct": 1.18,
+      "guest_count": 62,
+      "guest_check_avg": 38.80,
+      "mod": "Kevin",
+      "weather": "Chilly but overall pretty decent",
+      "notes_summary": "Smooth night at 124 with great team communication. Garden closed. 62 covers — 18 booked, 44 walk-in. Natural last call with last guests departing a few minutes after midnight. Highlight was watching Alex train Alex behind the bar and Devan training Jordan — great examples of leading by example. New hire training going well. Food sales solid at 14.8%.",
+      "maintenance_flags": [
+        "Usual maintenance items"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 2405.77
+        },
+        {
+          "name": "Garden",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $2,406 vs $4,630 target (-48.0%)"
+        },
+        {
+          "type": "info",
+          "text": "Garden closed; 62 covers (18 booked / 44 walk-in)"
+        },
+        {
+          "type": "win",
+          "text": "Great new hire training night — Alex/Alex and Devan/Jordan pairs"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}

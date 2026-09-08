@@ -1,0 +1,338 @@
+{
+  "report_date": "April 4, 2026",
+  "iso_date": "2026-04-04",
+  "day_of_week": "Saturday",
+  "generated_at": "2026-04-06 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 6349.0,
+      "net_sales": 6498.0,
+      "food_sales": 566.0,
+      "beverage_sales": 5932.0,
+      "event_sales": 0.0,
+      "comps": 115.0,
+      "comp_pct": 1.77,
+      "guest_count": 228,
+      "guest_check_avg": 28.5,
+      "mod": "KG",
+      "weather": "High 82 / Low 65",
+      "notes_summary": "Happy 404 from Close Company Atlanta! Good start with 404 specials going over well. Some CO2 issues resolved. Many city events kept people away until late. Closers came at 8, lull until 10pm then picked up. Low on straws.",
+      "maintenance_flags": [
+        "Leak under well 2"
+      ],
+      "eightysixed": [
+        "Tito's",
+        "Grey Goose",
+        "Vida",
+        "Green Chartreuse"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $6,498 vs $6,349 target (+2.3%)"
+        },
+        {
+          "type": "info",
+          "text": "Happy 404 Day! Specials went over very well with guests"
+        },
+        {
+          "type": "info",
+          "text": "86'd: Tito's, Grey Goose, Vida, Green Chartreuse"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 11706.0,
+      "net_sales": 7874.0,
+      "food_sales": 246.0,
+      "beverage_sales": 7628.0,
+      "event_sales": 0.0,
+      "comps": 78.0,
+      "comp_pct": 0.99,
+      "guest_count": 300,
+      "guest_check_avg": 25.0,
+      "mod": "KE TAY",
+      "weather": "Rainy. Stormy.",
+      "notes_summary": "A slow Saturday. Weather, March Madness, and Easter hurt us. Still, solid night with lots of regulars and return guests carrying the slower nights. James's last day \u2014 team signed a Montenegro bottle for him.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Bitter melon"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $7,874 vs $11,706 target (-32.7%)"
+        },
+        {
+          "type": "info",
+          "text": "Weather, March Madness, and Easter hurt numbers"
+        },
+        {
+          "type": "info",
+          "text": "James's last day \u2014 team signed a Montenegro bottle for him"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 18000.0,
+      "net_sales": 18781.0,
+      "food_sales": 6005.0,
+      "beverage_sales": 12776.0,
+      "event_sales": 1800.0,
+      "comps": 478.0,
+      "comp_pct": 2.54,
+      "guest_count": 379,
+      "guest_check_avg": 49.55,
+      "mod": "Sam (AM) / Gabby / Justin & Sukru (PM)",
+      "weather": "Warm and sunny day!",
+      "notes_summary": "Smooth, busy night with great pacing. Slow morning start but steady lunch. Evening kicked off at 5pm with reservations and walk-ins. SMF shows drove pre-show rush. New high-top communal table was a huge hit. Room stayed full 5pm\u2013kitchen close. Post-show pop at Hot Eye.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 3488.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 11511.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 323.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 2440.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $18,781 vs $18,000 target (+4.3%)"
+        },
+        {
+          "type": "win",
+          "text": "379 guests \u2014 strong Saturday turnout"
+        },
+        {
+          "type": "info",
+          "text": "New communal high-top was a hit \u2014 guests connecting over drinks"
+        },
+        {
+          "type": "info",
+          "text": "Kelwin killed his first night training in THE"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 8723.0,
+      "net_sales": 13494.0,
+      "food_sales": 1539.0,
+      "beverage_sales": 11955.0,
+      "event_sales": 4440.0,
+      "comps": 157.82,
+      "comp_pct": 1.17,
+      "guest_count": 225,
+      "guest_check_avg": 59.97,
+      "mod": "Selenia + Joe + Josh + Tomo",
+      "weather": "Not reported",
+      "notes_summary": "Interesting Saturday with 40-person wedding reception in Standing Room. Slow start but party was a blast. Electrical outage issues around 9pm took kitchen terminals down, but team rolled with it. Walk-ins picked up after 10:45pm once power restored. Room full until last call.",
+      "maintenance_flags": [
+        "Electrical box causing outages"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 4975.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 8519.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Crushed target \u2014 $13,494 vs $8,723 target (+54.7%)"
+        },
+        {
+          "type": "win",
+          "text": "Successful 40-person wedding reception in Standing Room"
+        },
+        {
+          "type": "flag",
+          "text": "Electrical outage issues around 9pm \u2014 team handled it well"
+        },
+        {
+          "type": "info",
+          "text": "$4,440 event sales from wedding"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 15081.92,
+      "net_sales": 16059.64,
+      "food_sales": 3314.0,
+      "beverage_sales": 12745.64,
+      "event_sales": 0.0,
+      "comps": 743.05,
+      "comp_pct": 4.63,
+      "guest_count": 431,
+      "guest_check_avg": 37.26,
+      "mod": "Maggie (AM) / Carey & Lucas (PM)",
+      "weather": "Opening Weekend (night game)",
+      "notes_summary": "Another smooth night, down a host again but same technique from Friday worked perfectly. Everyone on top of table turns, waitlist kept to minimum. Zero overly intoxicated baseball fans \u2014 guests had exactly the experience they came for.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 1422.48
+        },
+        {
+          "name": "D&C PM",
+          "sales": 14637.16
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 2519.48
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target \u2014 $16,060 vs $15,082 target (+6.5%)"
+        },
+        {
+          "type": "win",
+          "text": "431 guests \u2014 strong Saturday with baseball Opening Weekend"
+        },
+        {
+          "type": "info",
+          "text": "Host technique from Friday worked perfectly again"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 9254.0,
+      "net_sales": 8216.0,
+      "food_sales": 1233.0,
+      "beverage_sales": 6799.0,
+      "event_sales": 0.0,
+      "comps": 200.0,
+      "comp_pct": 2.43,
+      "guest_count": 222,
+      "guest_check_avg": 37.0,
+      "mod": "Cara",
+      "weather": "Misty and warm. Portland vibes",
+      "notes_summary": "Turn-heavy but relatively smooth night that fizzled after midnight. Line out the door to start. Rain plus day drinking kept crowds thinner. Never longer than 1.5hr waitlist. Lots of industry folks for last call including Dave from Attaboy.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $8,216 vs $9,254 target (-11.2%)"
+        },
+        {
+          "type": "info",
+          "text": "Rain and day drinking kept Saturday crowds thinner than usual"
+        },
+        {
+          "type": "info",
+          "text": "Top Sellers: Masari, Material Control, Wax Simulacra"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 10301.0,
+      "net_sales": 7353.0,
+      "food_sales": 945.0,
+      "beverage_sales": 6408.0,
+      "event_sales": 0.0,
+      "comps": 114.0,
+      "comp_pct": 1.55,
+      "guest_count": 155,
+      "guest_check_avg": 37.33,
+      "mod": "Josh / Cory",
+      "weather": "Warm",
+      "notes_summary": "Slow night. Folks possibly traveling or resting for Easter. Started with solid books but many no-shows, cancellations, and party size drops over the evening. 11 no-shows, 46 cancellations (17 day-of). Garden closed at 11:30 to consolidate. Team pushed food and upsold well with available tables.",
+      "maintenance_flags": [
+        "2nd bathroom sink"
+      ],
+      "eightysixed": [
+        "Potatoes"
+      ],
+      "sub_venues": [
+        {
+          "name": "D&C Marquee Bar",
+          "sales": 6658.0
+        },
+        {
+          "name": "Garden",
+          "sales": 1558.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target \u2014 $7,353 vs $10,301 target (-28.6%)"
+        },
+        {
+          "type": "flag",
+          "text": "11 no-shows, 46 cancellations (17 day-of) \u2014 reservation challenges"
+        },
+        {
+          "type": "info",
+          "text": "Matt Belanger in town for a visit!"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-20",
+  "day_of_week": "Monday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 592.0,
+      "target": 767.0,
+      "comps": 26.0,
+      "guests": 20,
+      "check_avg": 29.6,
+      "weather": "Sunny; highs mid-70s, lows low-50s",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Very quiet 4/20 Monday at Close Company ATL. Handful of folks for the first few hours; small pop at 10pm with a lined bar and one table. Last call was easy and everyone was out by 12:15am. Bar team used downtime to deep-clean the back bar, dri-deck mats, stainless steel behind the bar, and wash/stock new glassware."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 2490.0,
+      "target": 1074.0,
+      "comps": 86.0,
+      "guests": 77,
+      "check_avg": 31.0,
+      "weather": "Nice, moderate",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Steady from start to finish. A 30-person birthday party arrived around 9pm and stayed through close, driving volume well past target (+132% vs goal). Eli and Naya had good training shifts. Birthday party sang for the birthday girl at last call — nice moment."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 5430.61,
+      "target": 4205.05,
+      "comps": 181.77,
+      "guests": 137,
+      "check_avg": 39.64,
+      "weather": "N/A",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "DC/AM $902.33, D&C PM $4,528.28, food $1,100.80. Chill Monday — plenty of practice rounds, prep work on fresh turmeric-ginger tea, miel, caramel, miso sesame. Deep-cleaned coffee urns; ABK'd shelves. Sleepy evening led to early cuts; MOD ran the floor from 10pm for final 3 tables. Beat target by ~29%."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 4236.0,
+      "target": 4291.0,
+      "comps": 118.9,
+      "guests": 123,
+      "check_avg": 34.0,
+      "weather": "Cold for April",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solo-server 'hummingbird' night. 123 covers, 66 oysters, 1 large party, 6 solos, no investor cocktails. Top sellers: Masari, Root & Rye, Revenant. Thomas ran the door through reservations early; 9-11pm was peak. 1 coupe chipped. Missed target by just 1.3%."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 3123.0,
+      "target": 2892.0,
+      "comps": 142.10,
+      "guests": 87,
+      "check_avg": 72.74,
+      "weather": "Slightly warm",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow burn start, bar picked up at 9pm, full house by 10 with walk-in 3s and 4s. Everyone buttoning up by 11. Lots of industry visits — Camphor, Yunomi, Griffin. Doubled food sales goal. Beat target by ~8% ($3,123 vs $2,892). Low on Macallan 12."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": null,
+      "target": null,
+      "comps": null,
+      "guests": null,
+      "check_avg": null,
+      "weather": null,
+      "missing": true,
+      "data_source": "slack",
+      "narrative": "No EON report submitted for 4/20. Last DC EON posted to #dc_eon_report was for 4/18 service (posted 4/19 02:04 EDT). Likely submission delay — check with Cory/Kevin/Josh."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 3702.0,
+      "target": 6200.0,
+      "comps": 57.80,
+      "guests": 92,
+      "check_avg": 40.24,
+      "weather": "Sunny and moderate",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Very quiet day overall — morning peaked at 3 tables; noon-3pm cocktail tasting with the team went well (Skylar training, Tia held the floor). Evening peak was a 20-cover 7pm reservation; cut accordingly. 9pm 10-top didn't land until 9:45. Missed target by ~40%. Morning MB $989, Evening MB $2,415, Sun Club $298, Hot Eye $0."
+    }
+  ]
+}

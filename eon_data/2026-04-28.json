@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-28",
+  "day_of_week": "Tuesday",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "net_sales": 2593.0,
+      "target": 2011.0,
+      "comps": 3.2,
+      "guests": 38,
+      "check_avg": 68.25,
+      "weather": "High 68 / Low 57",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Strong start to Tuesday \u2014 HH for 40 people from 5pm to 7pm; opening bartender + MOD handled flow well. Each event introduces new people to the space (lead with curiosity and connection). Crowd stayed steady; around 7pm Bingo regulars arrived. HH guests didn't all leave until 8pm and they extended their tab \u2014 clearly enjoyed themselves. Few regulars came in late and big pop around 11pm; smooth last call. Beat target by +28.9% ($2,593 vs $2,011). Food $80 (slow kitchen day after the event). Event sales $1,500. Comps very low at $3.20. 38 guests / $68.25 GCA. 86: sprite, cider; low: night-on-Ponce favorite moment, ros\u00e9. MOD: MKZ/JK. Entered by Mya. Highlight: a few event guests returned for a nightcap."
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "net_sales": 1359.0,
+      "target": 1886.0,
+      "comps": 84.1,
+      "guests": 42,
+      "check_avg": 32.37,
+      "weather": "Warm and overcast/rainy with thunderstorms predicted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Relatively sleepy night \u2014 guests mentioned wanting to beat the storms home. Service volume peaked 7-7:30pm with bingo arrivals (including a group of coworkers from upstairs). Expected lull after bingo and did not see usual late-night traffic. Missed target by \u221227.9% ($1,359 vs $1,886). Food $17 (5th consecutive day of food <$130 \u2014 soft food sales remain a persistent flag). Comps $84.10 / 6.2% (manager comp + industry). 42 guests / $32.37 GCA. 86: candied ginger, candied papaya, sarsaparilla soda. MOD: MD. Entered by BC. Highlight: bingo regulars returned about an hour later to celebrate a birthday \u2014 nice to see familiar event-related faces outside of their usual appearance."
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "net_sales": 6232.29,
+      "target": 6992.7,
+      "comps": 397.0,
+      "guests": 156,
+      "check_avg": 39.95,
+      "weather": "Not noted",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Tuesday with a good first-half pop into a calm finish. DC/AM: few IRDs and deep cleaning. D&C PM: not slow enough to make aggressive cuts but quieter than typical Tuesdays \u2014 fun shift; two guests stayed 6.5 hours (longest seen). Net sales (excl events) $6,232.29 vs target $6,992.70 (\u221210.9%). Including events $9,174.29 (+31.2% vs target). Segments: DC/AM $705.94, D&C PM $5,526.35, 6A NA. Comps $397 / 6.37%. 156 guests. Food $1,201 / Food incl events $3,922. **Event**: Day 1 of Omada Health meetings \u2014 19 guests in Vauxhall 8am-5pm, Josh executed breakfast & lunch buffets ($2,721 event food / $2,942 net event sales). Day 2 tomorrow. AM MOD: Maggie & Lucas. PM MOD: Carey. Kitchen: Antonio and Marv. Break make-up complete. Highlight: a goofball family came in close to last call and livened the team back up \u2014 Reagan kept them contained and laughing."
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "net_sales": 3895.0,
+      "target": 4235.0,
+      "comps": 151.0,
+      "guests": 122,
+      "check_avg": 32.0,
+      "weather": "Tempted (cool/changeable)",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Quick first push around 6/6:30pm; remained steady through the night, dying down around 11pm \u2014 then a big crowd of industry friends came through to bid farewell to Courtney (her last night). Top seller: Masari (13). James handled bar guests exquisitely; Kyler and Marielle rocked service. Welcomed members and folks from Gramercy Tavern and Bar Bianchi. Door (SH): handful of resys + several walk-ins had room 80% full by 6:30; lots of 1's. Plug-and-plays w/ several 'out by's saw a minimal waitlist; by 9:30pm room fully sat except one large table. Serious drop-off post-10:15 \u2014 temp drop killed earlier foot traffic; Knicks game may have had small impact. Industry friends from El Camino and Bateman's came post-11pm. **No-shows**: William Langfitt (2), Tomer Bar (4) \u2014 not charged. Food $394; Bev $3,367. Net $3,895 vs target $4,235 (\u22128.0%). Comps $151 (industry + Court's friends). 98 covers est from check avg ($32) \u2014 typeform reported guest count omitted, ~122 inferred. Glassware: one candle broken (RIP). MOD: Cara + Steeves. Entered by Marielle. Highlight: industry farewell celebration for Courtney."
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "net_sales": 4900.0,
+      "target": 4402.0,
+      "comps": 51.0,
+      "guests": 122,
+      "check_avg": 40.17,
+      "weather": "Perfect weather",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "A night that showed the team's true colors \u2014 collaborative and adaptable Swiss-army-knife mode. One server wasn't feeling well: Ruffy stepped up to barback, Alissa to serve, Natalie to host. Mitchell was in for floor training and did fantastic. Steady pace all evening \u2014 never overwhelming, never super slow \u2014 perfect for learning and connecting with guests. Quite a few first-timers and larger groups toward end of night; nearly every table ordered food (snack or two). Saw a few luxury pours go out. Closed strong with a 10-top, 6-top, and 4-top getting close to $5K. Beat target by +11.3% ($4,900 vs $4,402). All from Marquee (SR $0). Food $987 \u2014 *nearly $1K on a Tuesday* \u2014 kitchen sold lots of shrimp toast, cookies, and french fries (defrosted more shrimp toast mid-shift). Comps $51 (Alissa food comp, birthday, investor, Raven's food). 122 guests / $40.17 GCA. 86: Yamazaki 12yr. **Maintenance/smell update**: smell being masked very well with odor absorbers (Chef's idea) \u2014 placed near vents in SR, hallway, and Marquee, none in guest view. Note: this is mitigation, not resolution \u2014 underlying plumbing/HVAC inspection still recommended. MOD: Gigi & Vic. Entered by Gigi. Highlight: a table's faces when they asked for coasters and got little sandwich baggies with sets of 4 in each."
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "net_sales": 5615.77,
+      "target": 3342.0,
+      "comps": 23.26,
+      "guests": 108,
+      "check_avg": 35.42,
+      "weather": "Perfect",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Solid Tuesday at the 124. Steady throughout the night with seatings alternating between floor and bar. Convention guests definitely drove walk-in traffic (108 total: 26 booked / 82 walk-in). Team worked together well; natural last call with last guests departing a few minutes after midnight. Beat target by +68.0% ($5,615.77 net incl events vs $3,342). Marquee bar $3,825.77. **Event** in the Garden: $1,790 (private event went very smoothly). Food $463.30 (12.1%). Comps very low: $23.26 / 0.6% (community member). Voids none flagged. GCA $35.42 / CA $91.02. **Maintenance**: hot water heaters awaiting parts; **Kitchen AC technician on site tomorrow 4/29**; bathroom OOO awaiting part info (no progress on bathroom flagged for many days). MOD: Kevin. Entered by Kevin. What went well: guest connections, communication, event execution. Improve: continue ABK during busy times. Highlight: familiar faces bringing in others to celebrate birthdays \u2014 DC being recommended."
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand F&B",
+      "net_sales": 4451.0,
+      "target": 7600.0,
+      "comps": 431.0,
+      "guests": 109,
+      "check_avg": 40.83,
+      "weather": "Warm and sunny",
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "Slow start to the night, with most action from 6pm onward; folks cleared out before 11pm. Morning saw a small pop around 12pm with Berry and Sofia continuing training. A French TV film crew toured and filmed in the space \u2014 the team kept everything well knolled. Patio benefited from great weather. Evening: very slow start with the majority of action from 6pm on; no support staff scheduled but everyone worked cohesively. Sun Club steady with Sofia\u2019s first day of training. Hot Eye closed. Net $4,451 vs target $7,600 (\u221241.4%). Food $2,128. Comps $431. Sales mix: AM bar $720, PM bar $3,387, Sun Club $336. Morning MOD: Gabby. Evening MOD: James + Sukru. Entered by James. Highlight: Eryn stepping up to support Matt behind the bar; Mashama Bailey came in for a burger and martinis and loved the experience. Maintenance: dish-sink spray handle gasket leak \u2014 work order submitted, handle removed for end of shift."
+    }
+  ]
+}

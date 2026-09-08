@@ -1,0 +1,325 @@
+{
+  "report_date": "April 19, 2026",
+  "iso_date": "2026-04-19",
+  "day_of_week": "Sunday",
+  "generated_at": "2026-04-20 11:50",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "date_reported": null,
+      "date_note": "Typically closed Sundays",
+      "missing": true,
+      "missing_reason": "No EON report posted \u2014 CCATL typically closed Sundays (last CCATL Sunday report was 3/19/2026)",
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [],
+      "data_source": null
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "date_reported": "4/19/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 2021.0,
+      "net_sales": 2201.0,
+      "food_sales": 59.0,
+      "beverage_sales": 2142.0,
+      "event_sales": 0,
+      "comps": 111.3,
+      "comp_pct": 5.0,
+      "guest_count": 65,
+      "guest_check_avg": 33.86,
+      "mod": "KE / Tay",
+      "weather": "Cool, clear",
+      "notes_summary": "Really good Sunday at CC Nashville. Strong open, mid-shift lull for cleaning/prep, then steady 9pm-close stream of regulars, business parties, birthday groups, out-of-towners and tattoo artists. Mostly locals and regulars. Industry birthday party of 12 on a \"Campari Safari\" in bucket hats and safari shirts; smooth kitchen; no incidents.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Beat target by $180 (+8.9%) with 65 guests and strong regular turnout"
+        },
+        {
+          "type": "info",
+          "text": "Industry birthday crew of 12 doing \"Campari Safari\" \u2014 fun theme night, near-empty bottle by time they arrived"
+        },
+        {
+          "type": "info",
+          "text": "Comps at $111 (5%) \u2014 industry / regulars"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "date_reported": "4/19/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 8600.0,
+      "net_sales": 8918.0,
+      "food_sales": 3337.0,
+      "beverage_sales": 5581.0,
+      "event_sales": 0,
+      "comps": 383.0,
+      "comp_pct": 4.29,
+      "guest_count": 210,
+      "guest_check_avg": 42.47,
+      "mod": "Sam & Lex / Justin & Shannon",
+      "weather": "Warm & sunny morning, overcast evening",
+      "notes_summary": "Mellow Sunday AM (80 guests) with few reservations and few hotel guests; bar cut back early. Bachelorette parties drove AM volume. Evening (130 covers) started steady, hit a walk-in-driven wave 6:30pm filling dining room from 50% to 100% in 20 min, stayed busy until ~8:30, then smooth sailing. Sun Club slow (only 258 in sales). Hot Eye slow start, picked up 9pm with scheduled bar crawl; full house of service industry till last call. Two 86s in kitchen (Affogato, Caviar); brief hashbrown 86.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Affogato",
+        "Caviar",
+        "Hashbrown (limited)"
+      ],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 2890,
+          "guests": 80
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 4275,
+          "guests": 130
+        },
+        {
+          "name": "Sun Club",
+          "sales": 258
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 1431
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Beat target by $318 (+3.7%) \u2014 210 total guests across outlets"
+        },
+        {
+          "type": "info",
+          "text": "Bar crawl at 9pm filled Hot Eye with industry friends; strong nightcap scene"
+        },
+        {
+          "type": "flag",
+          "text": "Sun Club light ($258) \u2014 no sales after 4pm"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C LA",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "date_reported": "4/19/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 3138.0,
+      "net_sales": 3943.0,
+      "food_sales": 615.0,
+      "beverage_sales": 3328.0,
+      "event_sales": 0,
+      "comps": 149.0,
+      "comp_pct": 3.78,
+      "guest_count": 119,
+      "guest_check_avg": 33.13,
+      "mod": "Joe + Josh",
+      "weather": "Mild Sunday",
+      "notes_summary": "Steady Sunday at D&C LA. Opened with 40 covers on the books, got a decent walk-in wave right after open. Filled room by 8pm, short waitlist accommodated quickly. Several larger walk-in parties; familiar faces throughout. Final hour sleepy, smooth end to service. Howlin Rays crew stopped in with chicken. All sales via Marquee (Standing Room $0).",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 3943
+        },
+        {
+          "name": "Standing Room",
+          "sales": 0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Beat target by $805 (+25.6%) \u2014 119 guests, strong Sunday"
+        },
+        {
+          "type": "info",
+          "text": "Howlin Rays crew visited, brought chicken for team"
+        },
+        {
+          "type": "info",
+          "text": "Standing Room closed/zero sales \u2014 all volume through Marquee"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "date_reported": "4/19/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 5701.76,
+      "net_sales": 9319.86,
+      "food_sales": 1878.3,
+      "beverage_sales": 7441.56,
+      "event_sales": 0,
+      "comps": 240.51,
+      "comp_pct": 2.58,
+      "guest_count": 234,
+      "guest_check_avg": 39.83,
+      "mod": "Carey / Carey & Lucas",
+      "weather": "N/A",
+      "notes_summary": "Semi-busy Sunday \u2014 less than expected given weekend volume. Surprising number of no-shows (no CC on file). DC/AM $1,107; D&C PM $8,212; Garden/6A $1,535. Met two new Community Members (Alex & Todd). Long guest interactions and lots of smiles after a heavy weekend.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 1107.77
+        },
+        {
+          "name": "D&C PM",
+          "sales": 8212.09
+        },
+        {
+          "name": "Garden/6A",
+          "sales": 1534.7
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Crushed target by $3,618 (+63.5%) \u2014 234 guests, avg check $39.83"
+        },
+        {
+          "type": "flag",
+          "text": "Unusual no-show volume \u2014 none had CC on file, review Tock/confirmation flow"
+        },
+        {
+          "type": "info",
+          "text": "Met two new Community Members (Alex & Todd) \u2014 excellent hospitality touchpoint"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "date_reported": "4/19/2026",
+      "date_note": null,
+      "missing": false,
+      "missing_reason": null,
+      "target": 3461.0,
+      "net_sales": 5457.0,
+      "food_sales": 673.0,
+      "beverage_sales": 4538.0,
+      "event_sales": 0,
+      "comps": 131.95,
+      "comp_pct": 2.42,
+      "guest_count": 144,
+      "guest_check_avg": 37.9,
+      "mod": "Seth & Alejandro",
+      "weather": "Rainy day breaking into mild spring evening",
+      "notes_summary": "Busy 7-11pm with many reservations, lots of twos, and large parties (144 covers, 4 large parties, 7 solos, 1 investor cocktail). Steady flow throughout \u2014 what looked like a jammer Sunday was a steady flow. Room filled during 6pm hour; strong 8pm turn. Cold temperatures in latter half; last hour slower. Retail sold $140. Top sellers: material control, first time listener, year of the trees. One unconfirmed Tock reservation (\"Hayden\") accommodated anyway.",
+      "maintenance_flags": [
+        "Tock glitch creating phantom reservations \u2014 needs fix imminently"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Retail",
+          "sales": 140
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Beat target by $1,996 (+57.7%) \u2014 144 guests, avg check $37.90"
+        },
+        {
+          "type": "urgent",
+          "text": "Tock reservation glitch \u2014 phantom reservations showing confirmations we don't see. Needs fix ASAP"
+        },
+        {
+          "type": "info",
+          "text": "Beverage-heavy mix: top seven drinks all shaken \u2014 $4,538 bev vs $673 food"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "date_reported": null,
+      "date_note": null,
+      "missing": true,
+      "missing_reason": "EON report not yet posted by venue at time of dashboard run (last DC report was 4/19 02:04am EDT for 4/18)",
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": null,
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [],
+      "data_source": null
+    }
+  ],
+  "consolidated": {
+    "total_net_sales": 29838.86,
+    "total_target": 22921.760000000002,
+    "venues_reporting": 5,
+    "venues_missing": 2
+  },
+  "notes": [
+    "CCATL: typically closed on Sundays \u2014 no EON filed",
+    "DC: EON report had not posted at time of run (yesterday's report posted ~02:04am EDT)",
+    "Sources: Slack EON typeform reports from each venue channel"
+  ]
+}

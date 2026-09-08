@@ -1,0 +1,330 @@
+{
+  "report_date": "April 9, 2026",
+  "iso_date": "2026-04-09",
+  "day_of_week": "Thursday",
+  "generated_at": "2026-04-10 automated",
+  "venues": [
+    {
+      "id": "ccatl",
+      "name": "CC Atlanta",
+      "full_name": "Close Company Atlanta",
+      "color": "#E07B54",
+      "missing": false,
+      "target": 3266.0,
+      "net_sales": 2012.0,
+      "food_sales": 108.0,
+      "beverage_sales": 1904.0,
+      "event_sales": 0.0,
+      "comps": 64.30,
+      "comp_pct": 3.20,
+      "guest_count": 65,
+      "guest_check_avg": 30.95,
+      "mod": "MKZ // KG // JK Key",
+      "weather": "Partly sunny skies with highs in the low 70s and lows dropping to around 50",
+      "notes_summary": "Quiet start to the evening at CC ATL with a handful of guests when the closer arrived. A few folks trickled in from 6-8pm. Around 8:30pm, guest flow picked up rapidly — by 9pm the bar was fully lined, every booth sat, and a few tables on the Mezz. Several New Realm staff joined including Josh, a bartender doing a sober April who tried the Zero Proof options (Parakeet and Dangerous Ricky). A nearby social meet-up brought additional traffic. Space stayed full for about 2 hours before people headed home. Everyone out by 12:20am. No barback tonight — Key and MOD handled the rush.",
+      "maintenance_flags": [],
+      "eightysixed": [
+        "Titos (till next week)",
+        "Chinola",
+        "Low Miller High Life",
+        "Prince of Pils keg kicking soon"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $2,012 vs $3,266 target (-38.4%)"
+        },
+        {
+          "type": "info",
+          "text": "Bar fully lined by 9pm; strong rush from 8:30-10:30pm despite quiet start"
+        },
+        {
+          "type": "info",
+          "text": "86'd: Titos (till next week), Chinola; Low: Miller High Life, Prince of Pils"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ccnsh",
+      "name": "CC Nashville",
+      "full_name": "Close Company Nashville",
+      "color": "#6B8CBA",
+      "missing": false,
+      "target": 5119.0,
+      "net_sales": 1994.0,
+      "food_sales": 11.0,
+      "beverage_sales": 1983.0,
+      "event_sales": 0.0,
+      "comps": 35.45,
+      "comp_pct": 1.78,
+      "guest_count": 67,
+      "guest_check_avg": 29.77,
+      "mod": "MD / JR",
+      "weather": "Sunny & 75",
+      "notes_summary": "Rather sleepy Thursday night, seemingly weather influenced. Peculiarly slow until 7:45pm, with a large pop and most traffic from 9:30-10:30pm. A few industry friends capped the night at close. Jarred held it down in the kitchen through illness; kitchen closed at 8pm. BC's last night working behind the bar with Cheddar — bittersweet goodbye.",
+      "maintenance_flags": [
+        "Well 1 water taps drip"
+      ],
+      "eightysixed": [
+        "GF Pockets"
+      ],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $1,994 vs $5,119 target (-61.1%)"
+        },
+        {
+          "type": "info",
+          "text": "Sleepy Thursday; most traffic 9:30-10:30pm. Kitchen closed at 8pm (chef illness)"
+        },
+        {
+          "type": "info",
+          "text": "BC's last night working with Cheddar — bittersweet goodbye"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "mg",
+      "name": "Municipal Grand",
+      "full_name": "Municipal Grand F&B",
+      "color": "#7CB87A",
+      "missing": false,
+      "target": 8500.0,
+      "net_sales": 9767.0,
+      "food_sales": 4022.0,
+      "beverage_sales": 5745.0,
+      "event_sales": 0.0,
+      "comps": 251.0,
+      "comp_pct": 2.57,
+      "guest_count": 235,
+      "guest_check_avg": 41.56,
+      "mod": "Gabby (AM) / Justin & Sukru (PM)",
+      "weather": "Warm, sunny, and windy",
+      "notes_summary": "Steady, busy day! Strong start with an in-house production group that kept the team moving early on, then consistent service with strong walk-in volume and lively street traffic. Happy hour was steady but not crazy (one server handled floor from 3-5pm). Dinner service came in two rushes at 6:30 and 8:30. Team greets and seats guests in absence of a host — no one noticed. BOH handled a 7pm ticket pop like pros. Walk-ins past 7:30 were strong, keeping dining room and bar fully sat for hours. Sun Club got busier past happy hour despite wind. Hot Eye started slow (first guests after 8pm), had large parties including birthdays and bachelorettes, decent industry pop at the end.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Municipal Bar AM",
+          "sales": 1215.0
+        },
+        {
+          "name": "Municipal Bar PM",
+          "sales": 6875.0
+        },
+        {
+          "name": "Sun Club",
+          "sales": 340.0
+        },
+        {
+          "name": "Hot Eye",
+          "sales": 1338.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $9,767 vs $8,500 target (+14.9%)"
+        },
+        {
+          "type": "info",
+          "text": "All four sub-venues active (Muni AM/PM, Sun Club, Hot Eye)"
+        },
+        {
+          "type": "info",
+          "text": "Two dinner rushes at 6:30 and 8:30; team covered with no host"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "la",
+      "name": "D&C Los Angeles",
+      "full_name": "Death & Co Los Angeles",
+      "color": "#C47DC0",
+      "missing": false,
+      "target": 6062.0,
+      "net_sales": 3801.0,
+      "food_sales": 470.0,
+      "beverage_sales": 3331.0,
+      "event_sales": 0.0,
+      "comps": 19.60,
+      "comp_pct": 0.52,
+      "guest_count": 110,
+      "guest_check_avg": 34.55,
+      "mod": "Gianna & Selenia",
+      "weather": "Cool",
+      "notes_summary": "Night #2 in Standing Room, very consistent! Started strong with a full room for most of the evening and a decent waitlist. A few large reservations occupied 31/32 and 37. Some regulars and a couple of investors rolled through. Quite a few 1-tops tonight. Natalie's first live host shift and she did an absolutely amazing job. Selenia took over the kitchen with lots of down time to prep, clean, organize and consolidate. Looking forward to Marquee opening tomorrow.",
+      "maintenance_flags": [
+        "SR cash drawer needs replacement along with cable that connects to it"
+      ],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "Standing Room",
+          "sales": 3801.0
+        },
+        {
+          "name": "Marquee",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $3,801 vs $6,062 target (-37.3%)"
+        },
+        {
+          "type": "info",
+          "text": "Standing Room only (Marquee reopening tomorrow); full room with waitlist"
+        },
+        {
+          "type": "win",
+          "text": "Natalie's first live host shift — absolutely amazing job"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dvr",
+      "name": "D&C Denver",
+      "full_name": "Death & Co Denver",
+      "color": "#E8C45A",
+      "missing": false,
+      "target": 10337.0,
+      "net_sales": 10687.85,
+      "food_sales": 2443.50,
+      "beverage_sales": 8244.35,
+      "event_sales": 0.0,
+      "comps": 738.94,
+      "comp_pct": 6.91,
+      "guest_count": 251,
+      "guest_check_avg": 42.58,
+      "mod": "Maggie (AM) / Chef Lucas & Evan (PM)",
+      "weather": "Nice, clear evening",
+      "notes_summary": "Steady throughout the night. Mike D was training and killed it — all FOH staff crushed it. Sakura bar was fairly steady. Garden/6A walked into a full room at 4:55 and kept it moving with a couple big lulls between table turns but overall a solid night. Kitchen growing as a team with a late pop that went smoothly. AM coffee sales of $985.73, PM D&C $9,702.12, Garden/6A $1,983.48.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [
+        {
+          "name": "DC/AM",
+          "sales": 985.73
+        },
+        {
+          "name": "D&C PM",
+          "sales": 9702.12
+        },
+        {
+          "name": "Garden / 6A",
+          "sales": 1983.48
+        }
+      ],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $10,688 vs $10,337 target (+3.4%)"
+        },
+        {
+          "type": "info",
+          "text": "All three sub-venues active including Garden/6A ($1,983)"
+        },
+        {
+          "type": "win",
+          "text": "Mike D training went great; full FOH team crushed it"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "ev",
+      "name": "D&C East Village",
+      "full_name": "Death & Co East Village",
+      "color": "#E87A7A",
+      "missing": false,
+      "target": 6363.0,
+      "net_sales": 7172.0,
+      "food_sales": 889.0,
+      "beverage_sales": 6283.0,
+      "event_sales": 0.0,
+      "comps": 129.54,
+      "comp_pct": 1.81,
+      "guest_count": 184,
+      "guest_check_avg": 38.98,
+      "mod": "Courtney & Steves",
+      "weather": "Average April",
+      "notes_summary": "A busy busy Thursday à la times of yore. East Village was happy to be on the streets and drinking. City Points rocked the floor while regulars cold-called old compendium drinks. Welcomed Carolyn from Tromba and had a mini staff reunion with Belanger, Kyler, Dante, Bowen, and Tenzin. Walk-ins flowed in once open and full by 7pm. After a 7:30pm lull, back to full capacity with a wait list by 9pm. By 10:30pm finished the wait with wiggle room. Multiple large parties packed onto the floor at 11:30pm while bar lightened. Door host HP managed the flow expertly.",
+      "maintenance_flags": [],
+      "eightysixed": [],
+      "sub_venues": [],
+      "highlights": [
+        {
+          "type": "win",
+          "text": "Above target — $7,172 vs $6,363 target (+12.7%)"
+        },
+        {
+          "type": "info",
+          "text": "Busy Thursday 'à la times of yore'; full by 7pm, waitlist by 9pm"
+        },
+        {
+          "type": "info",
+          "text": "Mini staff reunion: Belanger, Kyler, Dante, Bowen, Tenzin + Carolyn from Tromba"
+        }
+      ],
+      "data_source": "slack"
+    },
+    {
+      "id": "dc",
+      "name": "D&C Washington DC",
+      "full_name": "Death & Co Washington DC",
+      "color": "#5AA8C4",
+      "missing": false,
+      "target": 5753.0,
+      "net_sales": 3843.0,
+      "food_sales": 588.0,
+      "beverage_sales": 3255.0,
+      "event_sales": 0.0,
+      "comps": 170.0,
+      "comp_pct": 4.42,
+      "guest_count": 88,
+      "guest_check_avg": 43.67,
+      "mod": "Kevin / Cory",
+      "weather": "Warming up",
+      "notes_summary": "Slow start but a strong push after dinner around 8:30 when everyone came in at once. Stage cancelled last minute, but Jordan trained at the host stand with Khaleel, then with Jesse and Cory at expo. Room was fully sat with a waitlist at one point. Kitchen had a rough moment — tartare 86'd as all prepped orders had spoiled, then got hammered with tickets when room was flat-sat. Cory played service recovery (comped dessert and last round for one table). No barback took Cory away from the floor. Room dropped off significantly by 11pm. Garden closed.",
+      "maintenance_flags": [
+        "Bathroom still needs attention"
+      ],
+      "eightysixed": [
+        "Tartare (spoiled prep)"
+      ],
+      "sub_venues": [
+        {
+          "name": "Marquee",
+          "sales": 3843.0
+        },
+        {
+          "name": "Garden",
+          "sales": 0.0
+        }
+      ],
+      "highlights": [
+        {
+          "type": "flag",
+          "text": "Below target — $3,843 vs $5,753 target (-33.2%)"
+        },
+        {
+          "type": "flag",
+          "text": "Tartare 86'd (spoiled prep); flat-sat room hammered kitchen with tickets"
+        },
+        {
+          "type": "info",
+          "text": "Jordan training went well despite being 'thrown to the wolves'; Garden closed"
+        }
+      ],
+      "data_source": "slack"
+    }
+  ]
+}
