@@ -15,7 +15,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**CCATL — Monday 9/7 (Labor Day).** No report submitted to Slack as of 7:05am ET 9/9 (morning pass); channel and Slack search checked — will retry next pass.",
+      "narrative": "**CCATL — Monday 9/7 (Labor Day).** No report submitted to Slack as of 12:10pm ET 9/9 (noon pass); channel and Slack search checked — will retry next pass.",
       "missing": true,
       "data_source": "slack"
     },
@@ -31,7 +31,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**CCNSH — Monday 9/7 (Labor Day).** No report submitted to Slack as of 7:05am ET 9/9 (morning pass); channel and Slack search checked — will retry next pass.",
+      "narrative": "**CCNSH — Monday 9/7 (Labor Day).** No report submitted to Slack as of 12:10pm ET 9/9 (noon pass); channel and Slack search checked — will retry next pass.",
       "missing": true,
       "data_source": "slack"
     },
@@ -63,7 +63,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**EV — Monday 9/7 (Labor Day).** No report submitted to Slack as of 7:05am ET 9/9 (morning pass); channel and Slack search checked — will retry next pass.",
+      "narrative": "**EV — Monday 9/7 (Labor Day).** No report submitted to Slack as of 12:10pm ET 9/9 (noon pass); channel and Slack search checked — will retry next pass.",
       "missing": true,
       "data_source": "slack"
     },
@@ -79,7 +79,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**LA — Monday 9/7 (Labor Day).** No report submitted to Slack as of 7:05am ET 9/9 (morning pass); channel and Slack search checked — will retry next pass.",
+      "narrative": "**LA — Monday 9/7 (Labor Day).** No report submitted to Slack as of 12:10pm ET 9/9 (noon pass); channel and Slack search checked — will retry next pass.",
       "missing": true,
       "data_source": "slack"
     },
@@ -95,7 +95,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**DC — Monday 9/7 (Labor Day).** No report submitted to Slack as of 7:05am ET 9/9 (morning pass); channel and Slack search checked — will retry next pass.",
+      "narrative": "**DC — Monday 9/7 (Labor Day).** No report submitted to Slack as of 12:10pm ET 9/9 (noon pass); channel and Slack search checked — will retry next pass.",
       "missing": true,
       "data_source": "slack"
     },
