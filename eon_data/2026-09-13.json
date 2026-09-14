@@ -95,7 +95,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**DC — Sunday 9/13.** No report submitted to Slack as of 12:25pm ET 9/14 (noon pass); channel re-checked — will retry next pass. (The most recent #dc_eon_report post is dated 2026-09-13 but labeled Saturday and posted 3:38am 9/13; it is the 9/12 report, already recorded.)",
+      "narrative": "**DC — Sunday 9/13.** No report submitted to Slack as of 5:00pm ET 9/14; channel re-checked — will retry next pass. (The most recent #dc_eon_report post is dated 2026-09-13 but labeled Saturday and posted 3:38am 9/13; it is the 9/12 report, already recorded.)",
       "missing": true,
       "data_source": "slack"
     },
@@ -118,17 +118,17 @@
     {
       "id": "sea",
       "name": "D&C Seattle",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 8312.0,
+      "target": 6000.0,
+      "comps": 454.0,
+      "guests": 184,
+      "check_avg": 45.17,
+      "weather": "n/a",
+      "food_sales": 744.0,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**SEA — Sunday 9/13.** No report submitted to Slack as of 12:25pm ET 9/14 (noon pass); channel re-checked (latest post is the 9/12 report) — will retry next pass.",
-      "missing": true,
+      "narrative": "**SEA — Sun 9/13 (MOD Julian Abel).** Net $8,312 vs $6,000 target (139%); food $744; comps $454 (~$100 shifties, a few cocktail DNLs); 184 guests / $45.17 avg. Finally a slightly slower shift to catch their breath; Julian worked the kitchen most of the night with great success (didn't run out of cheese — though blue cheese did run out). Malachi did an amazing job on the door; Curtis helped get things off the ground before departing around 10. Missed the ice-delivery cutoff, so running spheres until Tuesday. Sundays are shaping up as an industry-friends night. 86'd/low: well gin. No incidents; no-shows not charged. Favorite moment: AT breaking a glass. Entered by Julian Abel.",
+      "missing": false,
       "data_source": "slack"
     }
   ]
