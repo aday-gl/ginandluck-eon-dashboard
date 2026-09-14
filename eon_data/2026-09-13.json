@@ -95,7 +95,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**DC — Sunday 9/13.** No report submitted to Slack as of 7:15am ET 9/14 (morning pass); will retry on the noon pass. (The most recent #dc_eon_report post, dated 2026-09-13 but labeled Saturday and posted 3:38am 9/13, is the Saturday 9/12 report already recorded.)",
+      "narrative": "**DC — Sunday 9/13.** No report submitted to Slack as of 12:25pm ET 9/14 (noon pass); channel re-checked — will retry next pass. (The most recent #dc_eon_report post is dated 2026-09-13 but labeled Saturday and posted 3:38am 9/13; it is the 9/12 report, already recorded.)",
       "missing": true,
       "data_source": "slack"
     },
@@ -127,7 +127,7 @@
       "food_sales": null,
       "beverage_sales": null,
       "event_sales": null,
-      "narrative": "**SEA — Sunday 9/13.** No report submitted to Slack as of 7:15am ET 9/14 (morning pass); will retry on the noon pass.",
+      "narrative": "**SEA — Sunday 9/13.** No report submitted to Slack as of 12:25pm ET 9/14 (noon pass); channel re-checked (latest post is the 9/12 report) — will retry next pass.",
       "missing": true,
       "data_source": "slack"
     }
