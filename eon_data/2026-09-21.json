@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**CCATL — Monday 9/21.** No report submitted as of 9/22 morning pass; will retry next pass."
+      "narrative": "**CCATL \u2014 Monday 9/21.** No report submitted to #ccatl_eon_report as of 9/22 10:10am ET (noon catch-up pass); will retry next pass."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH — Monday 9/21 (MOD KK, KE, DM; weather HOT).** Net $1,154 vs target $1,154 (100%). Food $1,318. Comps $25.05 (1.9%). ~29 guests, $45.45 check avg. Really great shift with a couple of larger groups to start. Solid audience for Negroni Week — numerous guests came in specifically after seeing the post about the features; they were a hit. Lull ~7–9pm, picked back up ~9:30pm with a larger Deloitte group staying for several rounds (Clairin daiquiris, spaghetts, Hibiki Harmony) — a meaningful share of sales. Several groups stayed 3+ hours including first dates. Meal Deal successful all night, solidifying food sales that wouldn't otherwise occur. Closed out with regular Thomas (Ok-u) and Lily (Kala's sister). Kitchen: Danny held it down, consecutive Meal Deal runs. Maintenance: Well 1 soda tap handle. 86: chili to start tomorrow. No incident. No-shows not charged. Entered by BC."
+      "narrative": "**CCNSH \u2014 Monday 9/21 (MOD KK, KE, DM; weather HOT).** Net $1,154 vs target $1,154 (100%). Food $1,318. Comps $25.05 (1.9%). ~29 guests, $45.45 check avg. Really great shift with a couple of larger groups to start. Solid audience for Negroni Week \u2014 numerous guests came in specifically after seeing the post about the features; they were a hit. Lull ~7\u20139pm, picked back up ~9:30pm with a larger Deloitte group staying for several rounds (Clairin daiquiris, spaghetts, Hibiki Harmony) \u2014 a meaningful share of sales. Several groups stayed 3+ hours including first dates. Meal Deal successful all night, solidifying food sales that wouldn't otherwise occur. Closed out with regular Thomas (Ok-u) and Lily (Kala's sister). Kitchen: Danny held it down, consecutive Meal Deal runs. Maintenance: Well 1 soda tap handle. 86: chili to start tomorrow. No incident. No-shows not charged. Entered by BC."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 609.76,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR — Monday 9/21 (AM Carey & Josh; PM Carey & Rachel).** Total Net Sales incl. events $9,233.90 vs target $6,367 (+45%). D&C net $8,624.14 (AM $905.11; PM $7,719.03). Net Event Sales $609.76 (Maker's Mark Zest Fest in the Garden — low attendance but a beautiful evening; Kim Cox event bartender). Food incl. events $2,465.50. Comps $456.50 (5.49%). 155 guests (Tock). AM: very slow, no IRDs, prepped for two events; brewed black tea. PM: 'Classic Death & Co. Monday' — ~7k target with only 20 reservations, team (Morgan, Sud, Dom, Graham, Minsu, Mike barback) surpassed expectations and did nearly 9k. Kitchen steady to 8:30 (Dante). Break makeup complete. No-shows not charged. No incident. Entered by Carey."
+      "narrative": "**DVR \u2014 Monday 9/21 (AM Carey & Josh; PM Carey & Rachel).** Total Net Sales incl. events $9,233.90 vs target $6,367 (+45%). D&C net $8,624.14 (AM $905.11; PM $7,719.03). Net Event Sales $609.76 (Maker's Mark Zest Fest in the Garden \u2014 low attendance but a beautiful evening; Kim Cox event bartender). Food incl. events $2,465.50. Comps $456.50 (5.49%). 155 guests (Tock). AM: very slow, no IRDs, prepped for two events; brewed black tea. PM: 'Classic Death & Co. Monday' \u2014 ~7k target with only 20 reservations, team (Morgan, Sud, Dom, Graham, Minsu, Mike barback) surpassed expectations and did nearly 9k. Kitchen steady to 8:30 (Dante). Break makeup complete. No-shows not charged. No incident. Entered by Carey."
     },
     {
       "id": "ev",
@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV — Monday 9/21 (MOD Kyler & Will).** Total EOD net $3,469 vs target $3,916 (-11%). Food $546, beverage $2,923. Comps $112. 100 guests (Sevenrooms), $35 check avg. Night swelled to a crescendo by 8:30 then crashed at 10pm — last table gone by 11:15; early autumn cold and the Giants game likely factors. Nearly at capacity at 8pm, extremely quiet after 10 (6 guests seated). Cultivated possible new regulars. Menu banger: Averill. Kitchen nearly 20% of sales. Top sellers: Burner Phone, Native Lion, Fries. 2 large parties, 3 solos. Notable guests: Joe Buffa, Joshua Brewster (opening GM DCLA), Eric Anderson (Hendrick's), Trent. Micah training. 1 no-show (not charged). Menu count 19. Breakage: 1 v martini. Entered by Thomas."
+      "narrative": "**EV \u2014 Monday 9/21 (MOD Kyler & Will).** Total EOD net $3,469 vs target $3,916 (-11%). Food $546, beverage $2,923. Comps $112. 100 guests (Sevenrooms), $35 check avg. Night swelled to a crescendo by 8:30 then crashed at 10pm \u2014 last table gone by 11:15; early autumn cold and the Giants game likely factors. Nearly at capacity at 8pm, extremely quiet after 10 (6 guests seated). Cultivated possible new regulars. Menu banger: Averill. Kitchen nearly 20% of sales. Top sellers: Burner Phone, Native Lion, Fries. 2 large parties, 3 solos. Notable guests: Joe Buffa, Joshua Brewster (opening GM DCLA), Eric Anderson (Hendrick's), Trent. Micah training. 1 no-show (not charged). Menu count 19. Breakage: 1 v martini. Entered by Thomas."
     },
     {
       "id": "la",
@@ -81,7 +81,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA — Monday 9/21 (MOD Gigi & Josh).** Net $4,434 vs target $3,488 (+27%). Food $869 (89 oysters sold). Marquee $4,434; Standing Room $0; events $0. Comps $174.17 (employee discount, DNLs, a spill, birthday/anniversary, Griffin & Co.). 124 guests, $84.31 check avg. Health inspection right at opening lasted 2 hours — landed an A (shoutout Landis for the heads up; Josh & Angel in the kitchen answered all questions). Ariana strong at host stand and reorganized under-stairs storage; Angel crushed the floor; Mitchell and Raven making regulars at the bar. Great vibes. Maintenance: walk-in temp back to normal (Julio fixed it an hour before service); health-inspection recommendation notes to follow, nothing major. No incident. No-shows charged. Entered by Gigi."
+      "narrative": "**LA \u2014 Monday 9/21 (MOD Gigi & Josh).** Net $4,434 vs target $3,488 (+27%). Food $869 (89 oysters sold). Marquee $4,434; Standing Room $0; events $0. Comps $174.17 (employee discount, DNLs, a spill, birthday/anniversary, Griffin & Co.). 124 guests, $84.31 check avg. Health inspection right at opening lasted 2 hours \u2014 landed an A (shoutout Landis for the heads up; Josh & Angel in the kitchen answered all questions). Ariana strong at host stand and reorganized under-stairs storage; Angel crushed the floor; Mitchell and Raven making regulars at the bar. Great vibes. Maintenance: walk-in temp back to normal (Julio fixed it an hour before service); health-inspection recommendation notes to follow, nothing major. No incident. No-shows charged. Entered by Gigi."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC — Monday 9/21 (MOD Josh; rainy).** Total Net Sales incl. events $2,548.31 vs target $2,240 (+14%). Marquee bar sales $2,661.41; Garden closed; food $340. Comps $113.10, no voids. 56 guests; GCA $32.67 reported. Slow start with rain — a handful of 2-top walk-ins; team used downtime for deep cleaning (fridges, back bar, glassware, mats, bar prep reset). Foot traffic picked up as weather cleared, larger groups incl. industry friends between Tales on Tour events. Negroni menu insert going strong; Power Hour fried chicken sandwich and oysters well received. Cuts from 9:45pm to one server/one bartender. Reminder to ring in correct item versions (e.g. 'Paper Wasp 2026'). Kitchen close not checked. Maintenance: front door lock issue (possibly stripped), curtains, hot water heater (no issues tonight). No incident. No-shows not charged. Entered by Josh."
+      "narrative": "**DC \u2014 Monday 9/21 (MOD Josh; rainy).** Total Net Sales incl. events $2,548.31 vs target $2,240 (+14%). Marquee bar sales $2,661.41; Garden closed; food $340. Comps $113.10, no voids. 56 guests; GCA $32.67 reported. Slow start with rain \u2014 a handful of 2-top walk-ins; team used downtime for deep cleaning (fridges, back bar, glassware, mats, bar prep reset). Foot traffic picked up as weather cleared, larger groups incl. industry friends between Tales on Tour events. Negroni menu insert going strong; Power Hour fried chicken sandwich and oysters well received. Cuts from 9:45pm to one server/one bartender. Reminder to ring in correct item versions (e.g. 'Paper Wasp 2026'). Kitchen close not checked. Maintenance: front door lock issue (possibly stripped), curtains, hot water heater (no issues tonight). No incident. No-shows not charged. Entered by Josh."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG — Monday 9/21 (AM Franck & Shannon; PM Justin & Marcus/Drew).** Net $4,344 vs target $4,456 (-3%). Municipal Bar AM $1,053 / PM $2,827; Sun Club $436; Hot Eye $0. Food $1,970. Comps $86.35. Guests 24 AM + 80 PM = 104 (OpenTable). AM: quiet until noon, two large tours at 1pm, manageable for two servers. PM: driven by the Tony screening at the Lucas — influx at 6pm, full bar and half the tables, empty after, ~20 more covers when the movie let out at 9; empty by 11. Sun Club: extremely slow, misty rain, Tony Happy Hour 5–7 with Drew shucking oysters at a pop-up rooftop station (~2 dozen oysters, a dozen cocktails, ~12 people). Kitchen: pop before the show, no lows/86s. No incident. Entered by Justin."
+      "narrative": "**MG \u2014 Monday 9/21 (AM Franck & Shannon; PM Justin & Marcus/Drew).** Net $4,344 vs target $4,456 (-3%). Municipal Bar AM $1,053 / PM $2,827; Sun Club $436; Hot Eye $0. Food $1,970. Comps $86.35. Guests 24 AM + 80 PM = 104 (OpenTable). AM: quiet until noon, two large tours at 1pm, manageable for two servers. PM: driven by the Tony screening at the Lucas \u2014 influx at 6pm, full bar and half the tables, empty after, ~20 more covers when the movie let out at 9; empty by 11. Sun Club: extremely slow, misty rain, Tony Happy Hour 5\u20137 with Drew shucking oysters at a pop-up rooftop station (~2 dozen oysters, a dozen cocktails, ~12 people). Kitchen: pop before the show, no lows/86s. No incident. Entered by Justin."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA — Monday 9/21 (MOD Curtis Hayes).** Net $8,178 vs target $8,000 (+2%). Food $1,236. Comps $303.85 (3.7% — shifties, training meal for Amber Johnson, 1 walk-out). 177 guests, $46.20 avg check. Four call-outs; Frank, Mitchell and Daisey came in clutch. Amber Johnson's first training day (seasoned vet). Sfian's last training day — goes solo live tomorrow; Wes out a week in Denver. Jason's first shift back. Malachi solid on the door, controlling pacing. Slower Monday but great for a super lean staff. Maintenance: Autochlor fixed kitchen plunger, topped off chemicals, more pot detergent/sanitizer coming. 86: Pepita Orgeat. No incident. No-shows not charged. Entered by Curtis Hayes."
+      "narrative": "**SEA \u2014 Monday 9/21 (MOD Curtis Hayes).** Net $8,178 vs target $8,000 (+2%). Food $1,236. Comps $303.85 (3.7% \u2014 shifties, training meal for Amber Johnson, 1 walk-out). 177 guests, $46.20 avg check. Four call-outs; Frank, Mitchell and Daisey came in clutch. Amber Johnson's first training day (seasoned vet). Sfian's last training day \u2014 goes solo live tomorrow; Wes out a week in Denver. Jason's first shift back. Malachi solid on the door, controlling pacing. Slower Monday but great for a super lean staff. Maintenance: Autochlor fixed kitchen plunger, topped off chemicals, more pot detergent/sanitizer coming. 86: Pepita Orgeat. No incident. No-shows not charged. Entered by Curtis Hayes."
     }
   ]
 }
