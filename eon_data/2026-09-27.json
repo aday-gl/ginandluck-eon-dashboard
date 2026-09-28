@@ -81,7 +81,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Sunday 9/27.** No report submitted as of 2026-09-28 ~7am ET run; will retry next pass."
+      "narrative": "**LA \u2014 Sunday 9/27.** No report submitted as of the 2026-09-28 ~10:45am ET noon catch-up pass; will retry on the next scheduled pass."
     },
     {
       "id": "dc",
