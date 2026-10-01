@@ -70,18 +70,18 @@
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 4800.0,
+      "target": 5039.0,
+      "comps": 172.6,
+      "guests": 129,
+      "check_avg": 37.21,
+      "weather": "Somewhat warm",
+      "food_sales": 973.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**LA — Wednesday 9/30.** No report submitted as of 2026-10-01 08:15 UTC; will retry next pass."
+      "narrative": "**LA — Wednesday 9/30 (MOD/Chef Julian, Josh; somewhat warm).** Net sales $4,800 vs target $5,039 (-4.7%). Food $973, Marquee $4,800, Standing Room $0, comps $172.60, 129 guests, check avg $37.21. Slow start with one server on the floor; onboarded Noogan on cocktail list and food menu; picked up 8–9pm and Marquee fully sat; a few birthdays; small waitlist on last day of the month, all accommodated; Prince Street brought pies. Kitchen: Josh and Kevin killed it. Maintenance: CO2 water slowly recovering; loose tiles by host stand. 86/low: Don Fulano reposado; low Peychaud's, Athletic IPA, whipping cream. No incidents. Entered by Julian Catano."
     },
     {
       "id": "dc",
