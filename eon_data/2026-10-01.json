@@ -118,18 +118,18 @@
     {
       "id": "sea",
       "name": "D&C Seattle",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 11116,
+      "target": 10000,
+      "comps": 820.9,
+      "guests": 273,
+      "check_avg": 41.97,
+      "weather": "Low 60's, a bit chilly toward end of night",
+      "food_sales": 1443,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA — Thursday 10/1.** No report submitted as of 2026-10-02 run time; will retry next pass."
+      "narrative": "**SEA — Thursday 10/1 (MOD Curtis Hayes; low 60's, chilly late).** Net sales $11,116 vs target $10,000 (+11.2%). Food $1,443. No events. Comps $820.90 (7.3%) — lots of industry, a couple full comp tabs (Regan and the contractor who did the plumbing for RailSpur and D&C), 1 walk-out tab, full staff shifties, MB/MG comp out. 273 guests, $41.97 avg guest spend. Weird-energy night: First Thursday turnout milder, guests more sauced up leading to table camping and lower drink averages; a few Inkind groups needed damage control (getting onboarded with Inkind so discounts apply); one guest conflict over cologne smoothed over by MOD. Water service felt much better; team getting fluid with bottles. Malachi held the door. Kitchen (Josh, Wes) crushed $1.4k; Andrew Jackson trained. Freezer REPAIRED. No incidents."
     }
   ]
 }
