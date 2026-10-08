@@ -242,18 +242,18 @@
       "color": "#E87A7A",
       "date_reported": "3/30/2026",
       "missing": false,
-      "target": 2775,
-      "net_sales": 3814,
-      "food_sales": 505,
-      "beverage_sales": 3206,
-      "event_sales": 0,
+      "target": 2775.0,
+      "net_sales": 3814.0,
+      "food_sales": 505.0,
+      "beverage_sales": 3206.0,
+      "event_sales": null,
       "comps": 87.66,
       "comp_pct": 2.3,
-      "guest_count": 98,
+      "guest_count": 98.0,
       "guest_check_avg": 39.0,
       "mod": "Courtney & Arriel",
       "weather": "Warm",
-      "notes_summary": "Slow open, healthy by 8pm. Sold out 69 oysters by 10pm. Top sellers: Buckhorn Exchange, Revenant, Root & Rye. Late-night thin after 11:30.",
+      "notes_summary": "**EV \u2014 Monday 3/30.** Slow open: a first-turn quartet of uptown guests plus assorted dates. Many declared bedtime/school night at 11 and the room cleared smoothly 11-12; no one came in after 11:30 (opportunity to attract more late-night guests). 69 oysters sold, sold out ~10PM. Comps $87.66, roughly half investor or member related. 1 large party, 4 solos, 4 investor cocktails. Top sellers: Buckhorn Exchange, Revenant, Root & Rye (3-way tie). Door: warm Monday; very slow start, half full by 8pm, date night with plenty of twos, early reservations, one 5 top at 9:45, wave of duos at 10pm, slowed by midnight; Taylor in to celebrate a proposal; also welcomed Nick Fauchald and Eli Severance (Ten to One rum rep). No-show: Mitchell Bultman for 2 @ 8:30pm. Kitchen: lots of oysters.",
       "maintenance_flags": [],
       "eightysixed": [],
       "highlights": [
@@ -269,46 +269,36 @@
           "type": "info",
           "text": "Late-night traffic drops off after 11:30pm \u2014 opportunity to develop midnight+ audience"
         }
-      ]
+      ],
+      "data_source": "slack",
+      "narrative": "**EV \u2014 Monday 3/30.** Slow open: a first-turn quartet of uptown guests plus assorted dates. Many declared bedtime/school night at 11 and the room cleared smoothly 11-12; no one came in after 11:30 (opportunity to attract more late-night guests). 69 oysters sold, sold out ~10PM. Comps $87.66, roughly half investor or member related. 1 large party, 4 solos, 4 investor cocktails. Top sellers: Buckhorn Exchange, Revenant, Root & Rye (3-way tie). Door: warm Monday; very slow start, half full by 8pm, date night with plenty of twos, early reservations, one 5 top at 9:45, wave of duos at 10pm, slowed by midnight; Taylor in to celebrate a proposal; also welcomed Nick Fauchald and Eli Severance (Ten to One rum rep). No-show: Mitchell Bultman for 2 @ 8:30pm. Kitchen: lots of oysters."
     },
     {
       "id": "dc",
       "name": "D&C DC",
       "full_name": "Death & Co Washington DC",
       "color": "#5AA8C4",
-      "date_reported": "3/29/2026",
-      "date_note": "Most recent report is Sunday 3/29 \u2014 DC may not operate Mondays",
-      "missing": false,
-      "target": 4135.53,
-      "net_sales": 4145.14,
-      "food_sales": 698.5,
-      "beverage_sales": 3446.64,
-      "event_sales": 0,
-      "comps": 92.6,
-      "comp_pct": 2.2,
-      "guest_count": 73,
-      "guest_check_avg": 56.78,
-      "mod": "Khaleel",
-      "weather": "Sunny but chilly",
-      "notes_summary": "Two Garden events: Women's History Month pop-up + private event that grew from 40 to 74 guests. Short-staffed but strong execution.",
-      "maintenance_flags": [
-        "Hot water heaters \u2014 parts ordered, awaiting status from John and Gregory"
-      ],
+      "date_note": "No report found in Slack for this date. Previously held a copy of the 3/29 figures; cleared.",
+      "missing": true,
+      "target": null,
+      "net_sales": null,
+      "food_sales": null,
+      "beverage_sales": null,
+      "event_sales": null,
+      "comps": null,
+      "comp_pct": null,
+      "guest_count": null,
+      "guest_check_avg": null,
+      "mod": null,
+      "weather": null,
+      "notes_summary": "No report found in Slack for this date. Previously held a copy of the 3/29 figures; cleared.",
+      "maintenance_flags": [],
       "eightysixed": [],
-      "highlights": [
-        {
-          "type": "win",
-          "text": "Private event overflowed to 74 guests (from 40) \u2014 group intends to rebook next year"
-        },
-        {
-          "type": "flag",
-          "text": "Staffing gap \u2014 down a barback for event nights"
-        },
-        {
-          "type": "urgent",
-          "text": "Hot water heater parts still pending \u2014 follow up with John and Gregory"
-        }
-      ]
+      "highlights": [],
+      "guests": null,
+      "check_avg": null,
+      "sub_venues": [],
+      "narrative": "No report found in Slack for this date. Previously held a copy of the 3/29 figures; cleared."
     }
   ]
 }

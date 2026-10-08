@@ -105,7 +105,7 @@
       "comps": 82.0,
       "comp_pct": 0.96,
       "guest_count": 118,
-      "guest_check_avg": 32.94,
+      "guest_check_avg": 72.43,
       "mod": "Cory",
       "weather": "Warm",
       "notes_summary": "Pretty solid night. Majority of reservations 5-8pm. Nearby conference drew groups. Event in garden was successful \u2014 company looking to rebook.",
@@ -193,11 +193,12 @@
       "guest_check_avg": null,
       "mod": null,
       "weather": null,
-      "notes_summary": null,
+      "notes_summary": "**EV \u2014 Tuesday 3/31.** No report found in Slack for this date.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": []
+      "highlights": [],
+      "narrative": "**EV \u2014 Tuesday 3/31.** No report found in Slack for this date."
     },
     {
       "id": "la",

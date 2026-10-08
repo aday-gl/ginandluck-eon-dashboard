@@ -178,11 +178,12 @@
       "guest_check_avg": null,
       "mod": null,
       "weather": null,
-      "notes_summary": null,
+      "notes_summary": "**EV \u2014 Tuesday 1/27.** Closed - no EON report. Venue closed for renovations after the 1/21 closure-night event (reopened with the 1/29 event; 1/30 report calls it 'first Friday back').",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": []
+      "highlights": [],
+      "narrative": "**EV \u2014 Tuesday 1/27.** Closed - no EON report. Venue closed for renovations after the 1/21 closure-night event (reopened with the 1/29 event; 1/30 report calls it 'first Friday back')."
     },
     {
       "id": "dc",

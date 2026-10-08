@@ -163,11 +163,12 @@
       "guest_check_avg": null,
       "mod": null,
       "weather": null,
-      "notes_summary": null,
+      "notes_summary": "**EV \u2014 Thursday 1/1.** No report found in Slack for this date.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": []
+      "highlights": [],
+      "narrative": "**EV \u2014 Thursday 1/1.** No report found in Slack for this date."
     },
     {
       "id": "dc",
@@ -186,11 +187,12 @@
       "guest_check_avg": null,
       "mod": null,
       "weather": null,
-      "notes_summary": null,
+      "notes_summary": "No report found in Slack for this date (the Typeform posted 1/1 at 1:45pm is dated 12/31, NYE service).",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": []
+      "highlights": [],
+      "narrative": "No report found in Slack for this date (the Typeform posted 1/1 at 1:45pm is dated 12/31, NYE service)."
     }
   ]
 }

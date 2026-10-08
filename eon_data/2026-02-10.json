@@ -176,11 +176,12 @@
       "guest_check_avg": null,
       "mod": null,
       "weather": null,
-      "notes_summary": null,
+      "notes_summary": "**EV \u2014 Tuesday 2/10.** No report found in Slack for this date.",
       "maintenance_flags": [],
       "eightysixed": [],
       "sub_venues": [],
-      "highlights": []
+      "highlights": [],
+      "narrative": "**EV \u2014 Tuesday 2/10.** No report found in Slack for this date."
     },
     {
       "id": "dc",
