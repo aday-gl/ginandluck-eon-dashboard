@@ -70,18 +70,18 @@
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 6199.0,
+      "target": 5862.0,
+      "comps": 61.52,
+      "guests": 163,
+      "check_avg": 83.03,
+      "weather": "Hot, starting to cool down a bit",
+      "food_sales": 1357.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**LA — Thursday 10/8.** No report submitted in Slack as of 08:10 UTC run on 10/9 (latest LA EON posted was for 10/7); will retry next pass."
+      "narrative": "**LA — Thursday 10/8 (MOD & Chef Gigi + Josh).** Net sales $6,199 vs target $5,862 (+5.7%). 163 guests, $83.03 check avg; comps $61.52 (DNLs, 2-year anniversary gift, F&F for a regular). Food $1,357. Steady, consistent night with good walk-in flow incl. many one-tops at the bar and lots of three-tops; few large parties. A couple of people training. Small pops ~10pm and midnight; squeezed in ~4 parties before last call. Mitchell cut ~11, floor cut at midnight. Lorenzo covered the door for Landis. Kitchen: Josh knocked out a rush of ~12 tickets in under 25 minutes. Maintenance: the water is no longer cold; will reach out to Brian in the AM. 86'd oysters and toilet seat covers. No incidents; no-shows charged. Favorite moment: laughing with Analise about silly laughing noises."
     },
     {
       "id": "dc",
@@ -118,18 +118,18 @@
     {
       "id": "sea",
       "name": "D&C Seattle",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 8631.0,
+      "target": 11774.0,
+      "comps": 416.94,
+      "guests": 186,
+      "check_avg": 48.42,
+      "weather": "71 and sunny, sharp temperature drop ~7:30; fewer walk-ins than expected",
+      "food_sales": 1534.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA — Thursday 10/8.** No report submitted in Slack as of 08:10 UTC run on 10/9 (latest SEA EON posted was for 10/7); will retry next pass."
+      "narrative": "**SEA — Thursday 10/8 (MOD Curtis Hayes & Julian Abel).** Net sales $8,631 vs target $11,774 (-26.7%). 186 guests (74 reservations), $48.42 avg guest spend; comps $416.94 (4.8%, shifties the largest share). Food $1,534. Collected, relatively smooth Thursday; bar emptied out simultaneously a couple times but hosts slotted new parties in. Belle went home early under the weather; Frank moved from barback to the well. Floor and kitchen ran smoothly (Wes and Andrew; Andrew praised for work ethic). Bubbles flowing for celebrations. Maintenance: Auto-Chlor emailed about floor cleaner, unsure if delivered. 86'd: Titos, El Tesoro repo, Siete Leguas; VVVL St Germain. No incidents; no-shows not charged. Favorite moment: explaining to a table that Garth Brooks and Chris Gaines are the same person."
     }
   ]
 }
