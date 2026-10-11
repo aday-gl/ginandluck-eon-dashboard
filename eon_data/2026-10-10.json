@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Saturday 10/10 (MOD JK).** Net sales $4,879 vs target $9,122 (-46.5%). Food $475. 174 guests, $28.04 check avg. Comps $173. Slower night likely due to storm warnings and UGA vs Alabama game; booths full by 5, lull at dinner, pickup around 11. All guests out by 2am. 86 McAllen."
+      "narrative": "**CCATL — Saturday 10/10 (MOD JK).** Net sales $4,879 vs target $9,122 (-46.5%). Food $475. 174 guests, $28.04 check avg. Comps $173. Slower night likely due to storm warnings and UGA vs Alabama game; booths full by 5, lull at dinner, pickup around 11. All guests out by 2am. 86 McAllen."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Saturday 10/10 (MOD & Chef KE/MD & JMS/DM).** Net sales $7,830 vs target $10,896 (-28.1%). Food $180. ~277 guests, $28.27 check avg. Comps $112 / 1.4% (Industry, Manager Comp, Tech Issues, F&F). Slower Saturday than usual; rain and wind hurt foot traffic. A few pops and lulls, strong finish. Low food sales relative to net. 86 Taco Tuesday."
+      "narrative": "**CCNSH — Saturday 10/10 (MOD & Chef KE/MD & JMS/DM).** Net sales $7,830 vs target $10,896 (-28.1%). Food $180. ~277 guests, $28.27 check avg. Comps $112 / 1.4% (Industry, Manager Comp, Tech Issues, F&F). Slower Saturday than usual; rain and wind hurt foot traffic. A few pops and lulls, strong finish. Low food sales relative to net. 86 Taco Tuesday."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 10959.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Saturday 10/10 (AM MOD & Chef Carey Lucas; PM Maggie H).** Net sales incl. events $27,186.46 vs target $16,817 (+61.7%); ex-events $16,227.46 (just under target). Food incl. events $7,915.78; net events $10,959. 407 guests (Tock). Comps $550.09. Wedding ceremony/reception for 40 in the Garden & Vauxhall 5-10pm. Understaffed but waitlist most of the night. Maintenance: office and 6A flooded in the morning; TRH taped pipes."
+      "narrative": "**DVR — Saturday 10/10 (AM MOD & Chef Carey Lucas; PM Maggie H).** Net sales incl. events $27,186.46 vs target $16,817 (+61.7%); ex-events $16,227.46 (just under target). Food incl. events $7,915.78; net events $10,959. 407 guests (Tock). Comps $550.09. Wedding ceremony/reception for 40 in the Garden & Vauxhall 5-10pm. Understaffed but waitlist most of the night. Maintenance: office and 6A flooded in the morning; TRH taped pipes."
     },
     {
       "id": "ev",
@@ -65,23 +65,23 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Saturday 10/10 (MOD & Chef Seth & Will).** Net sales $7,228 vs target $6,698 (+7.9%). Food $1,042, beverage $6,109. 213 guests, $34 check avg. Comps $229.53 (lots of F&F). Sleepy until 10PM, then busy; many VIPs. Top sellers: Shinebox, Paper Wasp, Rosalie. Maintenance: server drain, one speaker out, popcorn topper missing."
+      "narrative": "**EV — Saturday 10/10 (MOD & Chef Seth & Will).** Net sales $7,228 vs target $6,698 (+7.9%). Food $1,042, beverage $6,109. 213 guests, $34 check avg. Comps $229.53 (lots of F&F). Sleepy until 10PM, then busy; many VIPs. Top sellers: Shinebox, Paper Wasp, Rosalie. Maintenance: server drain, one speaker out, popcorn topper missing."
     },
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 14620.0,
+      "target": 13870.0,
+      "comps": 365.39,
+      "guests": 391,
+      "check_avg": 37.39,
+      "weather": "Weird hot, sprinkling (earthquake weather)",
+      "food_sales": 2811.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Saturday 10/10.** No report submitted as of 2026-10-11 ~8am ET; will retry next pass."
+      "narrative": "**LA — Saturday 10/10 (MOD/Chef Julian, Joe, Gigi, Saleh).** Net sales $14,620 vs target $13,870 (+5.4%). Food $2,811. Standing Room $3,749 (food $570); Marquee $10,756 (food $2,214). 391 guests, $37.39 check avg. Comps $365.39. Flooded with guests at open, both rooms busy, waitlist for much of the night; birthdays plus members/investors. Kitchen: 30-min burger waits, need lunch breaks taken ASAP; low on fries. No-shows charged."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Saturday 10/10 (MOD Cory / Marcus).** Net sales incl. events $8,186.78 vs target $9,702 (-15.6%). Marquee bar $7,224.23, Garden $742; food $1,064. 196 guests (121 walk-in / 75 reso), GCA $36.22. Comps $382.17. One walkout (check 46). Carbonation station issue; ADA bathroom lock broken; plumber hydro-jetted the disposal. Full by 7, no late-night pop, last call 1:30."
+      "narrative": "**DC — Saturday 10/10 (MOD Cory / Marcus).** Net sales incl. events $8,186.78 vs target $9,702 (-15.6%). Marquee bar $7,224.23, Garden $742; food $1,064. 196 guests (121 walk-in / 75 reso), GCA $36.22. Comps $382.17. One walkout (check 46). Carbonation station issue; ADA bathroom lock broken; plumber hydro-jetted the disposal. Full by 7, no late-night pop, last call 1:30."
     },
     {
       "id": "mg",
@@ -113,23 +113,23 @@
       "event_sales": 4968.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Saturday 10/10 (AM Sam & Marcus; PM Justin & Shannon/Drew).** Net sales $14,981 vs target $15,565 (-3.8%). Morning bar $3,361, evening bar $9,488, Hot Eye $2,027, Sun Club closed. Food $4,000; event sales $4,968 as reported. 373 guests (156 AM + 217 PM OpenTable). Comps $368. Rocky Horror screening at the Lucas drove post-show traffic; Hot Eye packed from midnight. 86 toffee cake."
+      "narrative": "**MG — Saturday 10/10 (AM Sam & Marcus; PM Justin & Shannon/Drew).** Net sales $14,981 vs target $15,565 (-3.8%). Morning bar $3,361, evening bar $9,488, Hot Eye $2,027, Sun Club closed. Food $4,000; event sales $4,968 as reported. 373 guests (156 AM + 217 PM OpenTable). Comps $368. Rocky Horror screening at the Lucas drove post-show traffic; Hot Eye packed from midnight. 86 toffee cake."
     },
     {
       "id": "sea",
       "name": "D&C Seattle",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 12126.0,
+      "target": 11761.0,
+      "comps": 554.0,
+      "guests": 251,
+      "check_avg": 47.0,
+      "weather": "High 50s with scattered showers; created a small break in bar flow",
+      "food_sales": 1389.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Saturday 10/10.** No report submitted as of 2026-10-11 ~8am ET; will retry next pass."
+      "narrative": "**SEA — Saturday 10/10 (MOD Curtis Hayes).** Net sales $12,126 vs target $11,761 (+3.1%). Food $1,389. 251 guests (102 reservations), avg guest spend $47. Comps $554 (4.4%; DNLs and service recovery high). Solid flow with a lull around 7:30; Taylor W on training day 2; closed short-handed with no barbacks at 10 (one out sick, one early out). Nothing broken, no 86s."
     }
   ]
 }
