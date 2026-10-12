@@ -70,18 +70,18 @@
   {
    "id": "la",
    "name": "D&C Los Angeles",
-   "net_sales": null,
-   "target": null,
-   "comps": null,
-   "guests": null,
-   "check_avg": null,
-   "weather": null,
-   "food_sales": null,
+   "net_sales": 6501.0,
+   "target": 5342.0,
+   "comps": 71.0,
+   "guests": 167,
+   "check_avg": 87.86,
+   "weather": "Cooler night with some night-time showers",
+   "food_sales": 1069.0,
    "beverage_sales": null,
-   "event_sales": null,
-   "missing": true,
+   "event_sales": 0.0,
+   "missing": false,
    "data_source": "slack",
-   "narrative": "No Sunday 10/11 report submitted as of Oct 12 run; will retry next pass."
+   "narrative": "**LA \u2014 Sunday 10/11 (MOD & Chef: Joe + Angel).** Net sales $6,501 vs target $5,342 (+21.7%). Food $1,069. 167 guests, reported check avg $87.86. Comps $71 (Carlos Martinez, Ryan Lee, Campor Chef, service recovery). Cooler night with showers. Started with 44 covers and a busier-than-normal start with the Dodgers game on; bulk of reservations before 9pm, usual 10:30pm pop filled the room for a strong last call; familiar faces for drinks. Kitchen: busy night. Maintenance: water towels. No incident. No-shows charged. Favorite moment: old regular Ryan visiting from Boston."
   },
   {
    "id": "dc",
