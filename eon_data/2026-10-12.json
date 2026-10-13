@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Monday 10/12 (MOD MKZ).** Net sales $1,417 vs target $698 (+103%). Food $235. 36 guests, $39.37 check avg. Comps $42.40 (employee discounts, community/investor, industry, O4W). Sunny Monday, quiet 6-9pm; opener cut at 7. Large pop ~10pm when a film wrap-party group came in and stayed past close. Raven (day 4 of bartender training) supported Patty well. Needs: fruit fly enzyme order; glassware en route. 86: McCallan."
+      "narrative": "**CCATL — Monday 10/12 (MOD MKZ).** Net sales $1,417 vs target $698 (+103%). Food $235. 36 guests, $39.37 check avg. Comps $42.40 (employee discounts, community/investor, industry, O4W). Sunny Monday, quiet 6-9pm; opener cut at 7. Large pop ~10pm when a film wrap-party group came in and stayed past close. Raven (day 4 of bartender training) supported Patty well. Needs: fruit fly enzyme order; glassware en route. 86: McCallan."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Monday 10/12 (MOD KE, Chef DJ).** Net sales $983 vs target $1,000 (-1.7%). Food $211. 33 guests, ~$30 check avg. Comps $10.75 (1%). 'Pretty okay Monday' \u2014 small happy-hour office parties early, mix of first-time/return guests and a couple of dates later; improvement on last Monday. Lots of cleaning projects done. 86: Guinness draft, Taco Tuesday."
+      "narrative": "**CCNSH — Monday 10/12 (MOD KE, Chef DJ).** Net sales $983 vs target $1,000 (-1.7%). Food $211. 33 guests, ~$30 check avg. Comps $10.75 (1%). 'Pretty okay Monday' — small happy-hour office parties early, mix of first-time/return guests and a couple of dates later; improvement on last Monday. Lots of cleaning projects done. 86: Guinness draft, Taco Tuesday."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Monday 10/12 (AM MOD Carey, PM MOD Maggie H).** Net sales $4,853.24 (DC/AM $702.57, D&C PM $4,150.67); no events; target not entered in the form ('Loading...'). Food $1,281.10. 111 guests (Tock), comps $249.31. 'Deader than the chicken that crossed the road' \u2014 opener cut very early, mid done before close, host gone before 10:30p. Evergreen syrup back, silverware near par. Low: smoked bourbon, green tea. Kitchen low: fingerlings, preserved lemon aioli, 8oz burgers, wagyu flanks. Tuesday: Baron App Inc. meeting, 31 guests 9am-5pm in Vauxhall."
+      "narrative": "**DVR — Monday 10/12 (AM MOD Carey, PM MOD Maggie H).** Net sales $4,853.24 (DC/AM $702.57, D&C PM $4,150.67); no events; target not entered in the form ('Loading...'). Food $1,281.10. 111 guests (Tock), comps $249.31. 'Deader than the chicken that crossed the road' — opener cut very early, mid done before close, host gone before 10:30p. Evergreen syrup back, silverware near par. Low: smoked bourbon, green tea. Kitchen low: fingerlings, preserved lemon aioli, 8oz burgers, wagyu flanks. Tuesday: Baron App Inc. meeting, 31 guests 9am-5pm in Vauxhall."
     },
     {
       "id": "ev",
@@ -65,23 +65,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Monday 10/12 (Kyler, Thomas, Will).** Net sales $4,624 vs target $3,899 (+18.6%). Food $513, beverage $4,111. 128 covers, $36 check avg, comps $97. 9 solos, 3 large parties. Capacity ~8pm, lively until 10:30/11, tiny waitlist; many UK visitors and holiday-weekend groups. Top sellers: Burner Phone, Dirty Martinis, fries. Oysters sold out early. Breakage: customer coupe, sidecar. No no-shows."
+      "narrative": "**EV — Monday 10/12 (Kyler, Thomas, Will).** Net sales $4,624 vs target $3,899 (+18.6%). Food $513, beverage $4,111. 128 covers, $36 check avg, comps $97. 9 solos, 3 large parties. Capacity ~8pm, lively until 10:30/11, tiny waitlist; many UK visitors and holiday-weekend groups. Top sellers: Burner Phone, Dirty Martinis, fries. Oysters sold out early. Breakage: customer coupe, sidecar. No no-shows."
     },
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 3779.0,
+      "target": 3700.0,
+      "comps": 119.45,
+      "guests": 98,
+      "check_avg": 77.0,
+      "weather": "Chilly",
+      "food_sales": 756.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Monday 10/12.** No report submitted as of 10/13 8:00 UTC run; will retry next pass."
+      "narrative": "**LA — Monday 10/12 (MOD & Chef: Mikey & Saleh).** Net sales $3,779 vs target $3,700 (+2.1%). Food $756, comps $119.45 (F&F, industry, Camphor/True Laurel friends), 98 guests, avg order $77. Marquee $3,779; Standing Room closed. Started mellow, finished productive; waitlist ~10:30-10:45 cleared quickly. 2 parties no-showed (both emailed valid excuses; no-shows not charged). Friends of Jeison Blanco from True Laurel (SF) and Camphor friends came through; some DNLs from guests misunderstanding cocktail descriptions. Washington Shio Tang oysters were a hit. Kitchen: left with 1 ct crudo, 2 ct rockfish; low on crudo, rockfish, Echigo. No incidents. Favorite moment: Bird stopping by on a Monday. (Report posted late 10/13 ~4:19am ET.)"
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Monday 10/12 (MOD Marcus), private event (Samsung host/POC).** EON posted 10/12 11:49pm with date mistyped as 10/11. Net sales / event sales entered as 'TBD' \u2014 dollar figures not yet reported; will recheck next pass. 212 guests (more than expected/prepped); hit capacity before 7pm, one-in-one-out; event extended from 9 to 10pm, last call held at 10pm. Target $1,937. Comps $0. Maintenance: curtains. Learnings: more comprehensive par sheet for events, limit classics selection, set last-call/extension terms, cap guest list."
+      "narrative": "**DC — Monday 10/12 (MOD Marcus), private event (Samsung host/POC).** EON posted 10/12 11:49pm with date mistyped as 10/11. Net sales / event sales entered as 'TBD' — dollar figures not yet reported; will recheck next pass. 212 guests (more than expected/prepped); hit capacity before 7pm, one-in-one-out; event extended from 9 to 10pm, last call held at 10pm. Target $1,937. Comps $0. Maintenance: curtains. Learnings: more comprehensive par sheet for events, limit classics selection, set last-call/extension terms, cap guest list."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Monday 10/12 (AM Franck & Marcus; PM Justin & Shannon).** Net sales $5,207 vs target $3,994 (+30.4%). Municipal Bar AM $831, PM $4,020, Sun Club $356, Hot Eye $0. Food $2,210. 125 guests (15 AM + 110 PM OpenTable), comps $93.85. Four drinking tours boosted brunch into happy hour. Evening: one reservation on the books, walk-in driven; slower food, steady drinks; bar full last two hours, empty by 11. Low on toffee cakes."
+      "narrative": "**MG — Monday 10/12 (AM Franck & Marcus; PM Justin & Shannon).** Net sales $5,207 vs target $3,994 (+30.4%). Municipal Bar AM $831, PM $4,020, Sun Club $356, Hot Eye $0. Food $2,210. 125 guests (15 AM + 110 PM OpenTable), comps $93.85. Four drinking tours boosted brunch into happy hour. Evening: one reservation on the books, walk-in driven; slower food, steady drinks; bar full last two hours, empty by 11. Low on toffee cakes."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Monday 10/12 (MOD Julian Abel).** Net sales $5,900 vs target $7,000 (-15.7%). Food $939. 122 guests, $48.41 check avg. Comps ~$400 (~$100 shifts, ~$150 discounts, ~$150 SND/DNL). EON date mistyped as 10/26. Monday felt slower; team used time for punch-list items; Taylor in training. Kitchen out of sorts at points; need storage SOPs; only one cheese on the board. Prep-area breaker kept tripping (temp fix with power strip). 86: Grey Goose, cheese, prawns."
+      "narrative": "**SEA — Monday 10/12 (MOD Julian Abel).** Net sales $5,900 vs target $7,000 (-15.7%). Food $939. 122 guests, $48.41 check avg. Comps ~$400 (~$100 shifts, ~$150 discounts, ~$150 SND/DNL). EON date mistyped as 10/26. Monday felt slower; team used time for punch-list items; Taylor in training. Kitchen out of sorts at points; need storage SOPs; only one cheese on the board. Prep-area breaker kept tripping (temp fix with power strip). 86: Grey Goose, cheese, prawns."
     }
   ]
 }
