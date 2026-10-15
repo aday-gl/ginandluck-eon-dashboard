@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Wednesday 10/14 (MOD MKZ/Jk, entered by Mya).** Net sales $1,633 vs target $1,510 (+8%). Food $332. 58 guests, $28.16 check avg. Comps $94.90. Third Wednesday trivia, seeing returning faces; smooth open. Team made an Eno Sbagliato mid-shift (Eno Amaro, Cocchi Vermouth di Torino, sparkling wine) - lean into local. Elijah Craig week winding down (old fashioned $1 under house, benefiting charity). Raven's last training day. Kitchen smooth. Low: Coke, tonic. Watch tajin usage. No incidents."
+      "narrative": "**CCATL — Wednesday 10/14 (MOD MKZ/Jk, entered by Mya).** Net sales $1,633 vs target $1,510 (+8%). Food $332. 58 guests, $28.16 check avg. Comps $94.90. Third Wednesday trivia, seeing returning faces; smooth open. Team made an Eno Sbagliato mid-shift (Eno Amaro, Cocchi Vermouth di Torino, sparkling wine) - lean into local. Elijah Craig week winding down (old fashioned $1 under house, benefiting charity). Raven's last training day. Kitchen smooth. Low: Coke, tonic. Watch tajin usage. No incidents."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Wednesday 10/14 (MOD KK / Chef JMS, entered by BC).** Net sales $1,587 vs target $1,517 (+5%). Food $148. 54 guests, $29.38 check avg. Comps $53.30 (3.4%): trivia coupon, bingo credit, industry, resident. Steady Wednesday; biggest pop just after 7pm ahead of trivia (doubled net sales); 6 groups played, larger than recent weeks. Guests interested in pumpkin decorating on the 19th. 86: draft Guinness, Pumpkin Cream Ale. No incidents."
+      "narrative": "**CCNSH — Wednesday 10/14 (MOD KK / Chef JMS, entered by BC).** Net sales $1,587 vs target $1,517 (+5%). Food $148. 54 guests, $29.38 check avg. Comps $53.30 (3.4%): trivia coupon, bingo credit, industry, resident. Steady Wednesday; biggest pop just after 7pm ahead of trivia (doubled net sales); 6 groups played, larger than recent weeks. Guests interested in pumpkin decorating on the 19th. 86: draft Guinness, Pumpkin Cream Ale. No incidents."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 10609.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Wednesday 10/14 (AM MOD Momma Maggie / PM Uncle Maggie).** Net sales incl. events $17,612.15 vs target $9,151 (+92%). Base net $7,003.15 (DC/AM $968.66, D&C PM $6,034.49); event sales $10,609 (event food $5,186); total food incl. events $6,467.50 (base food $1,281.50). 166 guests (Tock). Comps $205. Two events: Baron App Inc. (30 guests, day 2 meetings, 9am-4pm Vauxhall) and US Bank evening event (expected 70, 30 attended). Steady night, 7pm biggest; second day in a row with a low-volume event. Freeze warning kept everyone inside. 86: matcha, sencha; low kombucha, cowboy coffee. Kitchen: light prep; low rabbit agnolotti, honey butter. No incidents."
+      "narrative": "**DVR — Wednesday 10/14 (AM MOD Momma Maggie / PM Uncle Maggie).** Net sales incl. events $17,612.15 vs target $9,151 (+92%). Base net $7,003.15 (DC/AM $968.66, D&C PM $6,034.49); event sales $10,609 (event food $5,186); total food incl. events $6,467.50 (base food $1,281.50). 166 guests (Tock). Comps $205. Two events: Baron App Inc. (30 guests, day 2 meetings, 9am-4pm Vauxhall) and US Bank evening event (expected 70, 30 attended). Steady night, 7pm biggest; second day in a row with a low-volume event. Freeze warning kept everyone inside. 86: matcha, sencha; low kombucha, cowboy coffee. Kitchen: light prep; low rabbit agnolotti, honey butter. No incidents."
     },
     {
       "id": "ev",
@@ -65,23 +65,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Wednesday 10/14 (MOD & Chef Kyler & Steves).** Net sales $4,363 vs target $4,722 (-8%). Food $345, beverage $4,018. 123 guests, $36 check avg. Comps $38.20 (0.8%). About half full until 7:30pm, full until ~10:30pm with a waitlist of 2-tops; 9 guests inside by midnight. Maia's day 3 of server training. Many UK visitors. 2 no-shows (same phone number, different names). Menu count 16/16; breakage 1 SOF, 1 cheater bottle. No incidents or repairs."
+      "narrative": "**EV — Wednesday 10/14 (MOD & Chef Kyler & Steves).** Net sales $4,363 vs target $4,722 (-8%). Food $345, beverage $4,018. 123 guests, $36 check avg. Comps $38.20 (0.8%). About half full until 7:30pm, full until ~10:30pm with a waitlist of 2-tops; 9 guests inside by midnight. Maia's day 3 of server training. Many UK visitors. 2 no-shows (same phone number, different names). Menu count 16/16; breakage 1 SOF, 1 cheater bottle. No incidents or repairs."
     },
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
+      "net_sales": 4055.0,
       "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "comps": 226.9,
+      "guests": 106,
+      "check_avg": 38.25,
+      "weather": "Moderately sunny, nice and warm",
+      "food_sales": 993.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of 2026-10-15 08:00 UTC run; will retry next pass."
+      "narrative": "**LA — Wednesday 10/14 (MOD Julian, Gigi & Kevin; entered by Julian Catano; posted 4:47am 10/15, form date mistyped as 10/15).** Net sales $4,055 (Marquee $4,055, Standing Room $0); no daily target entered (form target = 0). Food $993. Comps $226.90. 106 guests; form reported check avg $94.70 which doesn't reconcile with net/guests, so check avg recorded as $38.25 (net/guests). Started strong the first few hours, picked up toward 9-10pm. Mostly walk-ins, few reservations; locals from surrounding apartments and a handful of new guests. Good training shift for new host Alex; two servers did an amazing job. Kitchen: one-man band killed it. 86/low: milk. No incident/injury; no-shows not charged."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": 19604.4,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Wednesday 10/14 (MOD Marcus / Cory), private event (4pm workshop then reception; marquee + garden).** Net sales incl. events $19,604.40 vs target $3,079 (+537%); all sales were event sales; food $7,550. 106 guests (check avg derived: net/guests). Comps $0. Client arrived 2:30; light workshop attendance, garden full from ~5:30, marquee packed standing. Chicken biggest hit, then burrata; borrowed platters from City Tap House. Ran out of Lambrusco - raise par. Projector trouble likely client's laptop. Flag: service charges came in higher than on BEO invoice. Maintenance: curtain. No incidents."
+      "narrative": "**DC — Wednesday 10/14 (MOD Marcus / Cory), private event (4pm workshop then reception; marquee + garden).** Net sales incl. events $19,604.40 vs target $3,079 (+537%); all sales were event sales; food $7,550. 106 guests (check avg derived: net/guests). Comps $0. Client arrived 2:30; light workshop attendance, garden full from ~5:30, marquee packed standing. Chicken biggest hit, then burrata; borrowed platters from City Tap House. Ran out of Lambrusco - raise par. Projector trouble likely client's laptop. Flag: service charges came in higher than on BEO invoice. Maintenance: curtain. No incidents."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Wednesday 10/14 (AM Franck & Lex / PM James & Drew).** Net sales $4,482 vs target $5,065 (-12%): Municipal AM $1,109, PM $3,373, Sun Club $233, Hot Eye $0. Food $1,851. 86 guests (OpenTable 12 AM + 74 PM), $52.12 check avg. Comps $246. Busy 5-6pm, then died off - room empty at 8pm, about a quarter full 9-10:30. Slow morning with a few food tours. Kitchen easy, no 86s. No incidents."
+      "narrative": "**MG — Wednesday 10/14 (AM Franck & Lex / PM James & Drew).** Net sales $4,482 vs target $5,065 (-12%): Municipal AM $1,109, PM $3,373, Sun Club $233, Hot Eye $0. Food $1,851. 86 guests (OpenTable 12 AM + 74 PM), $52.12 check avg. Comps $246. Busy 5-6pm, then died off - room empty at 8pm, about a quarter full 9-10:30. Slow morning with a few food tours. Kitchen easy, no 86s. No incidents."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 5710.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Wednesday 10/14 (MOD Curtis Hayes).** Reported net sales $2,376 vs target $8,000 (-70%), but this excludes a first paid event (event sales $5,710) that was not closed out in Toast (missing discounts/payment types/items); manager states total would have been $8,085.51 net (~+1% vs target). Food $489. 84 guests, $44.82 avg spend. Comps $104.80 (4.2%). Event party dropped from 35 to ~25; very positive reception. Slow re-set into regular service, then good vibes. Kitchen (Wes, Andrew) executed BEO prep. Event to be closed out 10/15 with correct payment options. Auto-Chlor fixed dishwasher pressure. No incidents."
+      "narrative": "**SEA — Wednesday 10/14 (MOD Curtis Hayes).** Reported net sales $2,376 vs target $8,000 (-70%), but this excludes a first paid event (event sales $5,710) that was not closed out in Toast (missing discounts/payment types/items); manager states total would have been $8,085.51 net (~+1% vs target). Food $489. 84 guests, $44.82 avg spend. Comps $104.80 (4.2%). Event party dropped from 35 to ~25; very positive reception. Slow re-set into regular service, then good vibes. Kitchen (Wes, Andrew) executed BEO prep. Event to be closed out 10/15 with correct payment options. Auto-Chlor fixed dishwasher pressure. No incidents."
     }
   ]
 }
