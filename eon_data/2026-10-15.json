@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Thursday 10/15 (MOD MKZ/JK, entered by Daniel).** Net sales $1,558 vs target $1,606 (-3%). Food $363. 54 guests, $28.85 check avg. Comps $88.45. Strong start; Halloween cocktail specials (zombie) a hit. Lull around 7, busy 8:30-10pm with football fans watching Seahawks/Broncos. Last call 11:30, out by midnight. Busiest Thursday in a while. No incidents."
+      "narrative": "**CCATL — Thursday 10/15 (MOD MKZ/JK, entered by Daniel).** Net sales $1,558 vs target $1,606 (-3%). Food $363. 54 guests, $28.85 check avg. Comps $88.45. Strong start; Halloween cocktail specials (zombie) a hit. Lull around 7, busy 8:30-10pm with football fans watching Seahawks/Broncos. Last call 11:30, out by midnight. Busiest Thursday in a while. No incidents."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 2471.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Thursday 10/15 (MOD MD / Chef JMS, entered by BC).** Net sales $3,973 vs target $2,657 (+50%). Food $101; event sales $2,471. 77 guests, $51.60 check avg. Comps $17.10 (0.4%): F&F, industry, employee. Slow-paced Thursday until a late birthday party arrived just before 10pm (>100 guests, tab extended several times); fake IDs turned away at the door; party ended near midnight. Industry guests in last hour. 86: draft Guinness, Pumpkin Cream Ale; low candied ginger, Pet Nat Paloma. No incidents."
+      "narrative": "**CCNSH — Thursday 10/15 (MOD MD / Chef JMS, entered by BC).** Net sales $3,973 vs target $2,657 (+50%). Food $101; event sales $2,471. 77 guests, $51.60 check avg. Comps $17.10 (0.4%): F&F, industry, employee. Slow-paced Thursday until a late birthday party arrived just before 10pm (>100 guests, tab extended several times); fake IDs turned away at the door; party ended near midnight. Industry guests in last hour. 86: draft Guinness, Pumpkin Cream Ale; low candied ginger, Pet Nat Paloma. No incidents."
     },
     {
       "id": "dvr",
@@ -49,39 +49,39 @@
       "event_sales": 5040.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Thursday 10/15 (AM MOD Maggie S / PM Evan F & Chef Lucas).** Net sales incl. events $15,460.04 vs target $10,141 (+52%). Base net $10,420.04 (DC/AM $1,423.76, D&C PM $8,861.35); event sales $5,040 (event food $3,240); total food incl. events $5,001.10 (base food $1,761.10). 259 guests (Tock). Comps $341.25 (~3.27%). Fortreum roundtable dinner, 24 guests 6-9pm in Vauxhall, family-style, went smoothly. Busy night, everyone on until the end. No DCAM report submitted. No incidents."
+      "narrative": "**DVR — Thursday 10/15 (AM MOD Maggie S / PM Evan F & Chef Lucas).** Net sales incl. events $15,460.04 vs target $10,141 (+52%). Base net $10,420.04 (DC/AM $1,423.76, D&C PM $8,861.35); event sales $5,040 (event food $3,240); total food incl. events $5,001.10 (base food $1,761.10). 259 guests (Tock). Comps $341.25 (~3.27%). Fortreum roundtable dinner, 24 guests 6-9pm in Vauxhall, family-style, went smoothly. Busy night, everyone on until the end. No DCAM report submitted. No incidents."
     },
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
-      "beverage_sales": null,
+      "net_sales": 6796.0,
+      "target": 5630.0,
+      "comps": 126.92,
+      "guests": 176,
+      "check_avg": 39.0,
+      "weather": "Warmest day of the year remaining",
+      "food_sales": 607.0,
+      "beverage_sales": 6189.0,
       "event_sales": null,
-      "missing": true,
-      "data_source": null,
-      "narrative": "No report submitted as of 2026-10-16 08:10 UTC (latest EV post in Slack covers 10/14); will retry next pass."
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**EV — Thursday 10/15 (MOD & Chef Kyler & Steves; entered by Thomas).** Net sales $6,796 vs target $5,630 (+21%). Food $607, beverage $6,189, retail $78. 176 guests (SevenRooms), $39 check avg. Comps $126.92. First turn half full but high check avg; second turn full room of quiet dates; third turn 'absurd' with big swings in guest counts. 176 covers, 1 investor cocktail, 4 large parties, 9 solos. Top sellers: Rosalie, Native Lion, Burner Phone; 'No Turning Back' mezcal stirred drink highlighted. Door: parties at 6, lots of 2s, 8-10:30 busiest with ~12-party waitlist (nearly all came back); still pretty full at 1:30; guests excited about the modern classics book; one party refused (over-served elsewhere). No no-shows. Kitchen: Brussels sprouts a hit. Menu count 16; breakage: water glass. Repairs: upstairs bathroom sink needs snaking."
     },
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 6153.0,
+      "target": 6085.0,
+      "comps": 236.02,
+      "guests": 161,
+      "check_avg": 38.22,
+      "weather": "Warm late-summer feeling fall day",
+      "food_sales": 1208.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
-      "data_source": null,
-      "narrative": "No report submitted as of 2026-10-16 08:10 UTC (latest LA post covers 10/14); LA typically posts 4-5am PT; will retry next pass."
+      "event_sales": 0.0,
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**LA — Thursday 10/15 (MOD & Chef Julian, Gigi & Josh; entered by Julian Catano; posted 4:30am 10/16).** Net sales $6,153 vs target $6,085 (+1%) (Marquee $6,153, Standing Room $0). Food $1,208. 161 guests; form reported check avg $87.77 which doesn't reconcile with net/guests, so check avg recorded as $38.22 (net/guests). Comps $236.02. Handful of guests right at open set the pace; first server busy until 9pm when reinforcements arrived; steady couple of hours after that with a decent waitlist; new host got a busy night. Kitchen: Josh served food with ease. Maintenance: tile by host stand loose again. Low: pineapple. Reservation no-shows charged: yes. No incident/injury."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Thursday 10/15 (MOD Marcus / Meghan).** Net sales incl. events $4,861.76 vs target $4,350 (+12%). Marquee bar $1,743; food $664.80. 133 guests (88 walk-in, 45 reso); check avg recorded as net/guests $36.55 (form GCA $40.18 / CA $87.81). Comps $380.82 incl. investor walk-out $141.66 (under follow-up), DNL $22, gift $22, wrong item $93. Prep and host out sick; plumbers removed garbage disposal, opening pushed to 6pm. Full by 7, waitlist before 8, full until ~10. Dish backed up during plumbing work. Maintenance: curtain, water heater. No incidents."
+      "narrative": "**DC — Thursday 10/15 (MOD Marcus / Meghan).** Net sales incl. events $4,861.76 vs target $4,350 (+12%). Marquee bar $1,743; food $664.80. 133 guests (88 walk-in, 45 reso); check avg recorded as net/guests $36.55 (form GCA $40.18 / CA $87.81). Comps $380.82 incl. investor walk-out $141.66 (under follow-up), DNL $22, gift $22, wrong item $93. Prep and host out sick; plumbers removed garbage disposal, opening pushed to 6pm. Full by 7, waitlist before 8, full until ~10. Dish backed up during plumbing work. Maintenance: curtain, water heater. No incidents."
     },
     {
       "id": "mg",
@@ -113,23 +113,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Thursday 10/15 (AM Sam & Lex / PM James & Marcus, entered by Alexis).** Net sales $10,332 vs target $6,149 (+68%): Municipal AM $1,842, PM $7,036, Sun Club $350, Hot Eye $1,065. Food $4,333. 211 guests (OpenTable 66 AM + 145 PM), $48.96 check avg. Comps $171. Strong morning (4 food tours), slow happy hour then very busy early evening; bar busy all night. Final cocktail presentations for new menu. 86: finger limes (back 10/17). No incidents."
+      "narrative": "**MG — Thursday 10/15 (AM Sam & Lex / PM James & Marcus, entered by Alexis).** Net sales $10,332 vs target $6,149 (+68%): Municipal AM $1,842, PM $7,036, Sun Club $350, Hot Eye $1,065. Food $4,333. 211 guests (OpenTable 66 AM + 145 PM), $48.96 check avg. Comps $171. Strong morning (4 food tours), slow happy hour then very busy early evening; bar busy all night. Final cocktail presentations for new menu. 86: finger limes (back 10/17). No incidents."
     },
     {
       "id": "sea",
       "name": "D&C Seattle",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 8500.0,
+      "target": 8000.0,
+      "comps": 254.0,
+      "guests": 195,
+      "check_avg": 43.59,
+      "weather": "Perfect weather",
+      "food_sales": 2735.0,
       "beverage_sales": null,
       "event_sales": null,
-      "missing": true,
-      "data_source": null,
-      "narrative": "No report submitted as of 2026-10-16 08:10 UTC (latest SEA post covers 10/14); will retry next pass."
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**SEA — Thursday 10/15 (MOD Julian Abel // Curtis; posted 4:33am 10/16).** Net sales $8,500 vs target $8,000 (+6%). Food $2,735. 195 guests; form reported check avg $79.24 which doesn't reconcile with net/guests, so check avg recorded as $43.59 (net/guests). Comps $254 (~$150 in SND/DNL). Manager notes numbers are wonky because the prior night's party is still on the books (event not closed out in Toast on 10/14) and asks that yesterday's event gratuity be distributed to the staff who worked it. Rip-roaring night start to finish, died down ~11 with a fast close. Compendium drinks felt better; a dozen more added to the bar team's repertoire. Seahawks game had guests wrestling with sports feelings. Kitchen did great; linens not taken down. Maintenance: glycol machine needs to be picked up downstairs. No-shows charged: yes. No incident/injury."
     }
   ]
 }
