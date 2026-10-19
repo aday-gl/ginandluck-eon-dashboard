@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Sunday 10/18.** Closed Sundays \u2014 dark day, no service."
+      "narrative": "**CCATL — Sunday 10/18.** Closed Sundays — dark day, no service."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Sunday 10/18 (MOD/Chef KE DJ; entered by BT).** Net $939 vs $1,549 target. Comps $70.55 (7.51%). 22 guests, ~$43 check avg. Food $90. A slowish Sunday with a few dates; ALIEN movie night was a hit and guests genuinely loved it. Cleared out early except industry folks. Kitchen: smooth sailing. 86: Nitrous. Favorite moment: movie trivia about Alien and Ghostbusters with Joe and guests."
+      "narrative": "**CCNSH — Sunday 10/18 (MOD/Chef KE DJ; entered by BT).** Net $939 vs $1,549 target. Comps $70.55 (7.51%). 22 guests, ~$43 check avg. Food $90. A slowish Sunday with a few dates; ALIEN movie night was a hit and guests genuinely loved it. Cleared out early except industry folks. Kitchen: smooth sailing. 86: Nitrous. Favorite moment: movie trivia about Alien and Ghostbusters with Joe and guests."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 3725.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Sunday 10/18 (AM MOD Carey; PM MOD Maggie H; entered by Maggie H).** Net incl. events $10,637.91 vs $8,673 target (lobby/PM $5,709.21 + DC/AM $1,203.50 = $6,912.91 ex-events; events $3,725). Food incl. events $4,094.75. Comps $221.89. 154 guests (Tock). Slow and steady night in the Lobby. Event: post-wedding brunch for Maddy & Sam, 67 guests, 10am-1pm in Vauxhall \u2014 relaxed morning. Kitchen: super chill Sunday, good prep for tomorrow. Low: brined olive, bar mix, honey butter quenelle, chicken thighs in brine, hot honey, sliced scallop, basil vinaigrette, burger meat, walnut cilantro pesto. 911: peaches, mixed/artisan greens, agnolotti pasta, white bean succotash. Maintenance: none. Favorite moment: bar couple raved about Dom's hospitality."
+      "narrative": "**DVR — Sunday 10/18 (AM MOD Carey; PM MOD Maggie H; entered by Maggie H).** Net incl. events $10,637.91 vs $8,673 target (lobby/PM $5,709.21 + DC/AM $1,203.50 = $6,912.91 ex-events; events $3,725). Food incl. events $4,094.75. Comps $221.89. 154 guests (Tock). Slow and steady night in the Lobby. Event: post-wedding brunch for Maddy & Sam, 67 guests, 10am-1pm in Vauxhall — relaxed morning. Kitchen: super chill Sunday, good prep for tomorrow. Low: brined olive, bar mix, honey butter quenelle, chicken thighs in brine, hot honey, sliced scallop, basil vinaigrette, burger meat, walnut cilantro pesto. 911: peaches, mixed/artisan greens, agnolotti pasta, white bean succotash. Maintenance: none. Favorite moment: bar couple raved about Dom's hospitality."
     },
     {
       "id": "ev",
@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Sunday 10/18.** No Sunday 10/18 report in Slack as of 10/19 08:30 UTC run; will retry next pass."
+      "narrative": "**EV — Sunday 10/18.** No Sunday 10/18 report in Slack as of 10/19 08:30 UTC run; will retry next pass."
     },
     {
       "id": "la",
@@ -81,23 +81,23 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Sunday 10/18 (MOD/Chef Joe + Angel; entered by Joe; posted 1:08am 10/19).** Net $5,266 vs $4,936 target. Food $1,111. Comps $208 (Josh from Penny Pound, service recovery, birthday, anniversary, DNL). 156 guests. Very steady Sunday \u2014 60 covers on the books, many larger parties; steady early walk-ins, room full a little after 7pm and stayed pretty full until ~10:30pm, then cleared slowly. Chelsea on the floor with Mia and crushed it. Kitchen: steady evening, Angel held it down. No-shows charged. Favorite moment: Angel fishing the cage keys out of the cage."
+      "narrative": "**LA — Sunday 10/18 (MOD/Chef Joe + Angel; entered by Joe; posted 1:08am 10/19).** Net $5,266 vs $4,936 target. Food $1,111. Comps $208 (Josh from Penny Pound, service recovery, birthday, anniversary, DNL). 156 guests. Very steady Sunday — 60 covers on the books, many larger parties; steady early walk-ins, room full a little after 7pm and stayed pretty full until ~10:30pm, then cleared slowly. Chelsea on the floor with Mia and crushed it. Kitchen: steady evening, Angel held it down. No-shows charged. Favorite moment: Angel fishing the cage keys out of the cage."
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
+      "net_sales": 1439.51,
       "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "comps": 60.0,
+      "guests": 37,
+      "check_avg": 38.9,
+      "weather": "Nice",
+      "food_sales": 212.0,
       "beverage_sales": null,
       "event_sales": null,
-      "missing": true,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Sunday 10/18.** No Sunday 10/18 report in Slack as of 10/19 08:30 UTC run; will retry next pass."
+      "narrative": "**DC — Sunday 10/18 (MOD Josh; posted 5:55am 10/19).** Net sales incl. events $1,439.51 (form 'Total Sales' $1,499.51; Marquee $1,499.51, Garden closed); food $212; no target given. 37 guests (GCA $37.88 / CA $79.17 per report; net/guests = $38.91). Comps $60. Extremely slow night — first guest seated ~6pm, foot traffic low all night; modest pickup later with reservations and walk-ins. Last call 9:30pm, room clear by 10pm. Top sellers: tartare, fried chicken, B&B. Maintenance: curtains. Ben C. stopped by."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Sunday 10/18 (entered by Alexis; posted 10:34pm).** Net $10,905 vs $8,499 target. Food $4,844. Comps $203. Outlets: Municipal Bar AM $4,428, PM $4,841, Sun Club $301, Hot Eye $1,334. Guests 154 (OpenTable AM 154 + PM 0 \u2014 evening count appears not entered, so check avg is overstated). Brunch full by 11 and busy until 2pm; happy hour tamer than the weekend; Sun Club slow, regulars only; Hot Eye slow but steady with an older crowd, bar crawl at 9. Kitchen: slow night, lots of grill. No incidents."
+      "narrative": "**MG — Sunday 10/18 (entered by Alexis; posted 10:34pm).** Net $10,905 vs $8,499 target. Food $4,844. Comps $203. Outlets: Municipal Bar AM $4,428, PM $4,841, Sun Club $301, Hot Eye $1,334. Guests 154 (OpenTable AM 154 + PM 0 — evening count appears not entered, so check avg is overstated). Brunch full by 11 and busy until 2pm; happy hour tamer than the weekend; Sun Club slow, regulars only; Hot Eye slow but steady with an older crowd, bar crawl at 9. Kitchen: slow night, lots of grill. No incidents."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Sunday 10/18 (MOD Julian Abel; entered by Julian Abel; posted 12:10am 10/19).** Net $7,400 vs $6,000 target. Food $1,208. Comps/discounts $523 (SND/DNL $165; rest employee/neighborhood). 150 guests, $49.36 check avg. Solid out of the gate and busy until 8pm, one push at 10pm. R&D during downtime, phased Malachi, Daisy and AT between 9 and 10; shout-out to Taylor. Kitchen: did not run out of cheese; family meal great. Maintenance: bathroom sink needs to be glued back to the wall. No-shows not charged."
+      "narrative": "**SEA — Sunday 10/18 (MOD Julian Abel; entered by Julian Abel; posted 12:10am 10/19).** Net $7,400 vs $6,000 target. Food $1,208. Comps/discounts $523 (SND/DNL $165; rest employee/neighborhood). 150 guests, $49.36 check avg. Solid out of the gate and busy until 8pm, one push at 10pm. R&D during downtime, phased Malachi, Daisy and AT between 9 and 10; shout-out to Taylor. Kitchen: did not run out of cheese; family meal great. Maintenance: bathroom sink needs to be glued back to the wall. No-shows not charged."
     }
   ]
 }

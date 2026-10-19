@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Saturday 10/17 (MOD JK; entered by Mya; posted 4:02am 10/18).** Net sales $7,742 vs target $8,801 (-12%). Food $358. 286 guests, $27.07 check avg. Comps $55.55. Spooky Saturday, fully staffed; opener cut ~7:30pm, first mid cut, second mid supported close. DJ OS 'did a great job', smooth night. 86: Grey Goose, Patron, Arrette. Favorite moment: meeting regular Anthony's cousins."
+      "narrative": "**CCATL — Saturday 10/17 (MOD JK; entered by Mya; posted 4:02am 10/18).** Net sales $7,742 vs target $8,801 (-12%). Food $358. 286 guests, $27.07 check avg. Comps $55.55. Spooky Saturday, fully staffed; opener cut ~7:30pm, first mid cut, second mid supported close. DJ OS 'did a great job', smooth night. 86: Grey Goose, Patron, Arrette. Favorite moment: meeting regular Anthony's cousins."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Saturday 10/17 (MOD/Chef KE/MD & JMS/DM; entered by JO; posted 5:00am 10/18).** Net sales $11,263 vs target $11,068 (+2%) \u2014 goal broken. Food $341. ~415 guests, $27.14 check avg. Comps $91.85 (0.82%; gift, industry, manager, F&F, resident). Decent start by 7pm then multiple heavy pops all night: college football fans, 30th birthday, Preds fans, late-night wedding party. Later close due to smaller staff. Kitchen: still trying to lift food sales. 86: Pumpkin Ale until Monday, draft Guinness (cans available), Chili."
+      "narrative": "**CCNSH — Saturday 10/17 (MOD/Chef KE/MD & JMS/DM; entered by JO; posted 5:00am 10/18).** Net sales $11,263 vs target $11,068 (+2%) — goal broken. Food $341. ~415 guests, $27.14 check avg. Comps $91.85 (0.82%; gift, industry, manager, F&F, resident). Decent start by 7pm then multiple heavy pops all night: college football fans, 30th birthday, Preds fans, late-night wedding party. Later close due to smaller staff. Kitchen: still trying to lift food sales. 86: Pumpkin Ale until Monday, draft Guinness (cans available), Chili."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 22128.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Saturday 10/17 (AM MOD Maggie H & Josh; PM Carey & Lucas; entered by Carey; posted 4:21am 10/18).** Net sales incl. events $37,056.50 vs target $16,312. Base net $14,928.50 (DC/AM $1,335.38, D&C PM $13,593.12; food $2,624.70); net event sales $22,128 (event food $10,440); total food incl. events $13,064.70. 367 guests (Tock). Comps $457.53 (3.07%). Wedding for Madeline & Sam, 76 guests, 4\u201310pm in Vauxhall \u2014 plated dinner, smooth service. Steady Saturday; 'Tennessee takeover' weighed on the base total. Maintenance: sink leaking in lobby ladies' room."
+      "narrative": "**DVR — Saturday 10/17 (AM MOD Maggie H & Josh; PM Carey & Lucas; entered by Carey; posted 4:21am 10/18).** Net sales incl. events $37,056.50 vs target $16,312. Base net $14,928.50 (DC/AM $1,335.38, D&C PM $13,593.12; food $2,624.70); net event sales $22,128 (event food $10,440); total food incl. events $13,064.70. 367 guests (Tock). Comps $457.53 (3.07%). Wedding for Madeline & Sam, 76 guests, 4–10pm in Vauxhall — plated dinner, smooth service. Steady Saturday; 'Tennessee takeover' weighed on the base total. Maintenance: sink leaking in lobby ladies' room."
     },
     {
       "id": "ev",
@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Saturday 10/17 (MOD/Chef Kyler & Steves; entered by Thomas; posted 3:19am 10/18).** Net sales $9,052 vs target $7,390 (+22%). Food $1,083, beverage $7,982. 244 covers, $37 check avg. Comps $389.66 (about half investor discounts / member table touches). 10 large parties (possible record), 10 solos, 12 investor cocktails; >$500 in first 90 minutes. Top sellers: Rosalie, Paper Wasp, Crowd Work. Door slammed from 10pm, 3-hour wait finishing 1:30am. Tompkins Halloween Dog Parade boosted street traffic. 1 no-show; 1 champagne flute broken."
+      "narrative": "**EV — Saturday 10/17 (MOD/Chef Kyler & Steves; entered by Thomas; posted 3:19am 10/18).** Net sales $9,052 vs target $7,390 (+22%). Food $1,083, beverage $7,982. 244 covers, $37 check avg. Comps $389.66 (about half investor discounts / member table touches). 10 large parties (possible record), 10 solos, 12 investor cocktails; >$500 in first 90 minutes. Top sellers: Rosalie, Paper Wasp, Crowd Work. Door slammed from 10pm, 3-hour wait finishing 1:30am. Tompkins Halloween Dog Parade boosted street traffic. 1 no-show; 1 champagne flute broken."
     },
     {
       "id": "la",
@@ -81,23 +81,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Saturday 10/17 (MOD/Chef Gigi/Joe/Julian & Josh/Saleh/Angel; entered by Gigi; posted 6:01am 10/18).** Net sales $13,744 vs target $12,140 (+13%). Marquee $10,130, Standing Room $3,608; food $2,801 (Marquee $2,046, SR $749). 360 guests; check avg $38.18 (net/guests; form reported $93.79). Comps $259.10 (DNLs, shareholders, member, vermouth owner). Skeleton crew, all hands on deck; Standing Room packed open to ~12am; many large-party no-shows covered by walk-ins. Health inspectors visited ~7:30pm without disrupting service; follow-up expected Nov 7. Maintenance: inspection items, Toast tab transfers, water, critters. 86 olives."
+      "narrative": "**LA — Saturday 10/17 (MOD/Chef Gigi/Joe/Julian & Josh/Saleh/Angel; entered by Gigi; posted 6:01am 10/18).** Net sales $13,744 vs target $12,140 (+13%). Marquee $10,130, Standing Room $3,608; food $2,801 (Marquee $2,046, SR $749). 360 guests; check avg $38.18 (net/guests; form reported $93.79). Comps $259.10 (DNLs, shareholders, member, vermouth owner). Skeleton crew, all hands on deck; Standing Room packed open to ~12am; many large-party no-shows covered by walk-ins. Health inspectors visited ~7:30pm without disrupting service; follow-up expected Nov 7. Maintenance: inspection items, Toast tab transfers, water, critters. 86 olives."
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
+      "net_sales": 9202.36,
       "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "comps": 187.9,
+      "guests": 235,
+      "check_avg": 39.16,
+      "weather": "Nice / Chilly",
+      "food_sales": 542.0,
       "beverage_sales": null,
       "event_sales": null,
-      "missing": true,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Saturday 10/17 (MOD Josh; posted 7:57am 10/18).** Report submitted but ALL sales, comps, guest count and target fields were left blank ('-'); manager notes say the night did ~9.4k with snacks only (no kitchen service). Weather nice/chilly. Garden slow until ~8:30pm then picked up; Marquee wait ~1 hour; last call midnight. Not having a kitchen hurt guest experience \u2014 a few guests left after one round. Improve: pre-bussing, working to code. Net sales not recorded pending a corrected figure; will retry next pass."
+      "narrative": "**DC — Saturday 10/17 (MOD Josh; original form posted blank 7:57am 10/18, figures supplied in thread reply by Joshua White 10:35am 10/18).** Net sales incl. events $9,202.36 (Marquee $7,544.36 + Garden $1,658.00 = $9,390.26 total sales); food $542; no target given. 235 guests, GCA $36.23 / CA $70.44 per report (net/guests = $39.16). Comps $187.90, voids $118. Snacks-only night (no kitchen service) — a few guests left after one round. Garden slow until ~8:30pm then picked up; Marquee wait ~1 hour; last call midnight. Improve: pre-bussing, working to code. Kitchen deep-cleaned/ABK'd."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Saturday 10/17 (entered by Alexis; posted 1:48am 10/18).** Net sales $15,669 vs target $14,570 (+8%). Food $5,346. 382 guests (114 AM + 268 PM OpenTable), $41.02 check avg. Comps $283. Component fields: Muni AM $3,508, Sun Club $541, Hot Eye $2,145 (Muni PM total mis-entered as 268 \u2014 net total used as reported). Slow start due to parade, full 12\u20133 with 4 food tours, crazy happy hour, walk-in wedding party, full restaurant. Sun Club dead until 2:30, guests gone by 7 (cold). Hot Eye slower, ~90% tourists. 911 on dumplings."
+      "narrative": "**MG — Saturday 10/17 (entered by Alexis; posted 1:48am 10/18).** Net sales $15,669 vs target $14,570 (+8%). Food $5,346. 382 guests (114 AM + 268 PM OpenTable), $41.02 check avg. Comps $283. Component fields: Muni AM $3,508, Sun Club $541, Hot Eye $2,145 (Muni PM total mis-entered as 268 — net total used as reported). Slow start due to parade, full 12–3 with 4 food tours, crazy happy hour, walk-in wedding party, full restaurant. Sun Club dead until 2:30, guests gone by 7 (cold). Hot Eye slower, ~90% tourists. 911 on dumplings."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Saturday 10/17 (MOD Julian // Curtis; entered by Julian Abel; posted 4:06am 10/18).** Net sales $12,132 vs target $12,000 (+1%). Food $1,588. 291 guests, $41.69 check avg. Comps $1,222 (10.1%) \u2014 driven by table 41 (4-hour stay, service recovery requested by DK). Waitlist cleared, no high ticket times, staff phased out on time. Maintenance: AC downstairs needed. Extra hour of service noted."
+      "narrative": "**SEA — Saturday 10/17 (MOD Julian // Curtis; entered by Julian Abel; posted 4:06am 10/18).** Net sales $12,132 vs target $12,000 (+1%). Food $1,588. 291 guests, $41.69 check avg. Comps $1,222 (10.1%) — driven by table 41 (4-hour stay, service recovery requested by DK). Waitlist cleared, no high ticket times, staff phased out on time. Maintenance: AC downstairs needed. Extra hour of service noted."
     }
   ]
 }
