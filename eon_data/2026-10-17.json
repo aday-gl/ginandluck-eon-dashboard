@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "No Saturday 10/17 report submitted as of 10/18 14:40 UTC run; will retry next pass. (Note: the report dated 10/17 in Slack is Friday 10/16's, already recorded.)"
+      "narrative": "**DC \u2014 Saturday 10/17 (MOD Josh; posted 7:57am 10/18).** Report submitted but ALL sales, comps, guest count and target fields were left blank ('-'); manager notes say the night did ~9.4k with snacks only (no kitchen service). Weather nice/chilly. Garden slow until ~8:30pm then picked up; Marquee wait ~1 hour; last call midnight. Not having a kitchen hurt guest experience \u2014 a few guests left after one round. Improve: pre-bussing, working to code. Net sales not recorded pending a corrected figure; will retry next pass."
     },
     {
       "id": "mg",
