@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Wednesday 10/21 (MOD Jk/MKz; entered by Mya).** Net $1,777 vs $1,458 target (+22%). Food $351. Comps $77.35. 51 guests, check avg $38.38. Trivia Wednesday; opener set up space well; small pop later in evening; smooth day. Reminder to confirm last call completed before clocking out."
+      "narrative": "**CCATL — Wednesday 10/21 (MOD Jk/MKz; entered by Mya).** Net $1,777 vs $1,458 target (+22%). Food $351. Comps $77.35. 51 guests, check avg $38.38. Trivia Wednesday; opener set up space well; small pop later in evening; smooth day. Reminder to confirm last call completed before clocking out."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Wednesday 10/21 (MOD KK / Chef JMS; entered by BC).** Net $1,236 vs $1,293 target (-4%). Food $124. Comps $5.90 (0.5%; industry, Neuhoff employee). 41 guests, check avg $30.15. Sleepy Wednesday; highest volume during trivia (replacement host from Challenge Entertainment); last pop 2 groups of 4 at 11:30/11:45pm, served 15 min past close. 86: Red Bull Classic."
+      "narrative": "**CCNSH — Wednesday 10/21 (MOD KK / Chef JMS; entered by BC).** Net $1,236 vs $1,293 target (-4%). Food $124. Comps $5.90 (0.5%; industry, Neuhoff employee). 41 guests, check avg $30.15. Sleepy Wednesday; highest volume during trivia (replacement host from Challenge Entertainment); last pop 2 groups of 4 at 11:30/11:45pm, served 15 min past close. 86: Red Bull Classic."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 1500.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Wednesday 10/21 (AM Evan; Evening Maggie H).** Net incl. events $8,825.43 vs $8,924 target (-1%). Food incl. events $2,498; net event sales $1,500 (World Energy Day 1 meetings, 9 guests, suite 6A, 8am-6pm). Comps $102. 186 guests (Tock). Morning wickedly busy with lines to the door; evening felt slow, 8pm busiest, 10-top at rail around 10pm. 911: cola onion dip, cherry vermouth."
+      "narrative": "**DVR — Wednesday 10/21 (AM Evan; Evening Maggie H).** Net incl. events $8,825.43 vs $8,924 target (-1%). Food incl. events $2,498; net event sales $1,500 (World Energy Day 1 meetings, 9 guests, suite 6A, 8am-6pm). Comps $102. 186 guests (Tock). Morning wickedly busy with lines to the door; evening felt slow, 8pm busiest, 10-top at rail around 10pm. 911: cola onion dip, cherry vermouth."
     },
     {
       "id": "ev",
@@ -65,23 +65,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Wednesday 10/21 (MOD Kyler & Steves; entered by Thomas).** Net $5,688 vs $4,814 target (+18%). Food $520, beverage $5,167. Comps $80.54. 153 guests (SevenRooms), check avg $37. Boilerplate first turn then consistent to 11pm; waitlist never exceeded 2-3 parties; 5 large parties, 8 solos. No no-shows."
+      "narrative": "**EV — Wednesday 10/21 (MOD Kyler & Steves; entered by Thomas).** Net $5,688 vs $4,814 target (+18%). Food $520, beverage $5,167. Comps $80.54. 153 guests (SevenRooms), check avg $37. Boilerplate first turn then consistent to 11pm; waitlist never exceeded 2-3 parties; 5 large parties, 8 solos. No no-shows."
     },
     {
       "id": "la",
       "name": "D&C Los Angeles",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 5500.0,
+      "target": 4361.0,
+      "comps": 121.0,
+      "guests": 126,
+      "check_avg": 111.93,
+      "weather": "Rainy, light drizzle; pouring at the end",
+      "food_sales": 1328.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of 10/22 ~8am ET run; will retry next pass."
+      "narrative": "**LA — Wednesday 10/21 (MOD/Chef Gigi & Saleh/Kevin; entered by Gigi; posted 1:28am 10/22).** Net $5,500 vs $4,361 target (+26%). Food $1,328 (all Marquee; Standing Room $0). Comps $121 (DNLs, small gifts). 126 guests, $111.93 check avg. Busy start to a rainy night with large groups and many walk-ins in the first 2 hours; food flew out of the kitchen 6-8pm. Lull around 9pm that never picked up; no waitlist, every group seated. Floor cut around midnight, room cleared shortly after 1am. Maintenance: grease trap serviced, hot water tank deep cleaned, water heater status pending. 86: 4ct oysters; ran out of aged cheese (restocked). No-shows charged. No incidents."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Wednesday 10/21 (MOD Josh).** Net incl. events $4,414.25 vs $4,477 target (-1%) (form Total Sales/Marquee $4,512.59; Garden closed). Food $663. Comps $98.34, voids $17. 107 guests (reported GCA $38.72). Steady night, strong start, slowed ~8pm then steady. Maintenance: curtains, paint. No-show revenue $30."
+      "narrative": "**DC — Wednesday 10/21 (MOD Josh).** Net incl. events $4,414.25 vs $4,477 target (-1%) (form Total Sales/Marquee $4,512.59; Garden closed). Food $663. Comps $98.34, voids $17. 107 guests (reported GCA $38.72). Steady night, strong start, slowed ~8pm then steady. Maintenance: curtains, paint. No-show revenue $30."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Wednesday 10/21 (Morning Sam/Shannon/Lex; Evening James/Drew; entered by James).** Net $4,817 vs $5,625 target (-14%). Bar AM $1,490, PM $3,237, Sun Club $236, Hot Eye $0. Food $1,939. Comps $92. 121 guests (OpenTable 23+98). Slow morning/brunch; busy early evening then very quiet. Maintenance: crisalli behind main bar."
+      "narrative": "**MG — Wednesday 10/21 (Morning Sam/Shannon/Lex; Evening James/Drew; entered by James).** Net $4,817 vs $5,625 target (-14%). Bar AM $1,490, PM $3,237, Sun Club $236, Hot Eye $0. Food $1,939. Comps $92. 121 guests (OpenTable 23+98). Slow morning/brunch; busy early evening then very quiet. Maintenance: crisalli behind main bar."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 2767.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Wednesday 10/21 (MOD Curtis Hayes).** Net $4,991 vs $8,000 target (-38%). Food $602; event sales $2,767 (members invite party, 65+ guests arriving at once, new members signed). Comps $218.18 (4.2%). 161 guests, avg spend $35.14. Slower late as event guests drank less."
+      "narrative": "**SEA — Wednesday 10/21 (MOD Curtis Hayes).** Net $4,991 vs $8,000 target (-38%). Food $602; event sales $2,767 (members invite party, 65+ guests arriving at once, new members signed). Comps $218.18 (4.2%). 161 guests, avg spend $35.14. Slower late as event guests drank less."
     }
   ]
 }
