@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Friday 10/23 (MOD JK/MKZ; entered by Mya).** Net $7,220 (daily target entered as 0, so no target). Food $789. Comps $104.50. 237 guests, $30.46 avg. Happy spooky Friday; smooth start, use early down time to build connections. Mid helped with guest flow; DJ Simon started at 9pm. Mini martini glasses out, hand wash to extend life. Kitchen: busy night. No incidents."
+      "narrative": "**CCATL — Friday 10/23 (MOD JK/MKZ; entered by Mya).** Net $7,220 (daily target entered as 0, so no target). Food $789. Comps $104.50. 237 guests, $30.46 avg. Happy spooky Friday; smooth start, use early down time to build connections. Mid helped with guest flow; DJ Simon started at 9pm. Mini martini glasses out, hand wash to extend life. Kitchen: busy night. No incidents."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Friday 10/23 (MOD KE, chef JMS; entered by BT).** Net $9,062 vs $11,670 target (-22%). Food $344. Comps $45 (0.5%). 278 guests, $32.60 avg. Slower Friday; early pop around 8:30-9, slowed sharply at 10:30, largely done by midnight. Industry folks from Optimist came in around 1am. Good DJ set, some early dancing. Low: Ponies, IPA, Daisy Sandia (switching to Manzana). No incidents."
+      "narrative": "**CCNSH — Friday 10/23 (MOD KE, chef JMS; entered by BT).** Net $9,062 vs $11,670 target (-22%). Food $344. Comps $45 (0.5%). 278 guests, $32.60 avg. Slower Friday; early pop around 8:30-9, slowed sharply at 10:30, largely done by midnight. Industry folks from Optimist came in around 1am. Good DJ set, some early dancing. Low: Ponies, IPA, Daisy Sandia (switching to Manzana). No incidents."
     },
     {
       "id": "dvr",
@@ -49,23 +49,23 @@
       "event_sales": 3000.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Friday 10/23 (AM MOD Evan & Josh; PM Maggie, Carey & Lucas; entered by Carey).** Total net incl. events $18,237.58 vs $16,467 target (+11%). Net ex-events $15,237.58; D&C PM $14,330.04, AM $907.54. Food incl. events $4,473.40. Net event sales $3,000 (Boston Medical Center, 35 guests, suite 6A, 8:30-11:30pm). Comps $379.01 (2.49%). 435 guests (Tock). Low reservations but high walk-in turnout, nearly 500 guests without the Garden active. AM: low miso, 86 miel, decaf back in stock. No incidents."
+      "narrative": "**DVR — Friday 10/23 (AM MOD Evan & Josh; PM Maggie, Carey & Lucas; entered by Carey).** Total net incl. events $18,237.58 vs $16,467 target (+11%). Net ex-events $15,237.58; D&C PM $14,330.04, AM $907.54. Food incl. events $4,473.40. Net event sales $3,000 (Boston Medical Center, 35 guests, suite 6A, 8:30-11:30pm). Comps $379.01 (2.49%). 435 guests (Tock). Low reservations but high walk-in turnout, nearly 500 guests without the Garden active. AM: low miso, 86 miel, decaf back in stock. No incidents."
     },
     {
       "id": "ev",
       "name": "D&C East Village",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
-      "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "net_sales": 7976.0,
+      "target": 7771.0,
+      "comps": 320.22,
+      "guests": 240,
+      "check_avg": 33.0,
+      "weather": "Crisp, easy-going fall service",
+      "food_sales": 647.0,
+      "beverage_sales": 7944.0,
+      "event_sales": 0.0,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of 2026-10-24 13:10 UTC (latest EV post is Thursday 10/22); will retry next pass."
+      "narrative": "**EV — Friday 10/23 (MOD/Chef Kyler/Michael; entered by Sean; posted 9:43am 10/24).** Net $7,976 vs $7,771 target (+3%). Food $647, Beverage $7,944. Comps $320.22 (members/investors, gifts, a few DNLs). 240 guests, $33 avg. Smooth night; larger parties kept energy high in the first hour, full room by the second turn, lots of turn-and-burn at 8pm. Floor half full by last call, near vacant by 2am besides the bar top. 20-party waitlist, most did not return; many 3s and 4s. Members/investors in. Top sellers: High Plains Drifter, Rosalie, Shinebox. Menu count 17/17. Breakage: 2x N&N. No no-shows."
     },
     {
       "id": "la",
@@ -81,7 +81,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Friday 10/23 (MOD Julian, Joe, Gianna; entered by Julian Catano).** Net $10,894 vs $11,257 target (-3%). Food $2,154. Marquee $8,312 (food $1,685); Standing Room $2,582 (food $469). Comps $382.90 (gifts, members, discounts, DNLs). 278 guests, $39.19 avg. Slow start, picked up after dinner and stayed busy to last call. Community members and investors in; party of 8 at table one; decent waitlist all seated; plenty of first dates. New server (Nogan, week 2) excelled. Kitchen ran 3-man then 2-man then 1-man band. Maintenance: tile by host stand loose again. 86/low: Tapatio blanco, Tapatio 110, Cochi VdT, Dolin blanc. No incidents."
+      "narrative": "**LA — Friday 10/23 (MOD Julian, Joe, Gianna; entered by Julian Catano).** Net $10,894 vs $11,257 target (-3%). Food $2,154. Marquee $8,312 (food $1,685); Standing Room $2,582 (food $469). Comps $382.90 (gifts, members, discounts, DNLs). 278 guests, $39.19 avg. Slow start, picked up after dinner and stayed busy to last call. Community members and investors in; party of 8 at table one; decent waitlist all seated; plenty of first dates. New server (Nogan, week 2) excelled. Kitchen ran 3-man then 2-man then 1-man band. Maintenance: tile by host stand loose again. 86/low: Tapatio blanco, Tapatio 110, Cochi VdT, Dolin blanc. No incidents."
     },
     {
       "id": "dc",
@@ -97,7 +97,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Friday 10/23 (MOD Josh).** Net incl. events $8,528.88 vs $8,937 target (-5%). Marquee bar $7,923.79, Garden $814.06, food $1,236. Comps $208.97, voids $24. 224 guests; GCA $35.99, CA $79.64. Strong start with room full by 6:30, slowed ~7:45, walk-in wave around 11. Garden very light, closed at 10pm. Focus: KDS, pre-bussing, spatial awareness. Kitchen: fingerling potatoes got great feedback; family meal plan coming. No-show revenue $60. No incidents."
+      "narrative": "**DC — Friday 10/23 (MOD Josh).** Net incl. events $8,528.88 vs $8,937 target (-5%). Marquee bar $7,923.79, Garden $814.06, food $1,236. Comps $208.97, voids $24. 224 guests; GCA $35.99, CA $79.64. Strong start with room full by 6:30, slowed ~7:45, walk-in wave around 11. Garden very light, closed at 10pm. Focus: KDS, pre-bussing, spatial awareness. Kitchen: fingerling potatoes got great feedback; family meal plan coming. No-show revenue $60. No incidents."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 7450.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Friday 10/23 (AM Sam & Lex; PM Justin & Drew/Marcus; entered by Alexis).** Net $24,927 vs $12,819 target (+94%). Municipal Bar AM $2,180, PM $12,107, Sun Club $533, Hot Eye $2,650. Food $6,176. Event sales $7,450 (wedding welcome party ~70 in Hot Eye). Comps $285. Guests 423 (93 AM + 330 PM OpenTable). SCAD Film Fest kickoff; slammed 7:30 to close with four servers. Two complaints (cold croquettes, sunchokes) handled. Low: tuna. No incidents."
+      "narrative": "**MG — Friday 10/23 (AM Sam & Lex; PM Justin & Drew/Marcus; entered by Alexis).** Net $24,927 vs $12,819 target (+94%). Municipal Bar AM $2,180, PM $12,107, Sun Club $533, Hot Eye $2,650. Food $6,176. Event sales $7,450 (wedding welcome party ~70 in Hot Eye). Comps $285. Guests 423 (93 AM + 330 PM OpenTable). SCAD Film Fest kickoff; slammed 7:30 to close with four servers. Two complaints (cold croquettes, sunchokes) handled. Low: tuna. No incidents."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Friday 10/23 (MOD Curtis Hayes).** Net $10,545 vs $11,465 target (-8%). Food $1,525 (~1.5k, 10% over projection). Comps $496.45 (4.5%) \u2014 high service-recovery night (drink spilled on a guest, tab comped). 91 reservations, 248 guests, $42.35 avg guest spend. Chill start (weather), pushes around 7 and 9, lull at 10; medium-paced tables, some lingering. Solid close with early cuts. Maintenance: HVAC on the fritz again \u2014 Matt Haba, Railspur maintenance and CFM HVAC contacted; auto-chlorine refreshed chemicals. Staff meal exceptional. No incidents."
+      "narrative": "**SEA — Friday 10/23 (MOD Curtis Hayes).** Net $10,545 vs $11,465 target (-8%). Food $1,525 (~1.5k, 10% over projection). Comps $496.45 (4.5%) — high service-recovery night (drink spilled on a guest, tab comped). 91 reservations, 248 guests, $42.35 avg guest spend. Chill start (weather), pushes around 7 and 9, lull at 10; medium-paced tables, some lingering. Solid close with early cuts. Maintenance: HVAC on the fritz again — Matt Haba, Railspur maintenance and CFM HVAC contacted; auto-chlorine refreshed chemicals. Staff meal exceptional. No incidents."
     }
   ]
 }
