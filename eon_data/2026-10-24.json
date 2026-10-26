@@ -17,7 +17,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCATL — Saturday 10/24 (MOD JK; entered by Daniel; posted 3:22am 10/25).** Net $8,268 vs $8,677 target (-5%). Food $440. Comps $72 (0.9%). 301 guests, $27.29 avg. Good start, big push around 10pm and steady to close. Multiple Halloween costume party groups and many birthdays. Fully staffed for the rush; keep tabs on bathroom supply stock. Guests loved Halloween cocktails, especially the zombie. 86: Peach Schnapps, High Noon, Miller High Life. No incidents."
+      "narrative": "**CCATL \u2014 Saturday 10/24 (MOD JK; entered by Daniel; posted 3:22am 10/25).** Net $8,268 vs $8,677 target (-5%). Food $440. Comps $72 (0.9%). 301 guests, $27.29 avg. Good start, big push around 10pm and steady to close. Multiple Halloween costume party groups and many birthdays. Fully staffed for the rush; keep tabs on bathroom supply stock. Guests loved Halloween cocktails, especially the zombie. 86: Peach Schnapps, High Noon, Miller High Life. No incidents."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 8600.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH — Saturday 10/24 (MOD/Chef KE, DJ; entered by BT; posted 3:48am 10/25).** Net $16,926 vs $9,516 target (+78%). Food $41 (additional party food sales not captured in EON number). Event sales $8,600 (wedding party buyout, ~80 people, 5-9pm, DJ). Comps $20.70 (0.2%). 284 guests (plus party), $29 avg. Tequila tasting group at 4pm, then buyout; post-party guest wave from 9pm carried to 1am. Return to form in guest counts. 86: Ponies, Daisy Sandia (moved to Manzana). Low: Hazy IPA. No incidents."
+      "narrative": "**CCNSH \u2014 Saturday 10/24 (MOD/Chef KE, DJ; entered by BT; posted 3:48am 10/25).** Net $16,926 vs $9,516 target (+78%). Food $41 (additional party food sales not captured in EON number). Event sales $8,600 (wedding party buyout, ~80 people, 5-9pm, DJ). Comps $20.70 (0.2%). 284 guests (plus party), $29 avg. Tequila tasting group at 4pm, then buyout; post-party guest wave from 9pm carried to 1am. Return to form in guest counts. 86: Ponies, Daisy Sandia (moved to Manzana). Low: Hazy IPA. No incidents."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 3600.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR — Saturday 10/24 (Morning MOD/Chef Maggie H & Josh; Evening Carey & Lucas; entered by Carey; posted 4:10am 10/25).** Net incl. events $18,837.58 vs $16,171 target (+16%). Net ex-events $15,502.51 (D&C AM $1,973.18, PM $13,529.33). Food incl. events $4,263.40 (event food $1,680); net event sales $3,600. Comps $505.14 (3.26%). 379 guests (Tock). Smooth Saturday evening, great vibes. Event: Madison O'Neill private event, 30 guests, 7-9:30pm in suite 6A, witchy costume night; host extended 30 min and group came down for nightcaps. Kitchen: chill night with Emma and Fiella. No incidents; no-shows not charged."
+      "narrative": "**DVR \u2014 Saturday 10/24 (Morning MOD/Chef Maggie H & Josh; Evening Carey & Lucas; entered by Carey; posted 4:10am 10/25).** Net incl. events $18,837.58 vs $16,171 target (+16%). Net ex-events $15,502.51 (D&C AM $1,973.18, PM $13,529.33). Food incl. events $4,263.40 (event food $1,680); net event sales $3,600. Comps $505.14 (3.26%). 379 guests (Tock). Smooth Saturday evening, great vibes. Event: Madison O'Neill private event, 30 guests, 7-9:30pm in suite 6A, witchy costume night; host extended 30 min and group came down for nightcaps. Kitchen: chill night with Emma and Fiella. No incidents; no-shows not charged."
     },
     {
       "id": "ev",
@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV — Saturday 10/24 (MOD/Chef Kyler & Steves; entered by Thomas; posted 5:20am 10/25).** Net $7,888 vs $6,658 target (+18%). Food $613, beverage $7,275. Comps $136.38. 221 guests (SevenRooms), $36 check avg. 221 covers, 8 solos, 6 large parties, 12 investor cocktails. First turn a bit lackadaisical but a 90% room all night; door ran a waitlist from ~7pm with groups of 3s and 4s, Halloweekend energy. Top sellers: Shinebox (34), Native Lion (21), chips & dip. Menu count 19. Maintenance wish: a way to retrieve phones from T1/2. No no-shows."
+      "narrative": "**EV \u2014 Saturday 10/24 (MOD/Chef Kyler & Steves; entered by Thomas; posted 5:20am 10/25).** Net $7,888 vs $6,658 target (+18%). Food $613, beverage $7,275. Comps $136.38. 221 guests (SevenRooms), $36 check avg. 221 covers, 8 solos, 6 large parties, 12 investor cocktails. First turn a bit lackadaisical but a 90% room all night; door ran a waitlist from ~7pm with groups of 3s and 4s, Halloweekend energy. Top sellers: Shinebox (34), Native Lion (21), chips & dip. Menu count 19. Maintenance wish: a way to retrieve phones from T1/2. No no-shows."
     },
     {
       "id": "la",
@@ -81,23 +81,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA — Saturday 10/24 (MOD/Chef Joe/Julian/Gigi + Saleh/Angel/Josh; entered by Gigi; posted 5:34am 10/25).** Net $12,892 vs $12,617 target (+2%). Food $2,825. Marquee $9,843 (food $2,236); Standing Room $3,049 (food $589). Comps $383.78 (DNLs, members, investors). 312 guests, $99.26 check avg (as reported). Slow, peculiar start (local concerts/Halloween events), heavy walk-ins after 8pm, campers made Marquee turns hard; SR used as a starting point for reservations. Lull ~11:30pm, SR closed ~midnight. Busy night for food. Maintenance: pests (pest control Tuesday, then biweekly). 86: vermillion rockfish. No-shows charged."
+      "narrative": "**LA \u2014 Saturday 10/24 (MOD/Chef Joe/Julian/Gigi + Saleh/Angel/Josh; entered by Gigi; posted 5:34am 10/25).** Net $12,892 vs $12,617 target (+2%). Food $2,825. Marquee $9,843 (food $2,236); Standing Room $3,049 (food $589). Comps $383.78 (DNLs, members, investors). 312 guests, $99.26 check avg (as reported). Slow, peculiar start (local concerts/Halloween events), heavy walk-ins after 8pm, campers made Marquee turns hard; SR used as a starting point for reservations. Lull ~11:30pm, SR closed ~midnight. Busy night for food. Maintenance: pests (pest control Tuesday, then biweekly). 86: vermillion rockfish. No-shows charged."
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 12709.66,
+      "target": 9423.0,
+      "comps": 227.45,
+      "guests": 245,
+      "check_avg": 51.88,
+      "weather": "Nice",
+      "food_sales": 1287.4,
       "beverage_sales": null,
       "event_sales": null,
-      "missing": true,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "No report submitted as of 2026-10-25 13:05 UTC (latest post is Friday 10/23); will retry next pass."
+      "narrative": "**DC \u2014 Saturday 10/24 (MOD Josh; posted 11:36am 10/25).** Net incl. events $12,709.66 vs $9,423 target (+35%). Marquee bar $10,535.17, Garden $2,401.94, food $1,287.40. Comps $227.45, voids $28. 245 guests; GCA $45.07, CA $86.64. Busy Saturday; Garden picked up hard ~8:30pm with larger parties, waitlist ~45 min at peak; two to three guests cut off after first round \u2014 flag intoxication early to MOD. Host pacing/verbiage needs tuning (Garden guests ordering at Marquee). Dabney party kept energy past 2am. Kitchen: bread & butter popular, tickets to spec. Improve: pacing/verbiage, pre-bussing. No incidents."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG — Saturday 10/24 (AM Sam & Lex; PM James & Shannon; entered by Alexis; posted 2:07am 10/25).** Net $21,998 vs $15,387 target (+43%). Municipal Bar AM $3,487, PM $15,395, Sun Club $700, Hot Eye $2,207. Food $8,900. Comps $354. Guests 445 (120 AM + 325 PM OpenTable). SCAD Film Fest underway; 12-3 non-stop between screenings, full restaurant from noon to close with a brief idle 8-8:30 as films turned over. Kitchen heavily hit (expo from noon to close), only one DNL. Low: chicken breast, burger buns (Costco run Sunday), one bag mussels. Hot Eye slower than average Saturday. No incidents."
+      "narrative": "**MG \u2014 Saturday 10/24 (AM Sam & Lex; PM James & Shannon; entered by Alexis; posted 2:07am 10/25).** Net $21,998 vs $15,387 target (+43%). Municipal Bar AM $3,487, PM $15,395, Sun Club $700, Hot Eye $2,207. Food $8,900. Comps $354. Guests 445 (120 AM + 325 PM OpenTable). SCAD Film Fest underway; 12-3 non-stop between screenings, full restaurant from noon to close with a brief idle 8-8:30 as films turned over. Kitchen heavily hit (expo from noon to close), only one DNL. Low: chicken breast, burger buns (Costco run Sunday), one bag mussels. Hot Eye slower than average Saturday. No incidents."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA — Saturday 10/24 (MOD Curtis Hayes; posted 4:03am 10/25).** Net $11,813 vs $10,544 target (+12%). Food $1,403. Comps $189.36 (1.6%), only a couple DNLs. 101 reservations, 250 guests, $46.33 avg guest spend. Cold grey day slowed early walk-ins (suggest a patio heater); strong pace all night with waitlist worked down by 11pm. Floor ran smooth with 3 on, early cut and breaks. Maintenance: HVAC got warm around 11pm, partly from the Rational oven cleaning cycle. 86: Eagle Rare, Four Pillars Navy Strength. Met a prospective investor/member. No incidents."
+      "narrative": "**SEA \u2014 Saturday 10/24 (MOD Curtis Hayes; posted 4:03am 10/25).** Net $11,813 vs $10,544 target (+12%). Food $1,403. Comps $189.36 (1.6%), only a couple DNLs. 101 reservations, 250 guests, $46.33 avg guest spend. Cold grey day slowed early walk-ins (suggest a patio heater); strong pace all night with waitlist worked down by 11pm. Floor ran smooth with 3 on, early cut and breaks. Maintenance: HVAC got warm around 11pm, partly from the Rational oven cleaning cycle. 86: Eagle Rare, Four Pillars Navy Strength. Met a prospective investor/member. No incidents."
     }
   ]
 }
