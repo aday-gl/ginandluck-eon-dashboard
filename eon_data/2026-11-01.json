@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Sunday 11/1.** Closed Sundays \u2014 dark day, no service."
+      "narrative": "**CCATL — Sunday 11/1.** Closed Sundays — dark day, no service."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Sunday 11/1 (MOD/Chef KE, JMS; entered by Bt; posted 2:13am 11/2)** Net $595 vs target $1,000 (60%). Food $97, comps $26.40 (4.4%), ~20 guests / $29.73 avg. Slow Sunday after Halloween; few guests most of the night but those who came had a great time. Setting up for the week in Tokyo, excitement building with staff and guests. Kitchen: guests came primarily for food. 86 High Life Ponies. No incidents; no-shows not charged."
+      "narrative": "**CCNSH — Sunday 11/1 (MOD/Chef KE, JMS; entered by Bt; posted 2:13am 11/2)** Net $595 vs target $1,000 (60%). Food $97, comps $26.40 (4.4%), ~20 guests / $29.73 avg. Slow Sunday after Halloween; few guests most of the night but those who came had a great time. Setting up for the week in Tokyo, excitement building with staff and guests. Kitchen: guests came primarily for food. 86 High Life Ponies. No incidents; no-shows not charged."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Sunday 11/1 (AM MOD Maggie H.; PM MOD/Chef Carey; posted 2:08am 11/2)** Net $6,567.42 vs target $8,230 (80%). DC/AM $1,434.38, D&C PM $5,133.04, food $1,740.45, no events, comps $119.40 (1.83%), 146 guests (Tock). Wedding guests hit early morning, then mellowed in the afternoon. Very slow evening with Broncos home game and day after Halloween. Kitchen: super chill night. 86 turmeric ginger. No incidents; no-shows not charged; break make-up complete."
+      "narrative": "**DVR — Sunday 11/1 (AM MOD Maggie H.; PM MOD/Chef Carey; posted 2:08am 11/2)** Net $6,567.42 vs target $8,230 (80%). DC/AM $1,434.38, D&C PM $5,133.04, food $1,740.45, no events, comps $119.40 (1.83%), 146 guests (Tock). Wedding guests hit early morning, then mellowed in the afternoon. Very slow evening with Broncos home game and day after Halloween. Kitchen: super chill night. 86 turmeric ginger. No incidents; no-shows not charged; break make-up complete."
     },
     {
       "id": "ev",
@@ -65,7 +65,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Sunday 11/1 (MOD/Chef Kyler & Michael; entered by Thomas; posted 3:09am 11/2)** Net $3,919 vs target $4,786 (82%). Food $481, beverage $3,458, comps $56.52, 93 guests / $42 avg. Night built for two hours, crested at 9:30, then sharp drop-off; only 12 covers seated after 10pm (post-Halloweekend recovery, NYC Marathon, daylight savings darkness). Tables had 2-3 turns, room felt full despite low covers. 93 covers, 3-4 solos, 1 five-top, 1 investor cocktail. Top sellers: Rosalie, Shinebox, Burner Phone. 1 no-show (party of 3 at 8pm), not charged. Breakage: 1 XL candle votive, 1 sidecar top."
+      "narrative": "**EV — Sunday 11/1 (MOD/Chef Kyler & Michael; entered by Thomas; posted 3:09am 11/2)** Net $3,919 vs target $4,786 (82%). Food $481, beverage $3,458, comps $56.52, 93 guests / $42 avg. Night built for two hours, crested at 9:30, then sharp drop-off; only 12 covers seated after 10pm (post-Halloweekend recovery, NYC Marathon, daylight savings darkness). Tables had 2-3 turns, room felt full despite low covers. 93 covers, 3-4 solos, 1 five-top, 1 investor cocktail. Top sellers: Rosalie, Shinebox, Burner Phone. 1 no-show (party of 3 at 8pm), not charged. Breakage: 1 XL candle votive, 1 sidecar top."
     },
     {
       "id": "la",
@@ -81,23 +81,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Sunday 11/1 (MOD/Chef Julian, Saleh, Angel; entered by Julian Catano; posted 3:35am 11/2)** Net $4,702 vs target $5,570 (84%). Food $932, Standing Room $1,189 (food $12), Marquee $3,758 (food $920), comps $215, 129 guests / $36.45 avg. Started chill, never a full room; several guests came just for standing room and loved the decor (candles, pictures, notes for loved ones); party of 10; industry late. Oven is down (maintenance). 86 black napkins. No incidents; no-shows not charged."
+      "narrative": "**LA — Sunday 11/1 (MOD/Chef Julian, Saleh, Angel; entered by Julian Catano; posted 3:35am 11/2)** Net $4,702 vs target $5,570 (84%). Food $932, Standing Room $1,189 (food $12), Marquee $3,758 (food $920), comps $215, 129 guests / $36.45 avg. Started chill, never a full room; several guests came just for standing room and loved the decor (candles, pictures, notes for loved ones); party of 10; industry late. Oven is down (maintenance). 86 black napkins. No incidents; no-shows not charged."
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 2844.71,
+      "target": 2524.0,
+      "comps": 258.1,
+      "guests": 84,
+      "check_avg": 31.96,
+      "weather": "Nice",
+      "food_sales": 362.0,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
-      "data_source": null,
-      "narrative": "No 11/1 report submitted as of 2026-11-02 run; will retry next pass."
+      "event_sales": 0.0,
+      "missing": false,
+      "data_source": "slack",
+      "narrative": "**DC — Sunday 11/1 (MOD Josh; posted 9:55am 11/2, late submission)** Net (incl. events) $2,844.71 vs target $2,524 (113%). Marquee bar $3,102.81 gross, Garden closed, food $362, comps $258.10 (gifted olives to tables — mixed pitted/unpitted inventory and snacks-only kitchen menu), 84 guests, GCA $31.96 (CA $84.84). Decent start with walk-ins and reservations, slowed ~6pm (used for projects/ABK), steady 2-3 tops from 7:30pm through 9:30pm; normal last call, room cleared ~10:15pm. Solid Sunday that hit its sales target. Kitchen on snacks-only menu. Maintenance: curtains, call Orkin. No incidents; no-shows not charged."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Sunday 11/1 (AM Sam, Lex/Shannon; PM James, Drew; entered by Sam B; posted 1:23am 11/2)** Net $6,035 vs target $8,260 (73%). AM $2,973 (80 guests), PM $2,339 (57 guests), Sun Club $0, Hot Eye $665, food $2,615, comps $325, 137 OpenTable guests. Decent steady Sunday brunch but a foot off the gas vs the prior week; very sleepy evening on a slim crew; Hot Eye never more than 15 people. Kitchen: super slow, no lows or 86s. No incidents."
+      "narrative": "**MG — Sunday 11/1 (AM Sam, Lex/Shannon; PM James, Drew; entered by Sam B; posted 1:23am 11/2)** Net $6,035 vs target $8,260 (73%). AM $2,973 (80 guests), PM $2,339 (57 guests), Sun Club $0, Hot Eye $665, food $2,615, comps $325, 137 OpenTable guests. Decent steady Sunday brunch but a foot off the gas vs the prior week; very sleepy evening on a slim crew; Hot Eye never more than 15 people. Kitchen: super slow, no lows or 86s. No incidents."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Sunday 11/1 (MOD Curtis Hayes; posted 3:25am 11/2)** Net $7,065 vs target $8,362 (84%). Food $956, comps $158 (2.2%), 65 resos / 150 guests, avg guest spend $46.32. Day-after-Halloween hangover: nice pop to start, steady decline to a snoozer end. Team ran the building autonomously, early cuts all around. BOH made pho. No incidents; no-shows charged."
+      "narrative": "**SEA — Sunday 11/1 (MOD Curtis Hayes; posted 3:25am 11/2)** Net $7,065 vs target $8,362 (84%). Food $956, comps $158 (2.2%), 65 resos / 150 guests, avg guest spend $46.32. Day-after-Halloween hangover: nice pop to start, steady decline to a snoozer end. Team ran the building autonomously, early cuts all around. BOH made pho. No incidents; no-shows charged."
     }
   ]
 }
