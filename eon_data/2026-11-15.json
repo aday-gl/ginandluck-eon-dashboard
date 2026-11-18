@@ -17,7 +17,7 @@
       "event_sales": null,
       "missing": true,
       "data_source": "slack",
-      "narrative": "**CCATL \u2014 Sunday 11/15.** Closed Sundays \u2014 dark day, no service."
+      "narrative": "**CCATL — Sunday 11/15.** Closed Sundays — dark day, no service."
     },
     {
       "id": "ccnsh",
@@ -33,7 +33,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**CCNSH \u2014 Sunday 11/15 (MOD KE, Chef JMS; entered by BT; posted 2:00am 11/16)** Net $971 vs target $1,023 (94.9%). Food $30, comps $72.50 (7.4%, mostly industry). 33 guests; check avg $29.42 (net/guests; form $29). A sleepy but OK Sunday with a big industry turnout (Smith & Lentz, Brewhouse, Van Leeuwen, Old Glory, Street Car, Monday Night Brewery, Optimist, bartenders from NC) plus regular/investor Trey. Kitchen smooth with JMS. 86: Ponies. No incident; no-shows not charged. Favorite moment: serving a young guest his first Negroni."
+      "narrative": "**CCNSH — Sunday 11/15 (MOD KE, Chef JMS; entered by BT; posted 2:00am 11/16)** Net $971 vs target $1,023 (94.9%). Food $30, comps $72.50 (7.4%, mostly industry). 33 guests; check avg $29.42 (net/guests; form $29). A sleepy but OK Sunday with a big industry turnout (Smith & Lentz, Brewhouse, Van Leeuwen, Old Glory, Street Car, Monday Night Brewery, Optimist, bartenders from NC) plus regular/investor Trey. Kitchen smooth with JMS. 86: Ponies. No incident; no-shows not charged. Favorite moment: serving a young guest his first Negroni."
     },
     {
       "id": "dvr",
@@ -49,7 +49,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**DVR \u2014 Sunday 11/15 (AM & PM MOD Maggie H; entered by MJH; posted 1:33am 11/16)** Net $7,797.11 vs target $7,264 (107.3%, +$533); no events (event fields NA, so total net = 'Total Net Sales'). AM/DC $1,356.50, PM D&C $6,440.61. Food $2,104.80; comps $315.45 (4.0%). 208 Tock guests; check avg $37.49 (net/guests). AM: much-needed chill day after Saturday, one small pop; low on Fetco filters and cold cup lids. PM: steady night, a few unexpected 86s from selling more than usual. Kitchen: good night; low on cherry vermouth jam, chicken thigh brine, kiwi ponzu, 8oz burger, tarragon onion jam, mixed mushrooms; 911 cola onion, agnolotti, cherry vermouth reduction. Nikka team in ahead of an event Monday. No incident; no-shows not charged."
+      "narrative": "**DVR — Sunday 11/15 (AM & PM MOD Maggie H; entered by MJH; posted 1:33am 11/16)** Net $7,797.11 vs target $7,264 (107.3%, +$533); no events (event fields NA, so total net = 'Total Net Sales'). AM/DC $1,356.50, PM D&C $6,440.61. Food $2,104.80; comps $315.45 (4.0%). 208 Tock guests; check avg $37.49 (net/guests). AM: much-needed chill day after Saturday, one small pop; low on Fetco filters and cold cup lids. PM: steady night, a few unexpected 86s from selling more than usual. Kitchen: good night; low on cherry vermouth jam, chicken thigh brine, kiwi ponzu, 8oz burger, tarragon onion jam, mixed mushrooms; 911 cola onion, agnolotti, cherry vermouth reduction. Nikka team in ahead of an event Monday. No incident; no-shows not charged."
     },
     {
       "id": "ev",
@@ -65,7 +65,7 @@
       "event_sales": null,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**EV \u2014 Sunday 11/15 (MOD Kyler, Chef Michael; entered by Thomas; posted 3:55am 11/16)** Net $5,405 vs target $4,598 (117.6%). Food $649, beverage $4,756; no events. Comps $66.88 (1.2%). 140 covers (Sevenrooms); check avg $38.61 (net/guests; form $39). Heavy books at open, room mostly full by 6:30, short waitlist 7:30\u20138:30, then 'fairly full but not crazy'. 5 investor cocktails, 4 large parties, 3 solos; lots of short bar-tour visits. Member Sean Cooper stopped by. Top sellers: Crowd Work, Peacemaker, High Plains Drifter. Kitchen: strong push first 90 minutes. 1 no-show (not charged). Breakage: coupe & shot glass."
+      "narrative": "**EV — Sunday 11/15 (MOD Kyler, Chef Michael; entered by Thomas; posted 3:55am 11/16)** Net $5,405 vs target $4,598 (117.6%). Food $649, beverage $4,756; no events. Comps $66.88 (1.2%). 140 covers (Sevenrooms); check avg $38.61 (net/guests; form $39). Heavy books at open, room mostly full by 6:30, short waitlist 7:30–8:30, then 'fairly full but not crazy'. 5 investor cocktails, 4 large parties, 3 solos; lots of short bar-tour visits. Member Sean Cooper stopped by. Top sellers: Crowd Work, Peacemaker, High Plains Drifter. Kitchen: strong push first 90 minutes. 1 no-show (not charged). Breakage: coupe & shot glass."
     },
     {
       "id": "la",
@@ -81,23 +81,23 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**LA \u2014 Sunday 11/15 (MOD Julian, Chef Angel; entered by Julian Catano; posted 3:36am ET 11/16)** Net $4,193 vs target $5,080 (82.5%). All Marquee ($4,193; Standing Room $0). Food $658; comps $138 (3.3%; DNLs, gifts, F&F). 113 guests; check avg $37.11. Quiet start, then full bar and tables with a waitlist a few hours in. Several guests turned away for no physical ID or arriving intoxicated. One server on the floor with management/host help; new bartender jumped behind the stick to train. Maintenance: Standing Room mirror tagged. 86: Contrabandista, desserts, Tito's. No incident; no-shows charged."
+      "narrative": "**LA — Sunday 11/15 (MOD Julian, Chef Angel; entered by Julian Catano; posted 3:36am ET 11/16)** Net $4,193 vs target $5,080 (82.5%). All Marquee ($4,193; Standing Room $0). Food $658; comps $138 (3.3%; DNLs, gifts, F&F). 113 guests; check avg $37.11. Quiet start, then full bar and tables with a waitlist a few hours in. Several guests turned away for no physical ID or arriving intoxicated. One server on the floor with management/host help; new bartender jumped behind the stick to train. Maintenance: Standing Room mirror tagged. 86: Contrabandista, desserts, Tito's. No incident; no-shows charged."
     },
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
+      "net_sales": 7836.8,
+      "target": 2205.0,
       "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
+      "guests": 42,
+      "check_avg": 186.59,
+      "weather": "Winter is coming",
       "food_sales": null,
       "beverage_sales": null,
-      "event_sales": null,
-      "missing": true,
+      "event_sales": 7836.8,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**DC \u2014 Sunday 11/15.** No report submitted as of 7:57am ET Mon 11/16; will retry next pass."
+      "narrative": "**DC — Sunday 11/15 (MOD Josh / Alex; entered by Alex H.; posted 12:57pm ET 11/16)** Closed for a private event — net $7,836.80 (form 'Total Net Sales Including Events', all event sales) vs target $2,205 (355.4%). Marquee bar, Garden and kitchen closed to the public; food and comps reported n/a. 42 guests; check avg $186.59 (net/guests; form n/a). Event at 124 ran smoothly overall: slight mix-up on start time, with some guests arriving closer to 4pm than the scheduled 5pm — they settled in the Garden while the team finished setup; doors officially opened at 5pm with food and cocktails on arrival. Programming centered on lectures and seminars, with guests stepping away periodically for drinks and snacks; manageable for the team, minimal hiccups. Went well: comms, event. Do better: event communication. Kitchen close not checked. No incidents; no-shows not charged. Maintenance: curtains."
     },
     {
       "id": "mg",
@@ -113,7 +113,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**MG \u2014 Sunday 11/15 (AM James & Marcus; PM James / Catie & Shannon; entered by Alexis; posted 2:33am 11/16)** Net $7,719 vs target $9,184 (84.0%). Morning bar $3,246, evening bar $5,050, Hot Eye $1,071, Sun Club closed. Food $2,991; comps $308 (4.0%). Guests 111 (76 AM + 35 PM OpenTable); check avg $69.54 (net/guests). Busy, fun brunch from ~11am with a 1:15 food tour; Tia solo serving. Steady Sunday evening with a ~7pm dinner pop, birthdays, hotel guests. Hot Eye slow \u2014 9pm bar crawl, then service-industry nightcaps; slow close while training Catie and Sam on EON drops. No incident."
+      "narrative": "**MG — Sunday 11/15 (AM James & Marcus; PM James / Catie & Shannon; entered by Alexis; posted 2:33am 11/16)** Net $7,719 vs target $9,184 (84.0%). Morning bar $3,246, evening bar $5,050, Hot Eye $1,071, Sun Club closed. Food $2,991; comps $308 (4.0%). Guests 111 (76 AM + 35 PM OpenTable); check avg $69.54 (net/guests). Busy, fun brunch from ~11am with a 1:15 food tour; Tia solo serving. Steady Sunday evening with a ~7pm dinner pop, birthdays, hotel guests. Hot Eye slow — 9pm bar crawl, then service-industry nightcaps; slow close while training Catie and Sam on EON drops. No incident."
     },
     {
       "id": "sea",
@@ -129,7 +129,7 @@
       "event_sales": 0.0,
       "missing": false,
       "data_source": "slack",
-      "narrative": "**SEA \u2014 Sunday 11/15 (MOD Curtis Hayes; entered by Alexis, monitored by Curtis; posted 2:38am ET 11/16)** Net $5,763 vs target $7,871 (73.2%). Food $930; no events. Comps $177.42 (3%; surprise & delights for anniversaries/birthdays). 121 guests; check avg $47.62. Heavier-than-usual rain hurt walk-ins despite door efforts; good first seating at open, floor and bar smooth, out-of-town industry in. Kitchen ran with one cook and nearly did $1K food. Early cuts on floor and bar. Nothing 86'd; no incident; no-shows not charged."
+      "narrative": "**SEA — Sunday 11/15 (MOD Curtis Hayes; entered by Alexis, monitored by Curtis; posted 2:38am ET 11/16)** Net $5,763 vs target $7,871 (73.2%). Food $930; no events. Comps $177.42 (3%; surprise & delights for anniversaries/birthdays). 121 guests; check avg $47.62. Heavier-than-usual rain hurt walk-ins despite door efforts; good first seating at open, floor and bar smooth, out-of-town industry in. Kitchen ran with one cook and nearly did $1K food. Early cuts on floor and bar. Nothing 86'd; no incident; no-shows not charged."
     }
   ]
 }
