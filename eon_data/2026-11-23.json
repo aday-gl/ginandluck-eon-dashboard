@@ -86,18 +86,18 @@
     {
       "id": "dc",
       "name": "D&C Washington DC",
-      "net_sales": null,
-      "target": null,
-      "comps": null,
-      "guests": null,
-      "check_avg": null,
-      "weather": null,
-      "food_sales": null,
+      "net_sales": 2894.85,
+      "target": 6913.0,
+      "comps": 73.2,
+      "guests": 67,
+      "check_avg": 41.36,
+      "weather": "Light rain",
+      "food_sales": 368.0,
       "beverage_sales": null,
       "event_sales": null,
-      "missing": true,
+      "missing": false,
       "data_source": "slack",
-      "narrative": "**DC — Monday 11/23.** No report submitted as of 7:11am ET 11/24; will retry next pass."
+      "narrative": "**DC — Monday 11/23 (MOD Josh; entered by Josh; posted 10:10am ET 11/24)** Net $2,894.85 incl. events vs target $6,913 (41.9%). Marquee bar $2,968.05; Garden closed; total sales $2,968.05. Food $368.00. Comps $73.20 (2.5%); voids $60.00. 67 guests; guest check avg $41.36 and check avg $117.94 as reported. D&C: service started with a few small tables and a mid-shift lull. Business picked up heavily around 8:00pm when several large 3-4 person walk-in groups were seated, and that momentum carried through to last call. With the floor short one server, the team consolidated to a single well and moved a bartender to the floor to cover tables, while the MOD assisted with barback duties and pass. The rush was demanding but the team stayed composed and communicated well, especially toward end of night when a table had to be cut off. Overall, a decent Monday. Kitchen: light evening with minimal tickets throughout service; oysters remained 86'd due to a missing shucking knife — a replacement has been ordered and is expected tomorrow, so oysters should be back once it's in hand. Kitchen close not checked. Went well: comms. Do better: be prepared, clean as you go. No incidents; no-shows not charged; no-show revenue $0. Maintenance: curtains. Highlight: batching for the new menu."
     },
     {
       "id": "mg",
